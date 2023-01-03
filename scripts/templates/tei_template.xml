@@ -96,8 +96,12 @@
          <change who="pandorfer" when="{{ current_date }}">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
-   {{ facsimile|safe}}
+   <facsimile>
+      {{ facsimile|safe}}
+   </facsimile>
    <text type="letter">
-   {{ body_string|safe }}
+      <body>
+         {{ body_string|safe }}
+      </body>
    </text>
 </TEI>
