@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="kasten_blau_44_8_134.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">nan, nan am nan</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>nan</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno></idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">58705</idno>
+                  <idno type="transkribus-doc-id">565905</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+         <ab type="notes">außer: "sambt zwey beylagen" (wohl die beiden Drittbriefe 74 r und 75 r)</ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="und">noch nicht bestimmt</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#">nan</persName>
+               <placeName ref="#"></placeName>
+               <date ></date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#">nan</persName>
+                <placeName ref="#"></placeName>
+                <date></date>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="1808" lry="2698" ulx="0" uly="0" xml:id="facs_136">
+         <graphic height="2698px" url="Kasten_blau_44_8_0136.jpg" width="1808px"/>
+         <graphic height="2698px" url="" width="1808px"/>
+         <zone points="510,61 510,2578 1178,2578 1178,61" rendition="TextRegion" xml:id="facs_136_r1">
+            <zone points="505,175 674,195 789,160 919,189 955,164 1037,189 1183,156 1156,130 504,155" rendition="Line" xml:id="facs_136_r1l1"/>
+            <zone points="830,2541 851,2548 867,2532 883,2537 898,2528 932,2530 923,2466 889,2466 874,2473 859,2464 846,2470 820,2468" rendition="Line" xml:id="facs_136_r1l2"/></zone>
+         <zone points="1083,2524 1083,2584 1150,2584 1150,2524" rendition="TextRegion" xml:id="facs_136_r2">
+            <zone points="1077,2552 1100,2553 1106,2561 1118,2560 1126,2554 1131,2559 1140,2558 1142,2561 1147,2561 1153,2527 1147,2527 1144,2522 1133,2520 1109,2519 1095,2522 1082,2520" rendition="Line" xml:id="facs_136_r2l1"/>
+            <zone points="1117,2581 1122,2579 1131,2579 1134,2581 1153,2581 1154,2579 1160,2577 1151,2551 1139,2556 1133,2553 1126,2555 1114,2553 1108,2555" rendition="Line" xml:id="facs_136_r2l2"/></zone>
+         <zone points="1458,2511 1458,2572 1506,2572 1506,2511" rendition="TextRegion" xml:id="facs_136_r3">
+            <zone points="1453,2534 1460,2535 1466,2532 1470,2535 1478,2532 1501,2543 1510,2541 1513,2514 1497,2514 1491,2519 1486,2519 1480,2512 1474,2512 1468,2507 1465,2509 1455,2507" rendition="Line" xml:id="facs_136_r3l1"/>
+            <zone points="1497,2568 1499,2564 1500,2564 1500,2561 1505,2559 1505,2557 1506,2557 1505,2550 1508,2546 1492,2536 1489,2541 1486,2542 1487,2544 1485,2546 1483,2546 1483,2549 1484,2550 1480,2556" rendition="Line" xml:id="facs_136_r3l2"/></zone>
+         <zone points="1517,2241 1517,2468 1567,2468 1567,2241" rendition="TextRegion" xml:id="facs_136_r4">
+            <zone points="1504,2347 1512,2359 1522,2361 1526,2373 1538,2374 1538,2379 1550,2385 1554,2401 1565,2408 1570,2419 1596,2399 1575,2379 1576,2364 1567,2364 1567,2356 1556,2355 1549,2349 1549,2340 1539,2331 1534,2319" rendition="Line" xml:id="facs_136_r4l1"/></zone>
+      </surface>
+      
+
+   </facsimile>
+   <text type="letter">
+      <body>
+         <pb facs="#facs_136" n="136" xml:id="img_0136"/>
+
+<ab facs="#facs_136_r1" >
+               <lb facs="#facs_136_r1l1" n="N001"/>uo gr es sein
+               <lb facs="#facs_136_r1l2" n="N002"/>u
+            </ab>
+<ab facs="#facs_136_r2" >
+               <lb facs="#facs_136_r2l1" n="N001"/>oma
+               <lb facs="#facs_136_r2l2" n="N002"/>erben
+            </ab>
+<ab facs="#facs_136_r3" >
+               <lb facs="#facs_136_r3l1" n="N001"/>ar. May
+               <lb facs="#facs_136_r3l2" n="N002"/>uer
+            </ab>
+<ab facs="#facs_136_r4" >
+               <lb facs="#facs_136_r4l1" n="N001"/>ue
+            </ab>
+
+      </body>
+   </text>
+</TEI>

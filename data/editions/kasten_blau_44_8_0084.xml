@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="kasten_blau_44_8_0084.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Johann Wilhelm von Pfalz-Neuburg, Wien am 1701.02.02</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno></idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate when-iso="1701-02-02"></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">58705</idno>
+                  <idno type="transkribus-doc-id">565905</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#emt_place_id__63">Wien</placeName>
+               <date  when-iso="1701-02-02"></date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"></placeName>
+                <date></date>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="1702" lry="2495" ulx="0" uly="0" xml:id="facs_84">
+         <graphic height="2495px" url="Kasten_blau_44_8_0084.jpg" width="1702px"/>
+         <graphic height="2495px" url="" width="1702px"/>
+         <zone points="174,106 174,2372 1656,2357 1656,91" rendition="TextRegion" xml:id="facs_84_r2">
+            <zone points="392,901 550,953 641,920 810,950 987,891 1100,945 1196,897 1599,915 1599,828 1387,835 1217,771 1112,805 562,780 392,860" rendition="Line" xml:id="facs_84_r2l2"/>
+            <zone points="234,1062 361,1016 558,1019 669,1079 759,1019 843,1066 949,1014 1134,1063 1381,1017 1560,1040 1559,952 1467,928 1249,922 1135,977 1048,911 803,973 642,920 428,988 345,931 233,956" rendition="Line" xml:id="facs_84_r2l3"/>
+            <zone points="281,1041 404,1024 1398,1024 1603,1053 1603,1154 1552,1168 215,1196 205,1076" rendition="Line" xml:id="facs_84_line_1610117976448_21"/>
+            <zone points="216,1272 817,1274 952,1210 1134,1254 1386,1227 1444,1275 1504,1249 1502,1143 1173,1122 1092,1163 971,1119 762,1203 466,1148 214,1195" rendition="Line" xml:id="facs_84_r2l7"/>
+            <zone points="215,1411 394,1369 1569,1360 1567,1266 1503,1239 1309,1290 1024,1216 875,1292 501,1249 213,1311" rendition="Line" xml:id="facs_84_r2l8"/>
+            <zone points="441,1372 778,1361 1198,1370 1525,1378 1545,1501 367,1513 197,1510 182,1398" rendition="Line" xml:id="facs_84_line_1610118068552_27"/>
+            <zone points="408,1485 789,1478 1498,1487 1497,1615 1482,1622 362,1621 205,1582 205,1541" rendition="Line" xml:id="facs_84_line_1610118163080_35"/>
+            <zone points="189,1618 387,1609 1069,1593 1501,1645 1502,1725 1100,1758 797,1763 334,1717 180,1719" rendition="Line" xml:id="facs_84_line_1610118240010_39"/>
+            <zone points="432,1834 549,1834 549,1784 432,1784" rendition="Line" xml:id="facs_84_line_1610118455420_64"/>
+            <zone points="984,1880 1184,1869 1326,1868 1356,1874 1372,1881 1373,1976 1350,1979 1256,1989 981,1964 1000,1904" rendition="Line" xml:id="facs_84_line_1610118340322_48"/>
+            <zone points="1085,2062 1172,2072 1225,2045 1300,2035 1328,2046 1341,2035 1384,2034 1383,2011 1272,1984 1246,1992 1209,1960 1194,1964 1174,1950 1157,1966 1082,1990" rendition="Line" xml:id="facs_84_r2l20"/>
+            <zone points="162,1949 616,1949 616,1881 162,1881" rendition="Line" xml:id="facs_84_line_1610118591697_78"/></zone>
+      </surface>
+      
+
+   </facsimile>
+   <text type="letter">
+      <body>
+         <pb facs="#facs_84" n="84" xml:id="img_0084"/>
+
+<ab facs="#facs_84_r2" >
+               <lb facs="#facs_84_r2l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_84_r2l3" n="N002"/>Hab nit vnterlasen wollen, mit diser gelegenheit des
+               <lb facs="#facs_84_line_1610117976448_21" n="N003"/><choice><expan>Graven</expan><abbr>G</abbr></choice> Schlik, welcher dero Liebden schon wi<supplied >r</supplied>t berichten, was vohr vericht<supplied >ung</supplied>
+               <lb facs="#facs_84_r2l7" n="N004"/>er von ihr Mayestät, mein Keiser, in befehl hatt, <supplied >zu schreiben</supplied>. Ich
+               <lb facs="#facs_84_r2l8" n="N005"/>hoffe vndt wüntsche ein gutten effect seins negotium,
+               <lb facs="#facs_84_line_1610118068552_27" n="N006"/>dan iah dem Curfürsten ein mahl die augen werden
+               <lb facs="#facs_84_line_1610118163080_35" n="N007"/>aufgehen müeßen. Due mich im üb<supplied >ri</supplied>gen auf ihne
+               <lb facs="#facs_84_line_1610118240010_39" n="N008"/>b<supplied >e</supplied>ziehen, dero Liebden nit so lang zu bemühen, vndt werde st<supplied >er</supplied>ben
+               <lb facs="#facs_84_line_1610118455420_64" n="N009"/>dero Liebden
+               <lb facs="#facs_84_line_1610118340322_48" n="N010"/>g<supplied >e</supplied>tr<supplied >ew</supplied>ste sch<supplied >w</supplied>ester
+               <lb facs="#facs_84_r2l20" n="N011"/>Eleonora
+               <lb facs="#facs_84_line_1610118591697_78" n="N012"/>Wien den 2 <choice><expan>feber</expan><abbr>feb</abbr></choice> 1701
+            </ab>
+
+      </body>
+   </text>
+</TEI>

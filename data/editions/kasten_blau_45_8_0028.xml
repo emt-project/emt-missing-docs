@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xml:id="kasten_blau_45_8_0028.xml"
+   xml:base="https://id.acdh.oeaw.ac.at/emt">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Eleonora Magdalena von Pfalz-Neuburg an Philipp Wilhelm von Pfalz-Neuburg, o.O. am o.D.</title>
+            <title type="sub">Familiensache. Dynastische Handlungsspielräume in der Korrespondenz von Kaiserin Eleonora Magdalena von Pfalz-Neuburg (1655-1720)</title>
+            <author>Eleonora Magdalena von Pfalz-Neuburg</author>
+            <editor>
+               <name>Katrin Keller</name>
+            </editor>
+            <funder>
+               <name>FWF - Der Wissenschaftsfonds</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>A</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>EMT</edition>
+            <respStmt>
+               <resp>Transkription und Annotation</resp>
+               <name>N. N.</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>INSTITUT FÜR DIE ERFORSCHUNG DER HABSBURGERMONARCHIE UND DES BALKANRAUMES</publisher>
+            <pubPlace>Vienna</pubPlace>
+            <date when="2023">2023</date>
+            <availability>
+               <licence>
+                  <p>copyright</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness n="1">
+                  <msDesc>
+                     <msIdentifier>
+                        <country>Deutschland</country>
+                        <settlement>München</settlement>
+                        <repository>Bayerisches Hauptstaatsarchiv</repository>
+                        
+                        <idno></idno>
+                     </msIdentifier>
+                     <history>
+                        <origin><origDate></origDate></origin>
+                     </history>
+                  </msDesc>
+               </witness>
+               <witness n="2">
+                  <idno type="transkribus-col-id">58705</idno>
+                  <idno type="transkribus-doc-id">402711</idno>
+               </witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <abstract>
+          <ab type="abstract-terms">
+            <term>Ausfertigung</term>
+            <term>eigenhändig</term>
+         </ab>
+         <ab type="notes">kein Archivvermerk, spontaner Gruß, weil xy von Wallerstein auf Weg nach England in Düsseldorf vorbeikommen wird. Keine Beilage erwähnt, Brief wäre aber als Beizettel plausibel -- vielleicht zum Folgebrief 49 r-v, der ja auch o.D. ist. Liegt zwischen 1677.04.29-1677.05.04</ab>
+        </abstract>
+        <abstract n="regest">
+            <p/>
+         </abstract>
+         <langUsage>
+            <language ident="deu">deutsch</language>
+         </langUsage>
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
+               <placeName ref="#">o.O.</placeName>
+               <date ></date>
+            </correspAction>
+            <correspAction type="received">
+                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
+                <placeName ref="#"></placeName>
+                <date></date>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+      <revisionDesc status="draft">
+         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_28">
+         <graphic height="2406px" url="Kasten_blau_45_8_0028.jpg" width="1644px"/>
+         <graphic height="2406px" url="" width="1644px"/>
+         <zone points="281,480 281,1926 1589,1926 1589,480" rendition="TextRegion" xml:id="facs_28_r1">
+            <zone points="446,524 628,536 699,582 991,535 1505,575 1589,558 1590,504 1443,459 1220,488 1075,428 1009,469 930,433 850,486 732,444 446,493" rendition="Line" xml:id="facs_28_r1l1"/>
+            <zone points="380,673 521,624 622,672 724,619 799,664 1007,632 1150,686 1252,642 1520,656 1575,641 1577,577 1433,602 1121,563 1048,599 804,546 700,580 384,508" rendition="Line" xml:id="facs_28_r1l2"/>
+            <zone points="361,725 534,698 698,742 821,714 941,775 1214,728 1314,766 1475,707 1477,632 1152,689 1062,649 868,670 832,636 748,686 591,677 521,622 362,668" rendition="Line" xml:id="facs_28_r1l3"/>
+            <zone points="341,800 460,851 542,801 1106,826 1190,878 1270,833 1356,865 1571,827 1573,766 953,786 588,705 343,726" rendition="Line" xml:id="facs_28_r1l4"/>
+            <zone points="304,898 512,876 629,940 833,904 1058,968 1333,927 1455,965 1477,856 1125,892 998,824 806,801 569,816 505,858 307,800" rendition="Line" xml:id="facs_28_r1l5"/>
+            <zone points="324,1012 526,983 1379,1037 1482,990 1154,996 972,942 798,980 327,908" rendition="Line" xml:id="facs_28_r1l6"/>
+            <zone points="293,1099 551,1071 769,1100 847,1155 1000,1106 1528,1141 1565,1133 1568,1048 1121,1087 526,989 455,1035 297,961" rendition="Line" xml:id="facs_28_r1l7"/>
+            <zone points="286,1130 812,1083 1434,1106 1546,1116 1546,1184 1422,1210 1202,1216 1014,1217 733,1206 285,1182" rendition="Line" xml:id="facs_28_line_1591514661829_23"/>
+            <zone points="281,1173 606,1166 1301,1198 1439,1206 1566,1223 1566,1317 1508,1338 1285,1337 893,1333 279,1315" rendition="Line" xml:id="facs_28_line_1591514731651_28"/>
+            <zone points="298,1261 1428,1302 1560,1324 1559,1373 1438,1396 1105,1427 912,1422 479,1388 292,1370 278,1274" rendition="Line" xml:id="facs_28_line_1591514772257_36"/>
+            <zone points="273,1449 322,1443 348,1457 456,1441 501,1458 594,1438 670,1458 674,1384 531,1417 397,1358 327,1396 275,1394" rendition="Line" xml:id="facs_28_r1l17"/>
+            <zone points="555,1566 570,1572 580,1568 613,1581 630,1565 649,1561 658,1570 665,1566 680,1575 776,1575 774,1533 684,1535 667,1531 660,1537 643,1537 629,1526 615,1535 596,1533 573,1520 566,1527 555,1525" rendition="Line" xml:id="facs_28_r1l18"/>
+            <zone points="968,1727 1055,1727 1089,1759 1193,1723 1228,1741 1371,1720 1472,1777 1596,1793 1599,1624 1388,1647 1299,1617 1125,1665 970,1651" rendition="Line" xml:id="facs_28_r1l19"/>
+            <zone points="952,1829 1172,1849 1214,1821 1313,1798 1456,1807 1455,1750 1371,1720 1293,1742 1247,1730 1218,1741 1194,1724 1111,1760 1084,1759 1049,1728 951,1721" rendition="Line" xml:id="facs_28_r1l21"/>
+            <zone points="925,1936 935,1936 965,1961 974,1951 1223,1937 1224,1845 971,1840 957,1849 943,1842 940,1845 925,1843" rendition="Line" xml:id="facs_28_r1l23"/></zone>
+      </surface>
+      
+
+   </facsimile>
+   <text type="letter">
+      <body>
+         <pb facs="#facs_28" n="28" xml:id="img_0028"/>
+
+<ab facs="#facs_28_r1" >
+               <lb facs="#facs_28_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
+               <lb facs="#facs_28_r1l2" n="N002"/>Durch dieser gelegengeit, in dem ihr <rs type="person">Mayestät</rs>, mein <choice><expan>allergnädigster</expan><abbr>allerg</abbr></choice>
+               <lb facs="#facs_28_r1l3" n="N003"/>herr, den <rs type="person">Grauen von Wallenstein</rs> nacher <rs type="place">Engelant</rs>
+               <lb facs="#facs_28_r1l4" n="N004"/>abgefertigt vndt er die <choice><expan>gnade</expan><abbr>g</abbr></choice> wirt haben, ihr Durchlaucht
+               <lb facs="#facs_28_r1l5" n="N005"/>zu <rs type="place">Düßeldorf</rs> vnterdehnig auf zu warten,
+               <lb facs="#facs_28_r1l6" n="N006"/>hab ich <seg type="blackening">nach</seg> meinem verlangen gemes meine
+               <lb facs="#facs_28_r1l7" n="N007"/>schuldigkeit wollen ab legen vndt nach dero wohlergehn
+               <lb facs="#facs_28_line_1591514661829_23" n="N008"/>zu vernemen. Bitte, das ihr Durchlaucht mich verners in
+               <lb facs="#facs_28_line_1591514731651_28" n="N009"/>dero beharligen vatterligen affection erhalten wollen,
+               <lb facs="#facs_28_line_1591514772257_36" n="N010"/>die ich mit hö<supplied >ch</supplied>stem eifer bis ins grabe mich
+               <lb facs="#facs_28_r1l17" n="N011"/>werde nennen
+               <lb facs="#facs_28_r1l18" n="N012"/>ewer Durchlaucht
+               <lb facs="#facs_28_r1l19" n="N013"/>ganz ergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_28_r1l21" n="N014"/>dochter bis in doht
+               <lb facs="#facs_28_r1l23" n="N015"/>EMT
+            </ab>
+
+      </body>
+   </text>
+</TEI>
