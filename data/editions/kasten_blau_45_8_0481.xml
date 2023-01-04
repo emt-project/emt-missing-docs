@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0481.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0481.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-11-07"></origDate></origin>
+                        <origin><origDate when-iso="1681-11-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-11-07"></date>
+               <date when-iso="1681-11-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2541" ulx="0" uly="0" xml:id="facs_480">
          <graphic height="2541px" url="Kasten_blau_45_8_0481.jpg" width="1664px"/>
-         <graphic height="2541px" url="" width="1664px"/>
          <zone points="82,401 82,2460 1604,2460 1604,401" rendition="TextRegion" xml:id="facs_480_r1">
             <zone points="388,472 444,469 500,467 557,465 613,464 669,463 726,462 782,461 838,461 895,461 951,461 1007,461 1064,462 1120,462 1176,462 1233,462 1289,463 1345,463 1402,462 1458,462 1515,461 1515,401 1458,402 1402,402 1345,403 1289,403 1233,402 1176,402 1120,402 1064,402 1007,401 951,401 895,401 838,401 782,401 726,402 669,403 613,404 557,405 500,407 444,409 388,412" rendition="Line" xml:id="facs_480_r1l1"/>
             <zone points="247,548 312,548 378,547 443,547 509,546 575,546 640,545 706,545 771,544 837,544 903,543 968,543 1034,543 1099,543 1165,544 1230,544 1296,545 1362,546 1427,548 1493,551 1559,553 1559,519 1493,517 1427,514 1362,512 1296,511 1230,510 1165,510 1099,509 1034,509 968,509 903,509 837,510 771,510 706,511 640,511 575,512 509,512 443,513 378,513 312,514 247,514" rendition="Line" xml:id="facs_480_r1l2"/>
@@ -127,11 +122,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_480" n="480" xml:id="img_0480"/>
-
-<ab facs="#facs_480_r1" >
+         <pb facs="#facs_480" n="287 r" xml:id="Kasten_blau_45_8_0481.jpg"/>
+<ab facs="#facs_480_r1">
                <lb facs="#facs_480_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_480_r1l2" n="N002"/>Mitt der gelegen<supplied >heit</supplied> das der <rs type="person">Hermenstein</rs> hinauf reiset, hab
+               <lb facs="#facs_480_r1l2" n="N002"/>Mitt der gelegen<supplied>heit</supplied> das der <rs type="person">Hermenstein</rs> hinauf reiset, hab
                <lb facs="#facs_480_r1l4" n="N003"/>ich nit vnterlaßen können, ewer Durchlaucht mit dißen zeilen
                <lb facs="#facs_480_r1l5" n="N004"/><choice><expan>vnterdehnigst</expan><abbr>vnd</abbr></choice> auf zue warten, verhoffendt, das sich dieselbe
                <lb facs="#facs_480_r1l6" n="N005"/>in guttem wohlstandt befinden werden. Sag nochmahlen
@@ -143,11 +137,11 @@
                <lb facs="#facs_480_r1l17" n="N011"/>laße mich in allem auf ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice>, in welche
                <lb facs="#facs_480_line_1623071848143_1612" n="N012"/>ich mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> befehle, die ich sterben werde
                <lb facs="#facs_480_r1l20" n="N013"/>ewer Durchlaucht
-               <lb facs="#facs_480_line_1623071857831_1620" n="N014"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_480_line_1623071857831_1620" n="N014"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_480_r1l30" n="N015"/>dochter
                <lb facs="#facs_480_line_1623071867222_1627" n="N016"/>EMT
                <lb facs="#facs_480_r1l21" n="N017"/><rs type="place">Edenburg</rs> den <date month="11" day="7" year="1681">7ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
-               <lb facs="#facs_480_line_1623071852668_1616" n="N018"/>Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, <supplied >sie</supplied> wollen die
+               <lb facs="#facs_480_line_1623071852668_1616" n="N018"/>Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice>, <supplied>sie</supplied> wollen die
                <lb facs="#facs_480_line_1623071872559_1631" n="N019"/>schantlige cartera, die blabe, ihr
                <lb facs="#facs_480_line_1623071876608_1635" n="N020"/>Durchlaucht meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> zuestellen,
                <lb facs="#facs_480_line_1623071879912_1639" n="N021"/>damit, in deme sie es von ewer Durchlaucht handen empfanget,

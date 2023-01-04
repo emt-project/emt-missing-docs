@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0398.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0398.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-03-22"></origDate></origin>
+                        <origin><origDate when-iso="1681-03-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1681-03-22"></date>
+               <date when-iso="1681-03-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_397">
          <graphic height="2509px" url="Kasten_blau_45_8_0398.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="123,429 123,2421 1586,2421 1586,429" rendition="TextRegion" xml:id="facs_397_r1">
             <zone points="319,506 377,504 436,502 495,500 554,499 613,498 672,497 731,496 790,496 849,496 908,497 966,497 1025,498 1084,499 1143,501 1202,502 1261,505 1320,507 1379,510 1438,513 1497,515 1497,448 1438,446 1379,443 1320,440 1261,438 1202,435 1143,434 1084,432 1025,431 966,430 908,430 849,429 790,429 731,429 672,430 613,431 554,432 495,433 436,435 377,437 319,439" rendition="Line" xml:id="facs_397_r1l1"/>
             <zone points="268,610 332,604 396,599 460,595 525,592 589,590 653,588 717,587 782,587 846,587 910,588 974,589 1039,591 1103,593 1167,595 1231,598 1296,601 1360,603 1424,606 1488,610 1553,612 1553,545 1488,543 1424,539 1360,536 1296,534 1231,531 1167,528 1103,526 1039,524 974,522 910,521 846,520 782,520 717,520 653,521 589,523 525,525 460,528 396,532 332,537 268,543" rendition="Line" xml:id="facs_397_r1l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_398">
          <graphic height="2509px" url="Kasten_blau_45_8_0399.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="141,322 141,2400 1550,2400 1550,322" rendition="TextRegion" xml:id="facs_398_r1">
             <zone points="228,389 292,390 356,391 420,391 485,390 549,390 613,388 678,387 742,385 806,384 871,381 935,380 999,378 1063,377 1128,376 1192,375 1256,374 1321,375 1385,375 1449,377 1514,379 1514,327 1449,325 1385,323 1321,323 1256,322 1192,323 1128,324 1063,325 999,326 935,328 871,329 806,332 742,333 678,335 613,336 549,338 485,338 420,339 356,339 292,338 228,337" rendition="Line" xml:id="facs_398_r1l1"/>
             <zone points="203,472 269,473 336,473 402,472 469,471 536,470 602,469 669,468 736,467 802,466 869,464 936,463 1002,462 1069,461 1136,461 1202,460 1269,461 1336,461 1402,462 1469,463 1536,466 1536,414 1469,411 1402,410 1336,409 1269,409 1202,408 1136,409 1069,409 1002,410 936,411 869,412 802,414 736,415 669,416 602,417 536,418 469,419 402,420 336,421 269,421 203,420" rendition="Line" xml:id="facs_398_r1l2"/>
@@ -154,7 +148,6 @@
       
 <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_399">
          <graphic height="2509px" url="Kasten_blau_45_8_0400.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="187,323 187,2360 1557,2360 1557,323" rendition="TextRegion" xml:id="facs_399_r1">
             <zone points="210,392 274,399 339,404 403,409 468,413 532,417 597,420 661,422 726,424 790,426 855,427 920,428 984,429 1049,430 1113,431 1178,433 1242,434 1307,436 1371,438 1436,441 1501,444 1501,375 1436,372 1371,369 1307,367 1242,365 1178,364 1113,362 1049,361 984,360 920,359 855,358 790,357 726,355 661,353 597,351 532,348 468,344 403,340 339,335 274,330 210,323" rendition="Line" xml:id="facs_399_r1l1"/>
             <zone points="202,496 268,498 334,501 401,504 467,507 534,510 600,512 667,515 733,517 800,519 866,521 932,522 999,524 1065,525 1132,526 1198,526 1265,527 1331,526 1398,526 1464,525 1531,524 1531,460 1464,461 1398,462 1331,462 1265,463 1198,462 1132,462 1065,461 999,460 932,458 866,457 800,455 733,453 667,451 600,448 534,446 467,443 401,440 334,437 268,434 202,432" rendition="Line" xml:id="facs_399_r1l2"/>
@@ -171,15 +164,14 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_397" n="397" xml:id="img_0397"/>
-
-<ab facs="#facs_397_r1" >
+         <pb facs="#facs_397" n="238 r" xml:id="Kasten_blau_45_8_0398.jpg"/>
+<ab facs="#facs_397_r1">
                <lb facs="#facs_397_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_397_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="3" day="15" year="1681">15 dis</date> hab mit schuldigem respet
                <lb facs="#facs_397_r1l3" n="N003"/>empfangen. Ist mihr von herzen leidt geweßen, aus
                <lb facs="#facs_397_r1l4" n="N004"/>selbigem zue vernemmen, das ihr Durchlaucht, mein <choice><expan>geliebst</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>,
                <lb facs="#facs_397_r1l5" n="N005"/>sich nit wohl auf befinden mit einem schmerzen im
-               <lb facs="#facs_397_r1l6" n="N006"/>baken wie auch mein <rs type="person">brueder Allexander</rs> <supplied >sich</supplied> noch am fiebr
+               <lb facs="#facs_397_r1l6" n="N006"/>baken wie auch mein <rs type="person">brueder Allexander</rs> <supplied>sich</supplied> noch am fiebr
                <lb facs="#facs_397_r1l7" n="N007"/>übelauf befindet. Ich hab mit dem <rs type="person">doctor Huebr</rs>
                <lb facs="#facs_397_r1l8" n="N008"/>daruon gerett, er wirt ewer Durchlaucht selber sein meinung
                <lb facs="#facs_397_r1l9" n="N009"/>schreiben, er verlangete eine beßere relation über
@@ -195,14 +187,13 @@
                <lb facs="#facs_397_r1l20" n="N019"/>als das er vnlustig wahr vndt die puls ein
                <lb facs="#facs_397_r1l21" n="N020"/>wehnig geschwinder als ordinari. Amb mitwoch
             </ab>
-<pb facs="#facs_398" n="398" xml:id="img_0398"/>
-
-<ab facs="#facs_398_r1" >
-               <lb facs="#facs_398_r1l1" n="N001"/>vmb 12 <supplied >ist <rs type="person">er</rs></supplied><rs type="person"/> küel worden vndt <supplied >hat</supplied> ein hizel darauf
+<pb facs="#facs_398" n="238 v" xml:id="Kasten_blau_45_8_0399.jpg"/>
+<ab facs="#facs_398_r1">
+               <lb facs="#facs_398_r1l1" n="N001"/>vmb 12 <supplied>ist <rs type="person">er</rs></supplied><rs type="person"/> küel worden vndt <supplied>hat</supplied> ein hizel darauf
                <lb facs="#facs_398_r1l2" n="N002"/>bekommen, welches sich mit einem schweis ter-
-               <lb facs="#facs_398_r1l3" n="N003"/>minirt hatt. Am pfinstag <supplied >ist er</supplied> vnlustig geweßen, nach
+               <lb facs="#facs_398_r1l3" n="N003"/>minirt hatt. Am pfinstag <supplied>ist er</supplied> vnlustig geweßen, nach
                <lb facs="#facs_398_r1l4" n="N004"/>mitag auch, wie sie gemeindt, etwas küel
-               <lb facs="#facs_398_line_1622288978381_1654" n="N005"/>worden vnd vnlustig. Gestren <supplied >hat er</supplied> widerum wie am
+               <lb facs="#facs_398_line_1622288978381_1654" n="N005"/>worden vnd vnlustig. Gestren <supplied>hat er</supplied> widerum wie am
                <lb facs="#facs_398_r1l7" n="N006"/>mitwoch das fieberl gehabt, welches mit einem
                <lb facs="#facs_398_r1l8" n="N007"/>schweis geandt, vndt heündt widerumb, aber
                <lb facs="#facs_398_r1l9" n="N008"/>erst vmb 2, kommen vndt nit so lang, auch
@@ -216,16 +207,15 @@
                <lb facs="#facs_398_line_1622289005311_1673" n="N016"/>werden woll morgen widerumb etwas brauchen
                <lb facs="#facs_398_line_1622289009028_1677" n="N017"/>müeßen. Zue drinken geben mihr ihm ein waßer
                <lb facs="#facs_398_line_1622289019364_1684" n="N018"/>von venchel vndt <unclear>schozonora</unclear> <add>mit hirschkörn</add>. Mihr haben
-               <lb facs="#facs_398_r1l26" n="N019"/>auch in fiebe<supplied >r</supplied>n dergleichen gedrunken, ein jolep von
+               <lb facs="#facs_398_r1l26" n="N019"/>auch in fiebe<supplied>r</supplied>n dergleichen gedrunken, ein jolep von
                <lb facs="#facs_398_r1l28" n="N020"/>citron <add>zirop</add>, <unclear>schozonora</unclear> vndt <unclear>burage</unclear> waßer. Heündt
                <lb facs="#facs_398_r1l29" n="N021"/>haben ihm ein wehnig weinstein mit andini vndt
                <lb facs="#facs_398_r1l30" n="N022"/>zikori in die suppen gesotten, sonst haben bis dato
                <lb facs="#facs_398_r1l31" n="N023"/>nie niks gebraucht. Ein augen zahn hatt er vohr
-               <lb facs="#facs_398_r1l32" n="N024"/>gestern bekommen, meine, es werde noch einer <supplied >folgen</supplied>.
+               <lb facs="#facs_398_r1l32" n="N024"/>gestern bekommen, meine, es werde noch einer <supplied>folgen</supplied>.
             </ab>
-<pb facs="#facs_399" n="399" xml:id="img_0399"/>
-
-<ab facs="#facs_399_r1" >
+<pb facs="#facs_399" n="239 r" xml:id="Kasten_blau_45_8_0400.jpg"/>
+<ab facs="#facs_399_r1">
                <lb facs="#facs_399_r1l1" n="N001"/>Es ist schon spaht, mihr seindt heünt mit der
                <lb facs="#facs_399_r1l2" n="N002"/><rs type="person">Königin</rs> zue <rs type="place">Neübau</rs> gewesen vndt schpaht wider
                <lb facs="#facs_399_line_1622289050894_1701" n="N003"/>kommen. Hoffe ewer Durchlaucht mit nechstem etwas beßer

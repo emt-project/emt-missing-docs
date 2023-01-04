@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0174.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0174.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-02-16"></origDate></origin>
+                        <origin><origDate when-iso="1679-02-16"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-02-16"></date>
+               <date when-iso="1679-02-16"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_174">
          <graphic height="2461px" url="Kasten_blau_45_8_0174.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="89,473 89,2367 1595,2367 1595,473" rendition="TextRegion" xml:id="facs_174_r1">
             <zone points="310,552 368,549 426,547 484,545 542,543 600,541 658,539 716,536 774,535 832,533 890,531 948,530 1006,528 1064,528 1122,527 1180,527 1238,528 1296,529 1354,531 1412,533 1470,536 1470,482 1412,479 1354,477 1296,475 1238,474 1180,473 1122,473 1064,474 1006,474 948,476 890,477 832,479 774,481 716,482 658,485 600,487 542,489 484,491 426,493 368,495 310,498" rendition="Line" xml:id="facs_174_r1l1"/>
             <zone points="302,645 363,645 424,644 486,643 547,641 609,638 670,635 731,631 793,628 854,624 916,620 977,617 1038,614 1100,611 1161,609 1223,607 1284,607 1345,607 1407,608 1468,610 1530,613 1530,559 1468,556 1407,554 1345,553 1284,553 1223,553 1161,555 1100,557 1038,560 977,563 916,566 854,570 793,574 731,577 670,581 609,584 547,587 486,589 424,590 363,591 302,591" rendition="Line" xml:id="facs_174_r1l2"/>
@@ -121,7 +116,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_175">
          <graphic height="2461px" url="Kasten_blau_45_8_0175.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="193,427 193,2330 1592,2330 1592,427" rendition="TextRegion" xml:id="facs_175_r1">
             <zone points="230,459 257,457 1491,427 1491,493 1185,508 1074,512 1046,513 700,522 574,524 230,523" rendition="Line" xml:id="facs_175_line_1618573699156_2738"/>
             <zone points="229,549 256,545 283,544 1559,519 1559,579 1195,599 968,611 923,613 832,616 787,617 562,622 229,615" rendition="Line" xml:id="facs_175_line_1618573703275_2742"/>
@@ -170,7 +164,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_177">
          <graphic height="2461px" url="Kasten_blau_45_8_0177.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="259,393 255,1518 1573,1518 1577,393" rendition="TextRegion" xml:id="facs_177_r1">
             <zone points="255,483 441,481 497,483 552,485 608,485 663,485 719,485 774,484 830,482 885,480 941,478 996,476 1052,473 1107,471 1163,468 1218,465 1274,462 1329,460 1385,457 1440,455 1496,453 1496,393 1440,395 1385,397 1329,400 1274,402 1218,405 1163,408 1107,411 1052,413 996,416 941,418 885,420 830,422 774,424 719,425 663,425 608,425 552,425 497,423 441,421 255,423" rendition="Line" xml:id="facs_177_r1l1"/>
             <zone points="259,585 324,587 390,587 456,587 522,586 588,586 654,584 720,583 786,580 852,577 918,574 983,570 1049,566 1115,561 1181,557 1247,552 1313,546 1379,541 1445,536 1511,530 1577,523 1577,463 1511,470 1445,476 1379,481 1313,486 1247,492 1181,497 1115,501 1049,506 983,510 918,514 852,517 786,520 720,523 654,524 588,526 522,526 456,527 390,527 324,527 259,525" rendition="Line" xml:id="facs_177_r1l2"/>
@@ -188,9 +181,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_174" n="174" xml:id="img_0174"/>
-
-<ab facs="#facs_174_r1" >
+         <pb facs="#facs_174" n="217 r" xml:id="Kasten_blau_45_8_0174.jpg"/>
+<ab facs="#facs_174_r1">
                <lb facs="#facs_174_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_174_r1l2" n="N002"/>Beyde dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom <date month="2" day="3" year="1679">3</date> vndt <date month="2" day="10" year="1679">10 dießes</date> habe
                <lb facs="#facs_174_r1l4" n="N003"/>ich mit großen freüden empfangen, die weilen daraus
@@ -210,9 +202,8 @@
                <lb facs="#facs_174_line_1618573644785_2712" n="N017"/>doktor mihr nit wurden zur ader laßen,
                <lb facs="#facs_174_line_1618573655624_2719" n="N018"/>vndt wan sie gleich wolten, ihr <rs type="person">Mayestät</rs> der Kaiser
             </ab>
-<pb facs="#facs_175" n="175" xml:id="img_0175"/>
-
-<ab facs="#facs_175_r1" >
+<pb facs="#facs_175" n="217 v" xml:id="Kasten_blau_45_8_0175.jpg"/>
+<ab facs="#facs_175_r1">
                <lb facs="#facs_175_line_1618573699156_2738" n="N001"/>es nit zuegeben. Also hoffe ich, ewer Durchlaucht werden mihr
                <lb facs="#facs_175_line_1618573703275_2742" n="N002"/>nit in <choice><expan>vngnaden</expan><abbr>vng</abbr></choice> nemmen, das ich sie vort schike, will sie
                <lb facs="#facs_175_line_1618573706757_2746" n="N003"/>erst nach ostren schiken, dan wirt auch die gefahrlige
@@ -233,9 +224,8 @@
                <lb facs="#facs_175_line_1618573797186_2810" n="N018"/>eine oder die andere ein ausreht nemmen
                <lb facs="#facs_175_r1l51" n="N019"/>zue haus zue bleiben. Auf dieße weis, meine ich,
             </ab>
-<pb facs="#facs_176" n="176" xml:id="img_0176"/>
-
-<ab facs="#facs_176_r1" >
+<pb facs="#facs_176" n="218 r" xml:id="Kasten_blau_45_8_0176.jpg"/>
+<ab facs="#facs_176_r1">
                <lb facs="#facs_176_r1l1" n="N001"/>kunten beyde zuefriden sein, dan ich kenn die
                <lb facs="#facs_176_line_1618573837038_2819" n="N002"/><rs type="person">Kaiserin</rs>, <seg type="blackening">sie</seg> ich forchte, sie werde sich nit
                <lb facs="#facs_176_line_1618573840878_2823" n="N003"/>bewegen laßen vndt ehnder die <rs type="person">Breünerin</rs>
@@ -256,9 +246,8 @@
                <lb facs="#facs_176_line_1618573940566_2902" n="N018"/>zue greifen wehre, aber wie ich schon vohr gemelt,
                <lb facs="#facs_176_line_1618573950268_2910" n="N019"/><rs type="person">Don Jouan</rs> ist nit vnser liebe <rs type="person">Königin</rs>, ich förchte, 
             </ab>
-<pb facs="#facs_177" n="177" xml:id="img_0177"/>
-
-<ab facs="#facs_177_r1" >
+<pb facs="#facs_177" n="218 v" xml:id="Kasten_blau_45_8_0177.jpg"/>
+<ab facs="#facs_177_r1">
                <lb facs="#facs_177_r1l1" n="N001"/>sie werden es weder <rs type="person">Lotringen</rs>, weder mein <choice><expan>bruder</expan><abbr><rs type="person">b</rs></abbr></choice> geben.
                <lb facs="#facs_177_r1l2" n="N002"/>Gott gebe, das ich übel profezeie, ich förchte allemahl,
                <lb facs="#facs_177_line_1618573995620_2929" n="N003"/><rs type="person">Don Jan</rs> habe kein guette intentiones, aber das sag ich

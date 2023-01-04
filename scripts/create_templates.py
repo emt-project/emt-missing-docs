@@ -10,8 +10,9 @@ import tqdm
 import lxml.etree as ET
 from collections import defaultdict
 
-shutil.rmtree('./data/editions')
-os.makedirs('./data/editions', exist_ok=True)
+editions = "./data/editions"
+shutil.rmtree(editions)
+os.makedirs(editions, exist_ok=True)
 
 files = sorted(glob.glob('./trans_out/*.xml'))
 facs = {}
@@ -29,7 +30,7 @@ for x in files:
         facs_id = p.attrib["{http://www.w3.org/XML/1998/namespace}id"]
         pb_node = ET.tostring(pbs[i], encoding='utf-8', pretty_print=True).decode('utf-8')
         ab_nodes = "".join(d.get(f"#{facs_id}"))
-        page = pb_node + "\n" + ab_nodes
+        page = pb_node + ab_nodes
         facs[img_id] = {
             "img_file_name": img_id,
             "surface_xmlid": facs_id,
@@ -165,3 +166,58 @@ for gr, ndf in tqdm.tqdm(df.groupby('folder')):
             item['parsed_date'] = None
         item['pages'] = []
         f.write(template.render(**item))
+
+files = sorted(glob.glob(f"{editions}/*.xml"))
+print(len(files))
+
+for x in files:
+    doc = TeiReader(x)
+    for bad in doc.any_xpath('.//tei:surface/tei:graphic[2]'):
+        bad.getparent().remove(bad)
+    doc.tree_to_file(x)
+
+print("fix file names")
+df = pd.read_csv('gesamtliste_enriched.csv')
+no_match = []
+page_count_issue = []
+for g, ndf in df.groupby('folder'):
+    xml_doc = f"{editions}/{g.lower()}.xml"
+    pages = []
+    try:
+        doc = TeiReader(f"{xml_doc}")
+    except OSError:
+        no_match.append(xml_doc)
+        continue
+    for i, row in ndf.iterrows():
+        page = {
+            "file__name": row['Dateiname'],
+            "fol_1": row['Foliierung'],
+            "fol_2": row['Zweitfoliierung']
+        }
+        pages.append(page)
+    for i, pb in enumerate(doc.any_xpath('.//tei:pb')):
+        try:
+            matching_page = pages[i]
+        except IndexError:
+            issue = {
+                "doc": xml_doc,
+                "page_nr": i
+            }
+            continue
+        if isinstance(pages[i]['fol_1'], str):
+            pb.attrib["n"] = pages[i]['fol_1']
+        if isinstance(pages[i]['fol_2'], str):
+            pb.attrib["ed"] = pages[i]['fol_2']
+        pb.attrib["{http://www.w3.org/XML/1998/namespace}id"] = pages[i]['file__name']
+    for i, graphic in enumerate(doc.any_xpath('.//tei:surface/tei:graphic[1]')):
+        try:
+            matching_page = pages[i]
+        except IndexError:
+            issue = {
+                "doc": xml_doc,
+                "page_nr": i
+            }
+            continue
+        graphic.attrib["url"] = pages[i]['file__name']
+    doc.tree_to_file(xml_doc)
+print(page_count_issue)

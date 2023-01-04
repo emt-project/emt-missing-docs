@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0146.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0146.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1708" lry="2478" ulx="0" uly="0" xml:id="facs_146">
          <graphic height="2478px" url="Kasten_blau_45_8_0146.jpg" width="1708px"/>
-         <graphic height="2478px" url="" width="1708px"/>
          <zone points="327,531 327,2404 1621,2404 1621,531" rendition="TextRegion" xml:id="facs_146_r1">
             <zone points="352,569 439,552 490,549 694,541 797,538 1052,533 1257,531 1462,531 1462,580 352,609" rendition="Line" xml:id="facs_146_line_1618565121816_600"/>
             <zone points="347,667 417,653 473,646 1036,614 1139,610 1241,608 1293,608 1344,609 1446,614 1498,619 1498,652 382,696 347,697" rendition="Line" xml:id="facs_146_line_1618565128247_604"/>
@@ -144,9 +139,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_146" n="146" xml:id="img_0146"/>
-
-<ab facs="#facs_146_r1" >
+         <pb facs="#facs_146" n="16 r" xml:id="Kasten_blau_45_8_0146.jpg"/>
+<ab facs="#facs_146_r1">
                <lb facs="#facs_146_line_1618565121816_600" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_146_line_1618565128247_604" n="N002"/>Ich habe wohl vhrsach, vmb vergebung zu
                <lb facs="#facs_146_line_1618565143295_614" n="N003"/>bitten, das ich nuhnmehr zwey posten meine schuldichkeit
@@ -171,9 +165,8 @@
                <lb facs="#facs_146_line_1618565216967_662" n="N022"/>die recomendation wegen des <rs type="person">officials</rs> wirt mit
                <lb facs="#facs_146_line_1618565221044_666" n="N023"/>nechstem folgen, wie auch die schreiben wegen der <rs type="person">Eglof</rs>.
             </ab>
-<pb facs="#facs_147" n="147" xml:id="img_0147"/>
-
-<ab facs="#facs_147_r1" >
+<pb facs="#facs_147" n="16 v" xml:id="Kasten_blau_45_8_0147.jpg"/>
+<ab facs="#facs_147_r1">
                <lb facs="#facs_147_r1l1" n="N001"/>Iezt zehle ich alle stunden, bis die gnad werde haben, ewer Durchlaucht
                <lb facs="#facs_147_line_1618565266468_679" n="N002"/>zue bedienen. Befehl mich <seg type="blackening">ied</seg> in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt sterbe
                <lb facs="#facs_147_r1l7" n="N003"/>ewer Durchlaucht

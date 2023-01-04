@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0016.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0016.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-03-28"></origDate></origin>
+                        <origin><origDate when-iso="1677-03-28"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-03-28"></date>
+               <date when-iso="1677-03-28"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_16">
          <graphic height="2406px" url="Kasten_blau_45_8_0016.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="268,454 268,2325 1575,2325 1575,454" rendition="TextRegion" xml:id="facs_16_r2">
             <zone points="360,538 628,580 704,526 842,575 922,532 1234,540 1551,505 1565,419 1275,458 887,427 737,479 440,434 358,467" rendition="Line" xml:id="facs_16_r2l1"/>
             <zone points="321,631 452,674 563,633 1419,621 1575,595 1572,516 1290,570 1206,533 1040,586 807,555 743,602 664,552 479,552 320,608" rendition="Line" xml:id="facs_16_r2l3"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_17">
          <graphic height="2406px" url="Kasten_blau_45_8_0017.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="174,540 174,690 196,690 196,540" rendition="TextRegion" xml:id="facs_17_r1"/>
          <zone points="185,452 185,2327 1589,2327 1589,452" rendition="TextRegion" xml:id="facs_17_r2">
             <zone points="226,500 374,559 531,513 1206,556 1387,521 1388,440 1236,414 1060,461 675,443 589,402 389,440 227,409" rendition="Line" xml:id="facs_17_r2l1"/>
@@ -157,11 +151,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_16" n="16" xml:id="img_0016"/>
-
-<ab facs="#facs_16_r2" >
+         <pb facs="#facs_16" n="39 r" xml:id="Kasten_blau_45_8_0016.jpg"/>
+<ab facs="#facs_16_r2">
                <lb facs="#facs_16_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_16_r2l3" n="N002"/>Ich verhoffe, ihr Durchlaucht <supplied >die</supplied> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs> werden mihr bey ihr Durchlaucht 
+               <lb facs="#facs_16_r2l3" n="N002"/>Ich verhoffe, ihr Durchlaucht <supplied>die</supplied> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs> werden mihr bey ihr Durchlaucht 
                <lb facs="#facs_16_r2l4" n="N003"/>vergebung erhalten haben, das ich bey vohriger post
                <lb facs="#facs_16_r2l5" n="N004"/>meine schuldigkeit nit hab abgelegt, wahrumb ich
                <lb facs="#facs_16_r2l6" n="N005"/>selbige von meinem schreiben gehorsamb gebetten habe.
@@ -177,16 +170,15 @@
                <lb facs="#facs_16_r2l17" n="N015"/>sich so <choice><expan>gnädig</expan><abbr>g</abbr></choice> darin erzeigen. Der <rs type="person">Schellerer</rs> hatt mihr
                <lb facs="#facs_16_r2l18" n="N016"/>das schreiben von ihr Durchlaucht in dieser materi noch
                <lb facs="#facs_16_r2l20" n="N017"/>nit geben, dieweilen er erwartet dasienige, so an
-               <lb facs="#facs_16_r2l21" n="N018"/>ihr Mayestät, mein <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> herrn, <supplied >gesendet wurde</supplied>. So balt selbiges wirt kommen,
+               <lb facs="#facs_16_r2l21" n="N018"/>ihr Mayestät, mein <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> herrn, <supplied>gesendet wurde</supplied>. So balt selbiges wirt kommen,
                <lb facs="#facs_16_r2l22" n="N019"/>werde ich gleichfals ihr Mayestät vnterdehnigst bitten, welches 
                <lb facs="#facs_16_r2l23" n="N020"/>in genere schon gedahn vndt ihr Mayestät sich <choice><expan>allergnädigst</expan><abbr>allerg</abbr></choice>
                <lb facs="#facs_16_r2l25" n="N021"/>darin erkläret, das sie solliches gar gern duen
             </ab>
-<pb facs="#facs_17" n="17" xml:id="img_0017"/>
-
-<ab facs="#facs_17_r1" >
+<pb facs="#facs_17" n="39 v" xml:id="Kasten_blau_45_8_0017.jpg"/>
+<ab facs="#facs_17_r1">
             </ab>
-<ab facs="#facs_17_r2" >
+<ab facs="#facs_17_r2">
                <lb facs="#facs_17_r2l1" n="N001"/>würten, was zue dieser sach beförderlich würde
                <lb facs="#facs_17_r2l2" n="N002"/>sein, also das verhoffe, das keine dificultet hierein 
                <lb facs="#facs_17_r2l3" n="N003"/>geben wirt. Was die bilder an geht, mues bekennen

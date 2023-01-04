@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0337.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0337.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-07-12"></origDate></origin>
+                        <origin><origDate when-iso="1680-07-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#">Burglengenfeld</placeName>
-               <date  when-iso="1680-07-12"></date>
+               <date when-iso="1680-07-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -235,9 +231,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_336" n="336" xml:id="img_0336"/>
-
-<ab facs="#facs_336_r1" >
+         <pb facs="#facs_336" n="200 r" xml:id="Kasten_blau_45_8_0337.jpg"/>
+<ab facs="#facs_336_r1">
                <lb facs="#facs_336_r1l1" n="N001"/>
                <lb facs="#facs_336_r1l2" n="N002"/>
                <lb facs="#facs_336_r1l3" n="N003"/>
@@ -268,9 +263,8 @@
                <lb facs="#facs_336_r1l28" n="N028"/>
                <lb facs="#facs_336_r1l29" n="N029"/>
             </ab>
-<pb facs="#facs_337" n="337" xml:id="img_0337"/>
-
-<ab facs="#facs_337_r1" >
+<pb facs="#facs_337" n="200 v" xml:id="Kasten_blau_45_8_0338.jpg"/>
+<ab facs="#facs_337_r1">
                <lb facs="#facs_337_r1l1" n="N001"/>
                <lb facs="#facs_337_r1l2" n="N002"/>
                <lb facs="#facs_337_r1l3" n="N003"/>
@@ -301,21 +295,20 @@
                <lb facs="#facs_337_r1l28" n="N028"/>
                <lb facs="#facs_337_r1l29" n="N029"/>
             </ab>
-<pb facs="#facs_338" n="338" xml:id="img_0338"/>
-
-<ab facs="#facs_338_r1" >
+<pb facs="#facs_338" n="201 r" xml:id="Kasten_blau_45_8_0339.jpg"/>
+<ab facs="#facs_338_r1">
                <lb facs="#facs_338_r1l1" n="N001"/>
                <lb facs="#facs_338_r1l2" n="N002"/>
             </ab>
-<ab facs="#facs_338_r2" >
+<ab facs="#facs_338_r2">
                <lb facs="#facs_338_r2l1" n="N001"/>
                <lb facs="#facs_338_r2l2" n="N002"/>
                <lb facs="#facs_338_r2l3" n="N003"/>
             </ab>
-<ab facs="#facs_338_r3" >
+<ab facs="#facs_338_r3">
                <lb facs="#facs_338_r3l1" n="N001"/>
             </ab>
-<ab facs="#facs_338_r4" >
+<ab facs="#facs_338_r4">
                <lb facs="#facs_338_r4l1" n="N001"/>
                <lb facs="#facs_338_r4l2" n="N002"/>
                <lb facs="#facs_338_r4l3" n="N003"/>
@@ -347,9 +340,8 @@
                <lb facs="#facs_338_r4l29" n="N029"/>
                <lb facs="#facs_338_r4l30" n="N030"/>
             </ab>
-<pb facs="#facs_339" n="339" xml:id="img_0339"/>
-
-<ab facs="#facs_339_r1" >
+<pb facs="#facs_339" n="201 v" xml:id="Kasten_blau_45_8_0340.jpg"/>
+<ab facs="#facs_339_r1">
                <lb facs="#facs_339_r1l1" n="N001"/>
                <lb facs="#facs_339_r1l2" n="N002"/>
                <lb facs="#facs_339_r1l3" n="N003"/>

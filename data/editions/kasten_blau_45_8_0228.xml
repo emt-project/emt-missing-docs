@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0228.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0228.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-07-21"></origDate></origin>
+                        <origin><origDate when-iso="1679-07-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-07-21"></date>
+               <date when-iso="1679-07-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -147,12 +143,11 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_228" n="228" xml:id="img_0228"/>
-
-<ab facs="#facs_228_r3" >
+         <pb facs="#facs_228" n="134 r" xml:id="Kasten_blau_45_8_0228.jpg"/>
+<ab facs="#facs_228_r3">
                <lb facs="#facs_228_r3l1" n="N001"/>Durchleüchtiger Fürst, herrzallerliebster herr vatter
                <lb facs="#facs_228_line_1619792997437_3596" n="N002"/>Heütt ist der <rs type="person">Schellerer</rs> bey mihr gewesen vndt
-               <lb facs="#facs_228_line_1619793003116_3600" n="N003"/><supplied >hat</supplied> mihr beyde schreiben von ewer Durchlaucht <date month="7" day="14" year="1679">14 dießes</date>
+               <lb facs="#facs_228_line_1619793003116_3600" n="N003"/><supplied>hat</supplied> mihr beyde schreiben von ewer Durchlaucht <date month="7" day="14" year="1679">14 dießes</date>
                <lb facs="#facs_228_r3l10" n="N004"/>überliuert. <seg type="blackening">ich</seg> Das erste anbelangent, so
                <lb facs="#facs_228_r3l11" n="N005"/>seint ihr <rs type="person">Mayestät</rs> heünt auf ein iagen vndt
                <lb facs="#facs_228_r3l12" n="N006"/>werde ich nit vnterlaßen, deroselben ewer Durchlaucht
@@ -167,9 +162,8 @@
                <lb facs="#facs_228_line_1619793075982_3646" n="N015"/>ende kommen. In diesen vndt in anderen
                <lb facs="#facs_228_line_1619793105905_3660" n="N016"/>bezihe mich auf dem <rs type="person">Grau von Ötingen</rs>,
             </ab>
-<pb facs="#facs_229" n="229" xml:id="img_0229"/>
-
-<ab facs="#facs_229_r2" >
+<pb facs="#facs_229" n="134 v" xml:id="Kasten_blau_45_8_0229.jpg"/>
+<ab facs="#facs_229_r2">
                <lb facs="#facs_229_line_1619793160180_3675" n="N001"/>welcher ewer Durchlaucht meine schuldige dank sagung
                <lb facs="#facs_229_line_1619793163894_3679" n="N002"/>vor die <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> expressiones, so sie mihr durch <rs type="person">ihne</rs>
                <lb facs="#facs_229_line_1619793171597_3686" n="N003"/>wollen duen laßen, wirt mit mererem ablegen, auch

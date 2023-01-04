@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0351.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0351.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1676" lry="2504" ulx="0" uly="0" xml:id="facs_351">
          <graphic height="2504px" url="Kasten_blau_44_8_0351.jpg" width="1676px"/>
-         <graphic height="2504px" url="" width="1676px"/>
          <zone points="102,724 102,2391 1555,2391 1555,724" rendition="TextRegion" xml:id="facs_351_r1">
             <zone points="261,804 393,808 454,808 514,809 575,810 635,811 696,813 756,815 817,818 877,820 938,823 999,825 1059,828 1120,831 1180,833 1241,835 1301,837 1362,839 1422,840 1483,841 1544,841 1544,757 1483,757 1422,756 1362,755 1301,753 1241,751 1180,749 1120,747 1059,744 999,741 938,739 877,736 817,734 756,731 696,729 635,727 575,726 514,725 454,724 393,724 261,720" rendition="Line" xml:id="facs_351_r1l1"/>
             <zone points="136,967 389,966 446,968 504,969 561,970 618,971 676,972 733,973 790,974 848,975 905,976 962,976 1020,977 1077,978 1134,978 1192,979 1249,980 1306,981 1364,982 1421,982 1563,988 1563,904 1421,898 1364,898 1306,897 1249,896 1192,895 1134,894 1077,894 1020,893 962,892 905,892 848,891 790,890 733,889 676,888 618,887 561,886 504,885 446,884 389,882 136,829" rendition="Line" xml:id="facs_351_r1l2"/>
@@ -287,29 +282,27 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_351" n="351" xml:id="img_0351"/>
-
-<ab facs="#facs_351_r1" >
-               <lb facs="#facs_351_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_351_r1l2" n="N002"/>Zu dero geb<supplied >ur</supplied>zdag, welchen mit freüden wider celebrirn,
-               <lb facs="#facs_351_line_1611911872375_478" n="N003"/>due ich von grundt meins h<supplied >er</supplied>zen alle erde<supplied >n</supplied>kliche
+         <pb facs="#facs_351" n="198 r" xml:id="Kasten_blau_44_8_0351.jpg" ed="26 r"/>
+<ab facs="#facs_351_r1">
+               <lb facs="#facs_351_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_351_r1l2" n="N002"/>Zu dero geb<supplied>ur</supplied>zdag, welchen mit freüden wider celebrirn,
+               <lb facs="#facs_351_line_1611911872375_478" n="N003"/>due ich von grundt meins h<supplied>er</supplied>zen alle erde<supplied>n</supplied>kliche
                <lb facs="#facs_351_r1l5" n="N004"/>wollergehn anwunschen mit villen volgenden in allen
-               <lb facs="#facs_351_line_1611911961551_486" n="N005"/>contento zu erleben vnd mihr vill gelege<supplied >n</supplied>h<supplied >ei</supplied>t,
-               <lb facs="#facs_351_r1l9" n="N006"/>dero Liebden mein bestend<supplied >i</supplied>ge lib zu erweisen. Bitt dero Liebden vmb
+               <lb facs="#facs_351_line_1611911961551_486" n="N005"/>contento zu erleben vnd mihr vill gelege<supplied>n</supplied>h<supplied>ei</supplied>t,
+               <lb facs="#facs_351_r1l9" n="N006"/>dero Liebden mein bestend<supplied>i</supplied>ge lib zu erweisen. Bitt dero Liebden vmb
                <lb facs="#facs_351_line_1611912049223_500" n="N007"/>vergebung meinen langen stillschweigen, der Wißer wirt mein
                <lb facs="#facs_351_line_1611912055997_504" n="N008"/>zeüch sein wie es mihr geht mit der zeit. Ich due
-               <lb facs="#facs_351_r1l14" n="N009"/>mich in allen auf ihn beziehen <supplied >und</supplied> mich in dero Liebden affection
-               <lb facs="#facs_351_r1l16" n="N010"/>bef<supplied >e</supplied>hlen, die ich leben vndt st<supplied >er</supplied>ben werd
+               <lb facs="#facs_351_r1l14" n="N009"/>mich in allen auf ihn beziehen <supplied>und</supplied> mich in dero Liebden affection
+               <lb facs="#facs_351_r1l16" n="N010"/>bef<supplied>e</supplied>hlen, die ich leben vndt st<supplied>er</supplied>ben werd
                <lb facs="#facs_351_line_1611912218281_518" n="N011"/>dero Liebden
-               <lb facs="#facs_351_line_1611912232308_524" n="N012"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_351_line_1611912232308_524" n="N012"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_351_line_1611912574920_552" n="N013"/>Eleonora
                <lb facs="#facs_351_r1l18" n="N014"/>Mein sohn ist wider beßer, er
                <lb facs="#facs_351_line_1611912574920_553" n="N015"/>kan der zeit kaumb erwarten ins felt
                <lb facs="#facs_351_r1l23" n="N016"/>zu gehen.
             </ab>
-<pb facs="#facs_352" n="352" xml:id="img_0352"/>
-
-<ab facs="#facs_352_r1" >
+<pb facs="#facs_352" n="199 r" xml:id="Kasten_blau_44_8_0352.jpg"/>
+<ab facs="#facs_352_r1">
                <lb facs="#facs_352_r1l1" n="N001"/>
                <lb facs="#facs_352_r1l2" n="N002"/>
                <lb facs="#facs_352_r1l3" n="N003"/>
@@ -338,12 +331,11 @@
                <lb facs="#facs_352_r1l26" n="N026"/>
                <lb facs="#facs_352_r1l27" n="N027"/>
             </ab>
-<pb facs="#facs_353" n="353" xml:id="img_0353"/>
-
-<ab facs="#facs_353_r1" >
+<pb facs="#facs_353" n="199 v" xml:id="Kasten_blau_44_8_0353.jpg"/>
+<ab facs="#facs_353_r1">
                <lb facs="#facs_353_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_353_r2" >
+<ab facs="#facs_353_r2">
                <lb facs="#facs_353_r2l1" n="N001"/>
                <lb facs="#facs_353_r2l2" n="N002"/>
                <lb facs="#facs_353_r2l3" n="N003"/>
@@ -371,15 +363,14 @@
                <lb facs="#facs_353_r2l25" n="N025"/>
                <lb facs="#facs_353_r2l26" n="N026"/>
             </ab>
-<pb facs="#facs_354" n="354" xml:id="img_0354"/>
-
-<ab facs="#facs_354_r1" >
+<pb facs="#facs_354" n="200 r" xml:id="Kasten_blau_44_8_0354.jpg"/>
+<ab facs="#facs_354_r1">
                <lb facs="#facs_354_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_354_r2" >
+<ab facs="#facs_354_r2">
                <lb facs="#facs_354_r2l1" n="N001"/>
             </ab>
-<ab facs="#facs_354_r3" >
+<ab facs="#facs_354_r3">
                <lb facs="#facs_354_r3l1" n="N001"/>
                <lb facs="#facs_354_r3l2" n="N002"/>
                <lb facs="#facs_354_r3l3" n="N003"/>
@@ -410,9 +401,8 @@
                <lb facs="#facs_354_r3l28" n="N028"/>
                <lb facs="#facs_354_r3l29" n="N029"/>
             </ab>
-<pb facs="#facs_355" n="355" xml:id="img_0355"/>
-
-<ab facs="#facs_355_r1" >
+<pb facs="#facs_355" n="200 v" xml:id="Kasten_blau_44_8_0355.jpg"/>
+<ab facs="#facs_355_r1">
                <lb facs="#facs_355_r1l1" n="N001"/>
                <lb facs="#facs_355_r1l2" n="N002"/>
                <lb facs="#facs_355_r1l3" n="N003"/>
@@ -434,28 +424,27 @@
                <lb facs="#facs_355_r1l19" n="N019"/>
                <lb facs="#facs_355_r1l20" n="N020"/>
             </ab>
-<ab facs="#facs_355_r2" >
+<ab facs="#facs_355_r2">
                <lb facs="#facs_355_r2l1" n="N001"/>
             </ab>
-<ab facs="#facs_355_r3" >
+<ab facs="#facs_355_r3">
                <lb facs="#facs_355_r3l1" n="N001"/>
             </ab>
-<ab facs="#facs_355_r4" >
+<ab facs="#facs_355_r4">
                <lb facs="#facs_355_r4l1" n="N001"/>
             </ab>
-<ab facs="#facs_355_r5" >
+<ab facs="#facs_355_r5">
                <lb facs="#facs_355_r5l1" n="N001"/>
             </ab>
-<ab facs="#facs_355_r6" >
+<ab facs="#facs_355_r6">
                <lb facs="#facs_355_r6l1" n="N001"/>
                <lb facs="#facs_355_r6l2" n="N002"/>
                <lb facs="#facs_355_r6l3" n="N003"/>
                <lb facs="#facs_355_r6l4" n="N004"/>
                <lb facs="#facs_355_r6l5" n="N005"/>
             </ab>
-<pb facs="#facs_356" n="356" xml:id="img_0356"/>
-
-<ab facs="#facs_356_r1" >
+<pb facs="#facs_356" n="201 r" xml:id="Kasten_blau_44_8_0356.jpg"/>
+<ab facs="#facs_356_r1">
                <lb facs="#facs_356_r1l1" n="N001"/>
                <lb facs="#facs_356_r1l2" n="N002"/>
                <lb facs="#facs_356_r1l3" n="N003"/>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0199.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0199.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-10-08"></origDate></origin>
+                        <origin><origDate when-iso="1701-10-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ebersdorf</placeName>
-               <date  when-iso="1701-10-08"></date>
+               <date when-iso="1701-10-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1680" lry="2468" ulx="0" uly="0" xml:id="facs_199">
          <graphic height="2468px" url="Kasten_blau_44_8_0199.jpg" width="1680px"/>
-         <graphic height="2468px" url="" width="1680px"/>
          <zone points="91,78 91,2316 1607,2316 1607,78" rendition="TextRegion" xml:id="facs_199_r1">
             <zone points="137,106 197,104 262,92 326,96 372,93 429,92 430,142 374,143 326,146 265,142 203,154 138,156" rendition="Line" xml:id="facs_199_line_1656076716415_105"/>
             <zone points="141,869 382,845 517,922 638,879 936,925 1522,879 1587,914 1604,800 1136,795 1083,757 964,800 546,760 143,704" rendition="Line" xml:id="facs_199_r1l2"/>
@@ -118,7 +113,6 @@
       
 <surface lrx="1680" lry="2467" ulx="0" uly="0" xml:id="facs_200">
          <graphic height="2467px" url="Kasten_blau_44_8_0200.jpg" width="1680px"/>
-         <graphic height="2467px" url="" width="1680px"/>
          <zone points="76,69 76,2298 1562,2298 1562,69" rendition="TextRegion" xml:id="facs_200_r1">
             <zone points="106,252 462,219 538,266 662,207 798,262 1269,194 1398,240 1530,222 1557,159 1223,83 791,141 519,93 387,139 249,88 105,160" rendition="Line" xml:id="facs_200_r1l2"/>
             <zone points="78,327 651,328 767,370 1201,318 1560,343 1558,237 1275,199 1175,256 609,233 556,269 438,226 78,287" rendition="Line" xml:id="facs_200_r1l3"/>
@@ -144,7 +138,6 @@
       
 <surface lrx="1680" lry="2467" ulx="0" uly="0" xml:id="facs_201">
          <graphic height="2467px" url="Kasten_blau_44_8_0201.jpg" width="1680px"/>
-         <graphic height="2467px" url="" width="1680px"/>
          <zone points="21,1750 21,1902 34,1902 34,1750" rendition="TextRegion" xml:id="facs_201_r1"/>
          <zone points="11,1345 11,1565 60,1565 60,1345" rendition="TextRegion" xml:id="facs_201_r2"/>
          <zone points="118,48 118,2348 1606,2348 1606,48" rendition="TextRegion" xml:id="facs_201_r4">
@@ -172,7 +165,6 @@
       
 <surface lrx="1680" lry="2467" ulx="0" uly="0" xml:id="facs_202">
          <graphic height="2467px" url="Kasten_blau_44_8_0202.jpg" width="1680px"/>
-         <graphic height="2467px" url="" width="1680px"/>
          <zone points="107,1529 107,1685 153,1685 153,1529" rendition="TextRegion" xml:id="facs_202_r1"/>
          <zone points="123,58 123,2360 1571,2360 1571,58" rendition="TextRegion" xml:id="facs_202_r2">
             <zone points="114,240 386,188 905,251 1211,189 1564,228 1564,124 1056,121 844,136 703,109 145,134" rendition="Line" xml:id="facs_202_r2l2"/>
@@ -194,93 +186,89 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_199" n="199" xml:id="img_0199"/>
-
-<ab facs="#facs_199_r1" >
+         <pb facs="#facs_199" n="112 r" xml:id="Kasten_blau_44_8_0199.jpg" ed="107 r"/>
+<ab facs="#facs_199_r1">
                <lb facs="#facs_199_line_1656076716415_105" n="N001"/><unclear>8 8bris 1701</unclear>
                <lb facs="#facs_199_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_199_r1l3" n="N003"/>Ich bin ganz beschambt, das ich so lang mein schul-
                <lb facs="#facs_199_r1l4" n="N004"/>dichkeit nit hab abgelegt mit schreiben. Ist die bürst
-               <lb facs="#facs_199_r1l5" n="N005"/>schuldich daran gewest, welche gahr woll abgangen, <supplied >haben</supplied>
-               <lb facs="#facs_199_r1l6" n="N006"/>30 hirsch geschoßen vndt etlige gegen 5 zentn<supplied >er</supplied>, seint dis
+               <lb facs="#facs_199_r1l5" n="N005"/>schuldich daran gewest, welche gahr woll abgangen, <supplied>haben</supplied>
+               <lb facs="#facs_199_r1l6" n="N006"/>30 hirsch geschoßen vndt etlige gegen 5 zentn<supplied>er</supplied>, seint dis
                <lb facs="#facs_199_r1l7" n="N007"/>iahr länger gutt bliben, noch der lezte hatt <unclear>soh</unclear> 2 finger
                <lb facs="#facs_199_r1l8" n="N008"/>auf dem zemer weiß gehabt, iezt brengen mihr die
                <lb facs="#facs_199_r1l10" n="N009"/>zeit zu mit hezen vndt beißen. Vohrgestren haben woll ein
                <lb facs="#facs_199_r1l13" n="N010"/>großen schreken gehabt, absonderlig ich, haben faßanen beist
-               <lb facs="#facs_199_r1l14" n="N011"/>in der Schniederau, welche dero Liebden woll kennen, bey Laxenbu<supplied >r</supplied>g.
+               <lb facs="#facs_199_r1l14" n="N011"/>in der Schniederau, welche dero Liebden woll kennen, bey Laxenbu<supplied>r</supplied>g.
                <lb facs="#facs_199_r1l15" n="N012"/>So ist <seg type="blackening">ent</seg> mein Keiser mit sein roß zu ein hurnaus
-               <lb facs="#facs_199_line_1610286795526_37" n="N013"/>nest kommen, die seindt gleich heraus, <supplied >haben</supplied> das pfert so
+               <lb facs="#facs_199_line_1610286795526_37" n="N013"/>nest kommen, die seindt gleich heraus, <supplied>haben</supplied> das pfert so
                <lb facs="#facs_199_line_1610286856717_51" n="N014"/>zerstochen, das es ganz wild worden, erschreklich geschprungen,
             </ab>
-<pb facs="#facs_200" n="200" xml:id="img_0200"/>
-
-<ab facs="#facs_200_r1" >
+<pb facs="#facs_200" n="112 v" xml:id="Kasten_blau_44_8_0200.jpg" ed="107 v"/>
+<ab facs="#facs_200_r1">
                <lb facs="#facs_200_r1l2" n="N001"/>ausgeschlagen vnd gesteiget, das sich alle verwundert, wie sich
                <lb facs="#facs_200_r1l3" n="N002"/>mein Keiser hatt erhalten können. Sagen, es sey etwas erschrekhligs
                <lb facs="#facs_200_r1l4" n="N003"/>gewest, erger als alle schpringer, gott vnd der <choice><expan>heilige</expan><abbr>h</abbr></choice> schuzengl
-               <lb facs="#facs_200_r1l5" n="N004"/>hatt aber gehalten. Der sattelkne<supplied >c</supplied>ht hats pfert halten wollen,
+               <lb facs="#facs_200_r1l5" n="N004"/>hatt aber gehalten. Der sattelkne<supplied>c</supplied>ht hats pfert halten wollen,
                <lb facs="#facs_200_r1l6" n="N005"/>den hatt das pfert mit den fodern füeßen gehakt, das
-               <lb facs="#facs_200_r1l7" n="N006"/>ihm das blut über den kopf geloffen. Entlich hatt der Ob<supplied >r</supplied>ist
+               <lb facs="#facs_200_r1l7" n="N006"/>ihm das blut über den kopf geloffen. Entlich hatt der Ob<supplied>r</supplied>ist
                <lb facs="#facs_200_r1l8" n="N007"/>Stallmeister vnd Palfi den Keißer herunter gezogen,
                <lb facs="#facs_200_r1l9" n="N008"/>sonst hett vnfelbar das pfert sich überschlagen oder den
                <lb facs="#facs_200_r1l10" n="N009"/>Keiser an ein baumb gedrukht. Mein Keiser ist auch auf
                <lb facs="#facs_200_r1l11" n="N010"/>den kopf vnd in die handt gestochen worden. Ich war nit
-               <lb facs="#facs_200_r1l12" n="N011"/>darb<supplied >e</supplied>y, dan die schaise nit hinein könen, wie ichs aber gehert,
-               <lb facs="#facs_200_r1l13" n="N012"/>bin zu fuß hine<supplied >i</supplied>n geloffen vnd <supplied >habe</supplied> gleich ein tiriak mein Keiser
+               <lb facs="#facs_200_r1l12" n="N011"/>darb<supplied>e</supplied>y, dan die schaise nit hinein könen, wie ichs aber gehert,
+               <lb facs="#facs_200_r1l13" n="N012"/>bin zu fuß hine<supplied>i</supplied>n geloffen vnd <supplied>habe</supplied> gleich ein tiriak mein Keiser
                <lb facs="#facs_200_r1l14" n="N013"/>auf gelegt. Der <unclear>Prinz</unclear> Ioseph vnd Martiniz seint auch gestochen
                <lb facs="#facs_200_r1l15" n="N014"/>worden, mein Carl nit, wie woll er vill am Keiser mit
-               <lb facs="#facs_200_r1l16" n="N015"/>den henten zerdrukt hatt. Der König war nit darb<supplied >e</supplied>y, hatt den
+               <lb facs="#facs_200_r1l16" n="N015"/>den henten zerdrukt hatt. Der König war nit darb<supplied>e</supplied>y, hatt den
                <lb facs="#facs_200_r1l17" n="N016"/>vohrigen dag 500 rohrhüner geschoßen, so hatt er darfon <unclear>alein</unclear>
                <lb facs="#facs_200_r1l18" n="N017"/>200 geschoßen vnd ein geschwollen gesicht heim bracht, das
                <lb facs="#facs_200_r1l19" n="N018"/>er nit hatt auskönnen, ist gottlob aber alles wider
                <lb facs="#facs_200_r1l20" n="N019"/>gut. Seint heündt aber wider auf der beiß gewest,
                <lb facs="#facs_200_r1l22" n="N020"/><unclear>??</unclear> ist nit genug zu <unclear>damln</unclear>. Die brif in der cölnischen
             </ab>
-<pb facs="#facs_201" n="201" xml:id="img_0201"/>
-
-<ab facs="#facs_201_r1" >
+<pb facs="#facs_201" n="113 r" xml:id="Kasten_blau_44_8_0201.jpg" ed="108 v"/>
+<ab facs="#facs_201_r1">
             </ab>
-<ab facs="#facs_201_r2" >
+<ab facs="#facs_201_r2">
             </ab>
-<ab facs="#facs_201_r4" >
+<ab facs="#facs_201_r4">
                <lb facs="#facs_201_r4l2" n="N001"/>sach hab alle ihr Mayestät überlifert, zweifl nit, dero Liebden werd
                <lb facs="#facs_201_r4l3" n="N002"/>auf das baldist ein antwort erhalten. Wegen Münster
-               <lb facs="#facs_201_r4l4" n="N003"/>bezie mich auf den Wißer, <supplied >mit</supplied> welchen ich offenherzig in
-               <lb facs="#facs_201_r4l5" n="N004"/>der sach ger<supplied >e</supplied>tt. Mein gott, der Deütsch Meister comportirt sich
+               <lb facs="#facs_201_r4l4" n="N003"/>bezie mich auf den Wißer, <supplied>mit</supplied> welchen ich offenherzig in
+               <lb facs="#facs_201_r4l5" n="N004"/>der sach ger<supplied>e</supplied>tt. Mein gott, der Deütsch Meister comportirt sich
                <lb facs="#facs_201_r4l6" n="N005"/>sehr übel, will durchaus den gebenedeiten Vohrstmeister
                <lb facs="#facs_201_r4l7" n="N006"/>nit wekh duen, auch iezt in den bewilligungen gehts
                <lb facs="#facs_201_r4l8" n="N007"/>im Schlesien zum schlechtigsten her, haben noch bisdato
                <lb facs="#facs_201_r4l9" n="N008"/>weder von vermögen steür noch auch kein kreüzer geben.
                <lb facs="#facs_201_r4l10" n="N009"/>Auch sein Kanzler zu Bamberg comportirt sich
-               <lb facs="#facs_201_r4l11" n="N010"/>so übel, das ihn die ga<supplied >n</supplied>ze welt vohr gott ferges halt
-               <lb facs="#facs_201_r4l12" n="N011"/>vndt <supplied >er</supplied> ein übels exempl im ganzen kreis gibt.
+               <lb facs="#facs_201_r4l11" n="N010"/>so übel, das ihn die ga<supplied>n</supplied>ze welt vohr gott ferges halt
+               <lb facs="#facs_201_r4l12" n="N011"/>vndt <supplied>er</supplied> ein übels exempl im ganzen kreis gibt.
                <lb facs="#facs_201_r4l13" n="N012"/>Ich gib zwar von allen disen dem Forstmeister die schuldt,
                <lb facs="#facs_201_r4l14" n="N013"/>aber vnterdeßen geschicht es, ich mach ihm gahr nit
                <lb facs="#facs_201_r4l15" n="N014"/>mehr schreiben, dan ich doch niks ausricht. Der Eisenheim
-               <lb facs="#facs_201_r4l16" n="N015"/>hatt b<supplied >e</supplied>y mihr audienz beg<supplied >e</supplied>rt, dem werd ich braf
-               <lb facs="#facs_201_r4l17" n="N016"/>die warheit sagen, dero Liebden können denken, wie es mich schm<supplied >e</supplied>rzt
-               <lb facs="#facs_201_r4l18" n="N017"/>wegen des Papsten, wan es dazu kommen wirt. Zu ausdeilu<supplied >n</supplied>g
+               <lb facs="#facs_201_r4l16" n="N015"/>hatt b<supplied>e</supplied>y mihr audienz beg<supplied>e</supplied>rt, dem werd ich braf
+               <lb facs="#facs_201_r4l17" n="N016"/>die warheit sagen, dero Liebden können denken, wie es mich schm<supplied>e</supplied>rzt
+               <lb facs="#facs_201_r4l18" n="N017"/>wegen des Papsten, wan es dazu kommen wirt. Zu ausdeilu<supplied>n</supplied>g
                <lb facs="#facs_201_r4l19" n="N018"/>der quartir wirt freilig vohr allem man sich befleisen,
                <lb facs="#facs_201_r4l20" n="N019"/>dero landen zu verschonen, vndt so dan haben mihr ihr
-               <lb facs="#facs_201_r4l21" n="N020"/>Mayestät schon erlaubt <seg type="blackening">das</seg> vnd verschpro<supplied >c</supplied>hen, das dero Liebden wollen
+               <lb facs="#facs_201_r4l21" n="N020"/>Mayestät schon erlaubt <seg type="blackening">das</seg> vnd verschpro<supplied>c</supplied>hen, das dero Liebden wollen
             </ab>
-<pb facs="#facs_202" n="202" xml:id="img_0202"/>
-
-<ab facs="#facs_202_r1" >
+<pb facs="#facs_202" n="113 v" xml:id="Kasten_blau_44_8_0202.jpg" ed="108 v"/>
+<ab facs="#facs_202_r1">
             </ab>
-<ab facs="#facs_202_r2" >
-               <lb facs="#facs_202_r2l2" n="N001"/>meritum daruon machen. Mihr besorgen aber, <supplied >es</supplied> werde wehnig
-               <lb facs="#facs_202_r2l3" n="N002"/>winter quartir können genommen werden, sonde<supplied >r</supplied>n <supplied >man werde</supplied> deren
+<ab facs="#facs_202_r2">
+               <lb facs="#facs_202_r2l2" n="N001"/>meritum daruon machen. Mihr besorgen aber, <supplied>es</supplied> werde wehnig
+               <lb facs="#facs_202_r2l3" n="N002"/>winter quartir können genommen werden, sonde<supplied>r</supplied>n <supplied>man werde</supplied> deren
                <lb facs="#facs_202_r2l4" n="N003"/>meisten winter in operationen zu bringen müßen.
-               <lb facs="#facs_202_r2l5" n="N004"/>Mit disen due mich dero Liebden b<supplied >e</supplied>f<supplied >e</supplied>h<supplied >l</supplied>en vnd werde st<supplied >er</supplied>ben
+               <lb facs="#facs_202_r2l5" n="N004"/>Mit disen due mich dero Liebden b<supplied>e</supplied>f<supplied>e</supplied>h<supplied>l</supplied>en vnd werde st<supplied>er</supplied>ben
                <lb facs="#facs_202_r2l6" n="N005"/>dero Liebden	
-               <lb facs="#facs_202_r2l7" n="N006"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_202_r2l7" n="N006"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_202_r2l9" n="N007"/>Eleonora
                <lb facs="#facs_202_r2l8" n="N008"/>Eberstorf den 8ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1701
-               <lb facs="#facs_202_line_1610288539335_213" n="N009"/>Hab auch dero sch<supplied >rei</supplied>ben vom Sinzendorf
-               <lb facs="#facs_202_r2l13" n="N010"/>woll empfangen, werd in ge<supplied >r</supplied>n alles gutts erweißen, dan
+               <lb facs="#facs_202_line_1610288539335_213" n="N009"/>Hab auch dero sch<supplied>rei</supplied>ben vom Sinzendorf
+               <lb facs="#facs_202_r2l13" n="N010"/>woll empfangen, werd in ge<supplied>r</supplied>n alles gutts erweißen, dan
                <lb facs="#facs_202_r2l14" n="N011"/>schon genug, wan ihn dero Liebden reccomendiren. Bitt mich bey mein
-               <lb facs="#facs_202_r2l15" n="N012"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied >ri</supplied>n zue entschuldigen, mit nechsten werd mein schuldik<supplied >ei</supplied>t
+               <lb facs="#facs_202_r2l15" n="N012"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schweg<supplied>ri</supplied>n zue entschuldigen, mit nechsten werd mein schuldik<supplied>ei</supplied>t
                <lb facs="#facs_202_r2l16" n="N013"/>ablegen, indeßen bitt vill schöns in mein nahmen zu sagen.
             </ab>
 

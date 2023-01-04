@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0331.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0331.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1650" lry="2511" ulx="0" uly="0" xml:id="facs_330">
          <graphic height="2511px" url="Kasten_blau_45_8_0331.jpg" width="1650px"/>
-         <graphic height="2511px" url="" width="1650px"/>
          <zone points="264,464 258,1949 1538,1949 1544,464" rendition="TextRegion" xml:id="facs_330_r1">
             <zone points="356,532 415,531 474,529 534,528 593,528 653,527 712,527 771,527 831,527 890,527 950,527 1009,528 1068,528 1128,527 1187,527 1247,526 1306,526 1365,524 1425,523 1484,520 1544,518 1544,464 1484,466 1425,469 1365,470 1306,472 1247,472 1187,473 1128,473 1068,474 1009,474 950,473 890,473 831,473 771,473 712,473 653,473 593,474 534,474 474,475 415,477 356,478" rendition="Line" xml:id="facs_330_r1l1"/>
             <zone points="370,587 396,586 449,584 1535,579 1535,610 1492,612 666,649 370,645" rendition="Line" xml:id="facs_330_line_1622212925813_279"/>
@@ -119,9 +114,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_330" n="330" xml:id="img_0330"/>
-
-<ab facs="#facs_330_r1" >
+         <pb facs="#facs_330" n="190 r" xml:id="Kasten_blau_45_8_0331.jpg"/>
+<ab facs="#facs_330_r1">
                <lb facs="#facs_330_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_330_line_1622212925813_279" n="N002"/>Dieweilen der <add>hiesige</add> <rs type="person">patter guardian</rs> von seinen obren
                <lb facs="#facs_330_line_1622212929386_283" n="N003"/>in die drobrige prouinc geschikt wirt vndt

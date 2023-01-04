@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0033.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0033.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-05-06"></origDate></origin>
+                        <origin><origDate when-iso="1677-05-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-05-06"></date>
+               <date when-iso="1677-05-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1658" lry="2391" ulx="0" uly="0" xml:id="facs_33">
          <graphic height="2391px" url="Kasten_blau_45_8_0033.jpg" width="1658px"/>
-         <graphic height="2391px" url="" width="1658px"/>
          <zone points="116,1799 116,1949 126,1949 126,1799" rendition="TextRegion" xml:id="facs_33_r1"/>
          <zone points="147,412 147,2010 1601,2010 1601,412" rendition="TextRegion" xml:id="facs_33_r2">
             <zone points="332,538 624,522 953,480 1120,518 1194,483 1393,520 1453,464 1608,461 1606,348 1341,421 1243,384 703,437 549,409 338,427" rendition="Line" xml:id="facs_33_r2l1"/>
@@ -125,11 +120,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_33" n="33" xml:id="img_0033"/>
-
-<ab facs="#facs_33_r1" >
+         <pb facs="#facs_33" n="52 r" xml:id="Kasten_blau_45_8_0033.jpg"/>
+<ab facs="#facs_33_r1">
             </ab>
-<ab facs="#facs_33_r2" >
+<ab facs="#facs_33_r2">
                <lb facs="#facs_33_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_33_r2l2" n="N002"/>Ich mues dismahl widerumb doppelt vmb
                <lb facs="#facs_33_r2l3" n="N003"/>vergebung bitten vohr diese vndt die

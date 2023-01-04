@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0178.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0178.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-03-02"></origDate></origin>
+                        <origin><origDate when-iso="1679-03-02"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-03-02"></date>
+               <date when-iso="1679-03-02"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_178">
          <graphic height="2461px" url="Kasten_blau_45_8_0178.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="151,568 151,2331 1617,2331 1617,568" rendition="TextRegion" xml:id="facs_178_r1">
             <zone points="434,652 492,650 550,649 608,648 667,647 725,647 783,646 841,646 900,646 958,646 1016,646 1074,645 1133,644 1191,644 1249,642 1307,640 1366,638 1424,635 1482,631 1540,628 1599,622 1599,568 1540,574 1482,577 1424,581 1366,584 1307,586 1249,588 1191,590 1133,590 1074,591 1016,592 958,592 900,592 841,592 783,592 725,593 667,593 608,594 550,595 492,596 434,598" rendition="Line" xml:id="facs_178_r1l1"/>
             <zone points="348,741 407,738 466,736 525,734 584,733 643,731 702,731 762,730 821,729 880,728 939,727 998,726 1057,725 1116,723 1176,721 1235,719 1294,716 1353,713 1412,708 1471,703 1531,698 1531,644 1471,649 1412,654 1353,659 1294,662 1235,665 1176,667 1116,669 1057,671 998,672 939,673 880,674 821,675 762,676 702,677 643,677 584,679 525,680 466,682 407,684 348,687" rendition="Line" xml:id="facs_178_r1l2"/>
@@ -189,9 +184,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_178" n="178" xml:id="img_0178"/>
-
-<ab facs="#facs_178_r1" >
+         <pb facs="#facs_178" n="108 r" xml:id="Kasten_blau_45_8_0178.jpg"/>
+<ab facs="#facs_178_r1">
                <lb facs="#facs_178_r1l1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_178_r1l2" n="N002"/>Habe wohl vhrsach vmb vmb vergebung
                <lb facs="#facs_178_r1l3" n="N003"/>zue bitten, das ich bey vohriger post meine
@@ -210,9 +204,8 @@
                <lb facs="#facs_178_line_1619779496435_216" n="N016"/>der bischoff selbsten mit selbiger post an
                <lb facs="#facs_178_line_1619779502057_220" n="N017"/>den <rs type="person">Cuhrfürst</rs> geschrieben, er wolle zue ihm kommen,
             </ab>
-<pb facs="#facs_179" n="179" xml:id="img_0179"/>
-
-<ab facs="#facs_179_r1" >
+<pb facs="#facs_179" n="108 v" xml:id="Kasten_blau_45_8_0179.jpg"/>
+<ab facs="#facs_179_r1">
                <lb facs="#facs_179_r1l1" n="N001"/>so hoffe, es werde geschen sein. Es hatt aber amb
                <lb facs="#facs_179_r1l2" n="N002"/>anfang gleich der <rs type="person">Bischoff von Gurkh</rs> vohrgeschlagen,
                <lb facs="#facs_179_r1l4" n="N003"/>es solten ewer Durchlaucht auf allen fall den <rs type="person" continued="true">Grauen</rs>
@@ -233,9 +226,8 @@
                <lb facs="#facs_179_line_1619779619825_291" n="N018"/>in vngenaden werden nemmen, wan die <rs type="person">Marta</rs>
                <lb facs="#facs_179_line_1619779625499_295" n="N019"/>mit dem <rs type="person">Doctor</rs> hinauf schike. Ich will sie
             </ab>
-<pb facs="#facs_180" n="180" xml:id="img_0180"/>
-
-<ab facs="#facs_180_r2" >
+<pb facs="#facs_180" n="109 r" xml:id="Kasten_blau_45_8_0180.jpg"/>
+<ab facs="#facs_180_r2">
                <lb facs="#facs_180_r2l1" n="N001"/>schon so wohl versorgen, das gahr kein vngelegenheit
                <lb facs="#facs_180_line_1619785471642_329" n="N002"/>bey der reis wirt haben, vndt der <rs type="person">Doctor</rs> wirt
                <lb facs="#facs_180_line_1619785475904_333" n="N003"/>bey <rs type="person">ihr</rs> sein. Es frewet mich, das die <rs type="person">Kaiserin</rs>
@@ -258,9 +250,8 @@
                <lb facs="#facs_180_line_1619785656995_409" n="N020"/>Mich daurt nuhr die arme <rs type="person">Königin</rs>.
                <lb facs="#facs_180_line_1619785664398_413" n="N021"/>Due mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen,
             </ab>
-<pb facs="#facs_181" n="181" xml:id="img_0181"/>
-
-<ab facs="#facs_181_r2" >
+<pb facs="#facs_181" n="109 v" xml:id="Kasten_blau_45_8_0181.jpg"/>
+<ab facs="#facs_181_r2">
                <lb facs="#facs_181_line_1619785707185_431" n="N001"/>die ich sterben werde
                <lb facs="#facs_181_line_1619785738376_437" n="N002"/>ewer Durchlaucht
                <lb facs="#facs_181_r2l5" n="N003"/>ganzergebenste trewgehorsamste

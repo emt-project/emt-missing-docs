@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0294.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0294.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1686" lry="2434" ulx="0" uly="0" xml:id="facs_294">
          <graphic height="2434px" url="Kasten_blau_45_8_0294.jpg" width="1686px"/>
-         <graphic height="2434px" url="" width="1686px"/>
          <zone points="212,380 212,2370 1613,2370 1613,380" rendition="TextRegion" xml:id="facs_294_r1">
             <zone points="470,468 525,467 580,466 635,465 691,465 746,464 801,464 856,464 912,464 967,463 1022,463 1077,462 1133,462 1188,461 1243,459 1298,458 1354,456 1409,453 1464,451 1519,447 1575,443 1575,380 1519,384 1464,388 1409,390 1354,393 1298,395 1243,396 1188,398 1133,399 1077,399 1022,400 967,400 912,401 856,401 801,401 746,401 691,402 635,402 580,403 525,404 470,405" rendition="Line" xml:id="facs_294_r1l1"/>
             <zone points="342,548 402,551 462,553 522,555 582,557 642,558 702,560 763,561 823,561 883,562 943,562 1003,561 1063,560 1123,559 1184,557 1244,554 1304,551 1364,548 1424,543 1484,538 1545,531 1545,471 1484,478 1424,483 1364,488 1304,491 1244,494 1184,497 1123,499 1063,500 1003,501 943,502 883,502 823,501 763,501 702,500 642,498 582,497 522,495 462,493 402,491 342,488" rendition="Line" xml:id="facs_294_r1l2"/>
@@ -129,9 +124,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_294" n="294" xml:id="img_0294"/>
-
-<ab facs="#facs_294_r1" >
+         <pb facs="#facs_294" n="175 r" xml:id="Kasten_blau_45_8_0294.jpg"/>
+<ab facs="#facs_294_r1">
                <lb facs="#facs_294_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_294_r1l2" n="N002"/>Mitt der occasion, das mein <rs type="person"><choice><expan>herr</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice></rs> widerumb von hir
                <lb facs="#facs_294_r1l3" n="N003"/>zue ewer Durchlaucht seine reis vortsezet, hab ich mein
@@ -146,7 +140,7 @@
                <lb facs="#facs_294_r1l12" n="N012"/>Kaiser, gegen ihn sich erzeiget haben, welchs mihr
                <lb facs="#facs_294_r1l13" n="N013"/>wohl ein trost geweßen. Das scheiden wirt wohl etwas
                <lb facs="#facs_294_line_1621091747826_1454" n="N014"/>hart her gehn. Iezt seindt mihr auf einer
-               <lb facs="#facs_294_r1l18" n="N015"/>walfart, dah höre ich, sey es gahr ein schöne anda<supplied >c</supplied>ht.
+               <lb facs="#facs_294_r1l18" n="N015"/>walfart, dah höre ich, sey es gahr ein schöne anda<supplied>c</supplied>ht.
                <lb facs="#facs_294_line_1621091761347_1461" n="N016"/>Ich werdt nit vnterlaßen, meine schuldichkeit
                <lb facs="#facs_294_line_1621091772586_1471" n="N017"/>nachzuekommen vndt fleisig vohr ewer Durchlaucht zue
                <lb facs="#facs_294_line_1621091779302_1475" n="N018"/>betten, in dero vatterlige <choice><expan>gnade</expan><abbr>g</abbr></choice> ich mich befehle vndt

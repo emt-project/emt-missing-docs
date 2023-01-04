@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0428.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0428.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-06-18"></origDate></origin>
+                        <origin><origDate when-iso="1681-06-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date  when-iso="1681-06-18"></date>
+               <date when-iso="1681-06-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_427">
          <graphic height="2553px" url="Kasten_blau_45_8_0428.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="123,554 123,2488 1595,2488 1595,554" rendition="TextRegion" xml:id="facs_427_r1">
             <zone points="344,593 399,590 454,588 509,586 564,585 619,585 674,585 729,585 784,586 839,587 894,588 949,589 1004,591 1059,592 1114,593 1169,594 1224,595 1279,595 1334,596 1389,595 1444,594 1444,564 1389,565 1334,566 1279,565 1224,565 1169,564 1114,563 1059,562 1004,561 949,559 894,558 839,557 784,556 729,555 674,555 619,555 564,555 509,556 454,558 399,560 344,563" rendition="Line" xml:id="facs_427_r1l2"/>
             <zone points="283,630 609,623 660,622 685,622 1015,625 1163,627 1310,629 1458,632 1569,635 1569,678 308,674 283,673" rendition="Line" xml:id="facs_427_line_1622979838501_546"/>
@@ -134,9 +129,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_427" n="427" xml:id="img_0427"/>
-
-<ab facs="#facs_427_r1" >
+         <pb facs="#facs_427" n="255 r" xml:id="Kasten_blau_45_8_0428.jpg"/>
+<ab facs="#facs_427_r1">
                <lb facs="#facs_427_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_427_line_1622979838501_546" n="N002"/>Mitt großen freüden habe aus dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> zeilen, so sie in <unclear>ihr Durchlaucht</unclear>,
                <lb facs="#facs_427_r1l5" n="N003"/>meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>, brief geschriben, ersehn, das sie sich
@@ -146,7 +140,7 @@
                <lb facs="#facs_427_r1l10" n="N007"/>vernommen, das ewer Durchlaucht das fieber verlaßen, so währe
                <lb facs="#facs_427_r1l11" n="N008"/>der <rs type="person">doctor Hueber</rs> schon lengst zue <rs type="place">Neüburg</rs>, gott
                <lb facs="#facs_427_r1l13" n="N009"/>lob, das ewer Durchlaucht seiner nimmer von nöten haben.
-               <lb facs="#facs_427_line_1622979856657_556" n="N010"/>Steh allein in sorgen, das ewer Durchlaucht <supplied >sich</supplied> durch die bemüehung
+               <lb facs="#facs_427_line_1622979856657_556" n="N010"/>Steh allein in sorgen, das ewer Durchlaucht <supplied>sich</supplied> durch die bemüehung
                <lb facs="#facs_427_r1l18" n="N011"/>mit schreiben möchten geschatt haben, bitte <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, sich
                <lb facs="#facs_427_line_1622979875874_566" n="N012"/>meinetwegen gans kein vngelegenheit anzueduen, dan
                <lb facs="#facs_427_r1l21" n="N013"/>mich dieses überaus bedrüeben dahte. Ihr <rs type="person">Mayestät</rs>, mein
@@ -159,11 +153,11 @@
                <lb facs="#facs_427_r1l39" n="N020"/>eh der lantag hatt angefangen. Gott geb, das ferners
                <lb facs="#facs_427_r1l40" n="N021"/>so wohl ab geh als es sich bis dato zeiget. Ich will
                <lb facs="#facs_427_r1l41" n="N022"/>ewer Durchlaucht auch noch nit mit langen leßen bemüen, dan es inen
-               <lb facs="#facs_427_line_1622979924540_592" n="N023"/>gahr nit guett <supplied >tut</supplied>. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> befehlen,
+               <lb facs="#facs_427_line_1622979924540_592" n="N023"/>gahr nit guett <supplied>tut</supplied>. Due mich in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> befehlen,
                <lb facs="#facs_427_r1l45" n="N024"/>die ich sterben werde
                <lb facs="#facs_427_r1l47" n="N025"/>ewer Durchlaucht
                <lb facs="#facs_427_r1l46" n="N026"/>ganzergebenste trewgehorsamste
-               <lb facs="#facs_427_r1l48" n="N027"/>do<supplied >c</supplied>hter
+               <lb facs="#facs_427_r1l48" n="N027"/>do<supplied>c</supplied>hter
                <lb facs="#facs_427_r1l50" n="N028"/>EMT
                <lb facs="#facs_427_r1l49" n="N029"/><rs type="place">Neustatt</rs> den <date month="6" day="18" year="1681">18 junij 1681</date>
             </ab>

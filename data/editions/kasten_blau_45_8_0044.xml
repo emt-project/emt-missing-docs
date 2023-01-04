@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0044.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0044.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_44">
          <graphic height="2419px" url="Kasten_blau_45_8_0044.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="345,393 345,2314 1615,2314 1615,393" rendition="TextRegion" xml:id="facs_44_r2">
             <zone points="378,558 616,507 691,557 757,504 835,536 1225,463 1320,504 1400,452 1611,443 1604,358 1520,352 1170,423 1056,382 848,444 366,404" rendition="Line" xml:id="facs_44_r2l1"/>
             <zone points="415,623 637,603 808,647 936,591 1158,611 1249,544 1498,578 1564,548 1557,460 1415,451 1330,503 1213,464 1074,554 726,538 662,576 567,535 412,585" rendition="Line" xml:id="facs_44_r2l2"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_45">
          <graphic height="2419px" url="Kasten_blau_45_8_0045.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="153,420 153,2251 1593,2251 1593,420" rendition="TextRegion" xml:id="facs_45_r1">
             <zone points="271,470 795,465 979,549 1171,498 1326,558 1554,519 1558,443 1446,425 1183,472 918,402 277,369" rendition="Line" xml:id="facs_45_r1l2"/>
             <zone points="242,604 414,553 464,599 623,608 727,553 810,595 896,559 961,606 1083,573 1221,640 1377,579 1527,595 1530,533 1482,508 1327,559 1259,510 1183,545 1067,508 974,542 633,452 577,494 389,449 246,508" rendition="Line" xml:id="facs_45_r1l3"/>
@@ -149,9 +143,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_44" n="44" xml:id="img_0044"/>
-
-<ab facs="#facs_44_r2" >
+         <pb facs="#facs_44" n="62 r" xml:id="Kasten_blau_45_8_0044.jpg"/>
+<ab facs="#facs_44_r2">
                <lb facs="#facs_44_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster <unclear>herr vatter</unclear>
                <lb facs="#facs_44_r2l2" n="N002"/>Ich bitte gehorsambst vnd vergebung, das ich
                <lb facs="#facs_44_line_1591945547704_83" n="N003"/>die 2 vohrige posten mein schuldichkeit nit
@@ -165,15 +158,14 @@
                <lb facs="#facs_44_line_1591784313268_164" n="N011"/>aber, ihr Durchlaucht werden sich noch in guettem
                <lb facs="#facs_44_r2l20" n="N012"/>wohlstant befinden. Es vermeinen die docter,
                <lb facs="#facs_44_r2l21" n="N013"/>es sey wohl so gescheht, befinde mich gottlob
-               <lb facs="#facs_44_line_1591784375899_170" n="N014"/>sonst wohl auf. Bis erchtag 8 dag werden <supplied >wir</supplied>
+               <lb facs="#facs_44_line_1591784375899_170" n="N014"/>sonst wohl auf. Bis erchtag 8 dag werden <supplied>wir</supplied>
                <lb facs="#facs_44_line_1591784468968_193" n="N015"/>auf <rs type="place">Wien</rs>, wie wohl es der <rs type="person">docter</rs> noch
                <lb facs="#facs_44_line_1591784540120_207" n="N016"/>nit gern erlaubt. Gestern ist music hier
                <lb facs="#facs_44_line_1591784591249_211" n="N017"/>gewesen vndt der <rs type="person">Gonzaga</rs> auch darzu 
-               <lb facs="#facs_44_r2l39" n="N018"/>kommen, vndt <supplied >hat</supplied> mihr darnach ein grues <supplied >ausgerichtet</supplied>.
+               <lb facs="#facs_44_r2l39" n="N018"/>kommen, vndt <supplied>hat</supplied> mihr darnach ein grues <supplied>ausgerichtet</supplied>.
             </ab>
-<pb facs="#facs_45" n="45" xml:id="img_0045"/>
-
-<ab facs="#facs_45_r1" >
+<pb facs="#facs_45" n="62 v" xml:id="Kasten_blau_45_8_0045.jpg"/>
+<ab facs="#facs_45_r1">
                <lb facs="#facs_45_r1l2" n="N001"/>Es ist wohl ein allerliebster man, <rs type="person">er</rs> hatt mihr
                <lb facs="#facs_45_r1l3" n="N002"/>gesacht, ich dörf nit sorgen wegen <rs type="place">Engelant</rs>, die
                <lb facs="#facs_45_r1l5" n="N003"/><rs type="person">Kaiserin</rs> wirt bestendig bleiben. Er wolte gern
@@ -186,7 +178,7 @@
                <lb facs="#facs_45_r1l19" n="N010"/>vndt sterbe
                <lb facs="#facs_45_line_1591796154643_284" n="N011"/>ihr Durchlaucht
                <lb facs="#facs_45_r1l21" n="N012"/>ganz ergebenste trewe
-               <lb facs="#facs_45_r1l23" n="N013"/>gehorsamste do<supplied >c</supplied>hter
+               <lb facs="#facs_45_r1l23" n="N013"/>gehorsamste do<supplied>c</supplied>hter
                <lb facs="#facs_45_r1l27" n="N014"/>EMT
                <lb facs="#facs_45_r1l22" n="N015"/><rs type="place">Laxenburg</rs> den <date month="6" day="13" year="1677">13 jun 1677</date>
                <lb facs="#facs_45_line_1591796268476_292" n="N016"/>Gestren hatt sich der

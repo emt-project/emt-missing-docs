@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0410.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0410.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1702-08-16"></origDate></origin>
+                        <origin><origDate when-iso="1702-08-16"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date  when-iso="1702-08-16"></date>
+               <date when-iso="1702-08-16"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2490" ulx="0" uly="0" xml:id="facs_410">
          <graphic height="2490px" url="Kasten_blau_44_8_0410.jpg" width="1664px"/>
-         <graphic height="2490px" url="" width="1664px"/>
          <zone points="154,117 154,2320 1539,2320 1539,117" rendition="TextRegion" xml:id="facs_410_r1">
             <zone points="173,140 241,134 355,131 430,131 506,123 512,173 432,181 356,181 244,184 177,190" rendition="Line" xml:id="facs_410_line_1656593012188_1259"/>
             <zone points="267,661 414,663 473,660 532,657 591,655 650,653 709,651 768,649 827,648 886,647 945,645 1004,644 1063,643 1122,642 1181,640 1240,639 1299,637 1358,635 1417,632 1476,630 1535,627 1535,567 1476,570 1417,572 1358,575 1299,577 1240,579 1181,580 1122,582 1063,583 1004,584 945,585 886,587 827,588 768,589 709,591 650,593 591,595 532,597 473,600 414,603 267,601" rendition="Line" xml:id="facs_410_r1l2"/>
@@ -120,24 +115,23 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_410" n="410" xml:id="img_0410"/>
-
-<ab facs="#facs_410_r1" >
+         <pb facs="#facs_410" n="234 r" xml:id="Kasten_blau_44_8_0410.jpg" ed="58 r"/>
+<ab facs="#facs_410_r1">
                <lb facs="#facs_410_line_1656593012188_1259" n="N001"/><unclear>16 aug 1702</unclear>
-               <lb facs="#facs_410_r1l2" n="N002"/>Durchleüchtiger Curfü<supplied >r</supplied>st, mein herzallelibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_410_r1l2" n="N002"/>Durchleüchtiger Curfü<supplied>r</supplied>st, mein herzallelibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_410_r1l4" n="N003"/>Mitt dem Sinzendorf werd dero Liebden ausfürlig 
-               <lb facs="#facs_410_line_1611937667815_1439" n="N004"/>sch<supplied >rei</supplied>ben, welcher ehsterd<supplied >a</supplied>gen wekh wirt. Schik
+               <lb facs="#facs_410_line_1611937667815_1439" n="N004"/>sch<supplied>rei</supplied>ben, welcher ehsterd<supplied>a</supplied>gen wekh wirt. Schik
                <lb facs="#facs_410_r1l7" n="N005"/>nuhr hiebey die dachzettl aus Italien, den
                <lb facs="#facs_410_r1l8" n="N006"/>vohrigen ist mihr nuhr einmahl komen, so hab
-               <lb facs="#facs_410_r1l9" n="N007"/>in mein sohn geschikt, habs nit m<supplied >e</supplied>hr kenen
-               <lb facs="#facs_410_r1l10" n="N008"/>absch<supplied >rei</supplied>ben laßen, der Wißer kans von ihm bekomen.
-               <lb facs="#facs_410_r1l11" n="N009"/>Die sa<supplied >c</supplied>hen stehen schlecht, gott st<supplied >e</supplied>h vns bey,
+               <lb facs="#facs_410_r1l9" n="N007"/>in mein sohn geschikt, habs nit m<supplied>e</supplied>hr kenen
+               <lb facs="#facs_410_r1l10" n="N008"/>absch<supplied>rei</supplied>ben laßen, der Wißer kans von ihm bekomen.
+               <lb facs="#facs_410_r1l11" n="N009"/>Die sa<supplied>c</supplied>hen stehen schlecht, gott st<supplied>e</supplied>h vns bey,
                <lb facs="#facs_410_r1l12" n="N010"/>der kan alles auf einmahl enden. Mus
-               <lb facs="#facs_410_r1l13" n="N011"/>enden, lebe vnd st<supplied >er</supplied>be
+               <lb facs="#facs_410_r1l13" n="N011"/>enden, lebe vnd st<supplied>er</supplied>be
                <lb facs="#facs_410_line_1611938014886_1481" n="N012"/>dero Liebden
-               <lb facs="#facs_410_r1l14" n="N013"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied >e</supplied>ster
+               <lb facs="#facs_410_r1l14" n="N013"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied>e</supplied>ster
                <lb facs="#facs_410_r1l16" n="N014"/>Eleonora
-               <lb facs="#facs_410_r1l15" n="N015"/>Fauor<supplied >i</supplied>ta den 16 <choice><expan>august</expan><abbr>agst</abbr></choice> 1702
+               <lb facs="#facs_410_r1l15" n="N015"/>Fauor<supplied>i</supplied>ta den 16 <choice><expan>august</expan><abbr>agst</abbr></choice> 1702
             </ab>
 
       </body>

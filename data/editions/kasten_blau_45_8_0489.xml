@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0489.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0489.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-11-26"></origDate></origin>
+                        <origin><origDate when-iso="1681-11-26"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-11-26"></date>
+               <date when-iso="1681-11-26"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2541" ulx="0" uly="0" xml:id="facs_488">
          <graphic height="2541px" url="Kasten_blau_45_8_0489.jpg" width="1664px"/>
-         <graphic height="2541px" url="" width="1664px"/>
          <zone points="83,513 83,2494 1598,2494 1598,513" rendition="TextRegion" xml:id="facs_488_r1">
             <zone points="305,580 362,579 419,577 477,576 534,575 591,574 649,573 706,573 763,573 821,573 878,573 935,573 993,573 1050,573 1107,573 1165,574 1222,574 1279,574 1337,574 1394,574 1452,574 1452,514 1394,514 1337,514 1279,514 1222,514 1165,514 1107,513 1050,513 993,513 935,513 878,513 821,513 763,513 706,513 649,513 591,514 534,515 477,516 419,517 362,519 305,520" rendition="Line" xml:id="facs_488_r1l1"/>
             <zone points="203,680 271,677 339,675 407,673 475,672 544,671 612,669 680,669 748,668 816,668 885,667 953,667 1021,667 1089,667 1157,667 1226,667 1294,668 1362,668 1430,668 1498,668 1567,668 1567,608 1498,608 1430,608 1362,608 1294,608 1226,607 1157,607 1089,607 1021,607 953,607 885,607 816,608 748,608 680,609 612,609 544,611 475,612 407,613 339,615 271,617 203,620" rendition="Line" xml:id="facs_488_r1l2"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1664" lry="2541" ulx="0" uly="0" xml:id="facs_489">
          <graphic height="2541px" url="Kasten_blau_45_8_0490.jpg" width="1664px"/>
-         <graphic height="2541px" url="" width="1664px"/>
          <zone points="145,330 142,1108 1589,1111 1592,333" rendition="TextRegion" xml:id="facs_489_r1">
             <zone points="242,421 308,417 375,413 442,410 509,408 576,407 643,406 709,405 776,405 843,405 910,404 977,404 1044,404 1111,404 1177,403 1244,402 1311,400 1378,397 1445,394 1512,390 1579,385 1579,333 1512,338 1445,342 1378,345 1311,348 1244,350 1177,351 1111,352 1044,352 977,352 910,352 843,353 776,353 709,353 643,354 576,355 509,356 442,358 375,361 308,365 242,369" rendition="Line" xml:id="facs_489_r1l1"/>
             <zone points="240,472 325,467 367,465 452,461 622,455 1250,437 1539,432 1592,432 1592,484 1381,489 1328,490 240,502" rendition="Line" xml:id="facs_489_line_1623081100698_2426"/>
@@ -138,9 +132,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_488" n="488" xml:id="img_0488"/>
-
-<ab facs="#facs_488_r1" >
+         <pb facs="#facs_488" n="291 r" xml:id="Kasten_blau_45_8_0489.jpg"/>
+<ab facs="#facs_488_r1">
                <lb facs="#facs_488_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_488_r1l2" n="N002"/>Das der almechtige ewer Durchlaucht das gestrige freüdentreiche fest
                <lb facs="#facs_488_r1l3" n="N003"/>dero geburzdag mit deren villen vnzahlbahren folgenden
@@ -161,15 +154,14 @@
                <lb facs="#facs_488_line_1623081057814_2406" n="N018"/>ist sich auf niks zue verlaßen, gott geb balt
                <lb facs="#facs_488_line_1623081074038_2412" n="N019"/>ein endt, dan hier ist vnser bleibens nit lenger.
             </ab>
-<pb facs="#facs_489" n="489" xml:id="img_0489"/>
-
-<ab facs="#facs_489_r1" >
+<pb facs="#facs_489" n="291 v" xml:id="Kasten_blau_45_8_0490.jpg"/>
+<ab facs="#facs_489_r1">
                <lb facs="#facs_489_r1l1" n="N001"/>Das wetter wirt so übel nebelich, das gahr vngesundt
                <lb facs="#facs_489_line_1623081100698_2426" n="N002"/>ist. Ich due mich hirmit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> <choice><expan>vnterdehnigst</expan><abbr>vnter</abbr></choice>
                <lb facs="#facs_489_line_1623081106756_2433" n="N003"/>befehlen, die ich sterben werde
                <lb facs="#facs_489_line_1623081136308_2444" n="N004"/>ewer Durchlaucht
-               <lb facs="#facs_489_r1l7" n="N005"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
-               <lb facs="#facs_489_line_1623081157830_2454" n="N006"/>do<supplied >c</supplied>hter
+               <lb facs="#facs_489_r1l7" n="N005"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
+               <lb facs="#facs_489_line_1623081157830_2454" n="N006"/>do<supplied>c</supplied>hter
                <lb facs="#facs_489_line_1623081165540_2459" n="N007"/>EMT
                <lb facs="#facs_489_line_1623081150168_2449" n="N008"/><rs type="place">Edenburg</rs> den <date month="11" day="26" year="1681">26 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1681</date>
             </ab>

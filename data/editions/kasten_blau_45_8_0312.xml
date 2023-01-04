@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0312.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0312.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1660" lry="2453" ulx="0" uly="0" xml:id="facs_311">
          <graphic height="2453px" url="Kasten_blau_45_8_0312.jpg" width="1660px"/>
-         <graphic height="2453px" url="" width="1660px"/>
          <zone points="247,567 247,2362 1589,2362 1589,567" rendition="TextRegion" xml:id="facs_311_r1">
             <zone points="400,597 453,597 507,597 560,598 614,600 667,602 721,605 774,607 828,610 881,612 935,615 988,617 1042,619 1095,620 1149,621 1202,621 1256,620 1309,619 1363,616 1416,612 1470,607 1470,577 1416,582 1363,586 1309,589 1256,590 1202,591 1149,591 1095,590 1042,589 988,587 935,585 881,582 828,580 774,577 721,575 667,572 614,570 560,568 507,567 453,567 400,567" rendition="Line" xml:id="facs_311_r1l1"/>
             <zone points="325,698 383,697 441,697 499,697 557,697 615,698 673,699 731,701 789,702 847,704 906,705 964,707 1022,708 1080,709 1138,709 1196,709 1254,709 1312,707 1370,705 1428,702 1487,698 1487,668 1428,672 1370,675 1312,677 1254,679 1196,679 1138,679 1080,679 1022,678 964,677 906,675 847,674 789,672 731,671 673,669 615,668 557,667 499,667 441,667 383,667 325,668" rendition="Line" xml:id="facs_311_r1l6"/>
@@ -126,9 +121,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_311" n="311" xml:id="img_0311"/>
-
-<ab facs="#facs_311_r1" >
+         <pb facs="#facs_311" n="173 r" xml:id="Kasten_blau_45_8_0312.jpg"/>
+<ab facs="#facs_311_r1">
                <lb facs="#facs_311_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_311_r1l6" n="N002"/>Bitt ewer Durchlaucht vnterdehnig vmb verzeiung,
                <lb facs="#facs_311_r1l10" n="N003"/>das ich dismahl mues so kurz meine schuldich-
@@ -146,7 +140,7 @@
                <lb facs="#facs_311_r1l25" n="N015"/>Gottgebe, das der <rs type="person">Iers</rs> alles wohl vonstatten
                <lb facs="#facs_311_r1l26" n="N016"/>gehn. Befehl mich vnterdehnig vndt sterbe
                <lb facs="#facs_311_line_1621498058138_1107" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_311_line_1621498079341_1111" n="N018"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_311_line_1621498079341_1111" n="N018"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_311_r1l32" n="N019"/>dochter
                <lb facs="#facs_311_r1l33" n="N020"/>EMT
             </ab>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0031.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0031.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-03-04"></origDate></origin>
+                        <origin><origDate when-iso="1677-03-04"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-03-04"></date>
+               <date when-iso="1677-03-04"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1634" lry="2389" ulx="0" uly="0" xml:id="facs_31">
          <graphic height="2389px" url="Kasten_blau_45_8_0031.jpg" width="1634px"/>
-         <graphic height="2389px" url="" width="1634px"/>
          <zone points="96,415 96,2325 1569,2325 1569,415" rendition="TextRegion" xml:id="facs_31_r1">
             <zone points="386,486 494,454 657,490 719,453 811,491 901,455 1012,498 1084,459 1525,460 1525,391 1378,355 1154,403 1024,334 728,414 386,323" rendition="Line" xml:id="facs_31_r1l1"/>
             <zone points="362,574 540,537 700,594 933,537 1214,574 1327,532 1370,563 1406,548 1405,462 1204,464 1144,505 1087,460 999,509 719,453 655,491 494,456 361,494" rendition="Line" xml:id="facs_31_r1l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1640" lry="2446" ulx="0" uly="0" xml:id="facs_32">
          <graphic height="2446px" url="Kasten_blau_45_8_0032.jpg" width="1640px"/>
-         <graphic height="2446px" url="" width="1640px"/>
          <zone points="174,983 174,1134 184,1134 184,983" rendition="TextRegion" xml:id="facs_32_r1"/>
          <zone points="185,479 185,2274 1593,2274 1593,479" rendition="TextRegion" xml:id="facs_32_r2">
             <zone points="278,515 597,529 634,562 676,530 747,572 928,524 1192,562 1430,528 1430,449 1384,444 1072,492 913,436 697,504 602,451 278,461" rendition="Line" xml:id="facs_32_r2l1"/>
@@ -157,11 +151,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_31" n="31" xml:id="img_0031"/>
-
-<ab facs="#facs_31_r1" >
+         <pb facs="#facs_31" n="44 r" xml:id="Kasten_blau_45_8_0031.jpg"/>
+<ab facs="#facs_31_r1">
                <lb facs="#facs_31_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_31_r1l2" n="N002"/>Beyde dero werteste schreiben <date month="4" day="17" year="1677">17</date> vnd <date month="4" day="20" year="1677">20</date> des verwiche<supplied >nen</supplied>
+               <lb facs="#facs_31_r1l2" n="N002"/>Beyde dero werteste schreiben <date month="4" day="17" year="1677">17</date> vnd <date month="4" day="20" year="1677">20</date> des verwiche<supplied>nen</supplied>
                <lb facs="#facs_31_r1l3" n="N003"/>monats wie auch eins durch den <rs type="person">Schellerer</rs> habe mit
                <lb facs="#facs_31_r1l4" n="N004"/>groser freüdt empfangen, die weilen daraus ihr Durchlaucht
                <lb facs="#facs_31_r1l5" n="N005"/>guetten wohlstant vernommen vndt auch daraus ersehen,
@@ -182,11 +175,10 @@
                <lb facs="#facs_31_r1l23" n="N020"/><rs type="person">Hoher</rs> hatt schon comission von ihr Mayestät, mit ihnen zu
                <lb facs="#facs_31_r1l24" n="N021"/>reden. Also hoffe, das alles balt zu einem glükhligen
             </ab>
-<pb facs="#facs_32" n="32" xml:id="img_0032"/>
-
-<ab facs="#facs_32_r1" >
+<pb facs="#facs_32" n="44v" xml:id="Kasten_blau_45_8_0032.jpg"/>
+<ab facs="#facs_32_r1">
             </ab>
-<ab facs="#facs_32_r2" >
+<ab facs="#facs_32_r2">
                <lb facs="#facs_32_r2l1" n="N001"/>ende werde gereichen. Was mein eltisten <rs type="person">brueder</rs>
                <lb facs="#facs_32_r2l2" n="N002"/>anlanget, so werde gewis nit feyeren, habe auch schon
                <lb facs="#facs_32_r2l3" n="N003"/>mehrere hoffnung wegen des lottringischen heirahts.
@@ -200,10 +192,10 @@
                <lb facs="#facs_32_r2l11" n="N011"/>vndt Kanzler <rs type="person">Hoher</rs> gerahten. Dieses leztere bitte, was mein
                <lb facs="#facs_32_r2l12" n="N012"/><choice><expan>bruder</expan><abbr>b</abbr></choice> anget, durch <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Danner</rs> zu beantworten, dan ich über etlig
                <lb facs="#facs_32_r2l13" n="N013"/>dag ihr Mayestät den Kayser fragen will, ob ich ihr Durchlaucht die trostreiche
-               <lb facs="#facs_32_r2l15" n="N014"/>zeitung schreiben dörfe, das mein <choice><expan>bruder</expan><abbr>b</abbr></choice> woll hoffen möge, vndt dadur<supplied >ch</supplied>
+               <lb facs="#facs_32_r2l15" n="N014"/>zeitung schreiben dörfe, das mein <choice><expan>bruder</expan><abbr>b</abbr></choice> woll hoffen möge, vndt dadur<supplied>ch</supplied>
                <lb facs="#facs_32_r2l16" n="N015"/>gelegenheit filleicht finden, etwas mehrers zu melden. Dieses
                <lb facs="#facs_32_r2l17" n="N016"/>habe mich erküenet zu schreiben, weil die post gleich wekh
-               <lb facs="#facs_32_line_1591517141392_213" n="N017"/>vndt ihr Mayestät der Kays<supplied >er</supplied> nit mehr herrein kommen bis zum
+               <lb facs="#facs_32_line_1591517141392_213" n="N017"/>vndt ihr Mayestät der Kays<supplied>er</supplied> nit mehr herrein kommen bis zum
                <lb facs="#facs_32_r2l20" n="N018"/>eßen. Ich befehle mich gehorsamst in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt
                <lb facs="#facs_32_r2l21" n="N019"/>werde sterben
                <lb facs="#facs_32_r2l22" n="N020"/>ihr Durchlaucht

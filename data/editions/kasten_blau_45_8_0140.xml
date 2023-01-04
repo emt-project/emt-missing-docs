@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0140.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0140.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-04-21"></origDate></origin>
+                        <origin><origDate when-iso="1678-04-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-04-21"></date>
+               <date when-iso="1678-04-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2457" ulx="0" uly="0" xml:id="facs_140">
          <graphic height="2457px" url="Kasten_blau_45_8_0140.jpg" width="1692px"/>
-         <graphic height="2457px" url="" width="1692px"/>
          <zone points="94,527 94,2358 1613,2358 1613,527" rendition="TextRegion" xml:id="facs_140_r1">
             <zone points="266,586 327,584 388,581 449,579 510,579 571,578 632,579 693,579 754,581 815,582 876,583 937,585 998,586 1059,587 1120,588 1181,589 1242,589 1303,589 1364,589 1425,587 1486,585 1486,534 1425,536 1364,538 1303,538 1242,538 1181,538 1120,537 1059,536 998,535 937,534 876,532 815,531 754,530 693,528 632,528 571,527 510,528 449,528 388,530 327,533 266,535" rendition="Line" xml:id="facs_140_r1l1"/>
             <zone points="332,610 357,608 409,605 460,604 667,602 678,602 1598,608 1598,659 332,662" rendition="Line" xml:id="facs_140_line_1618563508802_271"/>
@@ -123,15 +118,14 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_140" n="140" xml:id="img_0140"/>
-
-<ab facs="#facs_140_r1" >
+         <pb facs="#facs_140" n="11 r" xml:id="Kasten_blau_45_8_0140.jpg"/>
+<ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_140_line_1618563508802_271" n="N002"/>Dieweilen mihr heütt bey einer einkleidung gewesen,
                <lb facs="#facs_140_line_1618563513194_275" n="N003"/>also mueß gehorsamb vmb vergebung bitten,
                <lb facs="#facs_140_r1l6" n="N004"/>das nit fill schreiben kan. Ich verhoffe, ewer Durchlaucht
                <lb facs="#facs_140_line_1618563517522_279" n="N005"/>werden nuhnmehr ihro reis gelüklich vortgesezt
-               <lb facs="#facs_140_line_1618563520885_283" n="N006"/>haben vndt <supplied >dass</supplied> ich balt dero glüklige ankonft
+               <lb facs="#facs_140_line_1618563520885_283" n="N006"/>haben vndt <supplied>dass</supplied> ich balt dero glüklige ankonft
                <lb facs="#facs_140_r1l11" n="N007"/>auf <rs type="place">Neüburg</rs> vernemmen werde. Wan ich filleicht
                <lb facs="#facs_140_line_1618563526955_287" n="N008"/>mit nechster post mein schuldichkeit nit könte
                <lb facs="#facs_140_line_1618563531221_291" n="N009"/>ablegen, so bitte mihr nit in vngenahd zue

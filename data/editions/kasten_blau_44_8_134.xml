@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_134.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_134.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -77,24 +73,23 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#">nan</persName>
-               <placeName ref="#"></placeName>
-               <date ></date>
+               <placeName ref="#"/>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#">nan</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1808" lry="2698" ulx="0" uly="0" xml:id="facs_136">
          <graphic height="2698px" url="Kasten_blau_44_8_0136.jpg" width="1808px"/>
-         <graphic height="2698px" url="" width="1808px"/>
          <zone points="510,61 510,2578 1178,2578 1178,61" rendition="TextRegion" xml:id="facs_136_r1">
             <zone points="505,175 674,195 789,160 919,189 955,164 1037,189 1183,156 1156,130 504,155" rendition="Line" xml:id="facs_136_r1l1"/>
             <zone points="830,2541 851,2548 867,2532 883,2537 898,2528 932,2530 923,2466 889,2466 874,2473 859,2464 846,2470 820,2468" rendition="Line" xml:id="facs_136_r1l2"/></zone>
@@ -112,21 +107,20 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_136" n="136" xml:id="img_0136"/>
-
-<ab facs="#facs_136_r1" >
+         <pb facs="#facs_136" n="77 v" xml:id="Kasten_blau_44_8_0136.jpg"/>
+<ab facs="#facs_136_r1">
                <lb facs="#facs_136_r1l1" n="N001"/>uo gr es sein
                <lb facs="#facs_136_r1l2" n="N002"/>u
             </ab>
-<ab facs="#facs_136_r2" >
+<ab facs="#facs_136_r2">
                <lb facs="#facs_136_r2l1" n="N001"/>oma
                <lb facs="#facs_136_r2l2" n="N002"/>erben
             </ab>
-<ab facs="#facs_136_r3" >
+<ab facs="#facs_136_r3">
                <lb facs="#facs_136_r3l1" n="N001"/>ar. May
                <lb facs="#facs_136_r3l2" n="N002"/>uer
             </ab>
-<ab facs="#facs_136_r4" >
+<ab facs="#facs_136_r4">
                <lb facs="#facs_136_r4l1" n="N001"/>ue
             </ab>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0163.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0163.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-11-21"></origDate></origin>
+                        <origin><origDate when-iso="1678-11-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-11-21"></date>
+               <date when-iso="1678-11-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_163">
          <graphic height="2461px" url="Kasten_blau_45_8_0163.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="102,620 102,2372 1591,2372 1591,620" rendition="TextRegion" xml:id="facs_163_r2">
             <zone points="399,706 457,704 515,703 573,702 631,702 689,702 747,702 805,703 863,703 921,704 979,704 1037,704 1095,704 1153,703 1211,702 1269,700 1327,697 1385,693 1443,688 1501,682 1559,675 1559,620 1501,627 1443,633 1385,638 1327,642 1269,645 1211,647 1153,648 1095,649 1037,649 979,649 921,649 863,648 805,648 747,647 689,647 631,647 573,647 515,648 457,649 399,651" rendition="Line" xml:id="facs_163_r2l1"/>
             <zone points="341,803 401,797 462,792 523,789 584,786 645,784 705,784 766,783 827,783 888,784 949,784 1009,784 1070,784 1131,784 1192,782 1253,780 1313,777 1374,773 1435,767 1496,760 1557,750 1557,695 1496,705 1435,712 1374,718 1313,722 1253,725 1192,727 1131,729 1070,729 1009,729 949,729 888,729 827,728 766,728 705,729 645,729 584,731 523,734 462,737 401,742 341,748" rendition="Line" xml:id="facs_163_r2l2"/>
@@ -120,7 +115,6 @@
       
 <surface lrx="1638" lry="2460" ulx="0" uly="0" xml:id="facs_164">
          <graphic height="2460px" url="Kasten_blau_45_8_0164.jpg" width="1638px"/>
-         <graphic height="2460px" url="" width="1638px"/>
          <zone points="222,357 213,1681 1537,1681 1546,357" rendition="TextRegion" xml:id="facs_164_r1">
             <zone points="288,434 346,428 405,424 463,420 522,417 580,415 639,412 697,411 756,410 814,409 873,408 932,408 990,408 1049,409 1107,409 1166,410 1224,411 1283,412 1341,413 1400,413 1459,414 1459,363 1400,362 1341,362 1283,361 1224,360 1166,359 1107,358 1049,358 990,357 932,357 873,357 814,358 756,359 697,360 639,361 580,364 522,366 463,369 405,373 346,377 288,383" rendition="Line" xml:id="facs_164_r1l1"/>
             <zone points="296,517 358,514 420,512 482,509 545,507 607,505 669,503 732,501 794,500 856,498 919,497 981,496 1043,495 1105,495 1168,494 1230,494 1292,494 1355,495 1417,495 1479,496 1542,497 1542,446 1479,445 1417,444 1355,444 1292,443 1230,443 1168,443 1105,444 1043,444 981,445 919,446 856,447 794,449 732,450 669,452 607,454 545,456 482,458 420,461 358,463 296,466" rendition="Line" xml:id="facs_164_r1l2"/>
@@ -141,9 +135,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_163" n="163" xml:id="img_0163"/>
-
-<ab facs="#facs_163_r2" >
+         <pb facs="#facs_163" n="163 r" xml:id="Kasten_blau_45_8_0163.jpg"/>
+<ab facs="#facs_163_r2">
                <lb facs="#facs_163_r2l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_163_r2l2" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich annoch in guettem
                <lb facs="#facs_163_r2l3" n="N003"/>wohlstant befinden und habe mit freuden soliches
@@ -160,11 +153,10 @@
                <lb facs="#facs_163_line_1618571185850_1666" n="N014"/>sau gefangen, wie ich ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g </abbr></choice>fraw
                <lb facs="#facs_163_line_1618571189018_1670" n="N015"/>muetter, geschrieben hab. Schike hierbey die mas
                <lb facs="#facs_163_r2l26" n="N016"/>von der brust, der lenge vndt höge, hab das gewicht
-               <lb facs="#facs_163_r2l27" n="N017"/>vorgangen geschrieben. Dieße woch werden wideru<supplied >m</supplied>b
+               <lb facs="#facs_163_r2l27" n="N017"/>vorgangen geschrieben. Dieße woch werden wideru<supplied>m</supplied>b
             </ab>
-<pb facs="#facs_164" n="164" xml:id="img_0164"/>
-
-<ab facs="#facs_164_r1" >
+<pb facs="#facs_164" n="163 v" xml:id="Kasten_blau_45_8_0164.jpg"/>
+<ab facs="#facs_164_r1">
                <lb facs="#facs_164_r1l1" n="N001"/>auf eines bey <rs type="place">Medlingen</rs>, sie meinen aber, es werde
                <lb facs="#facs_164_r1l2" n="N002"/>nit vill dort geben. Ich bin woll froh, das der <rs type="person">Grana</rs>
                <lb facs="#facs_164_r1l3" n="N003"/>widerumb beßer ist, gott gebe, das es ein bestant
@@ -172,7 +164,7 @@
                <lb facs="#facs_164_r1l5" n="N005"/>küst ihr Durchlaucht die hänt. Ich werde mit hochster deuotion,
                <lb facs="#facs_164_r1l6" n="N006"/>als die mich ewer Durchlaucht allezeit mehrer durch die
                <lb facs="#facs_164_r1l8" n="N007"/>bezeigungen dero affection begnaden, ehr das leben
-               <lb facs="#facs_164_r1l9" n="N008"/>enden als verendr<supplied >e</supplied>n zue sein
+               <lb facs="#facs_164_r1l9" n="N008"/>enden als verendr<supplied>e</supplied>n zue sein
                <lb facs="#facs_164_r1l10" n="N009"/>ewer Durchlaucht
                <lb facs="#facs_164_r1l14" n="N010"/>ganzergebenste trewgehorsamste
                <lb facs="#facs_164_r1l15" n="N011"/>dochter bis in doht

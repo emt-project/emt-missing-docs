@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0046.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0046.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_46">
          <graphic height="2419px" url="Kasten_blau_45_8_0046.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="86,499 86,2331 1576,2331 1576,499" rendition="TextRegion" xml:id="facs_46_r1">
             <zone points="311,621 1136,604 1287,542 1575,568 1571,460 1330,441 999,512 759,466 308,553" rendition="Line" xml:id="facs_46_r1l1"/>
             <zone points="227,646 1249,592 1348,604 1454,580 1459,651 1333,663 840,691 307,716 246,746" rendition="Line" xml:id="facs_46_line_1591796533110_322"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_47">
          <graphic height="2419px" url="Kasten_blau_45_8_0047.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="147,477 147,2274 1601,2274 1601,477" rendition="TextRegion" xml:id="facs_47_r1">
             <zone points="234,563 619,583 745,523 924,580 1006,531 1327,519 1414,574 1529,573 1528,457 1299,414 969,482 842,429 588,464 233,433" rendition="Line" xml:id="facs_47_r1l1"/>
             <zone points="247,582 365,550 844,523 1328,520 1495,550 1495,595 1436,628 755,653 248,632" rendition="Line" xml:id="facs_47_line_1591797215526_385"/>
@@ -148,7 +142,6 @@
       
 <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_48">
          <graphic height="2419px" url="Kasten_blau_45_8_0048.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="137,427 137,1430 1597,1430 1597,427" rendition="TextRegion" xml:id="facs_48_r3">
             <zone points="243,568 374,523 450,556 499,510 560,554 970,495 1311,516 1480,478 1478,433 1271,464 1090,415 987,463 714,428 652,468 601,441 239,496" rendition="Line" xml:id="facs_48_r3l1"/>
             <zone points="196,618 945,572 993,603 1034,564 1122,592 1382,543 1527,574 1593,537 1590,494 1348,488 1023,551 877,507 621,561 515,520 439,572 376,522 192,541" rendition="Line" xml:id="facs_48_r3l2"/>
@@ -165,12 +158,11 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_46" n="46" xml:id="img_0046"/>
-
-<ab facs="#facs_46_r1" >
+         <pb facs="#facs_46" n="63 r" xml:id="Kasten_blau_45_8_0046.jpg"/>
+<ab facs="#facs_46_r1">
                <lb facs="#facs_46_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_46_line_1591796533110_322" n="N002"/>Vohr dero alzu <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> schreiben vom <date month="6" day="1" year="1677">1 dis</date> sage
-               <lb facs="#facs_46_r1l4" n="N003"/>gehorsamsten da<supplied >n</supplied>kh. Wie die sachen wegen <rs type="place">Rohm</rs> stehn,
+               <lb facs="#facs_46_r1l4" n="N003"/>gehorsamsten da<supplied>n</supplied>kh. Wie die sachen wegen <rs type="place">Rohm</rs> stehn,
                <lb facs="#facs_46_r1l5" n="N004"/>werden ihr Durchlaucht aus meinen forigen schreiben
                <lb facs="#facs_46_r1l6" n="N005"/>wie auch vom <rs type="person">Schellerrer</rs> vernommen, wie das
                <lb facs="#facs_46_line_1591796643988_329" n="N006"/>auf das eifrigst sich ihr <rs type="person">Mayestät</rs> darumb annemen.
@@ -187,10 +179,9 @@
                <lb facs="#facs_46_line_1591797062092_363" n="N017"/>schreiben berichtet, dero <rs type="person">darmstatische gesante</rs>
                <lb facs="#facs_46_r1l29" n="N018"/>hier ankommen. Der Hoher hatt mihr sagen 
             </ab>
-<pb facs="#facs_47" n="47" xml:id="img_0047"/>
-
-<ab facs="#facs_47_r1" >
-               <lb facs="#facs_47_r1l1" n="N001"/><supplied >lassen</supplied>, sie würden eifrig drin sein. Ihr <rs type="person">Mayestät</rs> selbsten
+<pb facs="#facs_47" n="63 v" xml:id="Kasten_blau_45_8_0047.jpg"/>
+<ab facs="#facs_47_r1">
+               <lb facs="#facs_47_r1l1" n="N001"/><supplied>lassen</supplied>, sie würden eifrig drin sein. Ihr <rs type="person">Mayestät</rs> selbsten
                <lb facs="#facs_47_line_1591797215526_385" n="N002"/>auch <seg type="blackening">se</seg> zeigen, das sie es sehr verlangen.
                <lb facs="#facs_47_r1l4" n="N003"/>So balt <seg type="blackening">ich</seg> mihr widerumb wirt erlaubt
                <lb facs="#facs_47_line_1591797280031_390" n="N004"/>sein, leütt zu mihr kommen zu laßen,
@@ -211,9 +202,8 @@
                <lb facs="#facs_47_line_1591797548684_421" n="N019"/>balt mit diesen zweyen reden vndt kann
                <lb facs="#facs_47_r1l28" n="N020"/>mich in der welt niks merers frewen, als
             </ab>
-<pb facs="#facs_48" n="48" xml:id="img_0048"/>
-
-<ab facs="#facs_48_r3" >
+<pb facs="#facs_48" n="64 r" xml:id="Kasten_blau_45_8_0048.jpg"/>
+<ab facs="#facs_48_r3">
                <lb facs="#facs_48_r3l1" n="N001"/>wan ich ihr Durchlaucht ihrem befelch empfangen
                <lb facs="#facs_48_r3l2" n="N002"/>vndt selbigem nachkommen kan als die ienige,
                <lb facs="#facs_48_r3l4" n="N003"/>so ihr gröste glori macht den nahmen zu

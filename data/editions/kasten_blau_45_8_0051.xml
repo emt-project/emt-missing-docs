@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0051.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0051.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-06-24"></origDate></origin>
+                        <origin><origDate when-iso="1677-06-24"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-06-24"></date>
+               <date when-iso="1677-06-24"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_51">
          <graphic height="2419px" url="Kasten_blau_45_8_0051.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="101,621 101,2331 1595,2331 1595,621" rendition="TextRegion" xml:id="facs_51_r1">
             <zone points="339,690 677,712 891,661 1055,722 1179,673 1229,705 1317,665 1604,672 1603,612 1431,626 1303,559 1151,605 858,568 341,586" rendition="Line" xml:id="facs_51_r1l1"/>
             <zone points="272,766 378,802 534,748 608,776 640,743 704,793 768,751 1262,740 1344,780 1490,729 1489,670 851,728 753,678 683,712 467,697 348,641 270,676" rendition="Line" xml:id="facs_51_r1l2"/>
@@ -123,7 +118,6 @@
       
 <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_52">
          <graphic height="2419px" url="Kasten_blau_45_8_0052.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="259,624 259,2121 1603,2121 1603,624" rendition="TextRegion" xml:id="facs_52_r1">
             <zone points="271,719 339,684 692,724 1035,667 1387,672 1386,588 657,627 268,589" rendition="Line" xml:id="facs_52_r1l1"/>
             <zone points="253,771 371,750 520,788 1323,720 1470,747 1468,688 1294,706 1173,661 1053,717 905,677 785,723 251,710" rendition="Line" xml:id="facs_52_r1l2"/>
@@ -148,7 +142,6 @@
       
 <surface lrx="1686" lry="2518" ulx="0" uly="0" xml:id="facs_53">
          <graphic height="2518px" url="Kasten_blau_45_8_0053.jpg" width="1686px"/>
-         <graphic height="2518px" url="" width="1686px"/>
          <zone points="44,47 44,1807 1608,1807 1608,47" rendition="TextRegion" xml:id="facs_53_r1">
             <zone points="115,117 134,120 149,112 172,125 203,105 249,104 274,124 310,110 307,29 290,33 279,46 174,20 162,31 112,36" rendition="Line" xml:id="facs_53_r1l1"/>
             <zone points="514,268 533,261 549,270 588,253 625,269 657,252 747,263 768,277 818,266 817,164 763,149 711,153 655,185 620,194 591,181 513,206" rendition="Line" xml:id="facs_53_r1l2"/>
@@ -179,13 +172,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_51" n="51" xml:id="img_0051"/>
-
-<ab facs="#facs_51_r1" >
+         <pb facs="#facs_51" n="66 r" xml:id="Kasten_blau_45_8_0051.jpg"/>
+<ab facs="#facs_51_r1">
                <lb facs="#facs_51_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_51_r1l2" n="N002"/>Vor ihr Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> fils von meinem vngelauben sage
                <lb facs="#facs_51_r1l3" n="N003"/>gehorsamsten dank vndt bekene mein schult. Allein
-               <lb facs="#facs_51_r1l4" n="N004"/>aber leider <supplied >ist</supplied> mit mein schaden gelaubich worden,
+               <lb facs="#facs_51_r1l4" n="N004"/>aber leider <supplied>ist</supplied> mit mein schaden gelaubich worden,
                <lb facs="#facs_51_r1l5" n="N005"/>befinde mich aber gottlob wohl, hoffe, ihr Durchlaucht
                <lb facs="#facs_51_r1l6" n="N006"/>werden sich auch weiters nit bedrüeben. Wegen
                <lb facs="#facs_51_r1l7" n="N007"/>meines elteren <rs type="person">bruedern</rs> hab gesteren angefangen,
@@ -203,9 +195,8 @@
                <lb facs="#facs_51_r1l25" n="N019"/>die vnterredung mit dem <rs type="person">Bischoff von Münster</rs>
                <lb facs="#facs_51_line_1591800568619_842" n="N020"/>werde nach dero satisfaction abgangen sein.
             </ab>
-<pb facs="#facs_52" n="52" xml:id="img_0052"/>
-
-<ab facs="#facs_52_r1" >
+<pb facs="#facs_52" n="66 v" xml:id="Kasten_blau_45_8_0052.jpg"/>
+<ab facs="#facs_52_r1">
                <lb facs="#facs_52_r1l1" n="N001"/>Ihr Durchlaucht werden vom <rs type="person">Schellerer</rs> mitt mererem
                <lb facs="#facs_52_r1l2" n="N002"/>vernemmen, wie es mit der coadiutori sachen
                <lb facs="#facs_52_r1l3" n="N003"/>steht. <seg type="blackening">sch</seg> Sie vermeinen alle, der <rs type="person">Cuhrfürst</rs> könen
@@ -226,21 +217,20 @@
                <lb facs="#facs_52_r1l23" n="N018"/>EMT
                <lb facs="#facs_52_line_1591801092805_882" n="N019"/><rs type="place">Wien</rs> den <date month="6" day="24" year="1677">24 juni 1677</date>
             </ab>
-<pb facs="#facs_53" n="53" xml:id="img_0053"/>
-
-<ab facs="#facs_53_r1" >
+<pb facs="#facs_53" n="45 r" xml:id="Kasten_blau_45_8_0053.jpg"/>
+<ab facs="#facs_53_r1">
                <lb facs="#facs_53_r1l1" n="N001"/>
                <lb facs="#facs_53_r1l2" n="N002"/>Extractus
                <lb facs="#facs_53_r1l3" n="N003"/>aus der regierenden Kayßerin an Fürst Moriz
                <lb facs="#facs_53_r1l4" n="N004"/>
-               <lb facs="#facs_53_r1l5" n="N005"/>Heinrichen de dato Laxemburg, 19 Junij , <supplied >1</supplied>677 abgangenem
+               <lb facs="#facs_53_r1l5" n="N005"/>Heinrichen de dato Laxemburg, 19 Junij , <supplied>1</supplied>677 abgangenem
                <lb facs="#facs_53_r1l6" n="N006"/>
                <lb facs="#facs_53_r1l7" n="N007"/>
                <lb facs="#facs_53_r1l8" n="N008"/><add>von Nassau</add>
                <lb facs="#facs_53_r1l9" n="N009"/>Schreiben
                <lb facs="#facs_53_r1l10" n="N010"/><add>Hadamar</add>
                <lb facs="#facs_53_r1l11" n="N011"/>Bey so gelegensamber füegung nehme ich die occa
-               <lb facs="#facs_53_r1l12" n="N012"/>sion e<supplied >uer</supplied> liebden meines <unclear>fr</unclear> brueders, des <rs type="person" continued="true">prinzen</rs>
+               <lb facs="#facs_53_r1l12" n="N012"/>sion e<supplied>uer</supplied> liebden meines <unclear>fr</unclear> brueders, des <rs type="person" continued="true">prinzen</rs>
                <lb facs="#facs_53_r1l13" n="N013"/><rs type="person" continued="true">Wolfgangs</rs> liebden anligenheit wegen der coadjutori
                <lb facs="#facs_53_r1l14" n="N014"/>bey dem erzstift <rs type="place">Cölln</rs> dahin gnediglich zu reccommen
                <lb facs="#facs_53_r1l15" n="N015"/>diren, daß sie bey <rs type="person">ihres brueders</rs> dortigen canonici
@@ -248,7 +238,7 @@
                <lb facs="#facs_53_r1l17" n="N017"/>vorgedacht <unclear>dn</unclear> meines brueders liebden zu seiner, dem 
                <lb facs="#facs_53_r1l18" n="N018"/>gemainen weesen nicht vngedeylicher intention ge
                <lb facs="#facs_53_r1l19" n="N019"/>langen mögte, in zueverläßlicher versicherung, daß
-               <lb facs="#facs_53_r1l20" n="N020"/>ich solche guete bezaigung gegen e<supplied >uer</supplied> liebden und dero
+               <lb facs="#facs_53_r1l20" n="N020"/>ich solche guete bezaigung gegen e<supplied>uer</supplied> liebden und dero
                <lb facs="#facs_53_r1l21" n="N021"/>gesambtem hauß auf begebenheit danckbhbar vnd
                <lb facs="#facs_53_r1l22" n="N022"/>gnediglich zuerkhennen vnuergessen sein werde, vnd
                <lb facs="#facs_53_r1l23" n="N023"/>verbleibe deroselben benebens mit pp.

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0419.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0419.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1702-10-10"></origDate></origin>
+                        <origin><origDate when-iso="1702-10-10"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ebersdorf</placeName>
-               <date  when-iso="1702-10-10"></date>
+               <date when-iso="1702-10-10"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1670" lry="2454" ulx="0" uly="0" xml:id="facs_419">
          <graphic height="2454px" url="Kasten_blau_44_8_0419.jpg" width="1670px"/>
-         <graphic height="2454px" url="" width="1670px"/>
          <zone points="69,56 69,2432 1555,2432 1555,56" rendition="TextRegion" xml:id="facs_419_r2">
             <zone points="148,103 237,89 334,90 405,96 475,92 477,142 404,146 332,140 240,139 156,152" rendition="Line" xml:id="facs_419_line_1656597531455_1419"/>
             <zone points="335,832 395,831 456,830 516,831 577,832 638,833 698,835 759,837 819,840 880,843 941,846 1001,849 1062,853 1122,855 1183,858 1244,861 1304,862 1365,864 1425,865 1486,865 1547,865 1547,802 1486,802 1425,802 1365,801 1304,799 1244,798 1183,795 1122,792 1062,790 1001,786 941,783 880,780 819,777 759,774 698,772 638,770 577,769 516,768 456,767 395,768 335,769" rendition="Line" xml:id="facs_419_r2l3"/>
@@ -127,30 +122,29 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_419" n="419" xml:id="img_0419"/>
-
-<ab facs="#facs_419_r2" >
+         <pb facs="#facs_419" n="240 r" xml:id="Kasten_blau_44_8_0419.jpg" ed="63 r"/>
+<ab facs="#facs_419_r2">
                <lb facs="#facs_419_line_1656597531455_1419" n="N001"/><unclear>10 8bris 1702</unclear>
                <lb facs="#facs_419_r2l3" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_419_r2l4" n="N003"/>Nachdem ihr Mayestät, mein Keiser, den Lamberg
                <lb facs="#facs_419_line_1612020198991_733" n="N004"/>zu mein sohn schiken, sich zu erfreyen über die
-               <lb facs="#facs_419_r2l7" n="N005"/>erob<supplied >e</supplied>ru<supplied >n</supplied>g Landau vndt dero Liebden auch so vill
+               <lb facs="#facs_419_r2l7" n="N005"/>erob<supplied>e</supplied>ru<supplied>n</supplied>g Landau vndt dero Liebden auch so vill
                <lb facs="#facs_419_r2l8" n="N006"/>darzue cooperirt haben, also hab auch hiemit
-               <lb facs="#facs_419_r2l9" n="N007"/>meine schuldige dankhsag<supplied >ung</supplied> gegen selbige dabey
+               <lb facs="#facs_419_r2l9" n="N007"/>meine schuldige dankhsag<supplied>ung</supplied> gegen selbige dabey
                <lb facs="#facs_419_r2l10" n="N008"/>ablegen wollen. Ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Keiser, werden
                <lb facs="#facs_419_r2l11" n="N009"/>diese vndt alle andere so efficaze erwisenen
                <lb facs="#facs_419_line_1612020346794_742" n="N010"/>eifer gegen dero LIebden an allen gelegenheiten suchen zu erkennen,
-               <lb facs="#facs_419_r2l16" n="N011"/>welches, wan er Lamberg nach das glükh wi<supplied >r</supplied>t haben
+               <lb facs="#facs_419_r2l16" n="N011"/>welches, wan er Lamberg nach das glükh wi<supplied>r</supplied>t haben
                <lb facs="#facs_419_r2l17" n="N012"/>können, das er wirt kenen dero Liebden aufwarten vndt der Konig nit
-               <lb facs="#facs_419_line_1612020494805_756" n="N013"/>schon auf der reis, dero Liebden mit meh<supplied >r</supplied>en einiklich contestiren
+               <lb facs="#facs_419_line_1612020494805_756" n="N013"/>schon auf der reis, dero Liebden mit meh<supplied>r</supplied>en einiklich contestiren
                <lb facs="#facs_419_line_1612020536969_763" n="N014"/>wirt. Ich aber werde bestendichst verbleiben
                <lb facs="#facs_419_line_1612020686797_786" n="N015"/>dero Liebden
-               <lb facs="#facs_419_r2l26" n="N016"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_419_r2l26" n="N016"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_419_r2l27" n="N017"/>Eleonora
-               <lb facs="#facs_419_r2l24" n="N018"/>Eb<supplied >er</supplied>sto<supplied >r</supplied>f 10ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1702
+               <lb facs="#facs_419_r2l24" n="N018"/>Eb<supplied>er</supplied>sto<supplied>r</supplied>f 10ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1702
                <lb facs="#facs_419_line_1612020786262_793" n="N019"/>Auch sag dero Liebden vnentlich dankh vohr alle ehr vndt
-               <lb facs="#facs_419_line_1612020805820_798" n="N020"/>bezeügung, so sie mein sohn vnd der g<supplied >an</supplied>zen hoffstatt die zeit
-               <lb facs="#facs_419_line_1612020823226_803" n="N021"/>zu Heidelb<supplied >e</supplied>rg erwisen haben.
+               <lb facs="#facs_419_line_1612020805820_798" n="N020"/>bezeügung, so sie mein sohn vnd der g<supplied>an</supplied>zen hoffstatt die zeit
+               <lb facs="#facs_419_line_1612020823226_803" n="N021"/>zu Heidelb<supplied>e</supplied>rg erwisen haben.
             </ab>
 
       </body>

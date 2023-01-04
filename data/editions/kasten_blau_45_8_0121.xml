@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0121.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0121.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-01-06"></origDate></origin>
+                        <origin><origDate when-iso="1678-01-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-01-06"></date>
+               <date when-iso="1678-01-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_121">
          <graphic height="2502px" url="Kasten_blau_45_8_0121.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="300,610 300,2368 1623,2368 1623,610" rendition="TextRegion" xml:id="facs_121_r3">
             <zone points="422,704 626,663 818,715 956,645 1598,671 1626,569 1308,597 1102,549 883,615 738,571 650,608 566,576 421,600" rendition="Line" xml:id="facs_121_r3l1"/>
             <zone points="356,766 885,740 1054,784 1121,741 1519,776 1609,742 1608,705 1416,658 1055,713 922,647 759,719 697,670 354,665" rendition="Line" xml:id="facs_121_r3l2"/>
@@ -123,7 +118,6 @@
       
 <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_122">
          <graphic height="2502px" url="Kasten_blau_45_8_0122.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="226,576 226,2319 1599,2319 1599,576" rendition="TextRegion" xml:id="facs_122_r1">
             <zone points="259,648 510,687 901,620 1603,641 1601,529 1553,523 1201,560 1000,525 848,603 687,550 258,578" rendition="Line" xml:id="facs_122_r1l1"/>
             <zone points="268,749 514,696 626,734 961,703 1039,746 1250,693 1438,737 1525,700 1524,613 1343,619 1256,675 1109,617 528,684 267,648" rendition="Line" xml:id="facs_122_r1l2"/>
@@ -176,7 +170,6 @@
       
 <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_124">
          <graphic height="2502px" url="Kasten_blau_45_8_0124.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="210,654 210,1062 1574,1062 1574,654" rendition="TextRegion" xml:id="facs_124_r1">
             <zone points="259,623 337,616 356,615 1333,584 1339,714 943,769 256,779" rendition="Line" xml:id="facs_124_line_1612963931494_432"/>
             <zone points="204,858 662,840 757,893 917,826 1148,873 1267,802 1428,804 1423,695 1264,713 1177,785 892,750 691,808 571,747 397,813 314,756 200,775" rendition="Line" xml:id="facs_124_r1l3"/>
@@ -188,9 +181,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_121" n="121" xml:id="img_0121"/>
-
-<ab facs="#facs_121_r3" >
+         <pb facs="#facs_121" n="1 r" xml:id="Kasten_blau_45_8_0121.jpg"/>
+<ab facs="#facs_121_r3">
                <lb facs="#facs_121_r3l1" n="N001"/>Durchleuchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_121_r3l2" n="N002"/>Bitte vnterdehnig vmb vergebung, das bey vohriger
                <lb facs="#facs_121_r3l3" n="N003"/>post mein schuldichkeit nit hab abgelegt, ich hoffe,
@@ -212,9 +204,8 @@
                <lb facs="#facs_121_line_1612962582917_227" n="N019"/>noch nit eigentlich resoluirt. Dieses hatt
                <lb facs="#facs_121_r3l31" n="N020"/>er mihr aber in höchstem vertrawen
             </ab>
-<pb facs="#facs_122" n="122" xml:id="img_0122"/>
-
-<ab facs="#facs_122_r1" >
+<pb facs="#facs_122" n="1 v" xml:id="Kasten_blau_45_8_0122.jpg"/>
+<ab facs="#facs_122_r1">
                <lb facs="#facs_122_r1l1" n="N001"/>wißen laßen. Wegen ob brüeder mit sollen kommen,
                <lb facs="#facs_122_r1l2" n="N002"/>hatt <rs type="person">er</rs> noch kein meldung gedan vndt ist
                <lb facs="#facs_122_r1l3" n="N003"/>vohr dis mahl dieses mihr ein vnausschprechlige
@@ -233,13 +224,12 @@
                <lb facs="#facs_122_r1l31" n="N016"/>gestoßen zue werden. Bitte darumb auch
                <lb facs="#facs_122_line_1612963040371_302" n="N017"/>vnterdehnig, mihr auf <seg type="blackening">Hoher</seg> dieses vndt
                <lb facs="#facs_122_line_1612963045623_306" n="N018"/>auf folgendes nit zu antworten. Es ist
-               <lb facs="#facs_122_line_1612963050467_310" n="N019"/>gestern <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emeric</rs> bey mihr gewesen vndt <supplied >hat</supplied>
+               <lb facs="#facs_122_line_1612963050467_310" n="N019"/>gestern <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emeric</rs> bey mihr gewesen vndt <supplied>hat</supplied>
                <lb facs="#facs_122_line_1612963058274_314" n="N020"/>mihr große hoffnung gemacht wegen meines
                <lb facs="#facs_122_r1l43" n="N021"/><rs type="person">bruedern</rs> vndt selbiges gleichsamb versichert,
             </ab>
-<pb facs="#facs_123" n="123" xml:id="img_0123"/>
-
-<ab facs="#facs_123_r1" >
+<pb facs="#facs_123" n="2 r" xml:id="Kasten_blau_45_8_0123.jpg"/>
+<ab facs="#facs_123_r1">
                <lb facs="#facs_123_r1l1" n="N001"/>auch ausdrüklich gesacht, ihr <rs type="person">Mayestät</rs> seyen
                <lb facs="#facs_123_r1l3" n="N002"/>resoluirt, so balt der <rs type="person">Königin in Polen</rs> beylager
                <lb facs="#facs_123_r1l4" n="N003"/>würde vohrüber sein, mit den ministris ernstlig
@@ -254,7 +244,7 @@
                <lb facs="#facs_123_r1l17" n="N012"/>die braut selber daruon füeren. Wirt schon
                <lb facs="#facs_123_line_1612963297073_351" n="N013"/>geschen zu rechter zeit. Also scheinet, das ihr
                <lb facs="#facs_123_r1l20" n="N014"/>Mayestät des heirats, aber noch nit der zeit resoluirt
-               <lb facs="#facs_123_line_1612963306841_356" n="N015"/>seint. Befehl mi<supplied >c</supplied>ht vnterdehnig vndt bitte, auf
+               <lb facs="#facs_123_line_1612963306841_356" n="N015"/>seint. Befehl mi<supplied>c</supplied>ht vnterdehnig vndt bitte, auf
                <lb facs="#facs_123_line_1612963311546_360" n="N016"/>dieses nit zue antworten, ich sterbe
                <lb facs="#facs_123_line_1612963705497_400" n="N017"/>ewer Durchlaucht
                <lb facs="#facs_123_r1l26" n="N018"/>ganzergebenste trewgehorsam-
@@ -262,9 +252,8 @@
                <lb facs="#facs_123_r1l31" n="N020"/>EMT
                <lb facs="#facs_123_line_1612963318600_364" n="N021"/><rs type="place">Wien</rs> den <date month="1" day="6" year="1678">6 jener 1678</date>
             </ab>
-<pb facs="#facs_124" n="124" xml:id="img_0124"/>
-
-<ab facs="#facs_124_r1" >
+<pb facs="#facs_124" n="2 v" xml:id="Kasten_blau_45_8_0124.jpg"/>
+<ab facs="#facs_124_r1">
                <lb facs="#facs_124_line_1612963931494_432" n="N001"/>Bitt vntterdehnig ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>
                <lb facs="#facs_124_r1l3" n="N002"/>vmb vergebung, ihr brief ist schon
                <lb facs="#facs_124_line_1612963938590_436" n="N003"/>angefangefangen, aber die <rs type="person">Kaiserin</rs> kont,

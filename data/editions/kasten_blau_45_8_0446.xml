@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0446.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0446.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-08-20"></origDate></origin>
+                        <origin><origDate when-iso="1681-08-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-08-20"></date>
+               <date when-iso="1681-08-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_445">
          <graphic height="2553px" url="Kasten_blau_45_8_0446.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="93,482 93,2480 1610,2480 1610,482" rendition="TextRegion" xml:id="facs_445_r1">
             <zone points="346,500 1369,482 1598,482 1598,551 979,568 346,557" rendition="Line" xml:id="facs_445_line_1622982538779_1745"/>
             <zone points="261,626 325,628 389,631 454,633 518,635 583,637 647,638 712,639 776,640 841,641 905,641 969,641 1034,641 1098,640 1163,639 1227,638 1292,637 1356,635 1421,632 1485,630 1550,627 1550,570 1485,573 1421,575 1356,578 1292,580 1227,581 1163,582 1098,583 1034,584 969,584 905,584 841,584 776,583 712,582 647,581 583,580 518,578 454,576 389,574 325,571 261,569" rendition="Line" xml:id="facs_445_r1l3"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_446">
          <graphic height="2553px" url="Kasten_blau_45_8_0447.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="229,468 229,2404 1584,2404 1584,468" rendition="TextRegion" xml:id="facs_446_r1">
             <zone points="269,532 330,534 392,536 454,539 516,541 578,543 640,545 702,546 764,548 826,549 888,550 949,550 1011,551 1073,551 1135,551 1197,551 1259,551 1321,551 1383,550 1445,550 1507,549 1507,485 1445,486 1383,486 1321,487 1259,487 1197,487 1135,487 1073,487 1011,487 949,486 888,486 826,485 764,484 702,482 640,481 578,479 516,477 454,475 392,472 330,470 269,468" rendition="Line" xml:id="facs_446_r1l1"/>
             <zone points="263,628 327,628 391,629 456,629 520,629 585,630 649,630 714,630 778,631 843,631 907,631 971,632 1036,632 1100,632 1165,632 1229,632 1294,633 1358,633 1423,633 1487,633 1552,633 1552,570 1487,570 1423,570 1358,570 1294,570 1229,569 1165,569 1100,569 1036,569 971,569 907,568 843,568 778,568 714,567 649,567 585,567 520,566 456,566 391,566 327,565 263,565" rendition="Line" xml:id="facs_446_r1l2"/>
@@ -147,7 +141,6 @@
       
 <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_447">
          <graphic height="2553px" url="Kasten_blau_45_8_0448.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="144,479 144,1635 1607,1635 1607,479" rendition="TextRegion" xml:id="facs_447_r3">
             <zone points="317,548 378,548 439,548 501,548 562,548 624,548 685,548 746,548 808,549 869,549 931,549 992,548 1053,548 1115,547 1176,546 1238,545 1299,543 1360,541 1422,538 1483,535 1545,531 1545,479 1483,483 1422,486 1360,489 1299,491 1238,493 1176,494 1115,495 1053,496 992,496 931,497 869,497 808,497 746,496 685,496 624,496 562,496 501,496 439,496 378,496 317,496" rendition="Line" xml:id="facs_447_r3l1"/>
             <zone points="324,585 647,572 1523,566 1569,566 1569,618 1068,633 1023,634 977,635 886,636 324,637" rendition="Line" xml:id="facs_447_line_1622982649430_1810"/>
@@ -167,9 +160,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_445" n="445" xml:id="img_0445"/>
-
-<ab facs="#facs_445_r1" >
+         <pb facs="#facs_445" n="266 r" xml:id="Kasten_blau_45_8_0446.jpg"/>
+<ab facs="#facs_445_r1">
                <lb facs="#facs_445_line_1622982538779_1745" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_445_r1l3" n="N002"/>Es ist mihr von herzen leidt geweßen, aus ihr
                <lb facs="#facs_445_r1l5" n="N003"/>Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person">frawen muetter</rs>, schreiben zue er-
@@ -188,11 +180,10 @@
                <lb facs="#facs_445_line_1622982560833_1759" n="N016"/>ihme verners mit ihren gnaden beystehn.
                <lb facs="#facs_445_r1l22" n="N017"/>Ich zweifle nit, nuhnmehro werde schon die
                <lb facs="#facs_445_r1l23" n="N018"/>vollige gesundtheit erfolget sein, weilen es
-               <lb facs="#facs_445_line_1622982566413_1763" n="N019"/>durch vnserliben fr<supplied >a</supplied>wen zue beßerung kommen.
+               <lb facs="#facs_445_line_1622982566413_1763" n="N019"/>durch vnserliben fr<supplied>a</supplied>wen zue beßerung kommen.
             </ab>
-<pb facs="#facs_446" n="446" xml:id="img_0446"/>
-
-<ab facs="#facs_446_r1" >
+<pb facs="#facs_446" n="266 v" xml:id="Kasten_blau_45_8_0447.jpg"/>
+<ab facs="#facs_446_r1">
                <lb facs="#facs_446_r1l1" n="N001"/>Mihr seindt auch <seg type="blackening">ges</seg> vohrgestren abens <rs type="place">hier</rs>
                <lb facs="#facs_446_r1l2" n="N002"/>wohl angelangt, gott gebe einen guetten schlus.
                <lb facs="#facs_446_r1l3" n="N003"/>Bis dato hatt man noch niks vohrnemmen
@@ -213,9 +204,8 @@
                <lb facs="#facs_446_r1l22" n="N018"/>sahl ist gahr schön. Wirt wehnig fehlen,
                <lb facs="#facs_446_line_1622982611931_1788" n="N019"/>das er nit so groß als der zue
             </ab>
-<pb facs="#facs_447" n="447" xml:id="img_0447"/>
-
-<ab facs="#facs_447_r3" >
+<pb facs="#facs_447" n="267 r" xml:id="Kasten_blau_45_8_0448.jpg"/>
+<ab facs="#facs_447_r3">
                <lb facs="#facs_447_r3l1" n="N001"/><rs type="place">Neüburg</rs> sein wirt. Die capellen ist auch
                <lb facs="#facs_447_line_1622982649430_1810" n="N002"/>gahr schön vnd ein gnadenbilt von vnser-
                <lb facs="#facs_447_line_1622982653789_1814" n="N003"/><choice><expan>lieben</expan><abbr>ln</abbr></choice> frawen darinen, ist ein pfar. Das

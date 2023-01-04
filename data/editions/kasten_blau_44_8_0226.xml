@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0226.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0226.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-11-09"></origDate></origin>
+                        <origin><origDate when-iso="1701-11-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-11-09"></date>
+               <date when-iso="1701-11-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_226">
          <graphic height="2465px" url="Kasten_blau_44_8_0226.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="91,46 91,2399 1602,2399 1602,46" rendition="TextRegion" xml:id="facs_226_r1">
             <zone points="313,796 375,798 438,799 501,801 564,802 627,803 689,803 752,804 815,803 878,803 941,802 1003,801 1066,799 1129,797 1192,794 1255,791 1317,787 1380,784 1443,778 1506,773 1569,767 1569,697 1506,703 1443,708 1380,714 1317,717 1255,721 1192,724 1129,727 1066,729 1003,731 941,732 878,733 815,733 752,734 689,733 627,733 564,732 501,731 438,729 375,728 313,726" rendition="Line" xml:id="facs_226_r1l2"/>
             <zone points="196,939 261,936 326,934 391,932 456,932 522,931 587,931 652,932 717,932 782,932 848,932 913,932 978,931 1043,929 1108,927 1174,924 1239,919 1304,914 1369,906 1435,897 1435,827 1369,836 1304,844 1239,849 1174,854 1108,857 1043,859 978,861 913,862 848,862 782,862 717,862 652,862 587,861 522,861 456,862 391,862 326,864 261,866 196,869" rendition="Line" xml:id="facs_226_r1l3"/>
@@ -116,7 +111,6 @@
       
 <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_227">
          <graphic height="2465px" url="Kasten_blau_44_8_0227.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="93,59 93,2413 1603,2413 1603,59" rendition="TextRegion" xml:id="facs_227_r2">
             <zone points="188,237 253,237 319,237 385,237 451,237 517,236 583,236 649,236 715,236 781,236 847,236 912,236 978,236 1044,236 1110,236 1176,236 1242,237 1308,237 1374,238 1440,238 1506,239 1506,181 1440,180 1374,180 1308,179 1242,179 1176,178 1110,178 1044,178 978,178 912,178 847,178 781,178 715,178 649,178 583,178 517,178 451,179 385,179 319,179 253,179 188,179" rendition="Line" xml:id="facs_227_r2l2"/>
             <zone points="178,338 244,340 310,342 376,343 442,345 508,346 574,348 640,349 706,350 772,352 839,353 905,353 971,354 1037,354 1103,354 1169,354 1235,353 1301,351 1367,350 1433,347 1500,345 1500,287 1433,289 1367,292 1301,293 1235,295 1169,296 1103,296 1037,296 971,296 905,295 839,295 772,294 706,292 640,291 574,290 508,288 442,287 376,285 310,284 244,282 178,280" rendition="Line" xml:id="facs_227_r2l3"/>
@@ -138,14 +132,13 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_226" n="226" xml:id="img_0226"/>
-
-<ab facs="#facs_226_r1" >
+         <pb facs="#facs_226" n="129 r" xml:id="Kasten_blau_44_8_0226.jpg" ed="136 r"/>
+<ab facs="#facs_226_r1">
                <lb facs="#facs_226_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_226_r1l3" n="N002"/>Ich bitt vmb vergebung, das dero libst sch<supplied >rei</supplied>ben nit
+               <lb facs="#facs_226_r1l3" n="N002"/>Ich bitt vmb vergebung, das dero libst sch<supplied>rei</supplied>ben nit
                <lb facs="#facs_226_r1l4" n="N003"/>beantwort, seint dise wochen gahr vill occupationen
-               <lb facs="#facs_226_r1l5" n="N004"/>gew<supplied >e</supplied>st vnd heündt der schluß der octau der armen
-               <lb facs="#facs_226_r1l6" n="N005"/>sehlen, werd mich b<supplied >e</supplied>fleisen mitt nechster post es zu 
+               <lb facs="#facs_226_r1l5" n="N004"/>gew<supplied>e</supplied>st vnd heündt der schluß der octau der armen
+               <lb facs="#facs_226_r1l6" n="N005"/>sehlen, werd mich b<supplied>e</supplied>fleisen mitt nechster post es zu 
                <lb facs="#facs_226_r1l7" n="N006"/>duen. Überschikh hirmit die dagzettel. Heundt aber 
                <lb facs="#facs_226_r1l8" n="N007"/>ist ein courir komen, hatt bracht, das gutte anschläg 
                <lb facs="#facs_226_line_1611244378532_392" n="N008"/>gehabt, aber nit könen volgen wegen der waßer, so
@@ -153,20 +146,19 @@
                <lb facs="#facs_226_r1l13" n="N010"/>meilandische troupen geschlagen vnd den Monroi gefangen
                <lb facs="#facs_226_r1l14" n="N011"/>bekommen, den detaill werden dero Liebden mit nechster dagzettel
                <lb facs="#facs_226_r1l15" n="N012"/>bekommen. In deßen ist gestren der Ragozzi durchgangen,
-               <lb facs="#facs_226_r1l17" n="N013"/>man s<supplied >e</supplied>zt nach vnd inquirirt stark, das ist ein
+               <lb facs="#facs_226_r1l17" n="N013"/>man s<supplied>e</supplied>zt nach vnd inquirirt stark, das ist ein
             </ab>
-<pb facs="#facs_227" n="227" xml:id="img_0227"/>
-
-<ab facs="#facs_227_r2" >
+<pb facs="#facs_227" n="129 v" xml:id="Kasten_blau_44_8_0227.jpg" ed="136 v"/>
+<ab facs="#facs_227_r2">
                <lb facs="#facs_227_r2l2" n="N001"/>bös stükh, der wirt vns große hendel machen.
                <lb facs="#facs_227_r2l3" n="N002"/>Der liebste gott wolle alles zum besten schiken.
-               <lb facs="#facs_227_r2l4" n="N003"/>Ich lebe und ste<supplied >r</supplied>be
+               <lb facs="#facs_227_r2l4" n="N003"/>Ich lebe und ste<supplied>r</supplied>be
                <lb facs="#facs_227_line_1611244992842_461" n="N004"/>dero Liebden
-               <lb facs="#facs_227_r2l6" n="N005"/>g<supplied >e</supplied>trewste schw<supplied >e</supplied>ster
+               <lb facs="#facs_227_r2l6" n="N005"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
                <lb facs="#facs_227_line_1611245048714_468" n="N006"/>Eleonora
                <lb facs="#facs_227_r2l5" n="N007"/>Wien den 9ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1701
-               <lb facs="#facs_227_line_1611245048714_469" n="N008"/>Bitt meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied >e</supplied>ster die schensten
-               <lb facs="#facs_227_r2l8" n="N009"/>compliment <supplied >zu machen</supplied>. Hierbey schik auch den brif oder die antwort
+               <lb facs="#facs_227_line_1611245048714_469" n="N008"/>Bitt meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied>e</supplied>ster die schensten
+               <lb facs="#facs_227_r2l8" n="N009"/>compliment <supplied>zu machen</supplied>. Hierbey schik auch den brif oder die antwort
                <lb facs="#facs_227_r2l9" n="N010"/>von Papsten in originale, bitte mihrs zu remitirn.
                <lb facs="#facs_227_r2l10" n="N011"/>Bedankh mich zum schensten vmb die gutten <unclear>lekerbetser</unclear>,
                <lb facs="#facs_227_r2l11" n="N012"/>werdens auf dero Liebden gesuntheit verzehren. Mein Keiser

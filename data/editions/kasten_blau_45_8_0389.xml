@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0389.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0389.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-11-16"></origDate></origin>
+                        <origin><origDate when-iso="1680-11-16"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1680-11-16"></date>
+               <date when-iso="1680-11-16"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1700" lry="2580" ulx="0" uly="0" xml:id="facs_388">
          <graphic height="2580px" url="Kasten_blau_45_8_0389.jpg" width="1700px"/>
-         <graphic height="2580px" url="" width="1700px"/>
          <zone points="84,491 84,2487 1634,2487 1634,491" rendition="TextRegion" xml:id="facs_388_r1">
             <zone points="412,537 541,531 584,530 1581,512 1581,567 1427,573 1401,574 1350,575 1299,575 412,567" rendition="Line" xml:id="facs_388_line_1622277514756_1013"/>
             <zone points="324,630 494,616 1590,613 1590,647 1485,651 1329,654 1276,655 546,668 409,666 380,665 324,661" rendition="Line" xml:id="facs_388_line_1622277519341_1017"/>
@@ -121,7 +116,6 @@
       
 <surface lrx="1700" lry="2580" ulx="0" uly="0" xml:id="facs_389">
          <graphic height="2580px" url="Kasten_blau_45_8_0390.jpg" width="1700px"/>
-         <graphic height="2580px" url="" width="1700px"/>
          <zone points="128,372 138,1599 1588,1602 1578,375" rendition="TextRegion" xml:id="facs_389_r1">
             <zone points="278,427 383,424 1515,375 1515,447 1416,461 1366,467 1267,478 1218,482 1168,486 1069,493 1020,495 921,499 871,501 449,510 278,508" rendition="Line" xml:id="facs_389_line_1622277743844_1150"/>
             <zone points="294,551 1467,482 1493,481 1520,481 1520,553 1152,598 961,616 907,619 575,626 524,627 472,628 370,628 294,627" rendition="Line" xml:id="facs_389_line_1622277747829_1154"/>
@@ -140,9 +134,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_388" n="388" xml:id="img_0388"/>
-
-<ab facs="#facs_388_r1" >
+         <pb facs="#facs_388" n="231 r" xml:id="Kasten_blau_45_8_0389.jpg"/>
+<ab facs="#facs_388_r1">
                <lb facs="#facs_388_line_1622277514756_1013" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_388_line_1622277519341_1017" n="N002"/>Ewer Durchlaucht hab ich wohl vhrsag, <choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice> vmb verge-
                <lb facs="#facs_388_line_1622277537365_1027" n="N003"/>bung zue bitten, das ich bey vohriger
@@ -162,9 +155,8 @@
                <lb facs="#facs_388_line_1622277681371_1128" n="N017"/>die maiora vohr mein <rs type="person">brueder</rs> geweßen, gott
                <lb facs="#facs_388_line_1622277700525_1134" n="N018"/>gebe weiters sein <choice><expan>gnade</expan><abbr>g</abbr></choice>. Ihr <rs type="person">Mayestät</rs> haben den <choice><expan>Pater</expan><abbr>P</abbr></choice>
             </ab>
-<pb facs="#facs_389" n="389" xml:id="img_0389"/>
-
-<ab facs="#facs_389_r1" >
+<pb facs="#facs_389" n="231 v" xml:id="Kasten_blau_45_8_0390.jpg"/>
+<ab facs="#facs_389_r1">
                <lb facs="#facs_389_line_1622277743844_1150" n="N001"/>zumb Bischoff von <rs type="place">Wien</rs> declarit, hab es nit
                <lb facs="#facs_389_line_1622277747829_1154" n="N002"/>vnterlaßen wollen, ewer Durchlaucht zue berichten, weil
                <lb facs="#facs_389_line_1622277752721_1158" n="N003"/>ich weis, das es ihnen lieb wirt sein zue
@@ -172,7 +164,7 @@
                <lb facs="#facs_389_line_1622277787194_1168" n="N005"/>was vns angeht großen eifer zeiget zu
                <lb facs="#facs_389_line_1622277792195_1172" n="N006"/>dienen. Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> vndt sterbe
                <lb facs="#facs_389_line_1622277918963_1207" n="N007"/>ewer Durchlaucht
-               <lb facs="#facs_389_line_1622277812194_1177" n="N008"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_389_line_1622277812194_1177" n="N008"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_389_line_1622277889884_1193" n="N009"/>dochter
                <lb facs="#facs_389_line_1622277895870_1198" n="N010"/>EMT
                <lb facs="#facs_389_line_1622277884282_1188" n="N011"/><rs type="place">Linz</rs> den <date month="11" day="16" year="1680">16 9ber 1680</date>

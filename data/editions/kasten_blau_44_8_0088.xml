@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0088.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0088.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-02-21"></origDate></origin>
+                        <origin><origDate when-iso="1701-02-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-02-21"></date>
+               <date when-iso="1701-02-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -562,9 +558,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_88" n="88" xml:id="img_0088"/>
-
-<ab facs="#facs_88_r1" >
+         <pb facs="#facs_88" n="48 r" xml:id="Kasten_blau_44_8_0088.jpg" ed="22 r"/>
+<ab facs="#facs_88_r1">
                <lb facs="#facs_88_r1l1" n="N001"/>Eu
                <lb facs="#facs_88_r1l2" n="N002"/>E  1
                <lb facs="#facs_88_r1l3" n="N003"/>alerdurchleüchtigster
@@ -590,9 +585,8 @@
                <lb facs="#facs_88_r1l23" n="N023"/>mit eben sudtiger gelegenheit ohn dieher
                <lb facs="#facs_88_r1l24" n="N024"/>euer Liebd
             </ab>
-<pb facs="#facs_89" n="89" xml:id="img_0089"/>
-
-<ab facs="#facs_89_r1" >
+<pb facs="#facs_89" n="48 v" xml:id="Kasten_blau_44_8_0089.jpg" ed="22 v"/>
+<ab facs="#facs_89_r1">
                <lb facs="#facs_89_r1l1" n="N001"/>kan meinen allergeschen beyerien vnd segeallen
                <lb facs="#facs_89_r1l2" n="N002"/>lan dem laßet auf welchem beyen die
                <lb facs="#facs_89_r1l3" n="N003"/>selbe den wahrhaftig gegenwartigen gefahr
@@ -617,12 +611,11 @@
                <lb facs="#facs_89_r1l22" n="N022"/>das comendo vberleine cespecticiren
                <lb facs="#facs_89_r1l23" n="N023"/>e
             </ab>
-<pb facs="#facs_90" n="90" xml:id="img_0090"/>
-
-<ab facs="#facs_90_r1" >
+<pb facs="#facs_90" n="49 r" xml:id="Kasten_blau_44_8_0090.jpg" ed="23 r"/>
+<ab facs="#facs_90_r1">
                <lb facs="#facs_90_r1l1" n="N001"/>E
             </ab>
-<ab facs="#facs_90_r2" >
+<ab facs="#facs_90_r2">
                <lb facs="#facs_90_r2l1" n="N001"/>u
                <lb facs="#facs_90_r2l2" n="N002"/>vnder zu vnverlegen mich her 
                <lb facs="#facs_90_r2l3" n="N003"/>comontrier ver les den allergese
@@ -649,9 +642,8 @@
                <lb facs="#facs_90_r2l24" n="N024"/>gar ist in eine verstanderumb bringen
                <lb facs="#facs_90_r2l25" n="N025"/>re
             </ab>
-<pb facs="#facs_91" n="91" xml:id="img_0091"/>
-
-<ab facs="#facs_91_r1" >
+<pb facs="#facs_91" n="49 v" xml:id="Kasten_blau_44_8_0091.jpg" ed="23 v"/>
+<ab facs="#facs_91_r1">
                <lb facs="#facs_91_r1l1" n="N001"/>wirt eines halt in der siheren due
                <lb facs="#facs_91_r1l2" n="N002"/>mehnigst das dießenhen können handt ver
                <lb facs="#facs_91_r1l3" n="N003"/>de andern ohne cagiorn zu geben we
@@ -679,9 +671,8 @@
                <lb facs="#facs_91_r1l25" n="N025"/>das vertrawen bey dem seißen a
                <lb facs="#facs_91_r1l26" n="N026"/>bunderlich begen deßwegen laßlich
             </ab>
-<pb facs="#facs_92" n="92" xml:id="img_0092"/>
-
-<ab facs="#facs_92_r1" >
+<pb facs="#facs_92" n="50 r" xml:id="Kasten_blau_44_8_0092.jpg" ed="27 r"/>
+<ab facs="#facs_92_r1">
                <lb facs="#facs_92_r1l1" n="N001"/>e
                <lb facs="#facs_92_r1l2" n="N002"/>weilen ihme auch zue dans darey wahl
                <lb facs="#facs_92_r1l3" n="N003"/>vngeseh ver dem beydes sein dereng
@@ -710,12 +701,11 @@
                <lb facs="#facs_92_r1l26" n="N026"/>e
                <lb facs="#facs_92_r1l27" n="N027"/>isen in vn
             </ab>
-<pb facs="#facs_93" n="93" xml:id="img_0093"/>
-
-<ab facs="#facs_93_r1" >
+<pb facs="#facs_93" n="50 v" xml:id="Kasten_blau_44_8_0093.jpg" ed="27 v"/>
+<ab facs="#facs_93_r1">
                <lb facs="#facs_93_r1l1" n="N001"/>e
             </ab>
-<ab facs="#facs_93_r2" >
+<ab facs="#facs_93_r2">
                <lb facs="#facs_93_r2l1" n="N001"/>vnd vörtlig demaritaliert vnd deren
                <lb facs="#facs_93_r2l2" n="N002"/>mag von demen alten demeren zue gehalte
                <lb facs="#facs_93_r2l3" n="N003"/>icherbundte vhralten mer vnernb
@@ -741,9 +731,8 @@
                <lb facs="#facs_93_r2l23" n="N023"/>nechlige befdden danckh gesein
                <lb facs="#facs_93_r2l24" n="N024"/>l
             </ab>
-<pb facs="#facs_94" n="94" xml:id="img_0094"/>
-
-<ab facs="#facs_94_r1" >
+<pb facs="#facs_94" n="51 r" xml:id="Kasten_blau_44_8_0094.jpg" ed="28 r"/>
+<ab facs="#facs_94_r1">
                <lb facs="#facs_94_r1l1" n="N001"/>Eu
                <lb facs="#facs_94_r1l2" n="N002"/>glach heraus dießen keiner dpetementer
                <lb facs="#facs_94_r1l3" n="N003"/>vn vngebige ihme rahts laßen verschierenden
@@ -772,15 +761,14 @@
                <lb facs="#facs_94_r1l26" n="N026"/> hin anges enemen ihen zeigen order
                <lb facs="#facs_94_r1l27" n="N027"/>u
             </ab>
-<ab facs="#facs_94_r2" >
+<ab facs="#facs_94_r2">
                <lb facs="#facs_94_r2l1" n="N001"/>e
             </ab>
-<pb facs="#facs_95" n="95" xml:id="img_0095"/>
-
-<ab facs="#facs_95_r1" >
+<pb facs="#facs_95" n="51 v" xml:id="Kasten_blau_44_8_0095.jpg" ed="28 v"/>
+<ab facs="#facs_95_r1">
                <lb facs="#facs_95_r1l1" n="N001"/>er
             </ab>
-<ab facs="#facs_95_r2" >
+<ab facs="#facs_95_r2">
                <lb facs="#facs_95_r2l1" n="N001"/>in gendt muethwilliger wöhe curines
                <lb facs="#facs_95_r2l2" n="N002"/>daber nicht gereich anderen die dar
                <lb facs="#facs_95_r2l3" n="N003"/>gelgen so die leste coonpag weren
@@ -807,15 +795,14 @@
                <lb facs="#facs_95_r2l24" n="N024"/>gesacht meine armen zue disfalte enden
                <lb facs="#facs_95_r2l25" n="N025"/>aber deß heündl dietion lerglich
             </ab>
-<pb facs="#facs_96" n="96" xml:id="img_0096"/>
-
-<ab facs="#facs_96_r1" >
+<pb facs="#facs_96" n="52 r" xml:id="Kasten_blau_44_8_0096.jpg" ed="29 r"/>
+<ab facs="#facs_96_r1">
                <lb facs="#facs_96_r1l1" n="N001"/>u
             </ab>
-<ab facs="#facs_96_r2" >
+<ab facs="#facs_96_r2">
                <lb facs="#facs_96_r2l1" n="N001"/>e
             </ab>
-<ab facs="#facs_96_r3" >
+<ab facs="#facs_96_r3">
                <lb facs="#facs_96_r3l1" n="N001"/>e
                <lb facs="#facs_96_r3l2" n="N002"/>überlaßen undediehelbe mehrer al
                <lb facs="#facs_96_r3l3" n="N003"/>der grundt selbsten ohne der allergengehen
@@ -843,9 +830,8 @@
                <lb facs="#facs_96_r3l25" n="N025"/>an man dag wan die aus der
                <lb facs="#facs_96_r3l26" n="N026"/>e
             </ab>
-<pb facs="#facs_97" n="97" xml:id="img_0097"/>
-
-<ab facs="#facs_97_r1" >
+<pb facs="#facs_97" n="52 v" xml:id="Kasten_blau_44_8_0097.jpg" ed="29 v"/>
+<ab facs="#facs_97_r1">
                <lb facs="#facs_97_r1l1" n="N001"/>belaage es han so ich mit dißen lesterer
                <lb facs="#facs_97_r1l2" n="N002"/>post all kamen zurerzalßlich bedunung
                <lb facs="#facs_97_r1l3" n="N003"/>dach der angrauen sier vndersteheit ge
@@ -871,9 +857,8 @@
                <lb facs="#facs_97_r1l23" n="N023"/>zu befeßen dar das balich derselbe
                <lb facs="#facs_97_r1l24" n="N024"/>dimlacht mich gelegenheit beygehanteren
             </ab>
-<pb facs="#facs_98" n="98" xml:id="img_0098"/>
-
-<ab facs="#facs_98_r1" >
+<pb facs="#facs_98" n="53 r" xml:id="Kasten_blau_44_8_0098.jpg" ed="30 r"/>
+<ab facs="#facs_98_r1">
                <lb facs="#facs_98_r1l1" n="N001"/>ue
                <lb facs="#facs_98_r1l2" n="N002"/>deselbe were könne cape vnd deni
                <lb facs="#facs_98_r1l3" n="N003"/>mad gegen sun mein ne
@@ -905,9 +890,8 @@
                <lb facs="#facs_98_r1l29" n="N029"/>veruhamisen beyen verster   die verung
                <lb facs="#facs_98_r1l30" n="N030"/>e
             </ab>
-<pb facs="#facs_99" n="99" xml:id="img_0099"/>
-
-<ab facs="#facs_99_r1" >
+<pb facs="#facs_99" n="53 v" xml:id="Kasten_blau_44_8_0099.jpg" ed="30 v"/>
+<ab facs="#facs_99_r1">
                <lb facs="#facs_99_r1l1" n="N001"/>ue
                <lb facs="#facs_99_r1l2" n="N002"/>e
                <lb facs="#facs_99_r1l3" n="N003"/> affectiue durchbung es sammen
@@ -935,9 +919,8 @@
                <lb facs="#facs_99_r1l25" n="N025"/>coment mit egel nellend gehen
                <lb facs="#facs_99_r1l26" n="N026"/>u
             </ab>
-<pb facs="#facs_100" n="100" xml:id="img_0100"/>
-
-<ab facs="#facs_100_r1" >
+<pb facs="#facs_100" n="54 r" xml:id="Kasten_blau_44_8_0100.jpg" ed="31 r"/>
+<ab facs="#facs_100_r1">
                <lb facs="#facs_100_r1l1" n="N001"/>e
                <lb facs="#facs_100_r1l2" n="N002"/>das erha als seiner und also den
                <lb facs="#facs_100_r1l3" n="N003"/>aig obligeren ich angen g begerische
@@ -963,9 +946,8 @@
                <lb facs="#facs_100_r1l23" n="N023"/>den verlesagung deren nig vndrdeuer
                <lb facs="#facs_100_r1l24" n="N024"/>euer Liebde
             </ab>
-<pb facs="#facs_101" n="101" xml:id="img_0101"/>
-
-<ab facs="#facs_101_r1" >
+<pb facs="#facs_101" n="54 v" xml:id="Kasten_blau_44_8_0101.jpg" ed="31 v"/>
+<ab facs="#facs_101_r1">
                <lb facs="#facs_101_r1l1" n="N001"/>ragen ham her beze
                <lb facs="#facs_101_r1l2" n="N002"/>dert mus de hlich ammeretime
                <lb facs="#facs_101_r1l3" n="N003"/>den herundt verdönnen zwahen werte ich
@@ -990,15 +972,14 @@
                <lb facs="#facs_101_r1l22" n="N022"/>cisert nem schreibe wie a
                <lb facs="#facs_101_r1l23" n="N023"/>wegen der leldigin gehet liebey zue dero
             </ab>
-<pb facs="#facs_102" n="102" xml:id="img_0102"/>
-
-<ab facs="#facs_102_r1" >
+<pb facs="#facs_102" n="55 r" xml:id="Kasten_blau_44_8_0102.jpg" ed="32 r"/>
+<ab facs="#facs_102_r1">
                <lb facs="#facs_102_r1l1" n="N001"/>a
             </ab>
-<ab facs="#facs_102_r2" >
+<ab facs="#facs_102_r2">
                <lb facs="#facs_102_r2l1" n="N001"/>es
             </ab>
-<ab facs="#facs_102_r3" >
+<ab facs="#facs_102_r3">
                <lb facs="#facs_102_r3l1" n="N001"/>verheult auch bilter dar ze
                <lb facs="#facs_102_r3l2" n="N002"/>eplectionen der armen ren
                <lb facs="#facs_102_r3l3" n="N003"/>ern haus eingen es martiert wederi
@@ -1015,7 +996,7 @@
                <lb facs="#facs_102_r3l14" n="N014"/>uch
                <lb facs="#facs_102_r3l15" n="N015"/>E
             </ab>
-<ab facs="#facs_102_r4" >
+<ab facs="#facs_102_r4">
                <lb facs="#facs_102_r4l1" n="N001"/>e
             </ab>
 

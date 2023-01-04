@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0130.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0130.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-02-13"></origDate></origin>
+                        <origin><origDate when-iso="1678-02-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date  when-iso="1678-02-13"></date>
+               <date when-iso="1678-02-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_130">
          <graphic height="2502px" url="Kasten_blau_45_8_0130.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="247,572 247,2366 1599,2366 1599,572" rendition="TextRegion" xml:id="facs_130_r3">
             <zone points="350,679 404,675 458,671 513,666 567,663 622,659 676,656 730,653 785,650 839,647 894,644 948,642 1002,640 1057,638 1111,635 1166,633 1220,630 1274,628 1329,626 1383,624 1438,621 1438,572 1383,575 1329,577 1274,579 1220,581 1166,584 1111,586 1057,589 1002,591 948,593 894,595 839,598 785,601 730,604 676,607 622,610 567,614 513,617 458,622 404,626 350,630" rendition="Line" xml:id="facs_130_r3l1"/>
             <zone points="277,763 335,761 394,758 453,754 512,751 570,746 629,742 688,738 747,734 805,729 864,725 923,720 982,716 1040,712 1099,708 1158,704 1217,700 1275,697 1334,694 1393,691 1452,689 1452,640 1393,642 1334,645 1275,648 1217,651 1158,655 1099,659 1040,663 982,667 923,671 864,676 805,680 747,685 688,689 629,693 570,697 512,702 453,705 394,709 335,712 277,714" rendition="Line" xml:id="facs_130_r3l3"/>
@@ -140,9 +135,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_130" n="130" xml:id="img_0130"/>
-
-<ab facs="#facs_130_r3" >
+         <pb facs="#facs_130" n="5 r" xml:id="Kasten_blau_45_8_0130.jpg"/>
+<ab facs="#facs_130_r3">
                <lb facs="#facs_130_r3l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_130_r3l3" n="N002"/>Ich habe wohl vhrsach, gehorsamist vmb vergebung
                <lb facs="#facs_130_r3l4" n="N003"/>zue bitten, das zwey posten meine schuldikeit nit
@@ -165,9 +159,8 @@
                <lb facs="#facs_130_r3l24" n="N020"/>das glaube ich wohl vndt habe allezeit geforchten,
                <lb facs="#facs_130_r3l25" n="N021"/>das nit vill guettes von ihme zu hoffen
             </ab>
-<pb facs="#facs_131" n="131" xml:id="img_0131"/>
-
-<ab facs="#facs_131_r1" >
+<pb facs="#facs_131" n="5 v" xml:id="Kasten_blau_45_8_0131.jpg"/>
+<ab facs="#facs_131_r1">
                <lb facs="#facs_131_r1l1" n="N001"/>währe. Ich mueß auch dismahl vmb vergebung
                <lb facs="#facs_131_r1l2" n="N002"/>bitten, das so balt mueß abrechen, die zeit erleidet nit
                <lb facs="#facs_131_r1l3" n="N003"/>mehrers, also befehle ich mich hiermit gehorsamst

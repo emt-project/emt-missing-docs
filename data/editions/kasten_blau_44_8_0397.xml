@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0397.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0397.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1702-06-24"></origDate></origin>
+                        <origin><origDate when-iso="1702-06-24"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ebersdorf</placeName>
-               <date  when-iso="1702-06-24"></date>
+               <date when-iso="1702-06-24"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1618" lry="2485" ulx="0" uly="0" xml:id="facs_397">
          <graphic height="2485px" url="Kasten_blau_44_8_0397.jpg" width="1618px"/>
-         <graphic height="2485px" url="" width="1618px"/>
          <zone points="73,102 73,2386 1531,2386 1531,102" rendition="TextRegion" xml:id="facs_397_r1">
             <zone points="143,871 298,878 361,877 423,876 486,875 549,874 611,872 674,870 736,868 799,866 862,863 924,860 987,857 1049,853 1112,850 1175,845 1237,841 1300,836 1362,831 1425,826 1488,820 1488,762 1425,768 1362,773 1300,778 1237,783 1175,787 1112,792 1049,795 987,799 924,802 862,805 799,808 736,810 674,812 611,814 549,816 486,817 423,818 361,819 298,820 143,813" rendition="Line" xml:id="facs_397_r1l2"/>
             <zone points="76,1019 142,1017 209,1016 275,1014 342,1012 408,1010 475,1007 541,1004 608,1002 674,999 741,996 808,992 874,989 941,985 1007,981 1074,977 1140,973 1207,968 1273,964 1340,960 1407,955 1407,897 1340,902 1273,906 1207,910 1140,915 1074,919 1007,923 941,927 874,931 808,934 741,938 674,941 608,944 541,946 475,949 408,952 342,954 275,956 209,958 142,959 76,961" rendition="Line" xml:id="facs_397_r1l3"/>
@@ -123,26 +118,25 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_397" n="397" xml:id="img_0397"/>
-
-<ab facs="#facs_397_r1" >
-               <lb facs="#facs_397_r1l2" n="N001"/>Durchleüchtiger Curfü<supplied >r</supplied>st, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_397_r1l3" n="N002"/>Dise zeilen dienen nuhr, dero Liebden zu den heinth<supplied >i</supplied>gen dag
-               <lb facs="#facs_397_r1l5" n="N003"/>alles g<supplied >l</supplied>ükh mit villen volgenden anzuwuntschen
+         <pb facs="#facs_397" n="227 r" xml:id="Kasten_blau_44_8_0397.jpg" ed="48 r"/>
+<ab facs="#facs_397_r1">
+               <lb facs="#facs_397_r1l2" n="N001"/>Durchleüchtiger Curfü<supplied>r</supplied>st, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_397_r1l3" n="N002"/>Dise zeilen dienen nuhr, dero Liebden zu den heinth<supplied>i</supplied>gen dag
+               <lb facs="#facs_397_r1l5" n="N003"/>alles g<supplied>l</supplied>ükh mit villen volgenden anzuwuntschen
                <lb facs="#facs_397_r1l6" n="N004"/>vndt was sie selbsten wüntschen vnd verlangen
-               <lb facs="#facs_397_r1l7" n="N005"/>mogen. Gott s<supplied >e</supplied>y gebenedeit, das Keiserschw<supplied >er</supplied>t <unclear>entlich</unclear>
+               <lb facs="#facs_397_r1l7" n="N005"/>mogen. Gott s<supplied>e</supplied>y gebenedeit, das Keiserschw<supplied>er</supplied>t <unclear>entlich</unclear>
                <lb facs="#facs_397_r1l8" n="N006"/>einmahl über <seg type="blackening">has</seg> tritt. Dero Liebden vergeben mihr, das ich 
-               <lb facs="#facs_397_r1l9" n="N007"/>dismahl nit mehr sch<supplied >rei</supplied>be vnd dero libste <choice><expan>schreiben</expan><abbr>schb</abbr></choice>
+               <lb facs="#facs_397_r1l9" n="N007"/>dismahl nit mehr sch<supplied>rei</supplied>be vnd dero libste <choice><expan>schreiben</expan><abbr>schb</abbr></choice>
                <lb facs="#facs_397_r1l11" n="N008"/>beantwort, izt mit dem abschiedt nemmen
                <lb facs="#facs_397_r1l12" n="N009"/>steht mihr der kopf nit am rechten ort,
                <lb facs="#facs_397_r1l15" n="N010"/>mit könftiger post wirts geschen. Ich werd leben
-               <lb facs="#facs_397_line_1611925007766_887" n="N011"/>vnd st<supplied >e</supplied>rben
+               <lb facs="#facs_397_line_1611925007766_887" n="N011"/>vnd st<supplied>e</supplied>rben
                <lb facs="#facs_397_line_1611925020264_892" n="N012"/>dero Liebden
-               <lb facs="#facs_397_r1l16" n="N013"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_397_r1l16" n="N013"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_397_r1l18" n="N014"/>Eleonora
                <lb facs="#facs_397_r1l17" n="N015"/><unclear>Adenahln</unclear> 24ten junij 1702
                <lb facs="#facs_397_r1l19" n="N016"/>Bitt, dero Liebden wolen mich heint bey meiner
-               <lb facs="#facs_397_r1l20" n="N017"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwägrin entschuldigen, mit nechsten werd als e<supplied >r</supplied>sezen.
+               <lb facs="#facs_397_r1l20" n="N017"/><choice><expan>fraw</expan><abbr>f</abbr></choice> schwägrin entschuldigen, mit nechsten werd als e<supplied>r</supplied>sezen.
             </ab>
 
       </body>

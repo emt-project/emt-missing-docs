@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0295.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0295.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-03-30"></origDate></origin>
+                        <origin><origDate when-iso="1680-03-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1680-03-30"></date>
+               <date when-iso="1680-03-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1686" lry="2434" ulx="0" uly="0" xml:id="facs_295">
          <graphic height="2434px" url="Kasten_blau_45_8_0295.jpg" width="1686px"/>
-         <graphic height="2434px" url="" width="1686px"/>
          <zone points="224,418 224,2321 1606,2321 1606,418" rendition="TextRegion" xml:id="facs_295_r2">
             <zone points="342,492 404,487 466,483 529,480 591,479 653,478 716,477 778,478 840,478 903,479 965,481 1027,482 1090,483 1152,484 1214,484 1277,484 1339,484 1401,483 1464,481 1526,477 1589,473 1589,418 1526,422 1464,426 1401,428 1339,429 1277,429 1214,429 1152,429 1090,428 1027,427 965,426 903,424 840,423 778,423 716,422 653,423 591,424 529,425 466,428 404,432 342,437" rendition="Line" xml:id="facs_295_r2l1"/>
             <zone points="324,552 432,542 486,539 595,533 1606,489 1606,541 1578,547 1550,552 1523,555 1440,561 324,585" rendition="Line" xml:id="facs_295_line_1621091910344_1496"/>
@@ -121,7 +116,6 @@
       
 <surface lrx="1686" lry="2434" ulx="0" uly="0" xml:id="facs_296">
          <graphic height="2434px" url="Kasten_blau_45_8_0296.jpg" width="1686px"/>
-         <graphic height="2434px" url="" width="1686px"/>
          <zone points="185,354 185,2304 1590,2304 1590,354" rendition="TextRegion" xml:id="facs_296_r1">
             <zone points="308,419 371,417 434,415 498,414 561,414 624,414 688,415 751,416 814,417 878,419 941,420 1004,422 1068,423 1131,424 1194,424 1258,424 1321,424 1384,423 1448,421 1511,418 1575,414 1575,354 1511,358 1448,361 1384,363 1321,364 1258,364 1194,364 1131,364 1068,363 1004,362 941,360 878,359 814,357 751,356 688,355 624,354 561,354 498,354 434,355 371,357 308,359" rendition="Line" xml:id="facs_296_r1l1"/>
             <zone points="303,507 361,506 419,505 478,505 536,505 595,505 653,505 711,506 770,506 828,507 887,507 945,508 1003,508 1062,508 1120,508 1179,508 1237,507 1295,506 1354,505 1412,503 1471,500 1471,440 1412,443 1354,445 1295,446 1237,447 1179,448 1120,448 1062,448 1003,448 945,448 887,447 828,447 770,446 711,446 653,445 595,445 536,445 478,445 419,445 361,446 303,447" rendition="Line" xml:id="facs_296_r1l2"/>
@@ -148,7 +142,6 @@
       
 <surface lrx="1686" lry="2434" ulx="0" uly="0" xml:id="facs_297">
          <graphic height="2434px" url="Kasten_blau_45_8_0297.jpg" width="1686px"/>
-         <graphic height="2434px" url="" width="1686px"/>
          <zone points="183,123 183,2344 1636,2344 1636,123" rendition="TextRegion" xml:id="facs_297_r2">
             <zone points="204,221 271,221 339,220 407,219 475,219 542,217 610,216 678,215 746,213 813,211 881,209 949,207 1017,205 1084,202 1152,200 1220,198 1288,195 1355,192 1423,190 1491,187 1559,184 1559,123 1491,126 1423,129 1355,131 1288,134 1220,137 1152,139 1084,141 1017,144 949,146 881,148 813,150 746,152 678,154 610,155 542,156 475,158 407,158 339,159 271,160 204,160" rendition="Line" xml:id="facs_297_r2l1"/>
             <zone points="220,317 288,317 356,316 424,315 493,314 561,313 629,311 698,309 766,307 834,304 903,301 971,299 1039,295 1107,292 1176,289 1244,286 1312,282 1381,279 1449,276 1517,273 1586,270 1586,209 1517,212 1449,215 1381,218 1312,221 1244,225 1176,228 1107,231 1039,234 971,238 903,240 834,243 766,246 698,248 629,250 561,252 493,253 424,254 356,255 288,256 220,256" rendition="Line" xml:id="facs_297_r2l2"/>
@@ -175,7 +168,6 @@
       
 <surface lrx="1686" lry="2434" ulx="0" uly="0" xml:id="facs_298">
          <graphic height="2434px" url="Kasten_blau_45_8_0298.jpg" width="1686px"/>
-         <graphic height="2434px" url="" width="1686px"/>
          <zone points="252,251 252,2231 1603,2231 1603,251" rendition="TextRegion" xml:id="facs_298_r1">
             <zone points="322,359 385,356 448,353 511,351 574,349 637,348 700,347 763,347 826,346 889,345 953,344 1016,343 1079,342 1142,339 1205,336 1268,333 1331,328 1394,323 1457,317 1521,308 1521,251 1457,260 1394,266 1331,271 1268,276 1205,279 1142,282 1079,285 1016,286 953,287 889,288 826,289 763,290 700,290 637,291 574,292 511,294 448,296 385,299 322,302" rendition="Line" xml:id="facs_298_r1l1"/>
             <zone points="306,454 373,453 440,452 507,451 575,450 642,449 709,447 777,445 844,443 911,441 979,439 1046,436 1113,433 1181,430 1248,426 1315,422 1383,418 1450,413 1517,408 1585,402 1585,345 1517,351 1450,356 1383,361 1315,365 1248,369 1181,373 1113,376 1046,379 979,382 911,384 844,386 777,388 709,390 642,392 575,393 507,394 440,395 373,396 306,397" rendition="Line" xml:id="facs_298_r1l2"/>
@@ -195,9 +187,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_295" n="295" xml:id="img_0295"/>
-
-<ab facs="#facs_295_r2" >
+         <pb facs="#facs_295" n="176 r" xml:id="Kasten_blau_45_8_0295.jpg"/>
+<ab facs="#facs_295_r2">
                <lb facs="#facs_295_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_295_line_1621091910344_1496" n="N002"/>Es ist mihr von herzen leidt gewesen zue vernemmen,
                <lb facs="#facs_295_line_1621091918235_1503" n="N003"/>das sich ewer Durchlaucht nit wohl auf befunden haben.
@@ -217,9 +208,8 @@
                <lb facs="#facs_295_line_1621092008168_1556" n="N017"/>sie wollen seiner sehlen eingedenkh sein, wie wohl
                <lb facs="#facs_295_r2l46" n="N018"/>ich vermein, er hab es nit vonöten, vndt halt ich
             </ab>
-<pb facs="#facs_296" n="296" xml:id="img_0296"/>
-
-<ab facs="#facs_296_r1" >
+<pb facs="#facs_296" n="176 v" xml:id="Kasten_blau_45_8_0296.jpg"/>
+<ab facs="#facs_296_r1">
                <lb facs="#facs_296_r1l1" n="N001"/>ihn wohl vohr heilig. Ich bin wohl gahr bedrüebt
                <lb facs="#facs_296_r1l2" n="N002"/>vmb <rs type="person">ihn</rs>. Heündt seindt mihr auf einem fuks
                <lb facs="#facs_296_r1l3" n="N003"/>brellen gewesen, so ist die zeit kurz. Mein <rs type="person"><choice><expan>herr</expan><abbr>h</abbr></choice> brueder</rs>
@@ -237,14 +227,13 @@
                <lb facs="#facs_296_line_1621092113334_1604" n="N015"/>ciuilitet tractirt worden. Ich due mich hiermit
                <lb facs="#facs_296_line_1621092119569_1608" n="N016"/>in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vndt sterb
                <lb facs="#facs_296_line_1621092176990_1618" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_296_r1l41" n="N018"/>ganzergebenste trewgehorsa<supplied >m</supplied>st
+               <lb facs="#facs_296_r1l41" n="N018"/>ganzergebenste trewgehorsa<supplied>m</supplied>st
                <lb facs="#facs_296_r1l42" n="N019"/>dochter
                <lb facs="#facs_296_line_1621092200608_1628" n="N020"/>EMT
                <lb facs="#facs_296_line_1621092185603_1624" n="N021"/><rs type="place">Prag</rs> den <date month="3" day="30" year="1680">30 merz 1680</date>
             </ab>
-<pb facs="#facs_297" n="297" xml:id="img_0297"/>
-
-<ab facs="#facs_297_r2" >
+<pb facs="#facs_297" n="177 r" xml:id="Kasten_blau_45_8_0297.jpg"/>
+<ab facs="#facs_297_r2">
                <lb facs="#facs_297_r2l1" n="N001"/>PS Ich bin vergeßen, ewer Durchlaucht zue berichten, wie das
                <lb facs="#facs_297_r2l2" n="N002"/>ich hier höre, als wan der <rs type="person">Markgrau Louis von Baden</rs>
                <lb facs="#facs_297_r2l3" n="N003"/>solte eine intention vohr eine meiner schwestern haben,
@@ -267,9 +256,8 @@
                <lb facs="#facs_297_r2l33" n="N020"/>Andertens, förchte ich, möchten die maleuoli sagen,
                <lb facs="#facs_297_r2l35" n="N021"/>ewer Durchlaucht vndt ich beklageten allezeit, das ihr Mayestät mit
             </ab>
-<pb facs="#facs_298" n="298" xml:id="img_0298"/>
-
-<ab facs="#facs_298_r1" >
+<pb facs="#facs_298" n="177 v" xml:id="Kasten_blau_45_8_0298.jpg"/>
+<ab facs="#facs_298_r1">
                <lb facs="#facs_298_r1l1" n="N001"/>officiren versehen, welche den krieg nit verstehn,
                <lb facs="#facs_298_r1l2" n="N002"/>vndt iezt wolten mihr ein regiment haben vohr
                <lb facs="#facs_298_r1l3" n="N003"/>mein <rs type="person"><choice><expan>herrn</expan><abbr>h</abbr></choice> <choice><expan>bruder</expan><abbr>b</abbr></choice></rs>, welcher nie in felt gewesen. 3ti insonder-

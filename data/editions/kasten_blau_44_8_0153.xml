@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0153.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0153.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-07-06"></origDate></origin>
+                        <origin><origDate when-iso="1701-07-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Favorita</placeName>
-               <date  when-iso="1701-07-06"></date>
+               <date when-iso="1701-07-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1670" lry="2515" ulx="0" uly="0" xml:id="facs_153">
          <graphic height="2515px" url="Kasten_blau_44_8_0153.jpg" width="1670px"/>
-         <graphic height="2515px" url="" width="1670px"/>
          <zone points="77,54 77,2425 1581,2425 1581,54" rendition="TextRegion" xml:id="facs_153_r1">
             <zone points="196,849 1557,843 1590,757 1384,680 1269,728 1158,673 1078,720 680,661 610,709 201,646" rendition="Line" xml:id="facs_153_r1l3"/>
             <zone points="147,999 279,953 499,1009 572,960 960,938 1263,1043 1440,1023 1417,837 1113,927 821,819 456,877 147,842" rendition="Line" xml:id="facs_153_r1l4"/>
@@ -116,7 +111,6 @@
       
 <surface lrx="1670" lry="2515" ulx="0" uly="0" xml:id="facs_154">
          <graphic height="2515px" url="Kasten_blau_44_8_0154.jpg" width="1670px"/>
-         <graphic height="2515px" url="" width="1670px"/>
          <zone points="93,147 93,2345 1583,2345 1583,147" rendition="TextRegion" xml:id="facs_154_r1">
             <zone points="128,235 393,194 660,222 731,277 793,232 849,279 1089,220 1289,275 1347,230 1526,249 1528,164 1235,187 1033,124 866,191 653,131 130,158" rendition="Line" xml:id="facs_154_r1l1"/>
             <zone points="183,334 851,328 983,381 1198,327 1395,356 1465,415 1565,378 1567,271 1113,235 846,280 794,231 736,279 593,213 183,286" rendition="Line" xml:id="facs_154_r1l2"/>
@@ -145,9 +139,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_153" n="153" xml:id="img_0153"/>
-
-<ab facs="#facs_153_r1" >
+         <pb facs="#facs_153" n="88 r" xml:id="Kasten_blau_44_8_0153.jpg" ed="91 r"/>
+<ab facs="#facs_153_r1">
                <lb facs="#facs_153_r1l3" n="N001"/>Durchleüchtiger Curfürst, meinen herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_153_r1l4" n="N002"/>Der Wißer ist woll ankommen, welcher dero Liebden von
                <lb facs="#facs_153_r1l5" n="N003"/>hir alles berichten wirt, ich also dero Liebden nit mit
@@ -159,29 +152,28 @@
                <lb facs="#facs_153_r1l11" n="N009"/>können, dises ist aber ein wasch golt, so auch in
                <lb facs="#facs_153_r1l12" n="N010"/>kein fewer gewest. Von disen bekombt man aber gar
                <lb facs="#facs_153_r1l13" n="N011"/>wehnig, doch wans dero Liebden recht ist, so will mich bemühen,
-               <lb facs="#facs_153_r1l14" n="N012"/>so vill möglich daru<supplied >o</supplied>n zu bekommen. Antimoni wi<supplied >r</supplied>t
+               <lb facs="#facs_153_r1l14" n="N012"/>so vill möglich daru<supplied>o</supplied>n zu bekommen. Antimoni wi<supplied>r</supplied>t
                <lb facs="#facs_153_r1l15" n="N013"/>überschikt werden, so vill dero Liebden begert. Haben wir <unclear>heudt</unclear>
             </ab>
-<pb facs="#facs_154" n="154" xml:id="img_0154"/>
-
-<ab facs="#facs_154_r1" >
+<pb facs="#facs_154" n="88 v" xml:id="Kasten_blau_44_8_0154.jpg" ed="91 v"/>
+<ab facs="#facs_154_r1">
                <lb facs="#facs_154_r1l1" n="N001"/>vmb die arme Vochtin, wan nuhr wider ein gutte <choice><expan>fraw</expan><abbr>f</abbr></choice>
-               <lb facs="#facs_154_r1l2" n="N002"/>zu dem kindt kombt. Due mich <unclear>hermit</unclear> in dero affe<supplied >c</supplied>t<supplied >ion</supplied>
-               <lb facs="#facs_154_r1l3" n="N003"/>b<supplied >e</supplied>f<supplied >e</supplied>hlen, werde st<supplied >e</supplied>rben
+               <lb facs="#facs_154_r1l2" n="N002"/>zu dem kindt kombt. Due mich <unclear>hermit</unclear> in dero affe<supplied>c</supplied>t<supplied>ion</supplied>
+               <lb facs="#facs_154_r1l3" n="N003"/>b<supplied>e</supplied>f<supplied>e</supplied>hlen, werde st<supplied>e</supplied>rben
                <lb facs="#facs_154_line_1610205512597_410" n="N004"/>dero Liebden
-               <lb facs="#facs_154_r1l4" n="N005"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_154_r1l4" n="N005"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_154_r1l6" n="N006"/>Eleonora
                <lb facs="#facs_154_r1l5" n="N007"/>Fauorita den 6ten julij 1701
                <lb facs="#facs_154_r1l7" n="N008"/>Sach dero Liebden schudigsten dank vohr das
-               <lb facs="#facs_154_r1l8" n="N009"/>closter, so sie den <choice><expan>patres</expan><abbr>p</abbr></choice> carmelitten verlien haben, gott wi<supplied >r</supplied>ts
+               <lb facs="#facs_154_r1l8" n="N009"/>closter, so sie den <choice><expan>patres</expan><abbr>p</abbr></choice> carmelitten verlien haben, gott wi<supplied>r</supplied>ts
                <lb facs="#facs_154_r1l9" n="N010"/>vergelten. Ich bitt, dero Liebden wollen doch eifrich solicitirn
-               <lb facs="#facs_154_r1l10" n="N011"/>vohr die Alexandrina, das sie derf in h<supplied >i</supplied>esigen
+               <lb facs="#facs_154_r1l10" n="N011"/>vohr die Alexandrina, das sie derf in h<supplied>i</supplied>esigen
                <lb facs="#facs_154_r1l11" n="N012"/>closter bleiben, sonst werden vnentlige vill incon-
                <lb facs="#facs_154_r1l12" n="N013"/>venienzen heraus kommen vnd die sehl in
                <lb facs="#facs_154_r1l13" n="N014"/>höchste gefahr gesezt. Ich hab dem Wißer alles
                <lb facs="#facs_154_r1l14" n="N015"/>gesacht, es mus aber mit ein hochsten eifer
-               <lb facs="#facs_154_r1l15" n="N016"/>g<supplied >e</supplied>schen, dan, dero Liebden in vertrauen, die hiesige <choice><expan>patres</expan><abbr>p</abbr></choice> seindt darwider,
-               <lb facs="#facs_154_r1l16" n="N017"/>aber der Papst kans inen bef<supplied >e</supplied>hlen. Die nunen
+               <lb facs="#facs_154_r1l15" n="N016"/>g<supplied>e</supplied>schen, dan, dero Liebden in vertrauen, die hiesige <choice><expan>patres</expan><abbr>p</abbr></choice> seindt darwider,
+               <lb facs="#facs_154_r1l16" n="N017"/>aber der Papst kans inen bef<supplied>e</supplied>hlen. Die nunen
                <lb facs="#facs_154_r1l17" n="N018"/>verlangens vohr alles, hab erst heindt ein brif von
                <lb facs="#facs_154_r1l18" n="N019"/>der ober muter <unclear>Montoimer</unclear> bekomen, welche sie nit genug
                <lb facs="#facs_154_r1l19" n="N020"/>loben kann vnd mich sehr solicitirt, die arme

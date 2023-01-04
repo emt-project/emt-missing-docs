@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0172.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0172.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-01-26"></origDate></origin>
+                        <origin><origDate when-iso="1678-01-26"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-01-26"></date>
+               <date when-iso="1678-01-26"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_172">
          <graphic height="2461px" url="Kasten_blau_45_8_0172.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="239,460 239,2357 1618,2357 1618,460" rendition="TextRegion" xml:id="facs_172_r2">
             <zone points="338,537 397,535 456,532 516,530 575,528 634,528 694,527 753,527 812,528 872,528 931,529 990,530 1050,531 1109,533 1168,534 1228,535 1287,536 1346,536 1406,537 1465,537 1525,536 1525,469 1465,470 1406,470 1346,469 1287,469 1228,468 1168,467 1109,466 1050,464 990,463 931,462 872,461 812,461 753,460 694,460 634,461 575,461 516,463 456,465 397,468 338,470" rendition="Line" xml:id="facs_172_r2l1"/>
             <zone points="347,628 407,627 467,627 527,626 587,626 647,626 707,625 767,625 827,624 887,624 947,624 1007,623 1067,623 1127,623 1187,622 1247,622 1307,622 1367,622 1427,621 1487,621 1547,621 1547,557 1487,557 1427,557 1367,558 1307,558 1247,558 1187,558 1127,559 1067,559 1007,559 947,560 887,560 827,560 767,561 707,561 647,562 587,562 527,562 467,563 407,563 347,564" rendition="Line" xml:id="facs_172_r2l2"/>
@@ -145,9 +140,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_172" n="172" xml:id="img_0172"/>
-
-<ab facs="#facs_172_r2" >
+         <pb facs="#facs_172" n="107 r" xml:id="Kasten_blau_45_8_0172.jpg"/>
+<ab facs="#facs_172_r2">
                <lb facs="#facs_172_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_172_r2l2" n="N002"/>Bey vohriger post hab ich dem <rs type="person">Fürsten</rs> vndt dem
                <lb facs="#facs_172_r2l3" n="N003"/><rs type="person">Schellerer</rs> vnrecht gedahn, dan die brief seint
@@ -155,7 +149,7 @@
                <lb facs="#facs_172_line_1618573382369_2571" n="N005"/>vergangen samstag zue recht empfangen. Erfreüt
                <lb facs="#facs_172_line_1618573384934_2575" n="N006"/>mich von herzen, das ewer Durchlaucht sich so wohl
                <lb facs="#facs_172_line_1618573388572_2579" n="N007"/>auf befinden. Heütt hab ich auch bey guetter
-               <lb facs="#facs_172_line_1618573392306_2583" n="N008"/>zeit ewer Durchlaucht schreiben vom <date month="1" day="20" year="1679">20 dises</date> <supplied >erhalten</supplied>, sage euer Durchlaucht
+               <lb facs="#facs_172_line_1618573392306_2583" n="N008"/>zeit ewer Durchlaucht schreiben vom <date month="1" day="20" year="1679">20 dises</date> <supplied>erhalten</supplied>, sage euer Durchlaucht
                <lb facs="#facs_172_r2l13" n="N009"/>vnterdehnigsten dankh, das sie so an mich
                <lb facs="#facs_172_r2l14" n="N010"/>gedenken vndt mich so mit guetten wuntschen vndt
                <lb facs="#facs_172_r2l15" n="N011"/>bezeigungen der beharlige affection begnaden wollen.
@@ -168,9 +162,8 @@
                <lb facs="#facs_172_line_1618573412080_2595" n="N018"/>meine vnterdehnigste bitt durch dero gnaden preuenirt
                <lb facs="#facs_172_r2l26" n="N019"/>haben. Ewer Durchlaucht überheufen mich mit selbiger also
             </ab>
-<pb facs="#facs_173" n="173" xml:id="img_0173"/>
-
-<ab facs="#facs_173_r1" >
+<pb facs="#facs_173" n="107 v" xml:id="Kasten_blau_45_8_0173.jpg"/>
+<ab facs="#facs_173_r1">
                <lb facs="#facs_173_r1l1" n="N001"/>also sehr, das ich ganz erstume. Wünste allein,
                <lb facs="#facs_173_line_1618573430558_2604" n="N002"/>das ich könte meinem verlangen nach ewer Durchlaucht
                <lb facs="#facs_173_line_1618573433865_2608" n="N003"/>bedienen. Wegen des <rs type="person">Graff Fukers</rs> will ich es

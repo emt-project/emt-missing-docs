@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0114.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0114.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-12-12"></origDate></origin>
+                        <origin><origDate when-iso="1677-12-12"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-12-12"></date>
+               <date when-iso="1677-12-12"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_114">
          <graphic height="2502px" url="Kasten_blau_45_8_0114.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="100,496 100,2432 1597,2432 1597,496" rendition="TextRegion" xml:id="facs_114_r1">
             <zone points="373,572 573,616 666,553 767,587 867,539 991,580 1529,532 1526,471 1327,434 1160,483 966,440 888,487 780,459 676,497 369,458" rendition="Line" xml:id="facs_114_r1l1"/>
             <zone points="337,673 915,601 1128,638 1260,577 1408,619 1448,575 1550,584 1548,542 1003,577 855,545 770,598 664,554 544,618 330,562" rendition="Line" xml:id="facs_114_r1l2"/>
@@ -126,7 +121,6 @@
       
 <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_115">
          <graphic height="2502px" url="Kasten_blau_45_8_0115.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="135,484 120,1294 1541,1294 1556,484" rendition="TextRegion" xml:id="facs_115_r1">
             <zone points="235,488 355,439 996,445 1333,449 1434,452 1440,518 1386,554 1253,570 575,575 234,533" rendition="Line" xml:id="facs_115_line_1612887810709_1044"/>
             <zone points="205,615 1130,602 1228,651 1314,602 1480,604 1480,541 1239,585 1015,530 855,591 748,547 501,576 298,522 205,555" rendition="Line" xml:id="facs_115_r1l3"/>
@@ -142,9 +136,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_114" n="114" xml:id="img_0114"/>
-
-<ab facs="#facs_114_r1" >
+         <pb facs="#facs_114" n="100 r" xml:id="Kasten_blau_45_8_0114.jpg"/>
+<ab facs="#facs_114_r1">
                <lb facs="#facs_114_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_114_r1l2" n="N002"/>Bitte vnterdehnig vmb vergebung, das mit vohriger
                <lb facs="#facs_114_r1l3" n="N003"/>post meine schuldikeit nit hab abgelegt, ich verhoffe,
@@ -159,8 +152,8 @@
                <lb facs="#facs_114_r1l13" n="N012"/>wie ich dan ohne das in höchsten sorgen lebe, das
                <lb facs="#facs_114_line_1612887549560_1006" n="N013"/>ewer Durchlaucht dieses nächtlige schreiben nit filleicht möchte
                <lb facs="#facs_114_r1l17" n="N014"/>schaden. Bitte meine küenheit zue vergeben, mein trewe
-               <lb facs="#facs_114_r1l18" n="N015"/>kintlige lieb dreibet mich an, ewer Durchlaucht <supplied >von</supplied> dieser meiner
-               <lb facs="#facs_114_r1l19" n="N016"/>sorg zu berichten, welche ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>, <supplied >und</supplied> alle mein
+               <lb facs="#facs_114_r1l18" n="N015"/>kintlige lieb dreibet mich an, ewer Durchlaucht <supplied>von</supplied> dieser meiner
+               <lb facs="#facs_114_r1l19" n="N016"/>sorg zu berichten, welche ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>, <supplied>und</supplied> alle mein
                <lb facs="#facs_114_r1l20" n="N017"/>geschwistrich mit mihr in die gröste vnglüksehlichkeit
                <lb facs="#facs_114_r1l21" n="N018"/>der welt bringen würde, welches der almechtige
                <lb facs="#facs_114_r1l22" n="N019"/>gnädiglich abwenden wolle. Wegen der licenz vom
@@ -169,9 +162,8 @@
                <lb facs="#facs_114_r1l25" n="N022"/>darzu zu cooperiren. Es werden ihr Mayestät heütt
                <lb facs="#facs_114_line_1612887723382_1026" n="N023"/>ein oratori probiren laßen, also bitte mihr
             </ab>
-<pb facs="#facs_115" n="115" xml:id="img_0115"/>
-
-<ab facs="#facs_115_r1" >
+<pb facs="#facs_115" n="100 v" xml:id="Kasten_blau_45_8_0115.jpg"/>
+<ab facs="#facs_115_r1">
                <lb facs="#facs_115_line_1612887810709_1044" n="N001"/>nit in vngenaden zue vermerken, das ich
                <lb facs="#facs_115_r1l3" n="N002"/>abermahl so balt endige. Befehle mich in dero
                <lb facs="#facs_115_r1l4" n="N003"/>beharlige affection vnd <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt sterbe

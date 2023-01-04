@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0111.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0111.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-03-28"></origDate></origin>
+                        <origin><origDate when-iso="1701-03-28"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-03-28"></date>
+               <date when-iso="1701-03-28"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1666" lry="2501" ulx="0" uly="0" xml:id="facs_111">
          <graphic height="2501px" url="Kasten_blau_44_8_0111.jpg" width="1666px"/>
-         <graphic height="2501px" url="" width="1666px"/>
          <zone points="114,60 114,2374 1596,2374 1596,60" rendition="TextRegion" xml:id="facs_111_r1">
             <zone points="126,553 1473,548 1496,439 1195,415 1084,462 890,395 574,452 502,396 127,394" rendition="Line" xml:id="facs_111_r1l5"/>
             <zone points="151,672 486,707 604,651 752,690 1559,668 1582,553 1035,553 976,591 545,547 463,609 323,542 150,593" rendition="Line" xml:id="facs_111_r1l6"/>
@@ -125,28 +120,27 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_111" n="111" xml:id="img_0111"/>
-
-<ab facs="#facs_111_r1" >
-               <lb facs="#facs_111_r1l5" n="N001"/><choice><expan>Durchleuchtiger</expan><abbr>Durchleucht</abbr></choice> Curfü<supplied >r</supplied>st, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder. Bitt
-               <lb facs="#facs_111_r1l6" n="N002"/>vmb gotswiln <unclear>vm</unclear> vergeben, das der sch<supplied >rei</supplied>ben nit beantw<supplied >or</supplied>t,
-               <lb facs="#facs_111_r1l7" n="N003"/>die <choice><expan>heilige</expan><abbr>h</abbr></choice> zeit last nit zu, nach oste<supplied >r</supplied>n werd als
-               <lb facs="#facs_111_r1l8" n="N004"/>ers<supplied >e</supplied>zen, <unclear>dazu</unclear> dero Liebden vill glükh wüntsch zum <unclear>h</unclear> aleluja.
-               <lb facs="#facs_111_r1l9" n="N005"/>Disen brif hatt mihr der H<supplied >er</supplied>zoch geben, dero Liebden einzuschlißen,
+         <pb facs="#facs_111" n="60 r" xml:id="Kasten_blau_44_8_0111.jpg" ed="39 r"/>
+<ab facs="#facs_111_r1">
+               <lb facs="#facs_111_r1l5" n="N001"/><choice><expan>Durchleuchtiger</expan><abbr>Durchleucht</abbr></choice> Curfü<supplied>r</supplied>st, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder. Bitt
+               <lb facs="#facs_111_r1l6" n="N002"/>vmb gotswiln <unclear>vm</unclear> vergeben, das der sch<supplied>rei</supplied>ben nit beantw<supplied>or</supplied>t,
+               <lb facs="#facs_111_r1l7" n="N003"/>die <choice><expan>heilige</expan><abbr>h</abbr></choice> zeit last nit zu, nach oste<supplied>r</supplied>n werd als
+               <lb facs="#facs_111_r1l8" n="N004"/>ers<supplied>e</supplied>zen, <unclear>dazu</unclear> dero Liebden vill glükh wüntsch zum <unclear>h</unclear> aleluja.
+               <lb facs="#facs_111_r1l9" n="N005"/>Disen brif hatt mihr der H<supplied>er</supplied>zoch geben, dero Liebden einzuschlißen,
                <lb facs="#facs_111_r1l14" n="N006"/>ich bitt, dero Liebden helfen dazu, den einmahl mit dem
-               <lb facs="#facs_111_r1l15" n="N007"/>Deütschm<supplied >e</supplied>ister kommen mihr nit fort, vnd ist die
-               <lb facs="#facs_111_r1l16" n="N008"/>g<supplied >e</supplied>fahr, das der Plettenb<supplied >er</supplied>g d<supplied >a</supplied>zu kombt. Dero Liebden werden
-               <lb facs="#facs_111_r1l17" n="N009"/>mein K<supplied >e</supplied>iser höchst oblig<supplied >ir</supplied>n. Bitt auch, wegen der <unclear>M</unclear>
+               <lb facs="#facs_111_r1l15" n="N007"/>Deütschm<supplied>e</supplied>ister kommen mihr nit fort, vnd ist die
+               <lb facs="#facs_111_r1l16" n="N008"/>g<supplied>e</supplied>fahr, das der Plettenb<supplied>er</supplied>g d<supplied>a</supplied>zu kombt. Dero Liebden werden
+               <lb facs="#facs_111_r1l17" n="N009"/>mein K<supplied>e</supplied>iser höchst oblig<supplied>ir</supplied>n. Bitt auch, wegen der <unclear>M</unclear>
                <lb facs="#facs_111_r1l18" n="N010"/>Anna <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> ein <unclear>ein</unclear> zu machen, izt ist sie woll
                <lb facs="#facs_111_r1l19" n="N011"/>disponirt nach Cöllen oder woh man <unclear>hin</unclear> will
-               <lb facs="#facs_111_r1l20" n="N012"/>vnter dem ordinario <seg type="blackening">od</seg>, ausgenommen Dißeld<supplied >or</supplied>f
-               <lb facs="#facs_111_line_1610120961171_300" n="N013"/>vnd Münstereif<supplied >e</supplied>l, zu gehen, also bitt balt ein
-               <lb facs="#facs_111_r1l23" n="N014"/>endt zu machen. Lebe vnd st<supplied >er</supplied>be
+               <lb facs="#facs_111_r1l20" n="N012"/>vnter dem ordinario <seg type="blackening">od</seg>, ausgenommen Dißeld<supplied>or</supplied>f
+               <lb facs="#facs_111_line_1610120961171_300" n="N013"/>vnd Münstereif<supplied>e</supplied>l, zu gehen, also bitt balt ein
+               <lb facs="#facs_111_r1l23" n="N014"/>endt zu machen. Lebe vnd st<supplied>er</supplied>be
                <lb facs="#facs_111_line_1610121164207_312" n="N015"/>dero Liebden
-               <lb facs="#facs_111_r1l24" n="N016"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_111_r1l24" n="N016"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_111_r1l26" n="N017"/>Eleonora
-               <lb facs="#facs_111_r1l25" n="N018"/>Wien den <unclear>28</unclear>ten m<supplied >er</supplied>z 1701
-               <lb facs="#facs_111_r1l27" n="N019"/>Bitt <unclear>mein</unclear> <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied >e</supplied>g<supplied >ri</supplied>n vill schöns <supplied >zu sagen</supplied> und <supplied >zu</supplied> entschuld<supplied >i</supplied>gen.
+               <lb facs="#facs_111_r1l25" n="N018"/>Wien den <unclear>28</unclear>ten m<supplied>er</supplied>z 1701
+               <lb facs="#facs_111_r1l27" n="N019"/>Bitt <unclear>mein</unclear> <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied>e</supplied>g<supplied>ri</supplied>n vill schöns <supplied>zu sagen</supplied> und <supplied>zu</supplied> entschuld<supplied>i</supplied>gen.
             </ab>
 
       </body>

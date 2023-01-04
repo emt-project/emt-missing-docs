@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0170.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0170.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-12-22"></origDate></origin>
+                        <origin><origDate when-iso="1678-12-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,17 +77,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-12-22"></date>
+               <date when-iso="1678-12-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -146,16 +142,15 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_170" n="170" xml:id="img_0170"/>
-
-<ab facs="#facs_170_r1" >
+         <pb facs="#facs_170" n="24 r" xml:id="Kasten_blau_45_8_0170.jpg"/>
+<ab facs="#facs_170_r1">
                <lb facs="#facs_170_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
                <lb facs="#facs_170_r1l2" n="N002"/>Dieweilen die <choice><expan>heilige</expan><abbr>h</abbr></choice> feyerdag herzue nahen, also
                <lb facs="#facs_170_line_1618572999140_2419" n="N003"/>hab ich meiner schuldichkeit nach ewer Durchlaucht
                <lb facs="#facs_170_line_1618573003391_2423" n="N004"/>dieses vndt deren noch vnzahlbare
                <lb facs="#facs_170_line_1618573006125_2427" n="N005"/>vill vndt alles glüksehlichkeit, so ewer Durchlaucht
                <lb facs="#facs_170_r1l12" n="N006"/>können verlangen von gott, anwüntschen wollen.
-               <lb facs="#facs_170_r1l14" n="N007"/>Sage auch <choice><expan>vntertenigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero 3 <choice><expan>gnädige</expan><abbr>g</abbr></choice> sch<supplied >r</supplied>eiben,
+               <lb facs="#facs_170_r1l14" n="N007"/>Sage auch <choice><expan>vntertenigsten</expan><abbr>vnt</abbr></choice> dankh vohr dero 3 <choice><expan>gnädige</expan><abbr>g</abbr></choice> sch<supplied>r</supplied>eiben,
                <lb facs="#facs_170_r1l15" n="N008"/>eins durch den <rs type="person">Altheim</rs>, <unclear>die ander</unclear> vom <date month="12" day="14" year="1678">14</date> vnd <date month="12" day="16" year="1678" continued="true">16</date>
                <lb facs="#facs_170_line_1618573016767_2434" n="N009"/><date month="12" day="16" year="1678" continued="true">dies</date>. Bitte nochmahlen, ewer Durchlaucht wollen doch
                <lb facs="#facs_170_line_1618573020999_2438" n="N010"/>mit dero <choice><expan>gehorsamsten</expan><abbr>g</abbr></choice> kint kein cerimonien vndt
@@ -166,11 +161,10 @@
                <lb facs="#facs_170_line_1618573050178_2460" n="N015"/>ist mihr ein trost. Die <choice><expan>herren</expan><abbr>h</abbr></choice> <rs type="place">beyerische</rs> haben
                <lb facs="#facs_170_line_1618573053743_2464" n="N016"/>wohl ihr lansmanschaft gezeiget. Ist wohl ein
                <lb facs="#facs_170_r1l38" n="N017"/>schandt. Das das fewerwerk so wohl abgangen,
-               <lb facs="#facs_170_r1l39" n="N018"/>hab auch von der <rs type="person">Keiserin</rs> geheret, <supplied >ebenso,</supplied> das der
+               <lb facs="#facs_170_r1l39" n="N018"/>hab auch von der <rs type="person">Keiserin</rs> geheret, <supplied>ebenso,</supplied> das der
             </ab>
-<pb facs="#facs_171" n="171" xml:id="img_0171"/>
-
-<ab facs="#facs_171_r1" >
+<pb facs="#facs_171" n="24 v" xml:id="Kasten_blau_45_8_0171.jpg"/>
+<ab facs="#facs_171_r1">
                <lb facs="#facs_171_r1l1" n="N001"/><rs type="person">Erzherzogin</rs> gahr wohl gefalen, wie auch das
                <lb facs="#facs_171_line_1618573095461_2483" n="N002"/>fuksbrellen. Ich <unclear>erwarte</unclear> mit verlangen, bis
                <lb facs="#facs_171_r1l5" n="N003"/>ich ein gewise guette zeitung von ihr
@@ -186,7 +180,7 @@
                <lb facs="#facs_171_line_1618573144912_2522" n="N013"/>was guetts bedeutten. Befehl mich hiermit
                <lb facs="#facs_171_line_1618573151133_2526" n="N014"/>gehorsamist, die ich sterben werde
                <lb facs="#facs_171_r1l37" n="N015"/>ewer Durchlaucht	
-               <lb facs="#facs_171_line_1618573169905_2538" n="N016"/>ganzergeb<supplied >e</supplied>nste trewgehorsa<supplied >m</supplied>ste 
+               <lb facs="#facs_171_line_1618573169905_2538" n="N016"/>ganzergeb<supplied>e</supplied>nste trewgehorsa<supplied>m</supplied>ste 
                <lb facs="#facs_171_line_1618573174941_2542" n="N017"/>dochter
                <lb facs="#facs_171_r1l46" n="N018"/>EMT
                <lb facs="#facs_171_line_1618573155739_2530" n="N019"/><rs type="place">Wien</rs> den <date month="12" day="22" year="1678">22 10ber 1678</date>

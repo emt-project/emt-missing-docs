@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0103.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0103.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-10-31"></origDate></origin>
+                        <origin><origDate when-iso="1677-10-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-10-31"></date>
+               <date when-iso="1677-10-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2431" ulx="0" uly="0" xml:id="facs_103">
          <graphic height="2431px" url="Kasten_blau_45_8_0103.jpg" width="1692px"/>
-         <graphic height="2431px" url="" width="1692px"/>
          <zone points="103,606 103,2352 1609,2352 1609,606" rendition="TextRegion" xml:id="facs_103_r1">
             <zone points="432,673 752,666 829,629 1123,665 1537,643 1537,576 1412,596 1309,554 662,582 433,543" rendition="Line" xml:id="facs_103_r1l1"/>
             <zone points="356,727 526,707 585,742 1024,749 1133,716 1315,744 1362,706 1482,744 1517,736 1517,649 989,639 820,692 700,644 655,677 616,649 560,689 356,672" rendition="Line" xml:id="facs_103_r1l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1692" lry="2431" ulx="0" uly="0" xml:id="facs_104">
          <graphic height="2431px" url="Kasten_blau_45_8_0104.jpg" width="1692px"/>
-         <graphic height="2431px" url="" width="1692px"/>
          <zone points="170,532 170,2286 1598,2286 1598,532" rendition="TextRegion" xml:id="facs_104_r1">
             <zone points="291,597 448,574 603,615 678,574 820,618 1106,567 1458,611 1508,596 1508,525 1306,478 1142,542 962,501 836,526 750,485 290,481" rendition="Line" xml:id="facs_104_r1l1"/>
             <zone points="287,699 582,652 774,694 964,693 1065,644 1282,688 1474,659 1473,587 1347,577 945,580 807,620 700,582 596,615 527,571 286,594" rendition="Line" xml:id="facs_104_r1l2"/>
@@ -155,7 +149,6 @@
       
 <surface lrx="1692" lry="2431" ulx="0" uly="0" xml:id="facs_105">
          <graphic height="2431px" url="Kasten_blau_45_8_0105.jpg" width="1692px"/>
-         <graphic height="2431px" url="" width="1692px"/>
          <zone points="0,1743 0,2006 75,2006 75,1743" rendition="TextRegion" xml:id="facs_105_r1"/>
          <zone points="215,401 215,2231 1615,2231 1615,401" rendition="TextRegion" xml:id="facs_105_r2">
             <zone points="211,491 851,450 1296,484 1541,422 1540,363 1298,406 890,371 209,415" rendition="Line" xml:id="facs_105_r2l1"/>
@@ -178,9 +171,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_103" n="103" xml:id="img_0103"/>
-
-<ab facs="#facs_103_r1" >
+         <pb facs="#facs_103" n="46 r" xml:id="Kasten_blau_45_8_0103.jpg"/>
+<ab facs="#facs_103_r1">
                <lb facs="#facs_103_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_103_r1l2" n="N002"/>Ich sage ewer Durchlaucht gehorsamsten dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_103_r1l3" n="N003"/>vom <date month="10" day="16" year="1677">16 dises</date>, vndt ist mihr ein absonderliger trost gewesen
@@ -189,7 +181,7 @@
                <lb facs="#facs_103_line_1612880823140_196" n="N006"/>vndt nachtschreiben überarbeiten. Der allerhöchste gebe, <seg type="blackening">s</seg> das sie
                <lb facs="#facs_103_line_1612880861392_204" n="N007"/>bey dieser guetten intention continuiren zu trost der gehorsamsten
                <lb facs="#facs_103_r1l12" n="N008"/>kinder vndt aller dero trewen diener. Förchte aber, es werde
-               <lb facs="#facs_103_line_1612880903030_209" n="N009"/>wohl gahr schpaht ohne des gewesen sein, vndt dana<supplied >c</supplied>h haben
+               <lb facs="#facs_103_line_1612880903030_209" n="N009"/>wohl gahr schpaht ohne des gewesen sein, vndt dana<supplied>c</supplied>h haben
                <lb facs="#facs_103_r1l19" n="N010"/>sich ewer Durchlaucht bemüet, mihr zu schreiben. Ich verhoffe, die comission
                <lb facs="#facs_103_line_1612880959964_222" n="N011"/>an <rs type="person">Bischoff von Iurk</rs> werde schon ankommen sein, schike auch
                <lb facs="#facs_103_r1l25" n="N012"/>hierbey das schreiben an den <rs type="person">Cuhrfürst</rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice>. Bitte vnterdehnig
@@ -203,9 +195,8 @@
                <lb facs="#facs_103_r1l36" n="N020"/>gezeigt, hoffe, das balt ein <choice><expan>gnädigste</expan><abbr>g</abbr></choice> resolution erfolgen wirt.
                <lb facs="#facs_103_line_1612881161046_253" n="N021"/>Mein höchste vergnüegung wirt allezeit sein, ihr Durchlaucht
             </ab>
-<pb facs="#facs_104" n="104" xml:id="img_0104"/>
-
-<ab facs="#facs_104_r1" >
+<pb facs="#facs_104" n="46 v" xml:id="Kasten_blau_45_8_0104.jpg"/>
+<ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/>befehl nach zu kommen vndt ihnen meiner kintligen
                <lb facs="#facs_104_r1l2" n="N002"/>schuldigkeit vndt devotion gemes zu dienen als dieienige,
                <lb facs="#facs_104_r1l3" n="N003"/>so sterben wirt
@@ -232,12 +223,11 @@
                <lb facs="#facs_104_line_1612881799692_329" n="N024"/>wollen mihr in ihr Durchlaucht widerumb schiken vndt befehlen, wie ich in
                <lb facs="#facs_104_r1l36" n="N025"/>machen soll.
             </ab>
-<pb facs="#facs_105" n="105" xml:id="img_0105"/>
-
-<ab facs="#facs_105_r1" >
+<pb facs="#facs_105" n="47 r" xml:id="Kasten_blau_45_8_0105.jpg"/>
+<ab facs="#facs_105_r1">
             </ab>
-<ab facs="#facs_105_r2" >
-               <lb facs="#facs_105_r2l1" n="N001"/>NB PS Es ist der <rs type="person">Schellerer</rs> beim <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emerik</rs> gewesen vndt <supplied >hat</supplied>
+<ab facs="#facs_105_r2">
+               <lb facs="#facs_105_r2l1" n="N001"/>NB PS Es ist der <rs type="person">Schellerer</rs> beim <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emerik</rs> gewesen vndt <supplied>hat</supplied>
                <lb facs="#facs_105_r2l3" n="N002"/>ihne gefracht <add>aus sich</add>, <unclear>warum</unclear> noch nit bey mihr gewesen, weil
                <lb facs="#facs_105_r2l4" n="N003"/>er ihm gesacht, er wolt zu mihr kommen. So hatt er
                <lb facs="#facs_105_line_1612881961377_351" n="N004"/>ihme zur antwort geben, <seg type="blackening">er</seg> wieh er das leztere mahl

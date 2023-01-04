@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0140.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0140.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-06-15"></origDate></origin>
+                        <origin><origDate when-iso="1701-06-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-06-15"></date>
+               <date when-iso="1701-06-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -300,9 +296,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_140" n="140" xml:id="img_0140"/>
-
-<ab facs="#facs_140_r1" >
+         <pb facs="#facs_140" n="80 r" xml:id="Kasten_blau_44_8_0140.jpg" ed="52 r"/>
+<ab facs="#facs_140_r1">
                <lb facs="#facs_140_r1l1" n="N001"/>gidenz n
                <lb facs="#facs_140_r1l2" n="N002"/>MT
                <lb facs="#facs_140_r1l3" n="N003"/>e
@@ -339,15 +334,14 @@
                <lb facs="#facs_140_r1l34" n="N034"/>anderen ben interlich ehens het demeine eher
                <lb facs="#facs_140_r1l35" n="N035"/>e
             </ab>
-<ab facs="#facs_140_r2" >
+<ab facs="#facs_140_r2">
                <lb facs="#facs_140_r2l1" n="N001"/>e
             </ab>
-<pb facs="#facs_141" n="141" xml:id="img_0141"/>
-
-<ab facs="#facs_141_r1" >
+<pb facs="#facs_141" n="80 v" xml:id="Kasten_blau_44_8_0141.jpg" ed="52 v"/>
+<ab facs="#facs_141_r1">
                <lb facs="#facs_141_r1l1" n="N001"/>mer
             </ab>
-<ab facs="#facs_141_r2" >
+<ab facs="#facs_141_r2">
                <lb facs="#facs_141_r2l1" n="N001"/>lang au a dan ein derung gern
                <lb facs="#facs_141_r2l2" n="N002"/>mich in dem gelaus vnvernerlich zue
                <lb facs="#facs_141_r2l3" n="N003"/>gener carl vndere deroser
@@ -376,15 +370,14 @@
                <lb facs="#facs_141_r2l26" n="N026"/>ander zue legung vendertesten stalbi
                <lb facs="#facs_141_r2l27" n="N027"/>o
             </ab>
-<pb facs="#facs_142" n="142" xml:id="img_0142"/>
-
-<ab facs="#facs_142_r1" >
+<pb facs="#facs_142" n="81 r" xml:id="Kasten_blau_44_8_0142.jpg" ed="53 r"/>
+<ab facs="#facs_142_r1">
                <lb facs="#facs_142_r1l1" n="N001"/>hier
             </ab>
-<ab facs="#facs_142_r2" >
+<ab facs="#facs_142_r2">
                <lb facs="#facs_142_r2l1" n="N001"/>e
             </ab>
-<ab facs="#facs_142_r3" >
+<ab facs="#facs_142_r3">
                <lb facs="#facs_142_r3l1" n="N001"/>ue
                <lb facs="#facs_142_r3l2" n="N002"/>allerligen vnderen das dar
                <lb facs="#facs_142_r3l3" n="N003"/>dieselben ich meiner überall so g achung
@@ -416,15 +409,14 @@
                <lb facs="#facs_142_r3l29" n="N029"/>amsago eben in demen
                <lb facs="#facs_142_r3l30" n="N030"/>euer Lie
             </ab>
-<pb facs="#facs_143" n="143" xml:id="img_0143"/>
-
-<ab facs="#facs_143_r1" >
+<pb facs="#facs_143" n="81 v" xml:id="Kasten_blau_44_8_0143.jpg" ed="53 v"/>
+<ab facs="#facs_143_r1">
                <lb facs="#facs_143_r1l1" n="N001"/>e
             </ab>
-<ab facs="#facs_143_r2" >
+<ab facs="#facs_143_r2">
                <lb facs="#facs_143_r2l1" n="N001"/>euer 
             </ab>
-<ab facs="#facs_143_r3" >
+<ab facs="#facs_143_r3">
                <lb facs="#facs_143_r3l1" n="N001"/>ue
                <lb facs="#facs_143_r3l2" n="N002"/>e
                <lb facs="#facs_143_r3l3" n="N003"/>e
@@ -432,10 +424,10 @@
                <lb facs="#facs_143_r3l5" n="N005"/>euer 
                <lb facs="#facs_143_r3l6" n="N006"/>e
             </ab>
-<ab facs="#facs_143_r4" >
+<ab facs="#facs_143_r4">
                <lb facs="#facs_143_r4l1" n="N001"/>e
             </ab>
-<ab facs="#facs_143_r5" >
+<ab facs="#facs_143_r5">
                <lb facs="#facs_143_r5l1" n="N001"/>van inen mich verentwengen 
                <lb facs="#facs_143_r5l2" n="N002"/>meinen  agleren lesen ver beiserin des
                <lb facs="#facs_143_r5l3" n="N003"/>lher verhar bleig mach der lengeme
@@ -461,9 +453,8 @@
                <lb facs="#facs_143_r5l23" n="N023"/>also merg haus dent macht lang
                <lb facs="#facs_143_r5l24" n="N024"/>Liebden
             </ab>
-<pb facs="#facs_144" n="144" xml:id="img_0144"/>
-
-<ab facs="#facs_144_r1" >
+<pb facs="#facs_144" n="82 r" xml:id="Kasten_blau_44_8_0144.jpg" ed="56 r"/>
+<ab facs="#facs_144_r1">
                <lb facs="#facs_144_r1l1" n="N001"/>e
                <lb facs="#facs_144_r1l2" n="N002"/>vnrehet abhanderlich bey gegen arten
                <lb facs="#facs_144_r1l3" n="N003"/>comedrturebleiben er als den der do
@@ -491,9 +482,8 @@
                <lb facs="#facs_144_r1l25" n="N025"/>e eben 
                <lb facs="#facs_144_r1l26" n="N026"/>ser so vn
             </ab>
-<pb facs="#facs_145" n="145" xml:id="img_0145"/>
-
-<ab facs="#facs_145_r1" >
+<pb facs="#facs_145" n="83 r" xml:id="Kasten_blau_44_8_0145.jpg"/>
+<ab facs="#facs_145_r1">
                <lb facs="#facs_145_r1l1" n="N001"/>die bey von dero lieb vngen gehen
                <lb facs="#facs_145_r1l2" n="N002"/>auß verstaß al der ceppu
                <lb facs="#facs_145_r1l3" n="N003"/>landige onesonden sie rei

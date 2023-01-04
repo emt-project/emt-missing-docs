@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0194.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0194.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-04-06"></origDate></origin>
+                        <origin><origDate when-iso="1679-04-06"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-04-06"></date>
+               <date when-iso="1679-04-06"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_194">
          <graphic height="2461px" url="Kasten_blau_45_8_0194.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="152,544 152,2358 1597,2358 1597,544" rendition="TextRegion" xml:id="facs_194_r1">
             <zone points="415,653 469,655 524,657 578,658 633,658 687,659 742,659 796,658 851,657 905,656 960,655 1014,652 1069,649 1123,646 1178,642 1232,637 1287,632 1341,626 1396,620 1450,613 1505,604 1505,544 1450,553 1396,560 1341,566 1287,572 1232,577 1178,582 1123,586 1069,589 1014,592 960,595 905,596 851,597 796,598 742,599 687,599 633,598 578,598 524,597 469,595 415,593" rendition="Line" xml:id="facs_194_r1l1"/>
             <zone points="363,730 422,734 481,736 540,739 599,740 658,741 717,742 776,741 835,740 894,739 953,737 1012,734 1071,730 1130,727 1189,722 1248,718 1307,712 1366,705 1425,699 1484,692 1543,684 1543,627 1484,635 1425,642 1366,648 1307,655 1248,661 1189,665 1130,670 1071,673 1012,677 953,680 894,682 835,683 776,684 717,685 658,684 599,683 540,682 481,679 422,677 363,673" rendition="Line" xml:id="facs_194_r1l2"/>
@@ -147,9 +142,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_194" n="194" xml:id="img_0194"/>
-
-<ab facs="#facs_194_r1" >
+         <pb facs="#facs_194" n="114 r" xml:id="Kasten_blau_45_8_0194.jpg"/>
+<ab facs="#facs_194_r1">
                <lb facs="#facs_194_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_194_r1l2" n="N002"/>Ewer Durchlaucht seint mihr gahr zue <choice><expan>gnädig</expan><abbr>g</abbr></choice>, das sie mihr
                <lb facs="#facs_194_line_1619787361997_1169" n="N003"/>durch die extraordinari post haben so <choice><expan>gnädig</expan><abbr>g</abbr></choice> zue
@@ -169,9 +163,8 @@
                <lb facs="#facs_194_r1l23" n="N017"/>continuiret, gott gebe weiters seine <choice><expan>gnade</expan><abbr>g</abbr></choice>. Ich verhoffe,
                <lb facs="#facs_194_line_1619787394992_1189" n="N018"/>ewer Durchlaucht werden die expedition nach dero verlangen
             </ab>
-<pb facs="#facs_195" n="195" xml:id="img_0195"/>
-
-<ab facs="#facs_195_r1" >
+<pb facs="#facs_195" n="114 v" xml:id="Kasten_blau_45_8_0195.jpg"/>
+<ab facs="#facs_195_r1">
                <lb facs="#facs_195_r1l1" n="N001"/>empfangen haben, wie wohl ihr <rs type="person">Mayestät</rs> selbsten es
                <lb facs="#facs_195_r1l2" n="N002"/>nit vnterschrieben, weillen es gegen den stilo, das
                <lb facs="#facs_195_line_1619787422403_1206" n="N003"/>sie niemahlen dergleichen sachen vnterschreiben.

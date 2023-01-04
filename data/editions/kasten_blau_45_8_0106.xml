@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0106.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0106.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-11-07"></origDate></origin>
+                        <origin><origDate when-iso="1677-11-07"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-11-07"></date>
+               <date when-iso="1677-11-07"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2482" ulx="0" uly="0" xml:id="facs_106">
          <graphic height="2482px" url="Kasten_blau_45_8_0106.jpg" width="1692px"/>
-         <graphic height="2482px" url="" width="1692px"/>
          <zone points="104,593 104,2368 1611,2368 1611,593" rendition="TextRegion" xml:id="facs_106_r1">
             <zone points="359,680 520,711 582,661 766,699 965,650 1329,654 1441,625 1439,561 892,563 816,521 600,597 358,628" rendition="Line" xml:id="facs_106_r1l1"/>
             <zone points="322,697 389,672 581,660 1403,629 1467,649 1470,728 1090,759 332,792 322,792" rendition="Line" xml:id="facs_106_line_1612883226834_409"/>
@@ -125,7 +120,6 @@
       
 <surface lrx="1692" lry="2483" ulx="0" uly="0" xml:id="facs_107">
          <graphic height="2483px" url="Kasten_blau_45_8_0107.jpg" width="1692px"/>
-         <graphic height="2483px" url="" width="1692px"/>
          <zone points="200,480 200,2097 1555,2097 1555,480" rendition="TextRegion" xml:id="facs_107_r1">
             <zone points="269,569 380,582 510,526 1433,532 1433,465 1257,429 1151,467 687,447 603,490 515,458 424,498 270,451" rendition="Line" xml:id="facs_107_r1l1"/>
             <zone points="244,608 474,639 540,597 603,643 658,598 1447,621 1525,603 1525,551 1049,564 855,522 759,567 686,527 434,523 391,566 243,575" rendition="Line" xml:id="facs_107_r1l2"/>
@@ -154,9 +148,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_106" n="106" xml:id="img_0106"/>
-
-<ab facs="#facs_106_r1" >
+         <pb facs="#facs_106" n="95 r" xml:id="Kasten_blau_45_8_0106.jpg"/>
+<ab facs="#facs_106_r1">
                <lb facs="#facs_106_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_106_line_1612883226834_409" n="N002"/>Ich bitte gehorsamist vmb vergebung, das mit vohriger
                <lb facs="#facs_106_r1l4" n="N003"/>post mein schuldigkeit nit hab abgelegt, ich hoffe, der
@@ -180,9 +173,8 @@
                <lb facs="#facs_106_r1l23" n="N021"/>in die grösten ängsten vndt sorgen von der welt sezet. Mihr
                <lb facs="#facs_106_r1l25" n="N022"/>ist ohne das wohl bekant, wie leicht ewer Durchlaucht sich wagen,
             </ab>
-<pb facs="#facs_107" n="107" xml:id="img_0107"/>
-
-<ab facs="#facs_107_r1" >
+<pb facs="#facs_107" n="95 v" xml:id="Kasten_blau_45_8_0107.jpg"/>
+<ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l1" n="N001"/>deswegen bitte vndterdehnig, ewer Durchlaucht wollen <choice><expan>gnädigst</expan><abbr>g</abbr></choice> consideriren,
                <lb facs="#facs_107_r1l2" n="N002"/>in was groß angste sie ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person">fraw <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>, wie auch alle
                <lb facs="#facs_107_r1l3" n="N003"/>dero gehorsamste kinder sezen, vndt was vohr leidt sie bey vns

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0102.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0102.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-10-28"></origDate></origin>
+                        <origin><origDate when-iso="1677-10-28"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-10-28"></date>
+               <date when-iso="1677-10-28"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2431" ulx="0" uly="0" xml:id="facs_102">
          <graphic height="2431px" url="Kasten_blau_45_8_0102.jpg" width="1692px"/>
-         <graphic height="2431px" url="" width="1692px"/>
          <zone points="279,551 279,2312 1609,2312 1609,551" rendition="TextRegion" xml:id="facs_102_r2">
             <zone points="348,655 1432,608 1479,593 1478,509 1096,525 1034,560 728,530 490,540 388,590 346,566" rendition="Line" xml:id="facs_102_r2l1"/>
             <zone points="311,744 721,680 1016,712 1072,671 1181,699 1321,666 1421,708 1564,656 1562,587 973,612 920,653 794,616 676,659 627,619 535,657 466,629 415,670 306,600" rendition="Line" xml:id="facs_102_r2l2"/>
@@ -131,9 +126,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_102" n="102" xml:id="img_0102"/>
-
-<ab facs="#facs_102_r2" >
+         <pb facs="#facs_102" n="94 r" xml:id="Kasten_blau_45_8_0102.jpg"/>
+<ab facs="#facs_102_r2">
                <lb facs="#facs_102_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_102_r2l2" n="N002"/>Ich sage gehorsamsten dank vohr die <choice><expan>gnädigen</expan><abbr>g</abbr></choice> anwüntschungen,
                <lb facs="#facs_102_r2l4" n="N003"/>so mihr dieselbe zu dem fest der <choice><expan>heiligen</expan><abbr>h</abbr></choice> Theresa

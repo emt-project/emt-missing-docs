@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0124.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0124.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1618" lry="2549" ulx="0" uly="0" xml:id="facs_124">
          <graphic height="2549px" url="Kasten_blau_44_8_0124.jpg" width="1618px"/>
-         <graphic height="2549px" url="" width="1618px"/>
          <zone points="84,79 84,2355 1561,2355 1561,79" rendition="TextRegion" xml:id="facs_124_r1">
             <zone points="219,1020 410,1019 464,1073 564,1048 705,1078 1028,1032 1148,1091 1222,1045 1413,1033 1414,933 1250,887 1096,965 1009,908 838,949 554,935 435,917 344,923 239,917" rendition="Line" xml:id="facs_124_r1l2"/>
             <zone points="154,1165 628,1140 763,1198 943,1165 1038,1211 1457,1212 1475,1023 1115,1087 1003,1060 896,1118 840,1083 643,1111 536,1044 156,1089" rendition="Line" xml:id="facs_124_r1l3"/>
@@ -116,7 +111,6 @@
       
 <surface lrx="1618" lry="2549" ulx="0" uly="0" xml:id="facs_125">
          <graphic height="2549px" url="Kasten_blau_44_8_0125.jpg" width="1618px"/>
-         <graphic height="2549px" url="" width="1618px"/>
          <zone points="53,111 53,2451 1510,2451 1510,111" rendition="TextRegion" xml:id="facs_125_r1">
             <zone points="84,241 277,292 389,235 436,273 967,239 1080,304 1295,246 1378,278 1462,206 945,132 747,195 557,168 99,171" rendition="Line" xml:id="facs_125_r1l2"/>
             <zone points="68,360 226,329 358,403 455,339 633,384 744,340 918,410 1005,350 1431,380 1432,286 1375,280 1232,307 1148,262 1049,304 953,244 876,290 612,246 528,294 400,252 255,309 70,243" rendition="Line" xml:id="facs_125_r1l3"/>
@@ -142,14 +136,13 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_124" n="124" xml:id="img_0124"/>
-
-<ab facs="#facs_124_r1" >
-               <lb facs="#facs_124_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied >er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_124_r1l3" n="N002"/>Heündt bekomme ich 4 liebste sch<supplied >rei</supplied>ben von deroselben,
+         <pb facs="#facs_124" n="68 r" xml:id="Kasten_blau_44_8_0124.jpg" ed="43 r"/>
+<ab facs="#facs_124_r1">
+               <lb facs="#facs_124_r1l2" n="N001"/>Durchleüchtiger Curfürst, mein h<supplied>er</supplied>zallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_124_r1l3" n="N002"/>Heündt bekomme ich 4 liebste sch<supplied>rei</supplied>ben von deroselben,
                <lb facs="#facs_124_r1l4" n="N003"/>ist mihr aber vnmöglig darauf zu antworten, weilen
-               <lb facs="#facs_124_r1l5" n="N004"/>vill punta darin, auch heündt w<supplied >e</supplied>gen des geb<supplied >e</supplied>tts,
-               <lb facs="#facs_124_r1l6" n="N005"/>so gehalten worden, kein zeit vnmöchlich hab, werds woh mogl<supplied >ich</supplied>
+               <lb facs="#facs_124_r1l5" n="N004"/>vill punta darin, auch heündt w<supplied>e</supplied>gen des geb<supplied>e</supplied>tts,
+               <lb facs="#facs_124_r1l6" n="N005"/>so gehalten worden, kein zeit vnmöchlich hab, werds woh mogl<supplied>ich</supplied>
                <lb facs="#facs_124_r1l7" n="N006"/>mit nechsten ersezen. Bericht nuhr in eil, das gottlob
                <lb facs="#facs_124_r1l8" n="N007"/>entlich mihr der <choice><expan>bruder</expan><abbr>br</abbr></choice> Alex die erlaubnus vohr die <unclear>M</unclear>
                <lb facs="#facs_124_r1l9" n="N008"/><choice><expan>Anna</expan><abbr>An</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice> geschikt. Bitt aber, dero Liebden wollen mihr doch
@@ -158,25 +151,24 @@
                <lb facs="#facs_124_r1l12" n="N011"/>mein parola die erlaubnus erdeilt hatt. Izt
                <lb facs="#facs_124_r1l13" n="N012"/>werd ich alle anstalt machen, damit sie ehsten abreisen
             </ab>
-<pb facs="#facs_125" n="125" xml:id="img_0125"/>
-
-<ab facs="#facs_125_r1" >
+<pb facs="#facs_125" n="68 v" xml:id="Kasten_blau_44_8_0125.jpg" ed="43 v"/>
+<ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l2" n="N001"/>möge. Sie hatt der <choice><expan>würdigen</expan><abbr>w</abbr></choice> mutter dort geschriben, welches
-               <lb facs="#facs_125_r1l3" n="N002"/>ich in disen mein herb<supplied >e</supplied>y kommenden brif eingeschloßen
+               <lb facs="#facs_125_r1l3" n="N002"/>ich in disen mein herb<supplied>e</supplied>y kommenden brif eingeschloßen
                <lb facs="#facs_125_r1l4" n="N003"/>vnd sie bestens mit reccomendirt hab. Bitte, dero Liebden
                <lb facs="#facs_125_r1l5" n="N004"/>wollen ihn zurecht überschiken vndt auch die <unclear>M</unclear> bestens
                <lb facs="#facs_125_r1l6" n="N005"/>reccomendiren, damit sie dort content mög leben,
                <lb facs="#facs_125_r1l7" n="N006"/>sonst wirts doch alzeit hendel sezen. Aber sie
-               <lb facs="#facs_125_r1l8" n="N007"/>ist izt trefflich disponirt vnd <supplied >hatt</supplied> gewißlich hier
+               <lb facs="#facs_125_r1l8" n="N007"/>ist izt trefflich disponirt vnd <supplied>hatt</supplied> gewißlich hier
                <lb facs="#facs_125_r1l9" n="N008"/>nit anderst als auferbeülich vnd woll gelebt,
                <lb facs="#facs_125_r1l10" n="N009"/>hoff, soll also bestendig bleiben. Die hiesigen nunen
                <lb facs="#facs_125_r1l11" n="N010"/>werden ihr auch selbst dise zeüchnus geben. Mus
                <lb facs="#facs_125_r1l12" n="N011"/>enden wider mein willen, due mich dero Liebden befehlen vndt
                <lb facs="#facs_125_r1l13" n="N012"/>werde sterben
                <lb facs="#facs_125_r1l14" n="N013"/>dero Liebden
-               <lb facs="#facs_125_line_1610123887347_587" n="N014"/>g<supplied >e</supplied>trewst schw<supplied >e</supplied>ster
+               <lb facs="#facs_125_line_1610123887347_587" n="N014"/>g<supplied>e</supplied>trewst schw<supplied>e</supplied>ster
                <lb facs="#facs_125_r1l17" n="N015"/>Eleonora
-               <lb facs="#facs_125_line_1610123887347_588" n="N016"/>Bitt mich b<supplied >e</supplied>y meiner lieben <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegr<supplied >i</supplied>n
+               <lb facs="#facs_125_line_1610123887347_588" n="N016"/>Bitt mich b<supplied>e</supplied>y meiner lieben <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegr<supplied>i</supplied>n
                <lb facs="#facs_125_r1l18" n="N017"/>zu entschuldigen vndt vill schöns zu
                <lb facs="#facs_125_r1l20" n="N018"/>sagen, werd als mit nechsten ersezen.
             </ab>

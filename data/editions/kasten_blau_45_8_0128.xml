@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0128.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0128.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-02-03"></origDate></origin>
+                        <origin><origDate when-iso="1678-02-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date  when-iso="1678-02-03"></date>
+               <date when-iso="1678-02-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_128">
          <graphic height="2502px" url="Kasten_blau_45_8_0128.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="280,588 280,2302 1611,2302 1611,588" rendition="TextRegion" xml:id="facs_128_r2">
             <zone points="393,739 636,678 776,727 872,657 1053,694 1119,656 1203,690 1522,654 1566,629 1564,570 1308,550 1222,592 803,598 640,565 508,609 386,552" rendition="Line" xml:id="facs_128_r2l1"/>
             <zone points="352,781 432,813 480,772 636,764 683,797 773,753 1228,748 1480,701 1459,649 1221,700 1160,654 1054,694 880,659 764,730 536,732 451,679 350,728" rendition="Line" xml:id="facs_128_r2l2"/>
@@ -143,9 +138,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_128" n="128" xml:id="img_0128"/>
-
-<ab facs="#facs_128_r2" >
+         <pb facs="#facs_128" n="4 r" xml:id="Kasten_blau_45_8_0128.jpg"/>
+<ab facs="#facs_128_r2">
                <lb facs="#facs_128_r2l1" n="N001"/>Durchleüchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_128_r2l2" n="N002"/>Sage gehorsamsten dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben. 
                <lb facs="#facs_128_r2l3" n="N003"/>Dero befehl wegen <rs type="person">Grau Wolfen</rs> werde fleisich nachkomen
@@ -166,9 +160,8 @@
                <lb facs="#facs_128_r2l18" n="N018"/>ist schon langst abgefartigt vndt hatt seine reis
                <lb facs="#facs_128_r2l19" n="N019"/>schon weiters vort gesezt, gott gebe, das alles
             </ab>
-<pb facs="#facs_129" n="129" xml:id="img_0129"/>
-
-<ab facs="#facs_129_r1" >
+<pb facs="#facs_129" n="4 v" xml:id="Kasten_blau_45_8_0129.jpg"/>
+<ab facs="#facs_129_r1">
                <lb facs="#facs_129_r1l1" n="N001"/>nach ewer Durchlaucht verlangen möge auschlagen. Hier seint
                <lb facs="#facs_129_line_1616319614651_40" n="N002"/>mihr noch in erwartung des <rs type="person"><choice><expan>herrn</expan><abbr>h</abbr></choice> breütigams</rs>, welcher
                <lb facs="#facs_129_line_1616319622342_44" n="N003"/>noch nit wohl an seinem fueß. Sie sagen, er

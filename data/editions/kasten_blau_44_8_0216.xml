@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0216.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0216.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1700-11-08"></origDate></origin>
+                        <origin><origDate when-iso="1700-11-08"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1700-11-08"></date>
+               <date when-iso="1700-11-08"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1876" lry="2604" ulx="0" uly="0" xml:id="facs_216">
          <graphic height="2604px" url="Kasten_blau_44_8_0216.jpg" width="1876px"/>
-         <graphic height="2604px" url="" width="1876px"/>
          <zone points="132,793 132,2485 1808,2485 1808,793" rendition="TextRegion" xml:id="facs_216_r4">
             <zone points="230,877 398,877 468,875 537,873 607,872 677,872 746,872 816,873 885,874 955,875 1025,877 1094,878 1164,880 1233,881 1303,883 1373,884 1442,885 1512,886 1581,886 1651,886 1721,885 1721,806 1651,807 1581,807 1512,807 1442,806 1373,805 1303,804 1233,802 1164,801 1094,799 1025,798 955,796 885,795 816,794 746,793 677,793 607,793 537,794 468,796 398,798 230,798" rendition="Line" xml:id="facs_216_r4l1"/>
             <zone points="207,1012 284,1008 361,1005 438,1003 515,1002 592,1001 669,1002 746,1003 823,1004 900,1006 978,1008 1055,1011 1132,1014 1209,1017 1286,1019 1363,1022 1440,1025 1517,1028 1594,1030 1671,1032 1749,1033 1749,954 1671,953 1594,951 1517,949 1440,946 1363,943 1286,940 1209,938 1132,935 1055,932 978,929 900,927 823,925 746,924 669,923 592,922 515,923 438,924 361,926 284,929 207,933" rendition="Line" xml:id="facs_216_r4l2"/>
@@ -117,7 +112,6 @@
       
 <surface lrx="1876" lry="2606" ulx="0" uly="0" xml:id="facs_217">
          <graphic height="2606px" url="Kasten_blau_44_8_0217.jpg" width="1876px"/>
-         <graphic height="2606px" url="" width="1876px"/>
          <zone points="85,92 85,2472 1822,2472 1822,92" rendition="TextRegion" xml:id="facs_217_r1">
             <zone points="155,206 235,201 315,198 395,195 476,194 556,195 636,196 716,198 797,200 877,204 957,207 1037,211 1118,215 1198,219 1278,222 1358,226 1439,229 1519,231 1599,233 1679,234 1760,234 1760,185 1679,185 1599,184 1519,182 1439,180 1358,177 1278,173 1198,170 1118,166 1037,162 957,158 877,155 797,151 716,149 636,147 556,146 476,145 395,146 315,149 235,152 155,157" rendition="Line" xml:id="facs_217_r1l2"/>
             <zone points="137,323 220,321 304,320 388,320 472,321 556,323 640,325 723,329 807,332 891,336 975,341 1059,345 1143,350 1227,355 1310,360 1394,365 1478,369 1562,373 1646,377 1730,380 1814,383 1814,305 1730,302 1646,299 1562,295 1478,291 1394,287 1310,282 1227,277 1143,272 1059,267 975,263 891,258 807,254 723,251 640,247 556,245 472,243 388,242 304,242 220,243 137,245" rendition="Line" xml:id="facs_217_r1l3"/>
@@ -142,7 +136,6 @@
       
 <surface lrx="1876" lry="2606" ulx="0" uly="0" xml:id="facs_218">
          <graphic height="2606px" url="Kasten_blau_44_8_0218.jpg" width="1876px"/>
-         <graphic height="2606px" url="" width="1876px"/>
          <zone points="112,42 112,2426 1784,2426 1784,42" rendition="TextRegion" xml:id="facs_218_r4">
             <zone points="118,212 199,207 280,203 361,201 442,201 523,203 604,205 685,209 766,213 847,217 928,223 1009,228 1090,232 1171,236 1252,239 1333,241 1414,242 1495,242 1576,239 1657,235 1738,229 1738,151 1657,157 1576,161 1495,164 1414,164 1333,163 1252,161 1171,158 1090,154 1009,150 928,145 847,139 766,135 685,131 604,127 523,125 442,123 361,123 280,125 199,129 118,134" rendition="Line" xml:id="facs_218_r4l2"/>
             <zone points="152,324 229,320 306,318 383,318 460,318 537,320 614,323 691,326 768,330 845,334 923,339 1000,344 1077,348 1154,352 1231,356 1308,359 1385,361 1462,362 1539,362 1616,360 1694,357 1694,279 1616,282 1539,284 1462,284 1385,283 1308,281 1231,278 1154,274 1077,270 1000,266 923,261 845,256 768,252 691,248 614,245 537,242 460,240 383,240 306,240 229,242 152,246" rendition="Line" xml:id="facs_218_r4l3"/>
@@ -161,13 +154,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_216" n="216" xml:id="img_0216"/>
-
-<ab facs="#facs_216_r4" >
+         <pb facs="#facs_216" n="123 r" xml:id="Kasten_blau_44_8_0216.jpg" ed="126 r"/>
+<ab facs="#facs_216_r4">
                <lb facs="#facs_216_r4l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_216_r4l2" n="N002"/>Ich bin dero Liebden vnausschprechlig obligirt, das sie mihr haben durch
                <lb facs="#facs_216_r4l3" n="N003"/>disen courir so ein guette zeitung überschreiben wollen vom
-               <lb facs="#facs_216_r4l4" n="N004"/>König in Schpanien, wie dann herb<supplied >e</supplied>y alle die mihr überschikte bei-
+               <lb facs="#facs_216_r4l4" n="N004"/>König in Schpanien, wie dann herb<supplied>e</supplied>y alle die mihr überschikte bei-
                <lb facs="#facs_216_r4l5" n="N005"/><seg type="comment">lagen widerumb zuruckh kommen. Gott sey ewich gedankt vmb</seg>
                <lb facs="#facs_216_r4l7" n="N006"/>diße beßerung des Königs, wie dan widrumb nachricht vom
                <lb facs="#facs_216_r4l8" n="N007"/>18ten eingeloffen, das er sich schon außer des bett schon befindet,
@@ -178,9 +170,8 @@
                <lb facs="#facs_216_line_1610461623721_179" n="N012"/>als wan man den casum stehts zu förchten hette. Ihr Mayestät,
                <lb facs="#facs_216_r4l16" n="N013"/>mein Keiser, duen auch nichts vnterlaßen vndt hoffe
             </ab>
-<pb facs="#facs_217" n="217" xml:id="img_0217"/>
-
-<ab facs="#facs_217_r1" >
+<pb facs="#facs_217" n="123 v" xml:id="Kasten_blau_44_8_0217.jpg" ed="126 v"/>
+<ab facs="#facs_217_r1">
                <lb facs="#facs_217_r1l2" n="N001"/>ich, dero Liebden werden balt hören, das troupen im marsch seindt.
                <lb facs="#facs_217_r1l3" n="N002"/>Im überigen sech ich iezt, das niks anderst zu duen als freindt
                <lb facs="#facs_217_r1l4" n="N003"/>zu suchen, vnd die im Reich suchen, die augen auf zue duen vndt
@@ -198,21 +189,20 @@
                <lb facs="#facs_217_r1l17" n="N015"/>gutts zue erweißen, wie ich dan woll finde, das sie
                <lb facs="#facs_217_r1l18" n="N016"/>gescheidte geistlige sein, die vill meritiren. Was wegen der
                <lb facs="#facs_217_r1l19" n="N017"/>fondation, welche ihr Durchlaucht, <choice><expan>vnser</expan><abbr>vns</abbr></choice> <choice><expan>geliebste</expan><abbr>g</abbr></choice> mama, noch sehr starkh
-               <lb facs="#facs_217_r1l20" n="N018"/>verlangen, verners zu duen, daruon werde mich mit dero Liebden weite<supplied >r</supplied>s
-               <lb facs="#facs_217_r1l21" n="N019"/>vernemmen, mich auch in ein vnd and<supplied >r</supplied>en, so woll von
+               <lb facs="#facs_217_r1l20" n="N018"/>verlangen, verners zu duen, daruon werde mich mit dero Liebden weite<supplied>r</supplied>s
+               <lb facs="#facs_217_r1l21" n="N019"/>vernemmen, mich auch in ein vnd and<supplied>r</supplied>en, so woll von
             </ab>
-<pb facs="#facs_218" n="218" xml:id="img_0218"/>
-
-<ab facs="#facs_218_r4" >
+<pb facs="#facs_218" n="124 r" xml:id="Kasten_blau_44_8_0218.jpg" ed="127 r"/>
+<ab facs="#facs_218_r4">
                <lb facs="#facs_218_r4l2" n="N001"/>der mutter als sonsten, weiters informiren, dan ich verlang
                <lb facs="#facs_218_r4l3" n="N002"/>alles zu befördern, was zu ihr Durchlaucht mama contento
-               <lb facs="#facs_218_line_1610462634324_274" n="N003"/>vnd b<supplied >e</supplied>forderist zu beförderung der göttligen ehr gereichen
+               <lb facs="#facs_218_line_1610462634324_274" n="N003"/>vnd b<supplied>e</supplied>forderist zu beförderung der göttligen ehr gereichen
                <lb facs="#facs_218_r4l7" n="N004"/>kan, vnd hernach dero Liebden berichten. Hier seint gottlob alle woll auf,
                <lb facs="#facs_218_r4l8" n="N005"/>auch mein kintbetterin mitt ihrem kleinen. Ich will dero Liebden nit lenger
                <lb facs="#facs_218_r4l9" n="N006"/>mit mein abgeschmachten schreiben vngelegenheit machen, mich
-               <lb facs="#facs_218_r4l10" n="N007"/>in dero affection befehlen vndt werde st<supplied >e</supplied>rben
+               <lb facs="#facs_218_r4l10" n="N007"/>in dero affection befehlen vndt werde st<supplied>e</supplied>rben
                <lb facs="#facs_218_line_1610462653060_278" n="N008"/>dero Liebden
-               <lb facs="#facs_218_r4l12" n="N009"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_218_r4l12" n="N009"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_218_r4l13" n="N010"/>Eleonora
                <lb facs="#facs_218_r4l11" n="N011"/>Wien den 8ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1700
             </ab>

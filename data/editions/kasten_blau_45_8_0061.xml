@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0061.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0061.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_61">
          <graphic height="2439px" url="Kasten_blau_45_8_0061.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="105,409 105,2345 1589,2345 1589,409" rendition="TextRegion" xml:id="facs_61_r1">
             <zone points="381,514 939,482 993,513 1263,485 1458,517 1552,490 1552,443 988,396 833,457 657,411 381,444" rendition="Line" xml:id="facs_61_r1l2"/>
             <zone points="344,611 505,583 624,609 760,557 1254,601 1308,560 1456,559 1456,486 1179,526 1138,495 798,489 748,528 477,486 343,546" rendition="Line" xml:id="facs_61_r1l3"/>
@@ -126,7 +121,6 @@
       
 <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_62">
          <graphic height="2439px" url="Kasten_blau_45_8_0062.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="201,438 201,1916 1611,1916 1611,438" rendition="TextRegion" xml:id="facs_62_r1">
             <zone points="235,493 470,521 544,483 943,473 1120,524 1218,482 1339,511 1517,496 1517,413 1159,443 824,387 450,455 234,405" rendition="Line" xml:id="facs_62_r1l1"/>
             <zone points="271,513 360,496 421,490 543,484 1245,484 1492,524 1492,558 1072,592 391,584 230,563 227,530" rendition="Line" xml:id="facs_62_line_1591866670196_479"/>
@@ -154,9 +148,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_61" n="61" xml:id="img_0061"/>
-
-<ab facs="#facs_61_r1" >
+         <pb facs="#facs_61" n="51 r" xml:id="Kasten_blau_45_8_0061.jpg"/>
+<ab facs="#facs_61_r1">
                <lb facs="#facs_61_r1l2" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_61_r1l3" n="N002"/>Ich sage gehorsamb dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_61_r1l4" n="N003"/>vom <date month="6" day="30" year="1677">30 junij</date>, erfrewet mich von herzen dero guetten
@@ -180,15 +173,14 @@
                <lb facs="#facs_61_r1l33" n="N021"/>ihr Mayestät widerumb gar <choice><expan>gnädig</expan><abbr>g</abbr></choice> geantwort, ich soll nuhr
                <lb facs="#facs_61_line_1591866578791_468" n="N022"/>noch ein wehnig gedult haben <seg type="blackening">es würde</seg> ich werde sehen,
             </ab>
-<pb facs="#facs_62" n="62" xml:id="img_0062"/>
-
-<ab facs="#facs_62_r1" >
-               <lb facs="#facs_62_r1l1" n="N001"/><supplied >es</supplied> werde sich alles nach meinem verlangen schiken, aber
+<pb facs="#facs_62" n="51 v" xml:id="Kasten_blau_45_8_0062.jpg"/>
+<ab facs="#facs_62_r1">
+               <lb facs="#facs_62_r1l1" n="N001"/><supplied>es</supplied> werde sich alles nach meinem verlangen schiken, aber
                <lb facs="#facs_62_line_1591866670196_479" n="N002"/>noch ein weil müeße warten, doch soll der termin
                <lb facs="#facs_62_line_1591866704824_483" n="N003"/>nit gahr lang sein. Vohr dismahl, deücht mich,
                <lb facs="#facs_62_line_1591866711232_487" n="N004"/>seye es zimlich weit kommen. Hatt auch zum
                <lb facs="#facs_62_line_1591866720257_491" n="N005"/><rs type="person">Hoher</rs> gesacht, sein termin were bis auf den 
-               <lb facs="#facs_62_r1l16" n="N006"/>herbst, so vermeine, <supplied >ich werde</supplied> woll iezt ein wehnig still
+               <lb facs="#facs_62_r1l16" n="N006"/>herbst, so vermeine, <supplied>ich werde</supplied> woll iezt ein wehnig still
                <lb facs="#facs_62_r1l17" n="N007"/>schweigen <seg type="blackening">von</seg>, aber nit lang, vndt darnach widerumb
                <lb facs="#facs_62_r1l18" n="N008"/>anmahnen. Wan aber einige gelegenheit sich vnterdeßen
                <lb facs="#facs_62_r1l19" n="N009"/>gebe, so werde gewiß nit versaumen. Auf diesen
@@ -202,7 +194,7 @@
                <lb facs="#facs_62_r1l35" n="N017"/>ganz ergebenste trew gehorsamst
                <lb facs="#facs_62_r1l36" n="N018"/>dochter
                <lb facs="#facs_62_r1l37" n="N019"/>EMT
-               <lb facs="#facs_62_line_1591867198616_537" n="N020"/><rs type="place">Wien</rs> den <date month="7" day="14" year="1677">14 <supplied >julij</supplied> 1677</date>
+               <lb facs="#facs_62_line_1591867198616_537" n="N020"/><rs type="place">Wien</rs> den <date month="7" day="14" year="1677">14 <supplied>julij</supplied> 1677</date>
             </ab>
 
       </body>

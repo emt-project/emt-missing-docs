@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0120.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0120.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-12-30"></origDate></origin>
+                        <origin><origDate when-iso="1677-12-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ebersdorf</placeName>
-               <date  when-iso="1677-12-30"></date>
+               <date when-iso="1677-12-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_120">
          <graphic height="2502px" url="Kasten_blau_45_8_0120.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="177,487 177,2411 1631,2411 1631,487" rendition="TextRegion" xml:id="facs_120_r1">
             <zone points="448,608 548,582 710,635 923,623 1042,563 1139,590 1199,543 1276,577 1524,554 1603,534 1598,447 1511,470 1436,435 1210,494 957,468 681,530 440,477" rendition="Line" xml:id="facs_120_r1l1"/>
             <zone points="320,718 400,743 547,675 779,692 1172,621 1285,671 1354,626 1567,651 1608,633 1601,535 1503,592 1188,552 754,644 526,595 314,634" rendition="Line" xml:id="facs_120_r1l2"/>
@@ -128,9 +123,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_120" n="120" xml:id="img_0120"/>
-
-<ab facs="#facs_120_r1" >
+         <pb facs="#facs_120" n="104 r" xml:id="Kasten_blau_45_8_0120.jpg"/>
+<ab facs="#facs_120_r1">
                <lb facs="#facs_120_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_120_r1l2" n="N002"/>Ich sage gehorsamsten dankh vohr die <choice><expan>gnädige</expan><abbr>g</abbr></choice> anwüntschung
                <lb facs="#facs_120_r1l3" n="N003"/>zue diesen <choice><expan>heiligen</expan><abbr>h</abbr></choice> feyrdagen vndt newen iahr. Ewer
@@ -143,10 +137,10 @@
                <lb facs="#facs_120_r1l11" n="N010"/>nit alzuhsehr impaziren, sondern das ewer Durchlaucht
                <lb facs="#facs_120_r1l12" n="N011"/>alles dasienige, was sie verlangen, in kurzem
                <lb facs="#facs_120_line_1612962008100_126" n="N012"/>mitt aller satisfaction geniesen mögen.
-               <lb facs="#facs_120_line_1612962037800_131" n="N013"/>Welches ewer Durchlaucht von herzen mit vnterd<supplied >e</supplied>hnigen
+               <lb facs="#facs_120_line_1612962037800_131" n="N013"/>Welches ewer Durchlaucht von herzen mit vnterd<supplied>e</supplied>hnigen
                <lb facs="#facs_120_line_1612962068713_135" n="N014"/>respect wüntschet dieienige, so sterben wirt
                <lb facs="#facs_120_line_1612962100967_140" n="N015"/>ewer Durchlaucht
-               <lb facs="#facs_120_line_1612962135702_144" n="N016"/>ganzergebenste trewg<supplied >e</supplied>hor-
+               <lb facs="#facs_120_line_1612962135702_144" n="N016"/>ganzergebenste trewg<supplied>e</supplied>hor-
                <lb facs="#facs_120_r1l22" n="N017"/>samste dochter
                <lb facs="#facs_120_r1l23" n="N018"/>EMT
                <lb facs="#facs_120_line_1612962135702_145" n="N019"/><rs type="place">Wien</rs> den <date month="12" day="30" year="1677">30 <choice><expan>decembris</expan><abbr>10br</abbr></choice> 167</date>7 

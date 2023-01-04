@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0242.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0242.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-09-19"></origDate></origin>
+                        <origin><origDate when-iso="1679-09-19"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Brandeis / Brandýs nad Labem</placeName>
-               <date  when-iso="1679-09-19"></date>
+               <date when-iso="1679-09-19"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_242">
          <graphic height="2430px" url="Kasten_blau_45_8_0242.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="339,510 339,2338 1616,2338 1616,510" rendition="TextRegion" xml:id="facs_242_r2">
             <zone points="414,589 468,587 522,585 576,583 630,581 684,579 738,577 792,575 846,573 900,571 955,569 1009,568 1063,566 1117,565 1171,564 1225,563 1279,563 1333,562 1387,562 1441,562 1496,563 1496,511 1441,510 1387,510 1333,510 1279,511 1225,511 1171,512 1117,513 1063,514 1009,516 955,517 900,519 846,521 792,523 738,525 684,527 630,529 576,531 522,533 468,535 414,537" rendition="Line" xml:id="facs_242_r2l1"/>
             <zone points="379,656 438,657 497,658 556,659 615,660 675,660 734,660 793,660 852,659 911,658 971,657 1030,656 1089,654 1148,652 1207,650 1267,647 1326,644 1385,641 1444,638 1503,634 1563,630 1563,578 1503,582 1444,586 1385,589 1326,592 1267,595 1207,598 1148,600 1089,602 1030,604 971,605 911,606 852,607 793,608 734,608 675,608 615,608 556,607 497,606 438,605 379,604" rendition="Line" xml:id="facs_242_r2l2"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_243">
          <graphic height="2430px" url="Kasten_blau_45_8_0243.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="190,492 175,1224 1565,1224 1580,492" rendition="TextRegion" xml:id="facs_243_r1">
             <zone points="348,550 403,553 459,556 514,559 570,561 626,564 681,566 737,569 793,571 848,572 904,574 960,576 1015,577 1071,577 1127,578 1182,578 1238,578 1294,578 1349,577 1405,576 1461,574 1461,516 1405,518 1349,519 1294,520 1238,520 1182,520 1127,520 1071,519 1015,519 960,518 904,516 848,514 793,513 737,511 681,508 626,506 570,503 514,501 459,498 403,495 348,492" rendition="Line" xml:id="facs_243_r1l1"/>
             <zone points="352,593 429,580 455,578 1428,597 1479,598 1529,602 1554,605 1580,609 1580,667 915,670 352,654" rendition="Line" xml:id="facs_243_line_1619796034758_4832"/>
@@ -138,9 +132,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_242" n="242" xml:id="img_0242"/>
-
-<ab facs="#facs_242_r2" >
+         <pb facs="#facs_242" n="141 r" xml:id="Kasten_blau_45_8_0242.jpg"/>
+<ab facs="#facs_242_r2">
                <lb facs="#facs_242_r2l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_242_r2l2" n="N002"/>Ich bitte ewer Durchlaucht <choice><expan>vnterthenigst</expan><abbr>vnter</abbr></choice> vmb vergebung,
                <lb facs="#facs_242_r2l3" n="N003"/>das ich so lang nit meine schuldichkeit
@@ -154,20 +147,19 @@
                <lb facs="#facs_242_r2l11" n="N011"/>vort dem von Wangen, das er es dem <choice><expan>Deutschmeister</expan><abbr>d m</abbr></choice> in
                <lb facs="#facs_242_r2l12" n="N012"/>meinen nahmen überliuere. Wan er aber nit mehr
                <lb facs="#facs_242_r2l13" n="N013"/>bey ihm, so solle der <choice><expan/><abbr>d m</abbr></choice> es selbsten erbrechen.
-               <lb facs="#facs_242_line_1619795989175_4803" n="N014"/>Der <rs type="person">Fürst von Dietrichst<supplied >ei</supplied>n</rs> wirt es also bestellen.
+               <lb facs="#facs_242_line_1619795989175_4803" n="N014"/>Der <rs type="person">Fürst von Dietrichst<supplied>ei</supplied>n</rs> wirt es also bestellen.
                <lb facs="#facs_242_line_1619795992322_4807" n="N015"/>Mihr seint hier gahr wohl ankommen, werden bis
                <lb facs="#facs_242_line_1619795995466_4811" n="N016"/>am samstag hier bleiben vndt bürsten. Haben
                <lb facs="#facs_242_line_1619796000676_4815" n="N017"/>wohl ein üble reis gehabt, wie ich ihr Durchlaucht <choice><expan>fraw</expan><abbr><rs type="person" continued="true">f</rs></abbr></choice>
                <lb facs="#facs_242_r2l25" n="N018"/><choice><expan>mutter</expan><abbr><rs type="person" continued="true">m</rs></abbr></choice> berichte. Gottlob, das noch so abgangen.
             </ab>
-<pb facs="#facs_243" n="243" xml:id="img_0243"/>
-
-<ab facs="#facs_243_r1" >
+<pb facs="#facs_243" n="141 v" xml:id="Kasten_blau_45_8_0243.jpg"/>
+<ab facs="#facs_243_r1">
                <lb facs="#facs_243_r1l1" n="N001"/>Morgen werden mihr frue bürsten fahren, so
                <lb facs="#facs_243_line_1619796034758_4832" n="N002"/>mues iest enden vnd due mich in ewer Durchlaucht
                <lb facs="#facs_243_line_1619796038529_4836" n="N003"/><choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, werde sterben
                <lb facs="#facs_243_line_1619796069378_4845" n="N004"/>ewer Durchlaucht
-               <lb facs="#facs_243_line_1619796055895_4841" n="N005"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_243_line_1619796055895_4841" n="N005"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_243_r1l11" n="N006"/>dochter
                <lb facs="#facs_243_line_1619796074578_4850" n="N007"/>EEMT
                <lb facs="#facs_243_r1l8" n="N008"/><rs type="place">Brandeis</rs> den <date month="9" day="19" year="1679">19 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1679</date>

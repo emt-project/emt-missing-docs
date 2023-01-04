@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0125.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0125.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-01-20"></origDate></origin>
+                        <origin><origDate when-iso="1678-01-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-01-20"></date>
+               <date when-iso="1678-01-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_125">
          <graphic height="2502px" url="Kasten_blau_45_8_0125.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="78,679 78,2394 1617,2394 1617,679" rendition="TextRegion" xml:id="facs_125_r1">
             <zone points="480,789 666,789 786,736 937,784 1162,734 1225,763 1585,744 1584,675 1425,635 674,687 478,609" rendition="Line" xml:id="facs_125_r1l1"/>
             <zone points="424,866 558,844 781,890 830,843 956,843 1010,880 1201,828 1302,871 1539,813 1538,773 1113,760 964,796 778,760 592,820 509,778 422,799" rendition="Line" xml:id="facs_125_r1l2"/>
@@ -124,9 +119,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_125" n="125" xml:id="img_0125"/>
-
-<ab facs="#facs_125_r1" >
+         <pb facs="#facs_125" n="34 r" xml:id="Kasten_blau_45_8_0125.jpg"/>
+<ab facs="#facs_125_r1">
                <lb facs="#facs_125_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_125_r1l2" n="N002"/>Ich mues dismahl abermahl vnterdehnig vmb
                <lb facs="#facs_125_r1l3" n="N003"/>vergebung bitten, das nit vill schreiben kan. Mihr

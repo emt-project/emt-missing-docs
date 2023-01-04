@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0206.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0206.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-05-04"></origDate></origin>
+                        <origin><origDate when-iso="1679-05-04"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1679-05-04"></date>
+               <date when-iso="1679-05-04"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_206">
          <graphic height="2461px" url="Kasten_blau_45_8_0206.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="127,479 127,2375 1589,2375 1589,479" rendition="TextRegion" xml:id="facs_206_r1">
             <zone points="288,511 339,500 397,497 573,491 749,488 1513,479 1513,540 1336,546 288,572" rendition="Line" xml:id="facs_206_line_1620904994427_239"/>
             <zone points="317,653 383,648 449,644 515,642 582,639 648,638 714,637 780,636 847,636 913,636 979,635 1045,635 1112,635 1178,635 1244,634 1310,632 1377,631 1443,628 1509,625 1586,621 1586,560 1509,564 1443,567 1377,570 1310,571 1244,573 1178,574 1112,574 1045,574 979,574 913,575 847,575 780,575 714,576 648,577 582,578 515,581 449,583 383,587 317,592" rendition="Line" xml:id="facs_206_r1l3"/>
@@ -145,9 +140,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_206" n="206" xml:id="img_0206"/>
-
-<ab facs="#facs_206_r1" >
+         <pb facs="#facs_206" n="121 r" xml:id="Kasten_blau_45_8_0206.jpg"/>
+<ab facs="#facs_206_r1">
                <lb facs="#facs_206_line_1620904994427_239" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_206_r1l3" n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="4" day="28" year="1679">28 passato</date> hab mit schuldigstem
                <lb facs="#facs_206_r1l4" n="N003"/>respect empfangen. Bitt ewer Durchlaucht vnterdehnig,
@@ -165,12 +159,11 @@
                <lb facs="#facs_206_line_1619789318029_1959" n="N015"/>schöner vndt beßer worden, ist gewis rahr.
                <lb facs="#facs_206_line_1619789322457_1963" n="N016"/>Gott gebe, das der <rs type="person">Öting</rs> etwas guetts ausrichte.
                <lb facs="#facs_206_r1l32" n="N017"/>Ihr <rs type="person">Mayestät</rs> haben schon an <rs type="person">Cardinal</rs>, <rs type="person">Fürst von Naßau</rs>,
-               <lb facs="#facs_206_line_1619789326596_1967" n="N018"/><rs type="person">Morgrau von Baden</rs> <supplied >und</supplied> <rs type="person"><choice><expan>Graf</expan><abbr>G</abbr></choice> von Meskirch</rs> geschrieben wegen <rs type="person">Kinsekh</rs>,
+               <lb facs="#facs_206_line_1619789326596_1967" n="N018"/><rs type="person">Morgrau von Baden</rs> <supplied>und</supplied> <rs type="person"><choice><expan>Graf</expan><abbr>G</abbr></choice> von Meskirch</rs> geschrieben wegen <rs type="person">Kinsekh</rs>,
                <lb facs="#facs_206_line_1619789333466_1972" n="N019"/>weil er gesacht, das er selbsten bey der wahl sein woll,
             </ab>
-<pb facs="#facs_207" n="207" xml:id="img_0207"/>
-
-<ab facs="#facs_207_r1" >
+<pb facs="#facs_207" n="121 v" xml:id="Kasten_blau_45_8_0207.jpg"/>
+<ab facs="#facs_207_r1">
                <lb facs="#facs_207_line_1619789371213_1989" n="N001"/>es aber ihr <rs type="person">Mayestät</rs> vndt mihr müntlich verschprochen,
                <lb facs="#facs_207_line_1619789374278_1993" n="N002"/>so haben es darbey laßen müeßen. Wegen <rs type="place">Münster</rs>
                <lb facs="#facs_207_line_1619789377707_1997" n="N003"/>will es ihr Mayestät vohr bringen, zweifle nit, wan

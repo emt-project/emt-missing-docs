@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0270.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0270.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-12-21"></origDate></origin>
+                        <origin><origDate when-iso="1701-12-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-12-21"></date>
+               <date when-iso="1701-12-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -529,9 +525,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_270" n="270" xml:id="img_0270"/>
-
-<ab facs="#facs_270_r1" >
+         <pb facs="#facs_270" n="153 r" xml:id="Kasten_blau_44_8_0270.jpg" ed="147 r"/>
+<ab facs="#facs_270_r1">
                <lb facs="#facs_270_r1l1" n="N001"/>
                <lb facs="#facs_270_r1l2" n="N002"/>
                <lb facs="#facs_270_r1l3" n="N003"/>
@@ -561,9 +556,8 @@
                <lb facs="#facs_270_r1l27" n="N027"/>
                <lb facs="#facs_270_r1l28" n="N028"/>
             </ab>
-<pb facs="#facs_271" n="271" xml:id="img_0271"/>
-
-<ab facs="#facs_271_r1" >
+<pb facs="#facs_271" n="153 v" xml:id="Kasten_blau_44_8_0271.jpg" ed="147 v"/>
+<ab facs="#facs_271_r1">
                <lb facs="#facs_271_r1l1" n="N001"/>
                <lb facs="#facs_271_r1l2" n="N002"/>
                <lb facs="#facs_271_r1l3" n="N003"/>
@@ -590,9 +584,8 @@
                <lb facs="#facs_271_r1l24" n="N024"/>
                <lb facs="#facs_271_r1l25" n="N025"/>
             </ab>
-<pb facs="#facs_272" n="272" xml:id="img_0272"/>
-
-<ab facs="#facs_272_r1" >
+<pb facs="#facs_272" n="154 r" xml:id="Kasten_blau_44_8_0272.jpg" ed="148 r"/>
+<ab facs="#facs_272_r1">
                <lb facs="#facs_272_r1l1" n="N001"/>
                <lb facs="#facs_272_r1l2" n="N002"/>
                <lb facs="#facs_272_r1l3" n="N003"/>
@@ -622,9 +615,8 @@
                <lb facs="#facs_272_r1l27" n="N027"/>
                <lb facs="#facs_272_r1l28" n="N028"/>
             </ab>
-<pb facs="#facs_273" n="273" xml:id="img_0273"/>
-
-<ab facs="#facs_273_r1" >
+<pb facs="#facs_273" n="154 v" xml:id="Kasten_blau_44_8_0273.jpg" ed="148 v"/>
+<ab facs="#facs_273_r1">
                <lb facs="#facs_273_r1l1" n="N001"/>
                <lb facs="#facs_273_r1l2" n="N002"/>
                <lb facs="#facs_273_r1l3" n="N003"/>
@@ -650,16 +642,15 @@
                <lb facs="#facs_273_r1l23" n="N023"/>
                <lb facs="#facs_273_r1l24" n="N024"/>
             </ab>
-<pb facs="#facs_274" n="274" xml:id="img_0274"/>
-
-<ab facs="#facs_274_r1" >
+<pb facs="#facs_274" n="155 r" xml:id="Kasten_blau_44_8_0274.jpg" ed="153 r"/>
+<ab facs="#facs_274_r1">
                <lb facs="#facs_274_r1l1" n="N001"/>
                <lb facs="#facs_274_r1l2" n="N002"/>
             </ab>
-<ab facs="#facs_274_r2" >
+<ab facs="#facs_274_r2">
                <lb facs="#facs_274_r2l1" n="N001"/>
             </ab>
-<ab facs="#facs_274_r3" >
+<ab facs="#facs_274_r3">
                <lb facs="#facs_274_r3l1" n="N001"/>
                <lb facs="#facs_274_r3l2" n="N002"/>
                <lb facs="#facs_274_r3l3" n="N003"/>
@@ -690,9 +681,8 @@
                <lb facs="#facs_274_r3l28" n="N028"/>
                <lb facs="#facs_274_r3l29" n="N029"/>
             </ab>
-<pb facs="#facs_275" n="275" xml:id="img_0275"/>
-
-<ab facs="#facs_275_r1" >
+<pb facs="#facs_275" n="155 v" xml:id="Kasten_blau_44_8_0275.jpg" ed="153 v"/>
+<ab facs="#facs_275_r1">
                <lb facs="#facs_275_r1l1" n="N001"/>
                <lb facs="#facs_275_r1l2" n="N002"/>
                <lb facs="#facs_275_r1l3" n="N003"/>
@@ -720,19 +710,18 @@
                <lb facs="#facs_275_r1l25" n="N025"/>
                <lb facs="#facs_275_r1l26" n="N026"/>
             </ab>
-<ab facs="#facs_275_r2" >
+<ab facs="#facs_275_r2">
                <lb facs="#facs_275_r2l1" n="N001"/>
                <lb facs="#facs_275_r2l2" n="N002"/>
             </ab>
-<pb facs="#facs_276" n="276" xml:id="img_0276"/>
-
-<ab facs="#facs_276_r1" >
+<pb facs="#facs_276" n="156 r" xml:id="Kasten_blau_44_8_0276.jpg" ed="154 r"/>
+<ab facs="#facs_276_r1">
                <lb facs="#facs_276_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_276_r2" >
+<ab facs="#facs_276_r2">
                <lb facs="#facs_276_r2l1" n="N001"/>
             </ab>
-<ab facs="#facs_276_r3" >
+<ab facs="#facs_276_r3">
                <lb facs="#facs_276_r3l1" n="N001"/>
                <lb facs="#facs_276_r3l2" n="N002"/>
                <lb facs="#facs_276_r3l3" n="N003"/>
@@ -761,9 +750,8 @@
                <lb facs="#facs_276_r3l26" n="N026"/>
                <lb facs="#facs_276_r3l27" n="N027"/>
             </ab>
-<pb facs="#facs_277" n="277" xml:id="img_0277"/>
-
-<ab facs="#facs_277_r1" >
+<pb facs="#facs_277" n="157 r" xml:id="Kasten_blau_44_8_0277.jpg" ed="150 r"/>
+<ab facs="#facs_277_r1">
                <lb facs="#facs_277_r1l1" n="N001"/>
                <lb facs="#facs_277_r1l2" n="N002"/>
                <lb facs="#facs_277_r1l3" n="N003"/>
@@ -788,15 +776,14 @@
                <lb facs="#facs_277_r1l22" n="N022"/>
                <lb facs="#facs_277_r1l23" n="N023"/>
             </ab>
-<ab facs="#facs_277_r2" >
+<ab facs="#facs_277_r2">
                <lb facs="#facs_277_r2l1" n="N001"/>
             </ab>
-<pb facs="#facs_278" n="278" xml:id="img_0278"/>
-
-<ab facs="#facs_278_r1" >
+<pb facs="#facs_278" n="157 v" xml:id="Kasten_blau_44_8_0278.jpg" ed="150v"/>
+<ab facs="#facs_278_r1">
                <lb facs="#facs_278_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_278_r2" >
+<ab facs="#facs_278_r2">
                <lb facs="#facs_278_r2l1" n="N001"/>
                <lb facs="#facs_278_r2l2" n="N002"/>
                <lb facs="#facs_278_r2l3" n="N003"/>
@@ -825,12 +812,11 @@
                <lb facs="#facs_278_r2l26" n="N026"/>
                <lb facs="#facs_278_r2l27" n="N027"/>
             </ab>
-<pb facs="#facs_279" n="279" xml:id="img_0279"/>
-
-<ab facs="#facs_279_r1" >
+<pb facs="#facs_279" n="158 r" xml:id="Kasten_blau_44_8_0279.jpg" ed="151 r"/>
+<ab facs="#facs_279_r1">
                <lb facs="#facs_279_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_279_r2" >
+<ab facs="#facs_279_r2">
                <lb facs="#facs_279_r2l1" n="N001"/>
                <lb facs="#facs_279_r2l2" n="N002"/>
                <lb facs="#facs_279_r2l3" n="N003"/>
@@ -856,12 +842,11 @@
                <lb facs="#facs_279_r2l23" n="N023"/>
                <lb facs="#facs_279_r2l24" n="N024"/>
             </ab>
-<pb facs="#facs_280" n="280" xml:id="img_0280"/>
-
-<ab facs="#facs_280_r1" >
+<pb facs="#facs_280" n="158 v" xml:id="Kasten_blau_44_8_0280.jpg" ed="151 v"/>
+<ab facs="#facs_280_r1">
                <lb facs="#facs_280_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_280_r2" >
+<ab facs="#facs_280_r2">
                <lb facs="#facs_280_r2l1" n="N001"/>
                <lb facs="#facs_280_r2l2" n="N002"/>
                <lb facs="#facs_280_r2l3" n="N003"/>
@@ -888,9 +873,8 @@
                <lb facs="#facs_280_r2l24" n="N024"/>
                <lb facs="#facs_280_r2l25" n="N025"/>
             </ab>
-<pb facs="#facs_281" n="281" xml:id="img_0281"/>
-
-<ab facs="#facs_281_r1" >
+<pb facs="#facs_281" n="159 r" xml:id="Kasten_blau_44_8_0281.jpg" ed="152 r"/>
+<ab facs="#facs_281_r1">
                <lb facs="#facs_281_r1l1" n="N001"/>
                <lb facs="#facs_281_r1l2" n="N002"/>
                <lb facs="#facs_281_r1l3" n="N003"/>
@@ -900,7 +884,7 @@
                <lb facs="#facs_281_r1l7" n="N007"/>
                <lb facs="#facs_281_r1l8" n="N008"/>
             </ab>
-<ab facs="#facs_281_r2" >
+<ab facs="#facs_281_r2">
                <lb facs="#facs_281_r2l1" n="N001"/>
                <lb facs="#facs_281_r2l2" n="N002"/>
                <lb facs="#facs_281_r2l3" n="N003"/>
@@ -927,19 +911,18 @@
                <lb facs="#facs_281_r2l24" n="N024"/>
                <lb facs="#facs_281_r2l25" n="N025"/>
             </ab>
-<pb facs="#facs_282" n="282" xml:id="img_0282"/>
-
-<ab facs="#facs_282_r1" >
+<pb facs="#facs_282" n="159 v" xml:id="Kasten_blau_44_8_0282.jpg" ed="152 v"/>
+<ab facs="#facs_282_r1">
                <lb facs="#facs_282_r1l1" n="N001"/>
                <lb facs="#facs_282_r1l2" n="N002"/>
             </ab>
-<ab facs="#facs_282_r2" >
+<ab facs="#facs_282_r2">
                <lb facs="#facs_282_r2l1" n="N001"/>
             </ab>
-<ab facs="#facs_282_r3" >
+<ab facs="#facs_282_r3">
                <lb facs="#facs_282_r3l1" n="N001"/>
             </ab>
-<ab facs="#facs_282_r4" >
+<ab facs="#facs_282_r4">
                <lb facs="#facs_282_r4l1" n="N001"/>
                <lb facs="#facs_282_r4l2" n="N002"/>
                <lb facs="#facs_282_r4l3" n="N003"/>

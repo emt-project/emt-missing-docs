@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0231.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0231.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-07-27"></origDate></origin>
+                        <origin><origDate when-iso="1679-07-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-07-27"></date>
+               <date when-iso="1679-07-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -123,7 +119,6 @@
       
 <surface lrx="1660" lry="2431" ulx="0" uly="0" xml:id="facs_232">
          <graphic height="2431px" url="Kasten_blau_45_8_0232.jpg" width="1660px"/>
-         <graphic height="2431px" url="" width="1660px"/>
          <zone points="176,514 186,1432 1457,1441 1447,523" rendition="TextRegion" xml:id="facs_232_r1">
             <zone points="342,575 397,573 452,572 507,571 563,570 618,570 673,570 728,571 784,572 839,573 894,573 949,574 1005,575 1060,576 1115,576 1170,576 1226,576 1281,575 1336,573 1391,572 1447,568 1447,523 1391,527 1336,528 1281,530 1226,531 1170,531 1115,531 1060,531 1005,530 949,529 894,528 839,528 784,527 728,526 673,525 618,525 563,525 507,526 452,527 397,528 342,530" rendition="Line" xml:id="facs_232_r1l1"/>
             <zone points="353,609 1430,583 1430,629 1395,634 1361,638 1327,641 1293,643 1225,645 748,656 454,661 429,661 403,660 353,657" rendition="Line" xml:id="facs_232_line_1619794211283_4048"/>
@@ -141,9 +136,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_231" n="231" xml:id="img_0231"/>
-
-<ab facs="#facs_231_r1" >
+         <pb facs="#facs_231" n="142 r" xml:id="Kasten_blau_45_8_0231.jpg"/>
+<ab facs="#facs_231_r1">
                <lb facs="#facs_231_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_231_r1l2" n="N002"/>Dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> schreiben vom <date month="7" day="21" year="1679">21 dieses</date> habe mit großen
                <lb facs="#facs_231_r1l3" n="N003"/>freüden empfangen, in deme ich daraus dero gutten
@@ -165,9 +159,8 @@
                <lb facs="#facs_231_line_1619794132108_4019" n="N019"/><rs type="person">Hoher</rs> reden laßen, aber ich förcht wohl,
                <lb facs="#facs_231_line_1619794175546_4040" n="N020"/>es werde niks daraus, so lang <rs type="person">Don Jouan</rs>
             </ab>
-<pb facs="#facs_232" n="232" xml:id="img_0232"/>
-
-<ab facs="#facs_232_r1" >
+<pb facs="#facs_232" n="142 v" xml:id="Kasten_blau_45_8_0232.jpg"/>
+<ab facs="#facs_232_r1">
                <lb facs="#facs_232_r1l1" n="N001"/>dorten regiren wirt. <seg type="blackening">ich</seg> Man sagt auch, <rs type="person">er</rs> habe
                <lb facs="#facs_232_line_1619794211283_4048" n="N002"/>das gouerno schon dem <rs type="person">Balbases</rs> geben, der
                <lb facs="#facs_232_line_1619794214829_4052" n="N003"/>werde herunter reisen. Hirmit due mich in

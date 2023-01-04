@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0012.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0012.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-03-11"></origDate></origin>
+                        <origin><origDate when-iso="1677-03-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-03-11"></date>
+               <date when-iso="1677-03-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_12">
          <graphic height="2406px" url="Kasten_blau_45_8_0012.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="230,2112 230,2262 240,2262 240,2112" rendition="TextRegion" xml:id="facs_12_r2"/>
          <zone points="246,466 246,2338 1555,2338 1555,466" rendition="TextRegion" xml:id="facs_12_r3">
             <zone points="294,554 568,589 697,555 927,582 1021,534 1085,568 1475,519 1511,502 1509,430 1281,419 961,491 783,445 653,483 448,450 292,499" rendition="Line" xml:id="facs_12_r3l1"/>
@@ -128,7 +123,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_13">
          <graphic height="2406px" url="Kasten_blau_45_8_0013.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="220,431 220,1913 1585,1913 1585,431" rendition="TextRegion" xml:id="facs_13_r1">
             <zone points="295,558 431,573 532,524 718,568 773,527 848,566 932,524 1285,538 1458,491 1456,428 928,419 514,472 290,423" rendition="Line" xml:id="facs_13_r1l1"/>
             <zone points="242,597 895,630 1172,609 1298,557 1447,592 1445,499 1066,557 930,526 848,566 770,529 691,577 595,529 425,569 239,519" rendition="Line" xml:id="facs_13_r1l2"/>
@@ -157,11 +151,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_12" n="12" xml:id="img_0012"/>
-
-<ab facs="#facs_12_r2" >
+         <pb facs="#facs_12" n="37 r" xml:id="Kasten_blau_45_8_0012.jpg"/>
+<ab facs="#facs_12_r2">
             </ab>
-<ab facs="#facs_12_r3" >
+<ab facs="#facs_12_r3">
                <lb facs="#facs_12_r3l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_12_line_1591431074760_84" n="N002"/>Ich habe in meinem lezten schreiben verschprochen, mich
                <lb facs="#facs_12_r3l4" n="N003"/>zue beßeren vndt habe abermahl die vergangene post
@@ -176,7 +169,7 @@
                <lb facs="#facs_12_r3l15" n="N012"/>erfreüet zue vernemmen aus <rs type="person">beyde</rs> ihr Durchlauchten werteste
                <lb facs="#facs_12_r3l16" n="N013"/>schreiben, das sie gelüklich auf <rs type="place">Mildenburg</rs> kommen, 
                <lb facs="#facs_12_r3l17" n="N014"/>der allerhöchste gebe inen weiters genaht. Was ihr Durchlaucht
-               <lb facs="#facs_12_r3l18" n="N015"/>verlanget wegen meiner <rs type="person">brüeder</rs>, <supplied >in</supplied> die recomendation schreiben
+               <lb facs="#facs_12_r3l18" n="N015"/>verlanget wegen meiner <rs type="person">brüeder</rs>, <supplied>in</supplied> die recomendation schreiben
                <lb facs="#facs_12_r3l19" n="N016"/>haben ihr <rs type="person">Mayestät</rs> <choice><expan>gnädigst</expan><abbr>g</abbr></choice> eingewilliget. Was iezt <rs type="place">Trient</rs> vnd <rs type="place">Brixen</rs>
                <lb facs="#facs_12_r3l20" n="N017"/>anlanget, so werden ihr Mayestät, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, keinen portiren,
                <lb facs="#facs_12_r3l21" n="N018"/>dieweilen selbiges immerzu streit mit den <rs type="place">erblanden</rs>
@@ -186,16 +179,15 @@
                <lb facs="#facs_12_r3l25" n="N022"/>Was den <rs type="person">Bischoff von Eigstett</rs> anlanget, werden ihr Mayestät
                <lb facs="#facs_12_line_1591431713454_118" n="N023"/>duen, was sie können. Was den <rs type="person">Bischof von Bamberg</rs>
             </ab>
-<pb facs="#facs_13" n="13" xml:id="img_0013"/>
-
-<ab facs="#facs_13_r1" >
+<pb facs="#facs_13" n="37 v" xml:id="Kasten_blau_45_8_0013.jpg"/>
+<ab facs="#facs_13_r1">
                <lb facs="#facs_13_r1l1" n="N001"/>Bamberg anlanget, hab ich wohl so vill von ihr <rs type="person">Mayestät</rs>
                <lb facs="#facs_13_r1l2" n="N002"/>vernommen, das soliches schwerlich wirt sein können, 
                <lb facs="#facs_13_r1l3" n="N003"/>dieweilen die bischoff soliche capitulationen ein gehn, vmb
                <lb facs="#facs_13_r1l4" n="N004"/>bischoff zu werden, vndt darnach wollen sie es nit halten.
                <lb facs="#facs_13_r1l5" n="N005"/>Was aber die fölker vom <rs type="org">fränkischen kreis</rs> anlanget,
                <lb facs="#facs_13_r1l6" n="N006"/>haben ihr Mayestät schon <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befohlen zu schreiben wie es ihr Durchlaucht
-               <lb facs="#facs_13_r1l7" n="N007"/>verlangen, so vill es sein kan. Wüntsche <supplied >das</supplied> diese armatur
+               <lb facs="#facs_13_r1l7" n="N007"/>verlangen, so vill es sein kan. Wüntsche <supplied>das</supplied> diese armatur
                <lb facs="#facs_13_r1l8" n="N008"/>nach ihr Durchlaucht vndt vnser allen hoffnung wohl opperiren
                <lb facs="#facs_13_r1l9" n="N009"/>möge. Aus <rs type="place">Schpanien</rs> ist heüt die post noch nit kommen,
                <lb facs="#facs_13_line_1591432040158_149" n="N010"/>förchte aber wohl, werde nit vill guettes bringen in

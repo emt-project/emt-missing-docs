@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0494.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0494.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1702-12-31"></origDate></origin>
+                        <origin><origDate when-iso="1702-12-31"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,17 +77,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1702-12-31"></date>
+               <date when-iso="1702-12-31"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -149,7 +145,6 @@
       
 <surface lrx="2502" lry="1648" ulx="0" uly="0" xml:id="facs_496">
          <graphic height="1648px" url="Kasten_blau_44_8_0496.jpg" width="2502px"/>
-         <graphic height="1648px" url="" width="2502px"/>
          <zone points="942,655 942,841 1574,841 1574,655" rendition="TextRegion" xml:id="facs_496_r2">
             <zone points="965,736 995,733 1025,731 1056,730 1086,728 1117,728 1147,728 1178,727 1208,727 1239,727 1269,727 1299,727 1330,727 1360,727 1391,727 1421,727 1452,727 1482,727 1513,727 1543,726 1574,725 1574,655 1543,656 1513,657 1482,657 1452,657 1421,657 1391,657 1360,657 1330,657 1299,657 1269,657 1239,657 1208,657 1178,657 1147,658 1117,658 1086,658 1056,660 1025,661 995,663 965,666" rendition="Line" xml:id="facs_496_r2l1"/>
             <zone points="942,841 971,837 1000,833 1030,832 1059,830 1088,827 1118,826 1147,825 1176,824 1206,824 1235,823 1264,823 1294,823 1323,823 1352,822 1382,822 1411,821 1440,821 1470,821 1499,821 1529,820 1529,750 1499,751 1470,751 1440,751 1411,751 1382,752 1352,752 1323,753 1294,753 1264,753 1235,753 1206,754 1176,754 1147,755 1118,756 1088,757 1059,760 1030,762 1000,763 971,767 942,771" rendition="Line" xml:id="facs_496_r2l2"/></zone>
@@ -159,59 +154,56 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_494" n="494" xml:id="img_0494"/>
-
-<ab facs="#facs_494_r1" >
+         <pb facs="#facs_494" n="282 r" xml:id="Kasten_blau_44_8_0494.jpg"/>
+<ab facs="#facs_494_r1">
                <lb facs="#facs_494_line_1656672749618_386" n="N001"/>31 xbris 1703
-               <lb facs="#facs_494_r1l2" n="N002"/>Durchleücht<supplied >i</supplied>ger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_494_line_1612189032184_691" n="N003"/><supplied >Schreibe</supplied> dero liebsts sch<supplied >rei</supplied>ben vom 7ten, durch den curir kommen, in
+               <lb facs="#facs_494_r1l2" n="N002"/>Durchleücht<supplied>i</supplied>ger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_494_line_1612189032184_691" n="N003"/><supplied>Schreibe</supplied> dero liebsts sch<supplied>rei</supplied>ben vom 7ten, durch den curir kommen, in
                <lb facs="#facs_494_line_1612189037251_695" n="N004"/>eil zu beantworten, wüntsche aber fodrist zu dem
-               <lb facs="#facs_494_r1l8" n="N005"/><choice><expan>heiligen</expan><abbr>h</abbr></choice> fe<supplied >i</supplied>rd<supplied >a</supplied>gen vndt konftigen newen iahr alle erwünste
-               <lb facs="#facs_494_r1l9" n="N006"/>glükhsehlickeiten, gotte gebe, <supplied >dass</supplied> es glükliger als das v<supplied >o</supplied>hrige
+               <lb facs="#facs_494_r1l8" n="N005"/><choice><expan>heiligen</expan><abbr>h</abbr></choice> fe<supplied>i</supplied>rd<supplied>a</supplied>gen vndt konftigen newen iahr alle erwünste
+               <lb facs="#facs_494_r1l9" n="N006"/>glükhsehlickeiten, gotte gebe, <supplied>dass</supplied> es glükliger als das v<supplied>o</supplied>hrige
                <lb facs="#facs_494_r1l10" n="N007"/>seye zu dem gemeinen besten vndt vnser aller trost. Wie
-               <lb facs="#facs_494_r1l11" n="N008"/>die sa<supplied >c</supplied>hen stehen, werden dero Liebden schon vom Wißer alls vernommen <supplied >haben</supplied>,
+               <lb facs="#facs_494_r1l11" n="N008"/>die sa<supplied>c</supplied>hen stehen, werden dero Liebden schon vom Wißer alls vernommen <supplied>haben</supplied>,
                <lb facs="#facs_494_r1l12" n="N009"/>darumb halte vnötig es zu widerholen. Wegen der romischen
                <lb facs="#facs_494_r1l14" n="N010"/>sachen werde gern alls cooperirn, auch wegen Sauoia was
                <lb facs="#facs_494_r1l15" n="N011"/>möchlich ist. Es wirt ehster dagen wider ein curir zu
-               <lb facs="#facs_494_line_1612189055848_699" n="N012"/>mein sohn gehn, mit <supplied >dem</supplied> werd oder selbst oder <unclear>druks</unclear> durch den
-               <lb facs="#facs_494_line_1612189059925_703" n="N013"/>Wißer alles ausfürlich sch<supplied >rei</supplied>ben laßen, dan izt vnmöchlig,
-               <lb facs="#facs_494_r1l20" n="N014"/>seint die <choice><expan>feiertag</expan><abbr>fedg</abbr></choice> gew<supplied >e</supplied>st vnd <supplied >war</supplied> von den audienzen so überloffen, das
+               <lb facs="#facs_494_line_1612189055848_699" n="N012"/>mein sohn gehn, mit <supplied>dem</supplied> werd oder selbst oder <unclear>druks</unclear> durch den
+               <lb facs="#facs_494_line_1612189059925_703" n="N013"/>Wißer alles ausfürlich sch<supplied>rei</supplied>ben laßen, dan izt vnmöchlig,
+               <lb facs="#facs_494_r1l20" n="N014"/>seint die <choice><expan>feiertag</expan><abbr>fedg</abbr></choice> gew<supplied>e</supplied>st vnd <supplied>war</supplied> von den audienzen so überloffen, das
                <lb facs="#facs_494_r1l21" n="N015"/>nit zu sagen, hoff, dero Liebden werden mihr vergeben. Der Deütschmeister
-               <lb facs="#facs_494_r1l23" n="N016"/>ist hie gew<supplied >e</supplied>st, die sachen gehn do<supplied >r</supplied>t beßer vnd er Forstmeister auch
+               <lb facs="#facs_494_r1l23" n="N016"/>ist hie gew<supplied>e</supplied>st, die sachen gehn do<supplied>r</supplied>t beßer vnd er Forstmeister auch
             </ab>
-<pb facs="#facs_495" n="495" xml:id="img_0495"/>
-
-<ab facs="#facs_495_r1" >
-               <lb facs="#facs_495_r1l2" n="N001"/>last sich beßer an. Ich hab au<supplied >c</supplied>h mit ihm geredt wegen der warmischen
+<pb facs="#facs_495" n="282 v" xml:id="Kasten_blau_44_8_0495.jpg"/>
+<ab facs="#facs_495_r1">
+               <lb facs="#facs_495_r1l2" n="N001"/>last sich beßer an. Ich hab au<supplied>c</supplied>h mit ihm geredt wegen der warmischen
                <lb facs="#facs_495_r1l3" n="N002"/>sach, so gedunkt mich, das beste wehre, wan dero Liebden zufriden wehr,
-               <lb facs="#facs_495_r1l4" n="N003"/>dan ich ihn schon d<supplied >a</supplied>zu disponirt hab, das man ein comission
+               <lb facs="#facs_495_r1l4" n="N003"/>dan ich ihn schon d<supplied>a</supplied>zu disponirt hab, das man ein comission
                <lb facs="#facs_495_r1l5" n="N004"/>machet, wolt leüt aus klaub, so bederseiz vohr gerecht vndt
-               <lb facs="#facs_495_r1l6" n="N005"/>vnparteisch gehalten werden. Dero Liebden haben iezt den Wißer hier, der Deütschm<supplied >ei</supplied>ster
+               <lb facs="#facs_495_r1l6" n="N005"/>vnparteisch gehalten werden. Dero Liebden haben iezt den Wißer hier, der Deütschm<supplied>ei</supplied>ster
                <lb facs="#facs_495_r1l7" n="N006"/>könte auch einen her schiken, vndt könt hernach zuesammen
-               <lb facs="#facs_495_r1l8" n="N007"/>tr<supplied >e</supplied>tten vndt der sach bey legen. Bede deil müeßetten sich
+               <lb facs="#facs_495_r1l8" n="N007"/>tr<supplied>e</supplied>tten vndt der sach bey legen. Bede deil müeßetten sich
                <lb facs="#facs_495_r1l9" n="N008"/>resoluiren, bey dem zu bleiben vndt zu aprobiren, was die
                <lb facs="#facs_495_r1l10" n="N009"/>comission befinden wurd, mit dem kämen sie einmahl heraus
-               <lb facs="#facs_495_r1l11" n="N010"/>vndt wurde die brüderlige lieb nit geschwecht, sonde<supplied >r</supplied>n in
+               <lb facs="#facs_495_r1l11" n="N010"/>vndt wurde die brüderlige lieb nit geschwecht, sonde<supplied>r</supplied>n in
                <lb facs="#facs_495_r1l12" n="N011"/>vorheriger einikeit erhalten. Wegen der subsiden offerirt er sich,
                <lb facs="#facs_495_r1l13" n="N012"/>alles zu duen was möglich, vndt zeigt sich in allen willfahrig.
-               <lb facs="#facs_495_r1l14" n="N013"/>Erwarte hirauf ein baldige antwort. Über die vbrige sa<supplied >c</supplied>hen
+               <lb facs="#facs_495_r1l14" n="N013"/>Erwarte hirauf ein baldige antwort. Über die vbrige sa<supplied>c</supplied>hen
                <lb facs="#facs_495_r1l16" n="N014"/>werde mit dem Wißer weiters reden, damit mit nechsten
-               <lb facs="#facs_495_r1l17" n="N015"/>courir oder könftigen samstag dero Liebden alle verlangte na<supplied >c</supplied>hricht
-               <lb facs="#facs_495_r1l18" n="N016"/>möge erlangen. Wie hir die sa<supplied >c</supplied>hen stehn, werden dero Liebden von
+               <lb facs="#facs_495_r1l17" n="N015"/>courir oder könftigen samstag dero Liebden alle verlangte na<supplied>c</supplied>hricht
+               <lb facs="#facs_495_r1l18" n="N016"/>möge erlangen. Wie hir die sa<supplied>c</supplied>hen stehn, werden dero Liebden von
                <lb facs="#facs_495_r1l19" n="N017"/>Wißer vernommen haben, mein sohn hatt ein fluß auf
                <lb facs="#facs_495_r1l20" n="N018"/>ein aug, ist zimlich inflamirt, heündt aber gottlob fangt
-               <lb facs="#facs_495_r1l21" n="N019"/>es an beßer werden, so hoff werd balt gahr v<supplied >e</supplied>rg<supplied >e</supplied>hn. Ich 
-               <lb facs="#facs_495_r1l22" n="N020"/>aber lebe vnd st<supplied >e</supplied>rbe
+               <lb facs="#facs_495_r1l21" n="N019"/>es an beßer werden, so hoff werd balt gahr v<supplied>e</supplied>rg<supplied>e</supplied>hn. Ich 
+               <lb facs="#facs_495_r1l22" n="N020"/>aber lebe vnd st<supplied>e</supplied>rbe
                <lb facs="#facs_495_line_1612190364440_790" n="N021"/>dero Liebden
-               <lb facs="#facs_495_r1l23" n="N022"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_495_r1l23" n="N022"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_495_line_1612190448141_803" n="N023"/>Eleonora
                <lb facs="#facs_495_line_1612190416007_798" n="N024"/>Wien den lezten des 1702 iahr
-               <lb facs="#facs_495_line_1612190448141_804" n="N025"/>Der Platores ist kommen, hab vnmuglich no<supplied >c</supplied>h mit ihm
+               <lb facs="#facs_495_line_1612190448141_804" n="N025"/>Der Platores ist kommen, hab vnmuglich no<supplied>c</supplied>h mit ihm
                <lb facs="#facs_495_r1l27" n="N026"/>reden können, hoffe morgen werde es könen <unclear>geschen</unclear>.
             </ab>
-<pb facs="#facs_496" n="496" xml:id="img_0496"/>
-
-<ab facs="#facs_496_r2" >
+<pb facs="#facs_496" n="284 r" xml:id="Kasten_blau_44_8_0496.jpg"/>
+<ab facs="#facs_496_r2">
                <lb facs="#facs_496_r2l1" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu Pfalz,
                <lb facs="#facs_496_r2l2" n="N002"/>meinen herzallerliebsten <choice><expan>herrn</expan><abbr>h</abbr></choice> brudren
             </ab>

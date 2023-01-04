@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0230.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0230.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-07-21"></origDate></origin>
+                        <origin><origDate when-iso="1679-07-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-07-21"></date>
+               <date when-iso="1679-07-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1660" lry="2460" ulx="0" uly="0" xml:id="facs_230">
          <graphic height="2460px" url="Kasten_blau_45_8_0230.jpg" width="1660px"/>
-         <graphic height="2460px" url="" width="1660px"/>
          <zone points="224,648 218,2316 1570,2325 1576,657" rendition="TextRegion" xml:id="facs_230_r1">
             <zone points="322,733 1576,657 1576,697 1533,702 1447,711 1362,719 1233,731 1148,738 1062,744 934,751 322,773" rendition="Line" xml:id="facs_230_line_1619793668936_3802"/>
             <zone points="352,813 1477,729 1477,769 1411,783 1378,788 1346,792 1313,796 806,843 377,853 352,853" rendition="Line" xml:id="facs_230_line_1619793672422_3806"/>
@@ -127,9 +122,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_230" n="230" xml:id="img_0230"/>
-
-<ab facs="#facs_230_r1" >
+         <pb facs="#facs_230" n="136 r" xml:id="Kasten_blau_45_8_0230.jpg"/>
+<ab facs="#facs_230_r1">
                <lb facs="#facs_230_line_1619793668936_3802" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_230_line_1619793672422_3806" n="N002"/>Weil der <rs type="person">Pater Isidorus</rs> auf <rs type="place">Regenschpurch</rs>
                <lb facs="#facs_230_line_1619793676361_3810" n="N003"/>von seinen oberen geschikt worden, so hab ich

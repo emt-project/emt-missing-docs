@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0025.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0025.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-04-29"></origDate></origin>
+                        <origin><origDate when-iso="1677-04-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1677-04-29"></date>
+               <date when-iso="1677-04-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_25">
          <graphic height="2406px" url="Kasten_blau_45_8_0025.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="62,483 62,2326 1564,2326 1564,483" rendition="TextRegion" xml:id="facs_25_r1">
             <zone points="339,544 453,534 618,593 735,526 825,564 1497,534 1519,434 1431,477 978,429 786,478 338,478" rendition="Line" xml:id="facs_25_r1l1"/>
             <zone points="336,684 481,628 599,680 1011,621 1146,662 1240,604 1455,633 1562,601 1561,533 1422,584 1153,536 1039,590 900,543 718,604 333,551" rendition="Line" xml:id="facs_25_r1l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_26">
          <graphic height="2406px" url="Kasten_blau_45_8_0026.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="215,481 215,2260 1553,2260 1553,481" rendition="TextRegion" xml:id="facs_26_r1">
             <zone points="307,555 425,605 504,549 590,593 732,546 888,597 1139,545 1363,579 1421,539 1555,551 1554,455 1351,493 920,465 846,515 664,455 531,495 306,478" rendition="Line" xml:id="facs_26_r1l1"/>
             <zone points="294,657 636,628 724,680 808,626 965,658 1084,625 1146,664 1347,610 1470,655 1512,650 1512,555 1289,579 1129,544 1061,589 933,557 888,597 730,548 593,596 293,540" rendition="Line" xml:id="facs_26_r1l2"/>
@@ -151,7 +145,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_27">
          <graphic height="2406px" url="Kasten_blau_45_8_0027.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="210,473 210,2267 1580,2254 1580,460" rendition="TextRegion" xml:id="facs_27_r1">
             <zone points="377,566 633,580 696,532 1094,566 1247,521 1488,554 1564,524 1561,435 1305,478 981,444 881,493 698,455 374,486" rendition="Line" xml:id="facs_27_r1l1"/>
             <zone points="357,623 877,608 971,656 1333,581 1402,637 1563,597 1561,527 1247,530 1131,573 995,538 355,564" rendition="Line" xml:id="facs_27_r1l2"/>
@@ -183,9 +176,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_25" n="25" xml:id="img_0025"/>
-
-<ab facs="#facs_25_r1" >
+         <pb facs="#facs_25" n="53 r" xml:id="Kasten_blau_45_8_0025.jpg"/>
+<ab facs="#facs_25_r1">
                <lb facs="#facs_25_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_25_r1l2" n="N002"/>Ich bitte ganz gehorsam, sie wollen doch mit dero gehorsamen
                <lb facs="#facs_25_r1l3" n="N003"/>dochter keine complimenten machen vndt danken vohr das
@@ -207,21 +199,20 @@
                <lb facs="#facs_25_r1l21" n="N019"/>intention sey, dan es möchten sonsten villeicht etlige
                <lb facs="#facs_25_r1l23" n="N020"/>vermeinen, ihr Mayestät würden schon zu friden sein
             </ab>
-<pb facs="#facs_26" n="26" xml:id="img_0026"/>
-
-<ab facs="#facs_26_r1" >
-               <lb facs="#facs_26_r1l1" n="N001"/>entligen, <supplied >wenn</supplied> nuhr einer wehre, welcher ihr <rs type="person">Mayestät</rs> sonsten nit
+<pb facs="#facs_26" n="53 v" xml:id="Kasten_blau_45_8_0026.jpg"/>
+<ab facs="#facs_26_r1">
+               <lb facs="#facs_26_r1l1" n="N001"/>entligen, <supplied>wenn</supplied> nuhr einer wehre, welcher ihr <rs type="person">Mayestät</rs> sonsten nit
                <lb facs="#facs_26_r1l2" n="N002"/>zu wider, vndt ich wüste gewis, das ihr Mayestät keinen
                <lb facs="#facs_26_r1l3" n="N003"/>andern als meinen <rs type="person">bruederen</rs> verlangten. So hatt er
                <lb facs="#facs_26_r1l4" n="N004"/>sich gahr eifrig erzeiget vnd gesacht, das sollichs
-               <lb facs="#facs_26_r1l5" n="N005"/>freilich <supplied >wahr</supplied> währe, das ihr Mayestät auch befohlen, die brief in
+               <lb facs="#facs_26_r1l5" n="N005"/>freilich <supplied>wahr</supplied> währe, das ihr Mayestät auch befohlen, die brief in
                <lb facs="#facs_26_r1l6" n="N006"/>specie auf meinen bruederen zu richten, welches auch
                <lb facs="#facs_26_r1l7" n="N007"/>geschehn. Man hätte auch bey dieser coniunctur
                <lb facs="#facs_26_r1l8" n="N008"/>niemanten als den <rs type="person">Grauen Furbeni</rs> zu beförchten,
                <lb facs="#facs_26_r1l9" n="N009"/>deme hätten ihr Mayestät aber also zueschreiben laßen,
                <lb facs="#facs_26_r1l10" n="N010"/>vndt er wehre ihr Mayestät auf solliche weis verbunden,
                <lb facs="#facs_26_r1l11" n="N011"/>das er gewislich sich nit würde getrawen etwas
-               <lb facs="#facs_26_line_1591456584819_881" n="N012"/>zu tentiren. Iezt, wan der <rs type="person">Bischof von Gurg</rs> hinunter <supplied >reisen</supplied>
+               <lb facs="#facs_26_line_1591456584819_881" n="N012"/>zu tentiren. Iezt, wan der <rs type="person">Bischof von Gurg</rs> hinunter <supplied>reisen</supplied>
                <lb facs="#facs_26_r1l14" n="N013"/>wirt, welches balt sein wirt, so werden ihr Mayestät
                <lb facs="#facs_26_r1l15" n="N014"/>ihme befehlen, das er müntlich mit den dumheren
                <lb facs="#facs_26_r1l16" n="N015"/>zu reden, welches er eifrich genuech duen wirt, dan
@@ -232,9 +223,8 @@
                <lb facs="#facs_26_r1l21" n="N020"/>so vill ich vermeine, kein bedenken wirt brengen. Von
                <lb facs="#facs_26_r1l22" n="N021"/>der <rs type="person">Grauin von Rittberg</rs> habe noch niks vernommen. Ihr
             </ab>
-<pb facs="#facs_27" n="27" xml:id="img_0027"/>
-
-<ab facs="#facs_27_r1" >
+<pb facs="#facs_27" n="60 r" xml:id="Kasten_blau_45_8_0027.jpg"/>
+<ab facs="#facs_27_r1">
                <lb facs="#facs_27_r1l1" n="N001"/>eltister <rs type="person">sohn</rs>, welcher nit dumher, ist gestern hier gewesen,
                <lb facs="#facs_27_r1l2" n="N002"/>aber gleich widrumb wekh. Ist zwahr bey mihr gewesen,
                <lb facs="#facs_27_r1l3" n="N003"/>aber nuhr in eil, weil mihr gleich hinaus haben gemüst
@@ -250,9 +240,9 @@
                <lb facs="#facs_27_r1l13" n="N013"/>noch einmahl mit ihm gerett. Ich verhoffe, die
                <lb facs="#facs_27_r1l14" n="N014"/>reise nacher <rs type="place">Wesel</rs> werde nach ihr Durchlaucht verlangen
                <lb facs="#facs_27_line_1591457114809_912" n="N015"/>ausgeschlagen sein, welches ich von herzen wüntsche. Ich
-               <lb facs="#facs_27_line_1591457139371_916" n="N016"/>danke ihr Durchlaucht ganz gehorsamst vohr die guette anwüntschu<supplied >n</supplied>g 
+               <lb facs="#facs_27_line_1591457139371_916" n="N016"/>danke ihr Durchlaucht ganz gehorsamst vohr die guette anwüntschu<supplied>n</supplied>g 
                <lb facs="#facs_27_line_1591885353096_654" n="N017"/>zue diesem heiligen feste. Wolte gott, das capabel wehre,
-               <lb facs="#facs_27_line_1591885396179_658" n="N018"/>ihr Durchlaucht zu bedienen vndt ihnen zu zeigen, das ich allez<supplied >e</supplied>it
+               <lb facs="#facs_27_line_1591885396179_658" n="N018"/>ihr Durchlaucht zu bedienen vndt ihnen zu zeigen, das ich allez<supplied>e</supplied>it
                <lb facs="#facs_27_r1l24" n="N019"/>mit höchstem eifer verbleiben werde
                <lb facs="#facs_27_r1l25" n="N020"/>ihr Durchlaucht
                <lb facs="#facs_27_r1l26" n="N021"/>ganz ergebenste trewgehorsam-

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0134.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0134.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-06-11"></origDate></origin>
+                        <origin><origDate when-iso="1701-06-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-06-11"></date>
+               <date when-iso="1701-06-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -287,14 +283,13 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_134" n="134" xml:id="img_0134"/>
-
-<ab facs="#facs_134_r1" >
+         <pb facs="#facs_134" n="76 r" xml:id="Kasten_blau_44_8_0134.jpg" ed="51 r"/>
+<ab facs="#facs_134_r1">
                <lb facs="#facs_134_r1l1" n="N001"/>ue
                <lb facs="#facs_134_r1l2" n="N002"/>EMT
                <lb facs="#facs_134_r1l3" n="N003"/>uer
             </ab>
-<ab facs="#facs_134_r2" >
+<ab facs="#facs_134_r2">
                <lb facs="#facs_134_r2l1" n="N001"/>e
                <lb facs="#facs_134_r2l2" n="N002"/>ag
                <lb facs="#facs_134_r2l3" n="N003"/>EMT
@@ -327,15 +322,14 @@
                <lb facs="#facs_134_r2l30" n="N030"/>i
                <lb facs="#facs_134_r2l31" n="N031"/>EMT
             </ab>
-<pb facs="#facs_135" n="135" xml:id="img_0135"/>
-
-<ab facs="#facs_135_r1" >
+<pb facs="#facs_135" n="76 v" xml:id="Kasten_blau_44_8_0135.jpg" ed="51 v"/>
+<ab facs="#facs_135_r1">
                <lb facs="#facs_135_r1l1" n="N001"/>b
             </ab>
-<ab facs="#facs_135_r2" >
+<ab facs="#facs_135_r2">
                <lb facs="#facs_135_r2l1" n="N001"/>uer
             </ab>
-<ab facs="#facs_135_r3" >
+<ab facs="#facs_135_r3">
                <lb facs="#facs_135_r3l1" n="N001"/>selbsten die hensaumen helben hehlen ich gänklich
                <lb facs="#facs_135_r3l2" n="N002"/>er ad vnwerten nicht allein als dieser gewingen
                <lb facs="#facs_135_r3l3" n="N003"/>berichtung elleren die contento eben endern
@@ -366,12 +360,11 @@
                <lb facs="#facs_135_r3l28" n="N028"/>ihr huz ohlen zu fals also augegenhändig abgangen
                <lb facs="#facs_135_r3l29" n="N029"/>ue
             </ab>
-<pb facs="#facs_137" n="137" xml:id="img_0137"/>
-
-<ab facs="#facs_137_r1" >
+<pb facs="#facs_137" n="78 r" xml:id="Kasten_blau_44_8_0137.jpg" ed="49 r"/>
+<ab facs="#facs_137_r1">
                <lb facs="#facs_137_r1l1" n="N001"/>e
             </ab>
-<ab facs="#facs_137_r2" >
+<ab facs="#facs_137_r2">
                <lb facs="#facs_137_r2l1" n="N001"/>e
                <lb facs="#facs_137_r2l2" n="N002"/>n ma
                <lb facs="#facs_137_r2l3" n="N003"/>e
@@ -404,12 +397,11 @@
                <lb facs="#facs_137_r2l30" n="N030"/>dienen zuer können werde gewelegendeh an der
                <lb facs="#facs_137_r2l31" n="N031"/>e
             </ab>
-<pb facs="#facs_138" n="138" xml:id="img_0138"/>
-
-<ab facs="#facs_138_r1" >
+<pb facs="#facs_138" n="78 v" xml:id="Kasten_blau_44_8_0138.jpg" ed="49 v"/>
+<ab facs="#facs_138_r1">
                <lb facs="#facs_138_r1l1" n="N001"/>e
             </ab>
-<ab facs="#facs_138_r2" >
+<ab facs="#facs_138_r2">
                <lb facs="#facs_138_r2l1" n="N001"/> nicht ermanglen meiner hochst schuldigchein
                <lb facs="#facs_138_r2l2" n="N002"/>obligation nach den in welcher dargeerei
                <lb facs="#facs_138_r2l3" n="N003"/>mich offenion auch mit meinem es erdien
@@ -436,14 +428,13 @@
                <lb facs="#facs_138_r2l24" n="N024"/>consliert zum kan auch der ender gerwegung
                <lb facs="#facs_138_r2l25" n="N025"/>rebe
             </ab>
-<pb facs="#facs_139" n="139" xml:id="img_0139"/>
-
-<ab facs="#facs_139_r1" >
+<pb facs="#facs_139" n="79 r" xml:id="Kasten_blau_44_8_0139.jpg" ed="50 r"/>
+<ab facs="#facs_139_r1">
                <lb facs="#facs_139_r1l1" n="N001"/>e
                <lb facs="#facs_139_r1l2" n="N002"/>euer
                <lb facs="#facs_139_r1l3" n="N003"/>e
             </ab>
-<ab facs="#facs_139_r2" >
+<ab facs="#facs_139_r2">
                <lb facs="#facs_139_r2l1" n="N001"/>e
                <lb facs="#facs_139_r2l2" n="N002"/>u terwein vnd reißen vmb mich mihr
                <lb facs="#facs_139_r2l3" n="N003"/>weil wehnen vndt wie etrawen so mie

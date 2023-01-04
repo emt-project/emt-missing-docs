@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0135.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0135.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-03-13"></origDate></origin>
+                        <origin><origDate when-iso="1678-03-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-03-13"></date>
+               <date when-iso="1678-03-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2466" ulx="0" uly="0" xml:id="facs_135">
          <graphic height="2466px" url="Kasten_blau_45_8_0135.jpg" width="1692px"/>
-         <graphic height="2466px" url="" width="1692px"/>
          <zone points="306,552 306,2288 1621,2288 1621,552" rendition="TextRegion" xml:id="facs_135_r2">
             <zone points="370,643 429,642 489,641 548,639 608,638 668,636 727,634 787,631 846,629 906,626 966,624 1025,622 1085,619 1144,616 1204,615 1264,612 1323,611 1383,609 1442,608 1502,607 1562,607 1562,552 1502,552 1442,553 1383,554 1323,556 1264,557 1204,560 1144,561 1085,564 1025,567 966,569 906,571 846,574 787,576 727,579 668,581 608,583 548,584 489,586 429,587 370,588" rendition="Line" xml:id="facs_135_r2l1"/>
             <zone points="338,730 398,728 459,725 519,722 580,720 640,717 701,713 761,711 822,708 882,704 943,702 1003,699 1064,696 1124,693 1185,690 1245,687 1306,684 1366,682 1427,679 1487,676 1548,674 1548,623 1487,625 1427,628 1366,631 1306,633 1245,636 1185,639 1124,642 1064,645 1003,648 943,651 882,653 822,657 761,660 701,662 640,666 580,669 519,671 459,674 398,677 338,679" rendition="Line" xml:id="facs_135_r2l2"/>
@@ -222,9 +217,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_135" n="135" xml:id="img_0135"/>
-
-<ab facs="#facs_135_r2" >
+         <pb facs="#facs_135" n="8 r" xml:id="Kasten_blau_45_8_0135.jpg"/>
+<ab facs="#facs_135_r2">
                <lb facs="#facs_135_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_135_r2l2" n="N002"/>Drey dero wertesten schreiben habe ich mit hochstem
                <lb facs="#facs_135_r2l3" n="N003"/>trost empfangen, deren 2 durch die post vndt eins durch
@@ -246,9 +240,8 @@
                <lb facs="#facs_135_line_1618562978097_25" n="N019"/>vndt ich den trost möge haben, dero gegenwart zue
                <lb facs="#facs_135_r2l29" n="N020"/>genießen. Was aber iezt meinen <rs type="person">bruedern</rs> angeht,
             </ab>
-<pb facs="#facs_136" n="136" xml:id="img_0136"/>
-
-<ab facs="#facs_136_r1" >
+<pb facs="#facs_136" n="8 v" xml:id="Kasten_blau_45_8_0136.jpg"/>
+<ab facs="#facs_136_r1">
                <lb facs="#facs_136_r1l1" n="N001"/>so haben ihr <rs type="person">Mayestät</rs> zwahr gesacht, ewer Durchlaucht könten hierin duen,
                <lb facs="#facs_136_r1l2" n="N002"/>was ihnen beliebich, aber ich kan ewer Durchlaucht <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> nit verhalten,
                <lb facs="#facs_136_r1l3" n="N003"/>das ich an seiner höchstverlangter glükhsehlichkeit alleweil
@@ -268,14 +261,13 @@
                <lb facs="#facs_136_line_1618563095674_93" n="N017"/>nit schaden, dan er mit wehnich leüten auf der
                <lb facs="#facs_136_line_1618563104165_97" n="N018"/>post gahr balt heroben kan sein, vndt indeßen,
                <lb facs="#facs_136_line_1618563112661_104" n="N019"/>wie ewer Durchlaucht selbsten amb besten <choice><expan>gnädigst</expan><abbr>g</abbr></choice> wißen werden,
-               <lb facs="#facs_136_line_1618563115747_108" n="N020"/>meine lanzleüt wohl iemant bey sich vonöten <supplied >haben</supplied>,
+               <lb facs="#facs_136_line_1618563115747_108" n="N020"/>meine lanzleüt wohl iemant bey sich vonöten <supplied>haben</supplied>,
                <lb facs="#facs_136_line_1618563120915_112" n="N021"/>den sie förchten. Doch steht alles bey ewer Durchlaucht <choice><expan>gnädigstem</expan><abbr>g</abbr></choice>
                <lb facs="#facs_136_line_1618563129722_119" n="N022"/>belieben, aber inz felt meinet ich wohl gahr
                <lb facs="#facs_136_line_1618563134372_123" n="N023"/>nit, das vohr dismahl dienlich seye. Bitte mihr
             </ab>
-<pb facs="#facs_137" n="137" xml:id="img_0137"/>
-
-<ab facs="#facs_137_r3" >
+<pb facs="#facs_137" n="8 vv" xml:id="Kasten_blau_45_8_0137.jpg"/>
+<ab facs="#facs_137_r3">
                <lb facs="#facs_137_r3l1" n="N001"/>meine küenheit nit in <choice><expan>vngnaden</expan><abbr>vng</abbr></choice> aufzuenemmen, dan
                <lb facs="#facs_137_r3l2" n="N002"/>alles gewis aus trewkintligem herzen her rüeret,
                <lb facs="#facs_137_r3l3" n="N003"/>als die ich auch in der aschen verharren werde zu sein
@@ -299,12 +291,11 @@
                <lb facs="#facs_137_line_1618563224957_169" n="N021"/>ewer Durchlaucht bey schließen, woh aber nit, so wirt es
                <lb facs="#facs_137_line_1618563229058_173" n="N022"/>gewis auf künftigen pfinstag erfolgen, dan es heüt
                <lb facs="#facs_137_line_1618563233394_177" n="N023"/>schon zimlich schpaht vndt ich noch audienzen habe.
-               <lb facs="#facs_137_line_1618563268883_183" n="N024"/>Schike hirbey noch das schreiben an <supplied >den</supplied> <rs type="person">Cuhrfürsten</rs>, wan es nit recht 
+               <lb facs="#facs_137_line_1618563268883_183" n="N024"/>Schike hirbey noch das schreiben an <supplied>den</supplied> <rs type="person">Cuhrfürsten</rs>, wan es nit recht 
                <lb facs="#facs_137_line_1618563274091_187" n="N025"/>bitt nuhr zu <unclear>schaffen</unclear>, will es anderst nach dero befehl machen.
             </ab>
-<pb facs="#facs_138" n="138" xml:id="img_0138"/>
-
-<ab facs="#facs_138_r1" >
+<pb facs="#facs_138" n="9 r" xml:id="Kasten_blau_45_8_0138.jpg"/>
+<ab facs="#facs_138_r1">
                <lb facs="#facs_138_r1l1" n="N001"/>PS Ewer Durchlaucht berichte hiermit vnterdehnig in
                <lb facs="#facs_138_line_1618563332688_207" n="N002"/>höchster geheim, das alles, was in meinem
                <lb facs="#facs_138_line_1618563349196_218" n="N003"/>heutigen schreiben melde, mit ihr <rs type="person">Mayestät</rs> vohrwißen
@@ -324,9 +315,8 @@
                <lb facs="#facs_138_r1l29" n="N017"/>schuldt, hab auch ihr Mayestät gesacht, das mihrs nit
                <lb facs="#facs_138_line_1618563426200_257" n="N018"/>lieb wehre, aus forcht, das ihr Mayestät hierdurch
             </ab>
-<pb facs="#facs_139" n="139" xml:id="img_0139"/>
-
-<ab facs="#facs_139_r1" >
+<pb facs="#facs_139" n="9 v" xml:id="Kasten_blau_45_8_0139.jpg"/>
+<ab facs="#facs_139_r1">
                <lb facs="#facs_139_r1l1" n="N001"/>gelegenheit zue einiger verlengerung
                <lb facs="#facs_139_r1l2" n="N002"/>in dero resolution möchten nemmen,
                <lb facs="#facs_139_r1l3" n="N003"/>welches allezeit gefährlich, vndt ie balder,

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0049.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0049.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-06-20"></origDate></origin>
+                        <origin><origDate when-iso="1677-06-20"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1677-06-20"></date>
+               <date when-iso="1677-06-20"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_49">
          <graphic height="2419px" url="Kasten_blau_45_8_0049.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="93,544 93,2325 1591,2325 1591,544" rendition="TextRegion" xml:id="facs_49_r1">
             <zone points="365,624 491,667 540,634 1207,641 1594,575 1592,525 827,581 712,560 598,592 363,567" rendition="Line" xml:id="facs_49_r1l1"/>
             <zone points="346,760 434,724 662,752 1599,681 1595,609 1548,601 1236,672 1155,634 788,681 726,653 624,705 341,669" rendition="Line" xml:id="facs_49_r1l2"/>
@@ -117,7 +112,6 @@
       
 <surface lrx="1664" lry="2419" ulx="0" uly="0" xml:id="facs_50">
          <graphic height="2419px" url="Kasten_blau_45_8_0050.jpg" width="1664px"/>
-         <graphic height="2419px" url="" width="1664px"/>
          <zone points="235,598 232,1817 1597,1817 1600,598" rendition="TextRegion" xml:id="facs_50_r2">
             <zone points="245,545 621,551 1300,544 1524,550 1578,572 1580,652 1371,675 624,684 355,667 249,654" rendition="Line" xml:id="facs_50_line_1591799359201_687"/>
             <zone points="270,663 299,658 356,650 500,633 1266,649 1565,676 1566,743 324,743 276,739" rendition="Line" xml:id="facs_50_line_1591799363935_691"/>
@@ -137,9 +131,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_49" n="49" xml:id="img_0049"/>
-
-<ab facs="#facs_49_r1" >
+         <pb facs="#facs_49" n="65 r" xml:id="Kasten_blau_45_8_0049.jpg"/>
+<ab facs="#facs_49_r1">
                <lb facs="#facs_49_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_49_r1l2" n="N002"/>Dero <choice><expan>gnädigstes</expan><abbr>g</abbr></choice> schreiben vom <date month="6" day="5" year="1677">5 junij</date> habe mit höchster
                <lb facs="#facs_49_r1l3" n="N003"/>consolation empfangen, in deme daraus ersehen,
@@ -151,17 +144,16 @@
                <lb facs="#facs_49_line_1591798583843_605" n="N009"/>anderen sagen wegen <rs type="person">Collen</rs> vndt des <rs type="person">generals</rs>,
                <lb facs="#facs_49_r1l35" n="N010"/>so die newe fölker comendiren soll, steht
                <lb facs="#facs_49_line_1591798603792_609" n="N011"/>alles wohl, wie ihr Durchlaucht weitleüfich von
-               <lb facs="#facs_49_r1l42" n="N012"/>dem <rs type="person">Schellerer</rs> vernemmen <supplied >werden</supplied>, welcher gestern
+               <lb facs="#facs_49_r1l42" n="N012"/>dem <rs type="person">Schellerer</rs> vernemmen <supplied>werden</supplied>, welcher gestern
                <lb facs="#facs_49_line_1591798644913_626" n="N013"/>gahr ein <choice><expan>gnädige</expan><abbr>g</abbr></choice> audienz von ihr <rs type="person">Mayestät</rs> gehabt.
                <lb facs="#facs_49_line_1591798652024_630" n="N014"/>Der allmechtige verleye seinen segen, das
             </ab>
-<pb facs="#facs_50" n="50" xml:id="img_0050"/>
-
-<ab facs="#facs_50_r2" >
+<pb facs="#facs_50" n="65 v" xml:id="Kasten_blau_45_8_0050.jpg"/>
+<ab facs="#facs_50_r2">
                <lb facs="#facs_50_line_1591799359201_687" n="N001"/>das alles nach dero verlangen möge auschlagen.
                <lb facs="#facs_50_line_1591799363935_691" n="N002"/>Ich befinde mich gott lob haubt wohl, bin heüt
                <lb facs="#facs_50_line_1591799368536_695" n="N003"/>das erste mahl in die capel gangen
-               <lb facs="#facs_50_r2l10" n="N004"/>vnd werden übermorgen nach Wien <supplied >fahren</supplied>. Ich
+               <lb facs="#facs_50_r2l10" n="N004"/>vnd werden übermorgen nach Wien <supplied>fahren</supplied>. Ich
                <lb facs="#facs_50_line_1591799377447_700" n="N005"/>befehle mich nachmahlen ihr Durchlaucht vnterdehnig
                <lb facs="#facs_50_line_1591799386575_706" n="N006"/>in dero beharlige <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt werde bestendigst
                <lb facs="#facs_50_line_1591799393589_710" n="N007"/>mitt gehorsamen respect verbleiben

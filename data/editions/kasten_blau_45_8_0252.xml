@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0252.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0252.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-10-27"></origDate></origin>
+                        <origin><origDate when-iso="1679-10-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1679-10-27"></date>
+               <date when-iso="1679-10-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_252">
          <graphic height="2430px" url="Kasten_blau_45_8_0252.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="269,470 269,2259 1617,2259 1617,470" rendition="TextRegion" xml:id="facs_252_r1">
             <zone points="410,591 467,594 525,596 583,599 640,602 698,604 756,607 813,609 871,611 929,613 987,615 1044,616 1102,617 1160,618 1217,618 1275,617 1333,616 1390,614 1448,612 1506,609 1564,605 1564,541 1506,545 1448,548 1390,550 1333,552 1275,553 1217,554 1160,554 1102,553 1044,552 987,551 929,549 871,547 813,545 756,543 698,540 640,538 583,535 525,532 467,530 410,527" rendition="Line" xml:id="facs_252_r1l2"/>
             <zone points="364,676 426,682 488,686 550,690 612,693 675,696 737,699 799,701 861,703 923,704 986,705 1048,706 1110,706 1172,706 1234,705 1297,704 1359,703 1421,702 1483,700 1545,698 1608,696 1608,638 1545,640 1483,642 1421,644 1359,645 1297,646 1234,647 1172,648 1110,648 1048,648 986,647 923,646 861,645 799,643 737,641 675,638 612,635 550,632 488,628 426,624 364,618" rendition="Line" xml:id="facs_252_r1l3"/>
@@ -124,11 +119,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_252" n="252" xml:id="img_0252"/>
-
-<ab facs="#facs_252_r1" >
+         <pb facs="#facs_252" n="148 r" xml:id="Kasten_blau_45_8_0252.jpg"/>
+<ab facs="#facs_252_r1">
                <lb facs="#facs_252_r1l2" n="N001"/>Durchleüchtigister Fürst, herz aller liebster herr vatter
-               <lb facs="#facs_252_r1l3" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="10" day="29" year="1679"><unclear>29 dieses</unclear></date> hab mit schuldigstem <supplied >respect</supplied>
+               <lb facs="#facs_252_r1l3" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="10" day="29" year="1679"><unclear>29 dieses</unclear></date> hab mit schuldigstem <supplied>respect</supplied>
                <lb facs="#facs_252_r1l4" n="N003"/>empfangen. Bitt vnterdehnig vmb verzeiung, das
                <lb facs="#facs_252_r1l5" n="N004"/>diese post nit auf alles kan antworten, die
                <lb facs="#facs_252_r1l6" n="N005"/><rs type="person">Kaiserin</rs> wirt kommen, so mues zu ihr gehn.
@@ -142,7 +136,7 @@
                <lb facs="#facs_252_r1l15" n="N013"/>resoluirt. Due mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice>
                <lb facs="#facs_252_r1l16" n="N014"/>befehlen vndt werde sterben
                <lb facs="#facs_252_r1l17" n="N015"/>ewer Durchlaucht
-               <lb facs="#facs_252_r1l20" n="N016"/>ganzergebenste trewgehorsa<supplied >m</supplied>st
+               <lb facs="#facs_252_r1l20" n="N016"/>ganzergebenste trewgehorsa<supplied>m</supplied>st
                <lb facs="#facs_252_r1l21" n="N017"/>dochter
                <lb facs="#facs_252_r1l22" n="N018"/>EMT
                <lb facs="#facs_252_line_1620802039488_28" n="N019"/><rs type="place">Prag</rs> den <date month="10" day="27" year="1679">27 <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1679</date>

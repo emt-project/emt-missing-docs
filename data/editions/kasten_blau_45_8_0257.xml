@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0257.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0257.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-11-18"></origDate></origin>
+                        <origin><origDate when-iso="1679-11-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1679-11-18"></date>
+               <date when-iso="1679-11-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_257">
          <graphic height="2430px" url="Kasten_blau_45_8_0257.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="192,707 192,2347 1614,2347 1614,707" rendition="TextRegion" xml:id="facs_257_r2">
             <zone points="565,759 616,761 667,763 718,766 770,769 821,772 872,774 924,778 975,781 1026,784 1078,787 1129,789 1180,792 1231,794 1283,796 1334,798 1385,799 1437,800 1488,801 1539,801 1591,801 1591,749 1539,749 1488,749 1437,748 1385,747 1334,746 1283,744 1231,742 1180,740 1129,737 1078,735 1026,732 975,729 924,726 872,722 821,720 770,717 718,714 667,711 616,709 565,707" rendition="Line" xml:id="facs_257_r2l1"/>
             <zone points="438,838 491,839 545,840 598,841 652,842 706,844 759,846 813,848 867,849 920,851 974,854 1028,856 1081,858 1135,861 1189,863 1242,866 1296,869 1350,872 1403,874 1457,877 1511,881 1511,829 1457,825 1403,822 1350,820 1296,817 1242,814 1189,811 1135,809 1081,806 1028,804 974,802 920,799 867,797 813,796 759,794 706,792 652,790 598,789 545,788 491,787 438,786" rendition="Line" xml:id="facs_257_r2l2"/>
@@ -123,9 +118,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_257" n="257" xml:id="img_0257"/>
-
-<ab facs="#facs_257_r2" >
+         <pb facs="#facs_257" n="151 r" xml:id="Kasten_blau_45_8_0257.jpg"/>
+<ab facs="#facs_257_r2">
                <lb facs="#facs_257_r2l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_257_r2l2" n="N002"/>Bitte vnterdehnigst vmb vergebung, wan ich
                <lb facs="#facs_257_r2l3" n="N003"/>heüt nit recht meine schuldichkeit ablege mit
@@ -139,9 +133,9 @@
                <lb facs="#facs_257_r2l12" n="N011"/>ein gewiße beneficium, so auch der <rs type="person">Don Jouan</rs>
                <lb facs="#facs_257_r2l13" n="N012"/>gehabt, so 40000 eindraget, möge bekommen, welchs
                <lb facs="#facs_257_r2l14" n="N013"/>auch schon anzuenemmen wehre. Due mich
-               <lb facs="#facs_257_r2l15" n="N014"/>hiermit ewer Durchlaucht vnterdehnig <supplied >befehlen</supplied> vndt werde
+               <lb facs="#facs_257_r2l15" n="N014"/>hiermit ewer Durchlaucht vnterdehnig <supplied>befehlen</supplied> vndt werde
                <lb facs="#facs_257_r2l16" n="N015"/>sterben, ewer Durchlaucht
-               <lb facs="#facs_257_r2l17" n="N016"/>ganzergebe<supplied >n</supplied>ste tr<supplied >e</supplied>wgehorsa<supplied >m</supplied>ste dochter
+               <lb facs="#facs_257_r2l17" n="N016"/>ganzergebe<supplied>n</supplied>ste tr<supplied>e</supplied>wgehorsa<supplied>m</supplied>ste dochter
                <lb facs="#facs_257_line_1620802638481_231" n="N017"/>EMT
                <lb facs="#facs_257_r2l18" n="N018"/><rs type="place">Prag</rs> den <date month="11" day="18" year="1679">18 9br 1679</date>
             </ab>

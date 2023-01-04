@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0283.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0283.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-02-03"></origDate></origin>
+                        <origin><origDate when-iso="1680-02-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1680-02-03"></date>
+               <date when-iso="1680-02-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1666" lry="2463" ulx="0" uly="0" xml:id="facs_283">
          <graphic height="2463px" url="Kasten_blau_45_8_0283.jpg" width="1666px"/>
-         <graphic height="2463px" url="" width="1666px"/>
          <zone points="125,570 125,2395 1586,2395 1586,570" rendition="TextRegion" xml:id="facs_283_r1">
             <zone points="382,642 433,639 484,637 535,633 586,631 638,629 689,627 740,625 791,623 842,622 894,620 945,620 996,619 1047,619 1098,619 1150,619 1201,620 1252,621 1303,622 1354,624 1406,627 1406,578 1354,575 1303,573 1252,572 1201,571 1150,570 1098,570 1047,570 996,570 945,571 894,571 842,573 791,574 740,576 689,578 638,580 586,582 535,584 484,588 433,590 382,593" rendition="Line" xml:id="facs_283_r1l1"/>
             <zone points="331,661 357,660 768,651 1019,648 1570,642 1570,690 1533,692 1496,693 591,714 539,714 331,710" rendition="Line" xml:id="facs_283_line_1620812713605_1712"/>
@@ -123,7 +118,6 @@
       
 <surface lrx="1666" lry="2463" ulx="0" uly="0" xml:id="facs_284">
          <graphic height="2463px" url="Kasten_blau_45_8_0284.jpg" width="1666px"/>
-         <graphic height="2463px" url="" width="1666px"/>
          <zone points="186,447 139,2134 1552,2134 1599,447" rendition="TextRegion" xml:id="facs_284_r1">
             <zone points="356,552 413,549 471,546 528,544 586,542 643,541 701,539 758,538 816,538 873,537 931,537 989,537 1046,537 1104,538 1161,538 1219,538 1276,539 1334,539 1391,539 1449,540 1507,540 1507,495 1449,495 1391,494 1334,494 1276,494 1219,493 1161,493 1104,493 1046,492 989,492 931,492 873,492 816,493 758,493 701,494 643,496 586,497 528,499 471,501 413,504 356,507" rendition="Line" xml:id="facs_284_r1l1"/>
             <zone points="320,584 607,569 635,568 721,565 941,565 1544,568 1544,613 1182,624 320,629" rendition="Line" xml:id="facs_284_line_1620812798552_1761"/>
@@ -149,9 +143,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_283" n="283" xml:id="img_0283"/>
-
-<ab facs="#facs_283_r1" >
+         <pb facs="#facs_283" n="167 r" xml:id="Kasten_blau_45_8_0283.jpg"/>
+<ab facs="#facs_283_r1">
                <lb facs="#facs_283_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_283_line_1620812713605_1712" n="N002"/>Ewer Durchlaucht schreiben vom <date month="1" day="26" year="1680">26 passato</date> habe mit schuldigstem
                <lb facs="#facs_283_r1l5" n="N003"/>respect empfangen. Was die <rs type="person">Cuhrfürstin</rs> anbelangt, so
@@ -173,9 +166,8 @@
                <lb facs="#facs_283_r1l30" n="N019"/>so übel gelungen, ich hoffe zue gott, es werde das
                <lb facs="#facs_283_r1l31" n="N020"/>übrige auch angehn, wan es gleich ihm nit gefalt.
             </ab>
-<pb facs="#facs_284" n="284" xml:id="img_0284"/>
-
-<ab facs="#facs_284_r1" >
+<pb facs="#facs_284" n="167 v" xml:id="Kasten_blau_45_8_0284.jpg"/>
+<ab facs="#facs_284_r1">
                <lb facs="#facs_284_r1l1" n="N001"/>Ich bin von herzen froh, das der <rs type="person">Cuhrfürst zue Münichen</rs>
                <lb facs="#facs_284_line_1620812798552_1761" n="N002"/>die pretension vohr seinen <rs type="person">bruedern</rs> vallen laßen, iezt, hoff
                <lb facs="#facs_284_line_1620812801805_1765" n="N003"/>ich, werde es leichter gehn als zuefohr, welches ich wohl

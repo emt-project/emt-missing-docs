@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0367.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0367.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-09-21"></origDate></origin>
+                        <origin><origDate when-iso="1680-09-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1680-09-21"></date>
+               <date when-iso="1680-09-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1632" lry="2455" ulx="0" uly="0" xml:id="facs_366">
          <graphic height="2455px" url="Kasten_blau_45_8_0367.jpg" width="1632px"/>
-         <graphic height="2455px" url="" width="1632px"/>
          <zone points="82,518 82,2363 1564,2363 1564,518" rendition="TextRegion" xml:id="facs_366_r1">
             <zone points="335,581 395,579 456,577 516,576 577,576 638,576 698,576 759,577 819,578 880,579 941,580 1001,581 1062,583 1122,584 1183,585 1244,586 1304,586 1365,587 1425,587 1486,586 1547,585 1547,527 1486,528 1425,529 1365,529 1304,528 1244,528 1183,527 1122,526 1062,525 1001,523 941,522 880,521 819,520 759,519 698,518 638,518 577,518 516,518 456,519 395,521 335,523" rendition="Line" xml:id="facs_366_r1l1"/>
             <zone points="287,665 349,663 412,662 474,661 537,661 599,660 662,660 724,660 787,661 849,661 912,662 974,662 1037,663 1099,664 1162,665 1224,665 1287,666 1349,667 1412,667 1474,667 1537,667 1537,609 1474,609 1412,609 1349,609 1287,608 1224,607 1162,607 1099,606 1037,605 974,604 912,604 849,603 787,603 724,602 662,602 599,602 537,603 474,603 412,604 349,605 287,607" rendition="Line" xml:id="facs_366_r1l2"/>
@@ -123,7 +118,6 @@
       
 <surface lrx="1632" lry="2455" ulx="0" uly="0" xml:id="facs_367">
          <graphic height="2455px" url="Kasten_blau_45_8_0368.jpg" width="1632px"/>
-         <graphic height="2455px" url="" width="1632px"/>
          <zone points="205,208 205,2331 1588,2331 1588,208" rendition="TextRegion" xml:id="facs_367_r1">
             <zone points="207,291 271,290 336,289 401,288 465,287 530,286 595,284 659,283 724,282 789,281 854,279 918,278 983,277 1048,275 1112,274 1177,272 1242,270 1306,269 1371,267 1436,265 1501,263 1501,208 1436,210 1371,212 1306,214 1242,215 1177,217 1112,219 1048,220 983,222 918,223 854,224 789,226 724,227 659,228 595,229 530,231 465,232 401,233 336,234 271,235 207,236" rendition="Line" xml:id="facs_367_r1l1"/>
             <zone points="207,366 275,369 343,371 411,373 479,375 547,376 615,377 683,377 751,377 819,377 887,376 955,375 1023,373 1091,371 1159,369 1227,366 1295,364 1363,361 1431,357 1499,354 1567,350 1567,295 1499,299 1431,302 1363,306 1295,309 1227,311 1159,314 1091,316 1023,318 955,320 887,321 819,322 751,322 683,322 615,322 547,321 479,320 411,318 343,316 275,314 207,311" rendition="Line" xml:id="facs_367_r1l2"/>
@@ -152,7 +146,6 @@
       
 <surface lrx="1632" lry="2455" ulx="0" uly="0" xml:id="facs_368">
          <graphic height="2455px" url="Kasten_blau_45_8_0369.jpg" width="1632px"/>
-         <graphic height="2455px" url="" width="1632px"/>
          <zone points="167,178 167,2377 1567,2377 1567,178" rendition="TextRegion" xml:id="facs_368_r2">
             <zone points="172,266 237,259 302,254 367,250 432,247 497,245 562,244 627,243 692,243 757,243 822,243 887,244 952,244 1017,244 1082,245 1147,244 1212,244 1277,242 1342,240 1407,237 1473,233 1473,178 1407,182 1342,185 1277,187 1212,189 1147,189 1082,190 1017,189 952,189 887,189 822,188 757,188 692,188 627,188 562,189 497,190 432,192 367,195 302,199 237,204 172,211" rendition="Line" xml:id="facs_368_r2l1"/>
             <zone points="181,340 249,338 318,337 386,335 455,334 523,332 592,331 660,329 729,328 797,326 866,325 935,324 1003,323 1072,322 1140,321 1209,320 1277,320 1346,319 1414,319 1483,319 1552,319 1552,264 1483,264 1414,264 1346,264 1277,265 1209,265 1140,266 1072,267 1003,268 935,269 866,270 797,271 729,273 660,274 592,276 523,277 455,279 386,280 318,282 249,283 181,285" rendition="Line" xml:id="facs_368_r2l2"/>
@@ -181,7 +174,6 @@
       
 <surface lrx="1632" lry="2455" ulx="0" uly="0" xml:id="facs_369">
          <graphic height="2455px" url="Kasten_blau_45_8_0370.jpg" width="1632px"/>
-         <graphic height="2455px" url="" width="1632px"/>
          <zone points="65,151 65,2370 1583,2382 1583,163" rendition="TextRegion" xml:id="facs_369_r1">
             <zone points="164,237 230,236 297,234 364,233 431,231 498,230 565,230 631,229 698,228 765,227 832,227 899,226 966,226 1033,225 1099,224 1166,224 1233,223 1300,222 1367,220 1434,219 1501,217 1501,163 1434,165 1367,166 1300,168 1233,169 1166,170 1099,170 1033,171 966,172 899,172 832,173 765,173 698,174 631,175 565,176 498,176 431,177 364,179 297,180 230,182 164,183" rendition="Line" xml:id="facs_369_r1l1"/>
             <zone points="159,313 228,314 298,315 368,316 438,316 508,316 577,315 647,315 717,314 787,313 857,311 926,310 996,308 1066,305 1136,303 1206,301 1275,299 1345,296 1415,294 1485,292 1555,289 1555,235 1485,238 1415,240 1345,242 1275,245 1206,247 1136,249 1066,251 996,254 926,256 857,257 787,259 717,260 647,261 577,261 508,262 438,262 368,262 298,261 228,260 159,259" rendition="Line" xml:id="facs_369_r1l2"/>
@@ -220,15 +212,14 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_366" n="366" xml:id="img_0366"/>
-
-<ab facs="#facs_366_r1" >
+         <pb facs="#facs_366" n="219 r" xml:id="Kasten_blau_45_8_0367.jpg"/>
+<ab facs="#facs_366_r1">
                <lb facs="#facs_366_r1l1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_366_r1l2" n="N002"/>Ich verloße mich auf ewer Durchlaucht große guette, das sie
                <lb facs="#facs_366_r1l3" n="N003"/>mihr <choice><expan>gnädig</expan><abbr>g</abbr></choice> vergeben werden, das ich die vohrige 2 posten
                <lb facs="#facs_366_line_1622275371435_76" n="N004"/>meine schuldichkeit nit hab abgelecht vndt auf 4
                <lb facs="#facs_366_r1l8" n="N005"/>dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben<add> vom <date month="8" day="28" year="1680">28</date> vndt <date month="8" day="31" year="1680">lesten augst</date> <date month="9" day="7" year="1680">7</date> vndt <date month="9" day="13" year="1680">13 <choice><expan>September</expan><abbr>7br</abbr></choice></date></add> noch nit beantwort. Vnser reis
-               <lb facs="#facs_366_r1l11" n="N006"/>ist schuldig daran gew<supplied >e</supplied>ßen, will iezt schon alles
+               <lb facs="#facs_366_r1l11" n="N006"/>ist schuldig daran gew<supplied>e</supplied>ßen, will iezt schon alles
                <lb facs="#facs_366_r1l13" n="N007"/>fleisiger herein bringen. Was ewer Durchlaucht mihr <choice><expan>gnädig</expan><abbr>g</abbr></choice>
                <lb facs="#facs_366_line_1622275400244_90" n="N008"/>anbefohlen wegen des <rs type="org">priorats</rs> in <rs type="place">Schpanien</rs>, daruon
                <lb facs="#facs_366_line_1622275403846_94" n="N009"/>werden ewer Durchlaucht schon von ihr <rs type="person">Mayestät</rs> selbsten dero inten-
@@ -243,9 +234,8 @@
                <lb facs="#facs_366_line_1622275452589_129" n="N018"/>wirt gern alles duen, was möglich, aber es steht
                <lb facs="#facs_366_line_1622275468459_139" n="N019"/>nit allezeit in ihrer macht. In deßen haben ihr Mayestät
             </ab>
-<pb facs="#facs_367" n="367" xml:id="img_0367"/>
-
-<ab facs="#facs_367_r1" >
+<pb facs="#facs_367" n="219 v" xml:id="Kasten_blau_45_8_0368.jpg"/>
+<ab facs="#facs_367_r1">
                <lb facs="#facs_367_r1l1" n="N001"/>wohl vermeindt, ewer Durchlaucht sollen sich nit übereilen,
                <lb facs="#facs_367_r1l2" n="N002"/>meinen <rs type="person">bruedern</rs> hinein zue schiken <seg type="blackening">dan</seg> bis man sicht,
                <lb facs="#facs_367_r1l3" n="N003"/>ob es ein sach, die sich möchte practiciren
@@ -257,7 +247,7 @@
                <lb facs="#facs_367_r1l13" n="N009"/>nemmen, das ich so frey schreibe, geschiht gewis
                <lb facs="#facs_367_line_1622275503773_155" n="N010"/>aus treü kintligster deuotion. Der almechtig verleye,
                <lb facs="#facs_367_r1l16" n="N011"/>das mitt der auschpurgerischen coadiutori gelükhlich
-               <lb facs="#facs_367_line_1622275509509_159" n="N012"/>möge abgehn. Ich gesteh mein schuldt, das ich mich för<supplied >c</supplied>ht
+               <lb facs="#facs_367_line_1622275509509_159" n="N012"/>möge abgehn. Ich gesteh mein schuldt, das ich mich för<supplied>c</supplied>ht
                <lb facs="#facs_367_line_1622275514231_163" n="N013"/>vohr des <rs type="person">Papst</rs> sein schcrupel. Was müeßen mihr
                <lb facs="#facs_367_line_1622275523061_167" n="N014"/>anfangen, wan die wahl geschen wehr vndt er
                <lb facs="#facs_367_line_1622275528229_171" n="N015"/>es nit confirmiren wolt, es wehre ein bößer
@@ -270,9 +260,8 @@
                <lb facs="#facs_367_r1l43" n="N022"/>werden. Das vnser altes <rs type="person">Bischoffel</rs> ewer Durchlaucht zue sich gebetten,
                <lb facs="#facs_367_r1l45" n="N023"/>seindt sie wegen des schreibens bey ihr Mayestät gahr
             </ab>
-<pb facs="#facs_368" n="368" xml:id="img_0368"/>
-
-<ab facs="#facs_368_r2" >
+<pb facs="#facs_368" n="220 r" xml:id="Kasten_blau_45_8_0369.jpg"/>
+<ab facs="#facs_368_r2">
                <lb facs="#facs_368_r2l1" n="N001"/>wohl entschuldiget. Der <rs type="person">arme</rs> zeigt als fleisig sein
                <lb facs="#facs_368_r2l2" n="N002"/>affection. Es erfrewet mich auch von herzen, das ewer Durchlaucht
                <lb facs="#facs_368_r2l3" n="N003"/>wohl widerumb zue <rs type="place">Grüenaw</rs> ankommen seindt,
@@ -282,7 +271,7 @@
                <lb facs="#facs_368_r2l7" n="N007"/>bürst. Ihr <rs type="person">Mayestät</rs> seindt vohr 2 dagen draus gwesen
                <lb facs="#facs_368_r2l8" n="N008"/>vndt sich angestelt, dan fahren kan man gahr nit
                <lb facs="#facs_368_r2l9" n="N009"/>wegen der dike, haben aber niks bekommen. Künftigen
-               <lb facs="#facs_368_r2l10" n="N010"/>erchtag werden <supplied >sie</supplied> wider hinaus, aber förcht, <supplied >sie</supplied> werden
+               <lb facs="#facs_368_r2l10" n="N010"/>erchtag werden <supplied>sie</supplied> wider hinaus, aber förcht, <supplied>sie</supplied> werden
                <lb facs="#facs_368_r2l11" n="N011"/>eben so wehnig richten. Ewer Durchlaucht werden ohne zweifel
                <lb facs="#facs_368_line_1622275606253_216" n="N012"/>vom <rs type="person">Schellerer</rs> vernommen haben, was vohr guette
                <lb facs="#facs_368_r2l15" n="N013"/>intensiones der <rs type="person">Herzog von Lottringen</rs> vohr meinen
@@ -297,26 +286,25 @@
                <lb facs="#facs_368_r2l28" n="N022"/>freüete mich recht, wan mein brueder die
                <lb facs="#facs_368_line_1622275637669_237" n="N023"/>erste waffen vnter ihm füeren wurde, dan er ihn
             </ab>
-<pb facs="#facs_369" n="369" xml:id="img_0369"/>
-
-<ab facs="#facs_369_r1" >
+<pb facs="#facs_369" n="220 v" xml:id="Kasten_blau_45_8_0370.jpg"/>
+<ab facs="#facs_369_r1">
                <lb facs="#facs_369_r1l1" n="N001"/>gewis als wie seinen eigenen sohn wurde halten.
                <lb facs="#facs_369_r1l2" n="N002"/>Man hatt vill gesacht von <rs type="person">ihm</rs>, eh er her ist komen,
                <lb facs="#facs_369_r1l3" n="N003"/>das er den <rs type="person">Hoffkanzler</rs> verfolgen werde, ist aber
                <lb facs="#facs_369_r1l4" n="N004"/>ganz niks daran vndt ist er gahr vertreülich gegen
                <lb facs="#facs_369_r1l5" n="N005"/>ihn. Ich wolte nuhr, das der guette Hoher sich auch
-               <lb facs="#facs_369_r1l6" n="N006"/>ein wehnig beßer gegen ihn h<supplied >e</supplied>raus ließe, dan
-               <lb facs="#facs_369_r1l7" n="N007"/>schlimme leütt <supplied >haben</supplied> veruhrsacht, das er nit so vertreülich
+               <lb facs="#facs_369_r1l6" n="N006"/>ein wehnig beßer gegen ihn h<supplied>e</supplied>raus ließe, dan
+               <lb facs="#facs_369_r1l7" n="N007"/>schlimme leütt <supplied>haben</supplied> veruhrsacht, das er nit so vertreülich
                <lb facs="#facs_369_line_1622275686473_250" n="N008"/>mitt ihm ist. Hoffe aber, es werde schon werden,
                <lb facs="#facs_369_r1l10" n="N009"/>dan der Herzog es gewis erlich mit ihm meindt
-               <lb facs="#facs_369_line_1622275695218_255" n="N010"/>vndt gewis gegen ewer Durchlaucht absond<supplied >e</supplied>rlich affectionirt ist,
+               <lb facs="#facs_369_line_1622275695218_255" n="N010"/>vndt gewis gegen ewer Durchlaucht absond<supplied>e</supplied>rlich affectionirt ist,
                <lb facs="#facs_369_r1l15" n="N011"/>vndt wirt diese guette inteligens ewer Durchlaucht vndt
                <lb facs="#facs_369_line_1622275702179_261" n="N012"/>ihme an diesem hoff alles facilitiren vndt
                <lb facs="#facs_369_r1l18" n="N013"/>gahr sehr nuzlich sein. Vnsere reis ist gottlob
-               <lb facs="#facs_369_line_1622275707964_265" n="N014"/>wohl abgangen vndt gahr lustich gwesen. W<supplied >e</supplied>ill aber
+               <lb facs="#facs_369_line_1622275707964_265" n="N014"/>wohl abgangen vndt gahr lustich gwesen. W<supplied>e</supplied>ill aber
                <lb facs="#facs_369_line_1622275710984_269" n="N015"/>diser mein brief schon gahr lang, so will ewer
-               <lb facs="#facs_369_r1l23" n="N016"/>Durchlaucht weiters kein vngelegenheit mit schr<supplied >e</supplied>iben machen,
-               <lb facs="#facs_369_r1l24" n="N017"/>vndt hab alles ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> b<supplied >e</supplied>richt. <rs type="person">Pater Marcus</rs>
+               <lb facs="#facs_369_r1l23" n="N016"/>Durchlaucht weiters kein vngelegenheit mit schr<supplied>e</supplied>iben machen,
+               <lb facs="#facs_369_r1l24" n="N017"/>vndt hab alles ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> b<supplied>e</supplied>richt. <rs type="person">Pater Marcus</rs>
                <lb facs="#facs_369_r1l25" n="N018"/>ist wohl ein lieber man, hatt einmahl gepredigt,
                <lb facs="#facs_369_line_1622275742129_277" n="N019"/>gewis mit großem frucht. Gestern haben mihr sein
                <lb facs="#facs_369_line_1622275747439_281" n="N020"/>segen empfangen, ich kan ewer Durchlaucht nit sagen, wie er
@@ -325,7 +313,7 @@
                <lb facs="#facs_369_line_1622275761108_287" n="N023"/>vndt gradt auf <rs type="place">Neuburg</rs>. Befehl mich hiemit <choice><expan>vnterdehnigst</expan><abbr>vnte</abbr></choice> vndt
                <lb facs="#facs_369_r1l40" n="N024"/>sterbe
                <lb facs="#facs_369_r1l39" n="N025"/>ewer Durchlaucht
-               <lb facs="#facs_369_r1l33" n="N026"/>ganzergebe<supplied >n</supplied>ste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_369_r1l33" n="N026"/>ganzergebe<supplied>n</supplied>ste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_369_line_1622275785234_293" n="N027"/>dochter
                <lb facs="#facs_369_r1l37" n="N028"/>EMT
                <lb facs="#facs_369_line_1622275785234_294" n="N029"/><rs type="place">Lins</rs> den <date month="10" day="21" year="1680">21 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1680</date>

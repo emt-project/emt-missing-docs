@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0395.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0395.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-03-09"></origDate></origin>
+                        <origin><origDate when-iso="1681-03-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Altötting</placeName>
-               <date  when-iso="1681-03-09"></date>
+               <date when-iso="1681-03-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_394">
          <graphic height="2509px" url="Kasten_blau_45_8_0395.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="127,463 127,2414 1559,2414 1559,463" rendition="TextRegion" xml:id="facs_394_r1">
             <zone points="264,543 320,542 377,540 434,539 491,538 548,537 605,536 661,535 718,535 775,534 832,533 889,532 946,532 1003,531 1059,530 1116,528 1173,527 1230,525 1287,523 1344,520 1401,518 1401,463 1344,465 1287,468 1230,470 1173,472 1116,473 1059,475 1003,476 946,477 889,477 832,478 775,479 718,480 661,480 605,481 548,482 491,483 434,484 377,485 320,487 264,488" rendition="Line" xml:id="facs_394_r1l1"/>
             <zone points="229,617 292,619 355,621 418,622 482,622 545,622 608,621 671,620 735,619 798,617 861,615 924,613 988,610 1051,608 1114,605 1177,602 1241,600 1304,598 1367,595 1430,593 1494,592 1494,537 1430,538 1367,540 1304,543 1241,545 1177,547 1114,550 1051,553 988,555 924,558 861,560 798,562 735,564 671,565 608,566 545,567 482,567 418,567 355,566 292,564 229,562" rendition="Line" xml:id="facs_394_r1l2"/>
@@ -127,12 +122,11 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_394" n="394" xml:id="img_0394"/>
-
-<ab facs="#facs_394_r1" >
-               <lb facs="#facs_394_r1l1" n="N001"/>Durchleüchtige<supplied >r</supplied> Fürst, herzallerliebste<supplied >r</supplied> <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
+         <pb facs="#facs_394" n="236 r" xml:id="Kasten_blau_45_8_0395.jpg"/>
+<ab facs="#facs_394_r1">
+               <lb facs="#facs_394_r1l1" n="N001"/>Durchleüchtige<supplied>r</supplied> Fürst, herzallerliebste<supplied>r</supplied> <choice><expan>herr</expan><abbr>h</abbr></choice> vatter
                <lb facs="#facs_394_r1l2" n="N002"/>Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnter</abbr></choice> vmb vergebung, das dismahl
-               <lb facs="#facs_394_r1l3" n="N003"/>auf dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben nit nach meiner schuld<supplied >i</supplied>chkeit
+               <lb facs="#facs_394_r1l3" n="N003"/>auf dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben nit nach meiner schuld<supplied>i</supplied>chkeit
                <lb facs="#facs_394_r1l4" n="N004"/>antworte. Der <rs type="person"><choice><expan>Graf</expan><abbr>G</abbr></choice> Fuker</rs> wirt mein zeüg
                <lb facs="#facs_394_r1l5" n="N005"/>sein, wie hart mihr die zeit kommt, das
                <lb facs="#facs_394_r1l6" n="N006"/>fast wehnig auch gahr der andacht bleibt.
@@ -143,12 +137,12 @@
                <lb facs="#facs_394_r1l13" n="N011"/>gebett. Wie alles mit dem <rs type="person">Cuhrfürst</rs> abgangen,
                <lb facs="#facs_394_r1l14" n="N012"/>wirt der Fuker berichten. Sterbe
                <lb facs="#facs_394_r1l15" n="N013"/>ewer Durchlaucht
-               <lb facs="#facs_394_r1l18" n="N014"/>ganzergebenste trewgehorsam<supplied >ste</supplied>
+               <lb facs="#facs_394_r1l18" n="N014"/>ganzergebenste trewgehorsam<supplied>ste</supplied>
                <lb facs="#facs_394_r1l19" n="N015"/>dochter
                <lb facs="#facs_394_r1l21" n="N016"/>EMT
                <lb facs="#facs_394_line_1622288753262_1575" n="N017"/><rs type="place">Linz</rs> den <date month="3" day="9" year="1681">9 merz 1681</date>
                <lb facs="#facs_394_r1l20" n="N018"/>Der <rs type="person"><unclear>Drezelin</unclear></rs> hatt mich
-               <lb facs="#facs_394_r1l22" n="N019"/>g<supplied >e</supplied>b<supplied >e</supplied>tten, ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> zu
+               <lb facs="#facs_394_r1l22" n="N019"/>g<supplied>e</supplied>b<supplied>e</supplied>tten, ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> zu
                <lb facs="#facs_394_r1l23" n="N020"/>recomandiren zue einem kammerer, weil er
                <lb facs="#facs_394_r1l24" n="N021"/>der einzige trukses.
             </ab>

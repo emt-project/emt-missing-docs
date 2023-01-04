@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0004.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0004.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-01-25"></origDate></origin>
+                        <origin><origDate when-iso="1677-01-25"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-01-25"></date>
+               <date when-iso="1677-01-25"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2405" ulx="0" uly="0" xml:id="facs_4">
          <graphic height="2405px" url="Kasten_blau_45_8_0004.jpg" width="1644px"/>
-         <graphic height="2405px" url="" width="1644px"/>
          <zone points="297,439 297,2126 1569,2126 1569,439" rendition="TextRegion" xml:id="facs_4_r2">
             <zone points="354,569 581,483 851,536 943,489 1159,523 1542,475 1542,429 1208,437 1112,385 901,425 679,377 316,399" rendition="Line" xml:id="facs_4_r2l1"/>
             <zone points="377,599 730,560 798,600 1204,550 1291,581 1336,542 1495,549 1494,477 1148,524 927,491 850,538 813,502 664,517 571,483 375,524" rendition="Line" xml:id="facs_4_r2l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_5">
          <graphic height="2406px" url="Kasten_blau_45_8_0005.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="208,431 208,2305 1593,2305 1593,431" rendition="TextRegion" xml:id="facs_5_r1">
             <zone points="290,468 568,468 670,522 731,482 771,523 838,472 931,517 1476,529 1480,424 1329,397 849,411 744,376 532,409 295,354" rendition="Line" xml:id="facs_5_r1l1"/>
             <zone points="264,557 1522,568 1513,510 939,530 836,470 771,522 730,482 619,519 475,464 268,464" rendition="Line" xml:id="facs_5_r1l2"/>
@@ -158,7 +152,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_6">
          <graphic height="2406px" url="Kasten_blau_45_8_0006.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="71,286 51,2296 795,2296 815,286" rendition="TextRegion" xml:id="facs_6_r1">
             <zone points="176,2249 175,1923 177,1604 159,1257 128,921 125,659 175,658 178,919 209,1254 227,1603 225,1923 226,2249" rendition="Line" xml:id="facs_6_line_1591705298484_280"/>
             <zone points="263,2226 251,1840 246,1623 231,1367 204,1029 199,845 197,655 247,655 249,844 254,1027 281,1364 296,1621 301,1839 313,2225" rendition="Line" xml:id="facs_6_line_1591705319881_285"/>
@@ -177,18 +170,17 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_4" n="4" xml:id="img_0004"/>
-
-<ab facs="#facs_4_r2" >
+         <pb facs="#facs_4" n="32 r" xml:id="Kasten_blau_45_8_0004.jpg"/>
+<ab facs="#facs_4_r2">
                <lb facs="#facs_4_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_4_r2l2" n="N002"/>Ich habe wohl vrsach vmb vergebung zue bitten,
                <lb facs="#facs_4_r2l4" n="N003"/>das ich nit ehnder meine schuldickeit abgelegt, verlaße
                <lb facs="#facs_4_r2l6" n="N004"/>mich auf ihr Durchlaucht gröste güettichkeit. Es wirt aber
                <lb facs="#facs_4_r2l7" n="N005"/>hoffentlich der <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Danner</rs> meine entschuldigung
-               <lb facs="#facs_4_r2l8" n="N006"/>schon gemacht haben. Ich habe schon <supplied >den</supplied> halben deil geschrieben
+               <lb facs="#facs_4_r2l8" n="N006"/>schon gemacht haben. Ich habe schon <supplied>den</supplied> halben deil geschrieben
                <lb facs="#facs_4_r2l11" n="N007"/>gehabt, wahr aber ein vnmöglichkeit zue vollenden,
                <lb facs="#facs_4_r2l13" n="N008"/>weilen mihr den dag im schlitten gefahren vnd
-               <lb facs="#facs_4_line_1591361800848_41" n="N009"/>solliche<supplied >s</supplied> erst den vohrigen dag resoluiret worden,
+               <lb facs="#facs_4_line_1591361800848_41" n="N009"/>solliche<supplied>s</supplied> erst den vohrigen dag resoluiret worden,
                <lb facs="#facs_4_line_1591361910305_58" n="N010"/>so ist die zeit zue kurz gefallen. Ist alles gahr
                <lb facs="#facs_4_line_1591995342417_778" n="N011"/>galant gewesen, hätte niks mehrers <add>darbey</add> wüntschen 
                <lb facs="#facs_4_r2l25" n="N012"/>mögen, als ihr Durchlaucht <rs type="person">beyde</rs> allerliebste gegenwart.
@@ -196,15 +188,14 @@
                <lb facs="#facs_4_r2l30" n="N014"/>ankommen, alwoh die verwittibte <rs type="person">Kayserin</rs> mit der 
                <lb facs="#facs_4_r2l31" n="N015"/><rs type="person">Erzherzogin</rs> wahren, welche mihr große affection erzeiget 
                <lb facs="#facs_4_r2l34" n="N016"/>vnd ich ein liebe frau mutter an ihr gefunden. Was die
-               <lb facs="#facs_4_r2l36" n="N017"/><rs type="person">Erz<supplied >herz</supplied>ogin <add>Maria Anna</add></rs> vor ein liebe fraw, wirt mein <rs type="person">brueder</rs>
+               <lb facs="#facs_4_r2l36" n="N017"/><rs type="person">Erz<supplied>herz</supplied>ogin <add>Maria Anna</add></rs> vor ein liebe fraw, wirt mein <rs type="person">brueder</rs>
                <lb facs="#facs_4_line_1591362340079_90" n="N018"/>beßer können beschreiben als ich. Allein ist gewis, das
                <lb facs="#facs_4_line_1591995415381_807" n="N019"/>sie ganz perfect vnd ich iezt erst mitleiden
                <lb facs="#facs_4_line_1591362439831_99" n="N020"/>mit meinem brueder hab, weil ich die größe
                <lb facs="#facs_4_r2l43" n="N021"/>seiner lieb nach der perfection der princessin vrteile.
             </ab>
-<pb facs="#facs_5" n="5" xml:id="img_0005"/>
-
-<ab facs="#facs_5_r1" >
+<pb facs="#facs_5" n="32 v" xml:id="Kasten_blau_45_8_0005.jpg"/>
+<ab facs="#facs_5_r1">
                <lb facs="#facs_5_r1l1" n="N001"/>Den 16 nachmitag <unclear>so</unclear> ist die <rs type="person">Kayserin</rs> widerumb herrein,
                <lb facs="#facs_5_r1l2" n="N002"/>vnd den 17 seint mihr <seg type="blackening">alhier</seg> gefolget vndt bey ihr Mayestät
                <lb facs="#facs_5_r1l4" n="N003"/>der <rs type="person">Kayserin</rs> abgestanden, warbey die allerliebste kleine
@@ -221,7 +212,7 @@
                <lb facs="#facs_5_line_1591363587313_170" n="N014"/>das sie meiner bey <rs type="place">vnser lieben frawen</rs> haben wollen
                <lb facs="#facs_5_r1l21" n="N015"/>eingedenkh sein, wünschte allein das so glukhsehlich
                <lb facs="#facs_5_r1l23" n="N016"/>möge sein, ihr Durchlaucht mein kintlich dankbares gemüeht
-               <lb facs="#facs_5_r1l25" n="N017"/>vohr so vill erzei<supplied >g</supplied>te vätterlige affection in der daht
+               <lb facs="#facs_5_r1l25" n="N017"/>vohr so vill erzei<supplied>g</supplied>te vätterlige affection in der daht
                <lb facs="#facs_5_r1l27" n="N018"/>hinwidrumb zue können erweisen, in welcher hofftentlich
                <lb facs="#facs_5_r1l28" n="N019"/>ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> verners werden befohlen sein laßen die ienige,
                <lb facs="#facs_5_r1l29" n="N020"/>so in der aschen noch nit andres würde <unclear>suechen</unclear> zue
@@ -232,13 +223,12 @@
                <lb facs="#facs_5_r1l36" n="N025"/>Eleonora Magdalena Theresia
                <lb facs="#facs_5_r1l33" n="N026"/><rs type="place">Wien</rs> den <date month="1" day="25" year="1677">25 jener 1677</date> 
             </ab>
-<ab facs="#facs_5_region_1591364061916_210" >
+<ab facs="#facs_5_region_1591364061916_210">
             </ab>
-<ab facs="#facs_5_region_1591364066837_213" >
+<ab facs="#facs_5_region_1591364066837_213">
             </ab>
-<pb facs="#facs_6" n="6" xml:id="img_0006"/>
-
-<ab facs="#facs_6_r1" >
+<pb facs="#facs_6" n="33 r" xml:id="Kasten_blau_45_8_0006.jpg"/>
+<ab facs="#facs_6_r1">
                <lb facs="#facs_6_line_1591705298484_280" n="N001"/>Was die biltlein wie auch die conterfait anlanget, hab ich ihr Durchlaucht
                <lb facs="#facs_6_line_1591705319881_285" n="N002"/>befelch gemes bey ihr <rs type="person">Mayestät</rs>, meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kayser, ausgericht vnd werden
                <lb facs="#facs_6_line_1591705342839_290" n="N003"/>solche so balt möglich überschiket werden. Allein können ihr Mayestät noch
@@ -248,11 +238,11 @@
                <lb facs="#facs_6_line_1591705431120_310" n="N007"/>wan daselbige guett wirt sein, so wihrden ihr Mayestät filleicht die andren
                <lb facs="#facs_6_line_1591705445510_315" n="N008"/>auch von ihm machen laßen.
             </ab>
-<ab facs="#facs_6_region_1591368269528_442" >
+<ab facs="#facs_6_region_1591368269528_442">
             </ab>
-<ab facs="#facs_6_region_1591368362537_459" >
+<ab facs="#facs_6_region_1591368362537_459">
             </ab>
-<ab facs="#facs_6_region_1591368378565_462" >
+<ab facs="#facs_6_region_1591368378565_462">
             </ab>
 
       </body>

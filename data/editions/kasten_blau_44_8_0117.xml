@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0117.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0117.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-03-30"></origDate></origin>
+                        <origin><origDate when-iso="1701-03-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-03-30"></date>
+               <date when-iso="1701-03-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2467" ulx="0" uly="0" xml:id="facs_117">
          <graphic height="2467px" url="Kasten_blau_44_8_0117.jpg" width="1684px"/>
-         <graphic height="2467px" url="" width="1684px"/>
          <zone points="92,984 89,2341 1592,2341 1595,984" rendition="TextRegion" xml:id="facs_117_r1">
             <zone points="158,1157 356,1123 438,1181 520,1165 646,1214 901,1210 1065,1140 1261,1180 1475,1133 1476,998 1224,992 1066,1037 837,1003 630,1042 381,1033 159,989" rendition="Line" xml:id="facs_117_r1l1"/>
             <zone points="193,1283 299,1334 501,1262 553,1297 735,1266 919,1308 1184,1269 1295,1316 1475,1289 1457,1174 1145,1197 1089,1165 774,1229 347,1135 194,1142" rendition="Line" xml:id="facs_117_r1l2"/>
@@ -114,7 +109,6 @@
       
 <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_118">
          <graphic height="2465px" url="Kasten_blau_44_8_0118.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="81,80 81,2404 1596,2404 1596,80" rendition="TextRegion" xml:id="facs_118_r1">
             <zone points="140,205 243,194 361,262 588,204 852,229 990,299 1249,218 1419,276 1518,239 1522,96 1122,196 512,105 142,145" rendition="Line" xml:id="facs_118_r1l2"/>
             <zone points="127,316 353,307 447,371 537,310 707,309 1179,375 1509,334 1511,261 981,306 852,231 686,227 620,282 554,232 360,261 264,212 129,260" rendition="Line" xml:id="facs_118_r1l3"/>
@@ -139,7 +133,6 @@
       
 <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_119">
          <graphic height="2465px" url="Kasten_blau_44_8_0119.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="11,92 11,2411 1556,2411 1556,92" rendition="TextRegion" xml:id="facs_119_r1">
             <zone points="124,217 530,204 630,251 766,215 835,252 889,218 1185,266 1525,229 1526,162 643,116 436,165 386,127 311,167 125,146" rendition="Line" xml:id="facs_119_r1l2"/>
             <zone points="127,308 1032,363 1259,327 1453,372 1440,248 1099,247 1012,305 530,209 129,254" rendition="Line" xml:id="facs_119_r1l3"/>
@@ -167,67 +160,64 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_117" n="117" xml:id="img_0117"/>
-
-<ab facs="#facs_117_r1" >
+         <pb facs="#facs_117" n="64 r" xml:id="Kasten_blau_44_8_0117.jpg" ed="42 r"/>
+<ab facs="#facs_117_r1">
                <lb facs="#facs_117_r1l1" n="N001"/>Durchleüchtiger Curfürst, mein herzallerliebster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_117_r1l2" n="N002"/>Vberschikh hirbey, wie sehr ihr Durchlaucht, vnser <choice><expan>geliebste</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice>,
-               <lb facs="#facs_117_r1l4" n="N003"/><seg type="comment">in mich dringen w<supplied >e</supplied>gen der <unclear>M</unclear> <choice><expan>Anna</expan><abbr>An</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice>. Ich hab aber</seg>
+               <lb facs="#facs_117_r1l4" n="N003"/><seg type="comment">in mich dringen w<supplied>e</supplied>gen der <unclear>M</unclear> <choice><expan>Anna</expan><abbr>An</abbr></choice> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice>. Ich hab aber</seg>
                <lb facs="#facs_117_r1l5" n="N004"/>geantwort, sie hab sich resoluirt in ein ander
-               <lb facs="#facs_117_r1l6" n="N005"/>closter vnd hab sies auch machen schr<supplied >e</supplied>iben vnd
-               <lb facs="#facs_117_r1l7" n="N006"/>schr<supplied >e</supplied>ib, das es ein schlechter vocation der fondation
-               <lb facs="#facs_117_r1l9" n="N007"/>mus sein, wan sies w<supplied >e</supplied>gen eines menschen wollen vnterlaßen.
+               <lb facs="#facs_117_r1l6" n="N005"/>closter vnd hab sies auch machen schr<supplied>e</supplied>iben vnd
+               <lb facs="#facs_117_r1l7" n="N006"/>schr<supplied>e</supplied>ib, das es ein schlechter vocation der fondation
+               <lb facs="#facs_117_r1l9" n="N007"/>mus sein, wan sies w<supplied>e</supplied>gen eines menschen wollen vnterlaßen.
                <lb facs="#facs_117_r1l10" n="N008"/>Ich werd woll sehr einbüßen, dero Liebden müßen mich hernach
                <lb facs="#facs_117_line_1610121783899_386" n="N009"/>wider helfen einbettlen. Ich wüntzt, das dero Liebden mein
                <lb facs="#facs_117_line_1610121806599_393" n="N010"/>brif hetten leßen könen, hab nit zeit gehabt ihn abzu
-               <lb facs="#facs_117_line_1610121858371_397" n="N011"/>sch<supplied >rei</supplied>ben, sonst hetts dero Liebden geschikt. Dero Liebden werden auch ersehn,
+               <lb facs="#facs_117_line_1610121858371_397" n="N011"/>sch<supplied>rei</supplied>ben, sonst hetts dero Liebden geschikt. Dero Liebden werden auch ersehn,
             </ab>
-<pb facs="#facs_118" n="118" xml:id="img_0118"/>
-
-<ab facs="#facs_118_r1" >
+<pb facs="#facs_118" n="64 v" xml:id="Kasten_blau_44_8_0118.jpg" ed="42 v"/>
+<ab facs="#facs_118_r1">
                <lb facs="#facs_118_r1l2" n="N001"/>wie scharf der Oficial zu Augschpurg an die hiesige
                <lb facs="#facs_118_r1l3" n="N002"/><choice><expan>würdige</expan><abbr>würd</abbr></choice> muter schreibt vndt drohet. Ich bin aber nit
                <lb facs="#facs_118_r1l4" n="N003"/>so schrekhafft, hab ihm laßen antworten, das hoff, sie
                <lb facs="#facs_118_r1l5" n="N004"/>werden sich eins beßern bedenken, sonst wurd ich auch
-               <lb facs="#facs_118_r1l6" n="N005"/>gezwungen werden zu einer höhe<supplied >r</supplied>n obrickeit nach Rohm
+               <lb facs="#facs_118_r1l6" n="N005"/>gezwungen werden zu einer höhe<supplied>r</supplied>n obrickeit nach Rohm
                <lb facs="#facs_118_r1l7" n="N006"/>zue recourirn, weil ohne dem als mit des Nunti
                <lb facs="#facs_118_r1l8" n="N007"/>vohrwißen geschen, ich wurde mit nechsten dem Bischoff
                <lb facs="#facs_118_r1l9" n="N008"/>schreiben vndt das closter benenen, wohin man sie
                <lb facs="#facs_118_r1l10" n="N009"/>werde schiken, welcher mihr sein consens schon dazu ver-
-               <lb facs="#facs_118_r1l11" n="N010"/>schprochen hab. Also bitt dero Liebden vmb gotteßwillen, <supplied >sie</supplied> machen
-               <lb facs="#facs_118_r1l12" n="N011"/>doch balt, das man weis, ob sie <supplied >sie</supplied> zu Cöllen oder
+               <lb facs="#facs_118_r1l11" n="N010"/>schprochen hab. Also bitt dero Liebden vmb gotteßwillen, <supplied>sie</supplied> machen
+               <lb facs="#facs_118_r1l12" n="N011"/>doch balt, das man weis, ob sie <supplied>sie</supplied> zu Cöllen oder
                <lb facs="#facs_118_r1l13" n="N012"/>Achen oder Antorf wollen anemmen, so schik sie gleich
                <lb facs="#facs_118_r1l14" n="N013"/>fort. Sie verlangt selbst balt zu gehen, aber
-               <lb facs="#facs_118_r1l15" n="N014"/>so kans nit bleiben vnd wi<supplied >r</supplied>t es alzeit schweher
+               <lb facs="#facs_118_r1l15" n="N014"/>so kans nit bleiben vnd wi<supplied>r</supplied>t es alzeit schweher
                <lb facs="#facs_118_r1l16" n="N015"/>werden. Ich bitt kein zeit zu verliren, sie ist izt woll
-               <lb facs="#facs_118_r1l17" n="N016"/>disponirt, bitt, dero Liebden wollens auch in das closter, w<supplied >o</supplied>h
+               <lb facs="#facs_118_r1l17" n="N016"/>disponirt, bitt, dero Liebden wollens auch in das closter, w<supplied>o</supplied>h
                <lb facs="#facs_118_r1l18" n="N017"/>sie hin kommen soll, woll reccomendiren, das sie
                <lb facs="#facs_118_r1l19" n="N018"/>woll gehalten wirt. Beklag sehr, das ir Durchlaucht mama
-               <lb facs="#facs_118_line_1610122454729_436" n="N019"/>Beichtuatter gestorben, sie schreibt mihr, <supplied >sie</supplied> hab schon
+               <lb facs="#facs_118_line_1610122454729_436" n="N019"/>Beichtuatter gestorben, sie schreibt mihr, <supplied>sie</supplied> hab schon
             </ab>
-<pb facs="#facs_119" n="119" xml:id="img_0119"/>
-
-<ab facs="#facs_119_r1" >
+<pb facs="#facs_119" n="65 r" xml:id="Kasten_blau_44_8_0119.jpg" ed="43 r"/>
+<ab facs="#facs_119_r1">
                <lb facs="#facs_119_r1l2" n="N001"/>ein andren, der ihres Beichtuatter sehr gutter freündt
-               <lb facs="#facs_119_r1l3" n="N002"/>war, will hoffen, es s<supplied >e</supplied>y auch ein jesuiter. Hierb<supplied >e</supplied>y
-               <lb facs="#facs_119_r1l4" n="N003"/>vberschik auch, was vnser <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied >e</supplied>ster, die Herzogin zu
+               <lb facs="#facs_119_r1l3" n="N002"/>war, will hoffen, es s<supplied>e</supplied>y auch ein jesuiter. Hierb<supplied>e</supplied>y
+               <lb facs="#facs_119_r1l4" n="N003"/>vberschik auch, was vnser <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied>e</supplied>ster, die Herzogin zu
                <lb facs="#facs_119_r1l5" n="N004"/>Parma, mihr schreibt vnd verlangt, dero Liebden vnd ich
                <lb facs="#facs_119_r1l7" n="N005"/>sollen ihr ein beicht uatter vohrschlagen, bitt baltist
                <lb facs="#facs_119_r1l9" n="N006"/>vmb ein antwort. In den haubt materi hett vil
-               <lb facs="#facs_119_r1l11" n="N007"/>zu schr<supplied >e</supplied>iben, ist vnmöglich mehr zeit, mit nechsten
-               <lb facs="#facs_119_r1l13" n="N008"/>wi<supplied >r</supplied>ts gehen. Wüntsch dero Liebden glückh <supplied >und</supplied> frieden. Ich hab
+               <lb facs="#facs_119_r1l11" n="N007"/>zu schr<supplied>e</supplied>iben, ist vnmöglich mehr zeit, mit nechsten
+               <lb facs="#facs_119_r1l13" n="N008"/>wi<supplied>r</supplied>ts gehen. Wüntsch dero Liebden glückh <supplied>und</supplied> frieden. Ich hab
                <lb facs="#facs_119_r1l14" n="N009"/>ein liben gast hir, <choice><expan>schwester</expan><abbr>schw</abbr></choice> Lischen ist schon sehr dik,
                <lb facs="#facs_119_r1l16" n="N010"/>der Konig in Polen tractirt sie sehr übl, nimbt
                <lb facs="#facs_119_r1l17" n="N011"/>ihn alles wekh, sonst gehts ihr izt gutt, er
-               <lb facs="#facs_119_r1l18" n="N012"/>duet ihr sehr schön. Bitt mich b<supplied >e</supplied>y meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>schwägerin</expan><abbr>schwg</abbr></choice> zu
-               <lb facs="#facs_119_r1l19" n="N013"/>entschulgd<supplied >i</supplied>gen, mit nechsten werd als her<supplied >e</supplied>in bringen. B<supplied >e</supplied>f<supplied >e</supplied>hl
-               <lb facs="#facs_119_r1l20" n="N014"/>mich dero Liebden vnd werde st<supplied >er</supplied>ben
+               <lb facs="#facs_119_r1l18" n="N012"/>duet ihr sehr schön. Bitt mich b<supplied>e</supplied>y meiner <choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>schwägerin</expan><abbr>schwg</abbr></choice> zu
+               <lb facs="#facs_119_r1l19" n="N013"/>entschulgd<supplied>i</supplied>gen, mit nechsten werd als her<supplied>e</supplied>in bringen. B<supplied>e</supplied>f<supplied>e</supplied>hl
+               <lb facs="#facs_119_r1l20" n="N014"/>mich dero Liebden vnd werde st<supplied>er</supplied>ben
                <lb facs="#facs_119_r1l21" n="N015"/>dero Liebden
-               <lb facs="#facs_119_r1l23" n="N016"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_119_r1l23" n="N016"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_119_r1l27" n="N017"/>Eleonora
-               <lb facs="#facs_119_r1l25" n="N018"/>Wien den 30ten m<supplied >er</supplied>z 1701
+               <lb facs="#facs_119_r1l25" n="N018"/>Wien den 30ten m<supplied>er</supplied>z 1701
                <lb facs="#facs_119_r1l28" n="N019"/>Bitt nochmahlen balt ein antwort, wohin die <unclear>M</unclear> <choice><expan>Anna</expan><abbr>A</abbr></choice> <choice><expan>Magdalena</expan><abbr>M</abbr></choice>
-               <lb facs="#facs_119_r1l29" n="N020"/>zu schik<supplied >en</supplied> hab.
+               <lb facs="#facs_119_r1l29" n="N020"/>zu schik<supplied>en</supplied> hab.
             </ab>
 
       </body>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0332.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0332.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-06-28"></origDate></origin>
+                        <origin><origDate when-iso="1680-06-28"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Pardubice</placeName>
-               <date  when-iso="1680-06-28"></date>
+               <date when-iso="1680-06-28"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1650" lry="2511" ulx="0" uly="0" xml:id="facs_331">
          <graphic height="2511px" url="Kasten_blau_45_8_0332.jpg" width="1650px"/>
-         <graphic height="2511px" url="" width="1650px"/>
          <zone points="87,505 87,2428 1578,2428 1578,505" rendition="TextRegion" xml:id="facs_331_r1">
             <zone points="307,603 370,604 433,605 497,605 560,606 624,606 687,606 750,606 814,605 877,605 941,604 1004,602 1067,601 1131,599 1194,597 1258,594 1321,591 1384,588 1448,584 1511,580 1575,575 1575,505 1511,510 1448,514 1384,518 1321,521 1258,524 1194,527 1131,529 1067,531 1004,532 941,534 877,535 814,535 750,536 687,536 624,536 560,536 497,535 433,535 370,534 307,533" rendition="Line" xml:id="facs_331_r1l1"/>
             <zone points="269,665 301,659 1472,616 1525,615 1578,615 1578,685 892,727 839,730 786,732 734,733 367,740 269,735" rendition="Line" xml:id="facs_331_line_1622213015051_314"/>
@@ -126,23 +121,22 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_331" n="331" xml:id="img_0331"/>
-
-<ab facs="#facs_331_r1" >
-               <lb facs="#facs_331_r1l1" n="N001"/>Durchleüchtig<supplied >e</supplied>r Fürst, herzallerliebster herr <choice><expan>vatter</expan><abbr>v</abbr></choice>
-               <lb facs="#facs_331_line_1622213015051_314" n="N002"/>Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnterdh</abbr></choice> vmb verzei<supplied >un</supplied>g,
+         <pb facs="#facs_331" n="197 r" xml:id="Kasten_blau_45_8_0332.jpg"/>
+<ab facs="#facs_331_r1">
+               <lb facs="#facs_331_r1l1" n="N001"/>Durchleüchtig<supplied>e</supplied>r Fürst, herzallerliebster herr <choice><expan>vatter</expan><abbr>v</abbr></choice>
+               <lb facs="#facs_331_line_1622213015051_314" n="N002"/>Bitt ewer Durchlaucht <choice><expan>vnterdehnigst</expan><abbr>vnterdh</abbr></choice> vmb verzei<supplied>un</supplied>g,
                <lb facs="#facs_331_r1l4" n="N003"/>des diese post nit schreib, hab dero
                <lb facs="#facs_331_line_1622213031020_320" n="N004"/>befehl gemes den brief an <rs type="person">Cuhrfürst</rs>
                <lb facs="#facs_331_line_1622213041153_325" n="N005"/>geschrieben, welchen hierbey überschike.
                <lb facs="#facs_331_line_1622213050759_332" n="N006"/>Seint auf ein iagen gewesen.
                <lb facs="#facs_331_line_1622213053681_336" n="N007"/>Mit nechstem will alles herein bringen.
-               <lb facs="#facs_331_r1l17" n="N008"/>Schike auch hierbey, was w<supplied >e</supplied>gen des <rs type="person">Qwendels</rs>
+               <lb facs="#facs_331_r1l17" n="N008"/>Schike auch hierbey, was w<supplied>e</supplied>gen des <rs type="person">Qwendels</rs>
                <lb facs="#facs_331_line_1622213062001_340" n="N009"/><add>heüt</add> auf <rs type="place">Rohm</rs> geschrieben. Hab <unclear>???</unclear> nit könen
                <lb facs="#facs_331_r1l20" n="N010"/>antworten. Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, mich bey ihr
                <lb facs="#facs_331_line_1622213069448_344" n="N011"/>Durchlaucht mein <choice><expan>geliebst</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>fr</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> zue entschuldigen,
                <lb facs="#facs_331_r1l26" n="N012"/>sterbe
                <lb facs="#facs_331_r1l27" n="N013"/>ewer Durchlaucht
-               <lb facs="#facs_331_r1l28" n="N014"/>ganz ergebe<supplied >n</supplied>stste trew
+               <lb facs="#facs_331_r1l28" n="N014"/>ganz ergebe<supplied>n</supplied>stste trew
                <lb facs="#facs_331_r1l29" n="N015"/>gehorsamste dochter
                <lb facs="#facs_331_r1l31" n="N016"/>EMT
                <lb facs="#facs_331_r1l30" n="N017"/><rs type="place">Pardowiz</rs> den <date month="6" day="28" year="1680">28 junij 1680</date>

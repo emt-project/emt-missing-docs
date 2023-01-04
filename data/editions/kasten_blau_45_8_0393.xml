@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0393.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0393.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-02-27"></origDate></origin>
+                        <origin><origDate when-iso="1681-02-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__32">Linz</placeName>
-               <date  when-iso="1681-02-27"></date>
+               <date when-iso="1681-02-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_392">
          <graphic height="2509px" url="Kasten_blau_45_8_0393.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="134,392 134,2393 1593,2393 1593,392" rendition="TextRegion" xml:id="facs_392_r1">
             <zone points="352,510 412,507 472,504 532,501 593,498 653,495 713,493 774,490 834,487 894,485 955,482 1015,479 1075,477 1135,475 1196,472 1256,470 1316,468 1377,466 1437,463 1497,461 1558,459 1558,392 1497,394 1437,396 1377,399 1316,401 1256,403 1196,405 1135,408 1075,410 1015,412 955,415 894,418 834,420 774,423 713,426 653,428 593,431 532,434 472,437 412,440 352,443" rendition="Line" xml:id="facs_392_r1l1"/>
             <zone points="276,616 339,614 402,611 465,608 528,606 591,603 654,600 717,597 780,594 843,591 906,587 969,585 1032,581 1095,579 1158,576 1221,573 1284,571 1347,569 1410,567 1473,565 1536,564 1536,497 1473,498 1410,500 1347,502 1284,504 1221,506 1158,509 1095,512 1032,514 969,518 906,520 843,524 780,527 717,530 654,533 591,536 528,539 465,541 402,544 339,547 276,549" rendition="Line" xml:id="facs_392_r1l2"/>
@@ -128,9 +123,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_392" n="392" xml:id="img_0392"/>
-
-<ab facs="#facs_392_r1" >
+         <pb facs="#facs_392" n="234 r" xml:id="Kasten_blau_45_8_0393.jpg"/>
+<ab facs="#facs_392_r1">
                <lb facs="#facs_392_r1l1" n="N001"/>Durchleüchtigster Fürst herzallerliebster herr vatter
                <lb facs="#facs_392_r1l2" n="N002"/>Wie schmerzlich mihr das gestrige scheiden geweßen,
                <lb facs="#facs_392_r1l3" n="N003"/>wehre mihr nit möglich auszueschprechen, vndt
@@ -139,7 +133,7 @@
                <lb facs="#facs_392_r1l6" n="N006"/>ihr <rs type="person">Mayestät</rs>, mein <choice><expan>gnädiger</expan><abbr>g</abbr></choice> Kaiser, den <rs type="person">von Bekh</rs> zue
                <lb facs="#facs_392_r1l7" n="N007"/>ewer Durchlaucht schiket, so wirt der ewer Durchlaucht mitt mehrerm
                <lb facs="#facs_392_r1l9" n="N008"/>meine bedrüebnus zue erkennen geben vndt
-               <lb facs="#facs_392_r1l10" n="N009"/>vernemmen, wie sich ewer Durchlaucht auf die ges<supplied >t</supplied>rige
+               <lb facs="#facs_392_r1l10" n="N009"/>vernemmen, wie sich ewer Durchlaucht auf die ges<supplied>t</supplied>rige
                <lb facs="#facs_392_r1l11" n="N010"/>reis befinden, auch in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen,
                <lb facs="#facs_392_line_1624024650760_79" n="N011"/>auf welchen ich mich bezihe, die ich sterben
                <lb facs="#facs_392_r1l14" n="N012"/>werde
@@ -151,7 +145,7 @@
                <lb facs="#facs_392_line_1622287918423_1341" n="N018"/>Ihr Mayestät, mein <choice><expan>gnädiger</expan><abbr>g</abbr></choice> Kaiser, haben auch
                <lb facs="#facs_392_line_1622287926595_1347" n="N019"/>schreiben wollen, so seint aber
                <lb facs="#facs_392_r1l21" n="N020"/>im raht vndt ist schon schpaht, also haben sie
-               <lb facs="#facs_392_line_1622287936534_1352" n="N021"/>mihr <choice><expan>gnädig</expan><abbr>g</abbr></choice> anbefohl<supplied >en</supplied>, sie bey ihr Durchlaucht <rs type="person">beyde</rs>
+               <lb facs="#facs_392_line_1622287936534_1352" n="N021"/>mihr <choice><expan>gnädig</expan><abbr>g</abbr></choice> anbefohl<supplied>en</supplied>, sie bey ihr Durchlaucht <rs type="person">beyde</rs>
                <lb facs="#facs_392_line_1622287939905_1356" n="N022"/>zue entschuldigen.
             </ab>
 

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0255.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0255.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-11-11"></origDate></origin>
+                        <origin><origDate when-iso="1679-11-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1679-11-11"></date>
+               <date when-iso="1679-11-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_255">
          <graphic height="2430px" url="Kasten_blau_45_8_0255.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="106,408 106,2352 1624,2352 1624,408" rendition="TextRegion" xml:id="facs_255_r1">
             <zone points="277,526 338,523 400,520 462,518 524,516 586,513 647,511 709,509 771,507 833,505 895,502 956,499 1018,496 1080,492 1142,489 1204,484 1265,479 1327,474 1389,468 1451,461 1513,453 1513,408 1451,416 1389,423 1327,429 1265,434 1204,439 1142,444 1080,447 1018,451 956,454 895,457 833,460 771,462 709,464 647,466 586,468 524,471 462,473 400,475 338,478 277,481" rendition="Line" xml:id="facs_255_r1l1"/>
             <zone points="295,594 360,594 425,594 490,592 555,590 620,587 685,584 750,580 815,576 880,571 945,566 1010,561 1075,556 1140,550 1205,545 1270,539 1335,534 1400,528 1465,523 1530,517 1595,512 1595,467 1530,472 1465,478 1400,483 1335,489 1270,494 1205,500 1140,505 1075,511 1010,516 945,521 880,526 815,531 750,535 685,539 620,542 555,545 490,547 425,549 360,549 295,549" rendition="Line" xml:id="facs_255_r1l2"/>
@@ -126,7 +121,6 @@
       
 <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_256">
          <graphic height="2430px" url="Kasten_blau_45_8_0256.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="216,282 216,1233 1621,1233 1621,282" rendition="TextRegion" xml:id="facs_256_r1">
             <zone points="295,410 355,403 416,398 476,392 537,388 597,383 658,380 718,377 779,375 839,372 900,370 961,368 1021,366 1082,364 1142,362 1203,359 1263,356 1324,353 1384,348 1445,344 1506,339 1506,282 1445,287 1384,291 1324,296 1263,299 1203,302 1142,305 1082,307 1021,309 961,311 900,313 839,315 779,318 718,320 658,323 597,326 537,331 476,335 416,341 355,346 295,353" rendition="Line" xml:id="facs_256_r1l1"/>
             <zone points="277,493 338,484 399,476 460,469 521,463 582,456 643,451 704,446 765,441 826,437 887,433 948,429 1009,426 1070,423 1131,420 1192,417 1253,413 1314,410 1375,407 1436,404 1497,400 1497,352 1436,356 1375,359 1314,362 1253,365 1192,369 1131,372 1070,375 1009,378 948,381 887,385 826,389 765,393 704,398 643,403 582,408 521,415 460,421 399,428 338,436 277,445" rendition="Line" xml:id="facs_256_r1l2"/>
@@ -144,9 +138,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_255" n="255" xml:id="img_0255"/>
-
-<ab facs="#facs_255_r1" >
+         <pb facs="#facs_255" n="150 r" xml:id="Kasten_blau_45_8_0255.jpg"/>
+<ab facs="#facs_255_r1">
                <lb facs="#facs_255_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatterer
                <lb facs="#facs_255_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben habe mit schuldigstem respect empfangen.
                <lb facs="#facs_255_r1l3" n="N003"/>Was das gouerno der <rs type="place">Niderlanden</rs> betrift, haben ihr <rs type="person">Mayestät</rs>,
@@ -171,9 +164,8 @@
                <lb facs="#facs_255_r1l26" n="N022"/>haben mihr heünt allebeidt der Königin darumb geschriben,
                <lb facs="#facs_255_r1l28" n="N023"/>damit das, wan der König es vergeben könte, keine zeit versaumt
             </ab>
-<pb facs="#facs_256" n="256" xml:id="img_0256"/>
-
-<ab facs="#facs_256_r1" >
+<pb facs="#facs_256" n="150 v" xml:id="Kasten_blau_45_8_0256.jpg"/>
+<ab facs="#facs_256_r1">
                <lb facs="#facs_256_r1l1" n="N001"/>werde. Haben auch <choice><expan>gnädigst</expan><abbr>g</abbr></choice> erlaubt, das ich gestren wegen
                <lb facs="#facs_256_r1l2" n="N002"/><rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Ludwich</rs> an <rs type="person">Papst</rs> geschrieben, vndt werden ihr <rs type="person">Mayestät</rs>
                <lb facs="#facs_256_r1l3" n="N003"/>schreiben mit nechster post volgen. Heundt ist die zeit
@@ -181,7 +173,7 @@
                <lb facs="#facs_256_line_1620802461803_183" n="N005"/>befehlen. Sie werden schon vohn ihr Durchlaucht meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>f</abbr></choice>
                <lb facs="#facs_256_line_1620802467819_187" n="N006"/><rs type="person">muetter</rs> vernommen, wie es mihr geht. Werde sterben
                <lb facs="#facs_256_r1l10" n="N007"/>ewer Durchlaucht
-               <lb facs="#facs_256_line_1620802478705_191" n="N008"/>ganzergebenst trewgehorsa<supplied >m</supplied>st dochter
+               <lb facs="#facs_256_line_1620802478705_191" n="N008"/>ganzergebenst trewgehorsa<supplied>m</supplied>st dochter
                <lb facs="#facs_256_r1l16" n="N009"/>EMT
                <lb facs="#facs_256_r1l15" n="N010"/><rs type="place">Prag</rs> den <date month="11" day="11" year="1679">11 <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1679</date>
             </ab>

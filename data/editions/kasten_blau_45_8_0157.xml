@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0157.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0157.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-07-17"></origDate></origin>
+                        <origin><origDate when-iso="1678-07-17"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-07-17"></date>
+               <date when-iso="1678-07-17"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1696" lry="2497" ulx="0" uly="0" xml:id="facs_157">
          <graphic height="2497px" url="Kasten_blau_45_8_0157.jpg" width="1696px"/>
-         <graphic height="2497px" url="" width="1696px"/>
          <zone points="401,526 392,2144 1621,2144 1630,526" rendition="TextRegion" xml:id="facs_157_r2">
             <zone points="522,598 577,595 632,592 687,589 742,587 797,586 852,584 907,583 962,581 1017,580 1073,579 1128,578 1183,578 1238,577 1293,576 1348,575 1403,574 1458,573 1513,572 1568,570 1624,568 1624,526 1568,528 1513,530 1458,531 1403,532 1348,533 1293,534 1238,535 1183,536 1128,536 1073,537 1017,538 962,539 907,541 852,542 797,544 742,545 687,547 632,550 577,553 522,556" rendition="Line" xml:id="facs_157_r2l1"/>
             <zone points="450,620 1575,615 1575,645 1548,651 1467,664 1386,670 1305,673 816,675 562,675 506,674 450,672" rendition="Line" xml:id="facs_157_line_1618570329526_1299"/>
@@ -123,16 +118,15 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_157" n="157" xml:id="img_0157"/>
-
-<ab facs="#facs_157_r2" >
+         <pb facs="#facs_157" n="29 r" xml:id="Kasten_blau_45_8_0157.jpg"/>
+<ab facs="#facs_157_r2">
                <lb facs="#facs_157_r2l1" n="N001"/>Durchleuchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_157_line_1618570329526_1299" n="N002"/>Mitt was großem trost ich ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_157_r2l5" n="N003"/>durch den <rs type="person">Grau Hamilton</rs> empfangen, ist nit zue
                <lb facs="#facs_157_r2l6" n="N004"/>beschreiben, in deme ich daraus ewer Durchlaucht wohlstant
                <lb facs="#facs_157_line_1618570337122_1303" n="N005"/>vernommen, vndt das sie dero reis gelüklich
                <lb facs="#facs_157_r2l9" n="N006"/>bis auf <rs type="place">Filshofen</rs> volendet. Der allerhochste
-               <lb facs="#facs_157_line_1618570340966_1307" n="N007"/>gebe weiters seine gnadt. Ich vermeine, <supplied >ich</supplied> könne
+               <lb facs="#facs_157_line_1618570340966_1307" n="N007"/>gebe weiters seine gnadt. Ich vermeine, <supplied>ich</supplied> könne
                <lb facs="#facs_157_line_1618570348046_1311" n="N008"/>der zeit nit erwarten, bis mit dero so lang
                <lb facs="#facs_157_r2l17" n="N009"/>erwüntschten gegenhwart werde erfreüet werden,
                <lb facs="#facs_157_r2l18" n="N010"/>welches ewer Durchlaucht vom Grau Hamilton mit mehrerem

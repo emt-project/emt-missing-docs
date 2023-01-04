@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0392.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0392.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1642" lry="2509" ulx="0" uly="0" xml:id="facs_391">
          <graphic height="2509px" url="Kasten_blau_45_8_0392.jpg" width="1642px"/>
-         <graphic height="2509px" url="" width="1642px"/>
          <zone points="132,479 132,2421 1590,2421 1590,479" rendition="TextRegion" xml:id="facs_391_r1">
             <zone points="447,604 503,602 560,601 617,599 673,597 730,595 787,592 843,589 900,586 957,583 1014,579 1070,575 1127,572 1184,568 1240,563 1297,559 1354,555 1410,550 1467,545 1524,541 1581,536 1581,479 1524,484 1467,488 1410,493 1354,498 1297,502 1240,506 1184,511 1127,515 1070,518 1014,522 957,526 900,529 843,532 787,535 730,538 673,540 617,542 560,544 503,545 447,547" rendition="Line" xml:id="facs_391_r1l1"/>
             <zone points="375,706 433,706 492,705 551,703 610,699 668,696 727,692 786,688 845,683 903,678 962,674 1021,668 1080,664 1138,659 1197,655 1256,652 1315,648 1373,646 1432,644 1491,644 1550,644 1550,587 1491,587 1432,587 1373,589 1315,591 1256,595 1197,598 1138,602 1080,607 1021,611 962,617 903,621 845,626 786,631 727,635 668,639 610,642 551,646 492,648 433,649 375,649" rendition="Line" xml:id="facs_391_r1l2"/>
@@ -131,9 +126,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_391" n="391" xml:id="img_0391"/>
-
-<ab facs="#facs_391_r1" >
+         <pb facs="#facs_391" n="233 r" xml:id="Kasten_blau_45_8_0392.jpg"/>
+<ab facs="#facs_391_r1">
                <lb facs="#facs_391_r1l1" n="N001"/>Durchleuchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_391_r1l2" n="N002"/>Ewer Durchlaucht sage ich vnterdehnigen dankh vohr
                <lb facs="#facs_391_r1l3" n="N003"/>dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vndt vnuerdiente <choice><expan>gnade</expan><abbr>g</abbr></choice>,
@@ -150,10 +144,10 @@
                <lb facs="#facs_391_r1l21" n="N014"/>beziehen vndt mich nochmahlen in ewer Durchlaucht
                <lb facs="#facs_391_r1l22" n="N015"/><choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich sterben werde
                <lb facs="#facs_391_r1l23" n="N016"/>ewer Durchlaucht
-               <lb facs="#facs_391_line_1622278161236_1298" n="N017"/>ganz ergebenst tr<supplied >e</supplied>w
+               <lb facs="#facs_391_line_1622278161236_1298" n="N017"/>ganz ergebenst tr<supplied>e</supplied>w
                <lb facs="#facs_391_line_1622278181376_1308" n="N018"/>gehorsamste dochter
                <lb facs="#facs_391_r1l28" n="N019"/>EMT
-               <lb facs="#facs_391_line_1622278161236_1299" n="N020"/>Mein kleine<supplied >r</supplied> ist wohl nit werdt,
+               <lb facs="#facs_391_line_1622278161236_1299" n="N020"/>Mein kleine<supplied>r</supplied> ist wohl nit werdt,
                <lb facs="#facs_391_line_1622278181376_1309" n="N021"/>das ewer Durchlaucht so <choice><expan>gnädig</expan><abbr>g</abbr></choice> an ihn denken.
                <lb facs="#facs_391_r1l27" n="N022"/>Ich hab in seider noch nit gesehn,
                <lb facs="#facs_391_line_1622278196118_1315" n="N023"/>traw mihr auch nit hin zue gehn, dan er mihr gleich

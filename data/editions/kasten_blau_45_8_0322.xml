@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0322.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0322.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-06-14"></origDate></origin>
+                        <origin><origDate when-iso="1680-06-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Pardubice</placeName>
-               <date  when-iso="1680-06-14"></date>
+               <date when-iso="1680-06-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1624" lry="2471" ulx="0" uly="0" xml:id="facs_321">
          <graphic height="2471px" url="Kasten_blau_45_8_0322.jpg" width="1624px"/>
-         <graphic height="2471px" url="" width="1624px"/>
          <zone points="94,433 94,2373 1553,2373 1553,433" rendition="TextRegion" xml:id="facs_321_r1">
             <zone points="324,509 384,505 444,501 505,497 565,495 626,492 686,490 746,488 807,486 867,485 928,484 988,483 1048,482 1109,482 1169,481 1230,481 1290,482 1350,482 1411,482 1471,483 1532,483 1532,435 1471,435 1411,434 1350,434 1290,434 1230,433 1169,433 1109,434 1048,434 988,435 928,436 867,437 807,438 746,440 686,442 626,444 565,447 505,449 444,453 384,457 324,461" rendition="Line" xml:id="facs_321_r1l1"/>
             <zone points="318,606 378,602 439,597 499,594 560,590 621,586 681,584 742,581 802,578 863,576 924,574 984,573 1045,572 1105,571 1166,570 1227,570 1287,571 1348,571 1408,573 1469,574 1530,576 1530,528 1469,526 1408,525 1348,523 1287,523 1227,522 1166,522 1105,523 1045,524 984,525 924,526 863,528 802,530 742,533 681,536 621,538 560,542 499,546 439,549 378,554 318,558" rendition="Line" xml:id="facs_321_r1l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1660" lry="2485" ulx="0" uly="0" xml:id="facs_322">
          <graphic height="2485px" url="Kasten_blau_45_8_0323.jpg" width="1660px"/>
-         <graphic height="2485px" url="" width="1660px"/>
          <zone points="168,311 168,1213 1564,1213 1564,311" rendition="TextRegion" xml:id="facs_322_r1">
             <zone points="214,329 241,327 268,326 486,319 1131,312 1228,311 1276,311 1325,312 1373,314 1471,320 1471,360 645,367 214,369" rendition="Line" xml:id="facs_322_line_1622212267451_60"/>
             <zone points="199,457 260,455 321,453 383,450 444,448 505,446 567,443 628,442 689,440 751,438 812,436 873,435 935,434 996,432 1057,431 1119,430 1180,429 1241,428 1303,427 1364,426 1426,425 1426,395 1364,396 1303,397 1241,398 1180,399 1119,400 1057,401 996,402 935,404 873,405 812,406 751,408 689,410 628,412 567,413 505,416 444,418 383,420 321,423 260,425 199,427" rendition="Line" xml:id="facs_322_r1l3"/>
@@ -142,9 +136,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_321" n="321" xml:id="img_0321"/>
-
-<ab facs="#facs_321_r1" >
+         <pb facs="#facs_321" n="192 r" xml:id="Kasten_blau_45_8_0322.jpg"/>
+<ab facs="#facs_321_r1">
                <lb facs="#facs_321_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_321_r1l2" n="N002"/>Mitt großen freüden habe ich aus ewer Durchlaucht <choice><expan>gnädigem</expan><abbr>g</abbr></choice>
                <lb facs="#facs_321_r1l3" n="N003"/>schreiben vom <date month="6" day="7" year="1680">7 dieses</date> dero guetten wohlstandt
@@ -167,17 +160,16 @@
                <lb facs="#facs_321_r1l29" n="N020"/>gesundt, gott wolle vns weiters behüetten.
                <lb facs="#facs_321_r1l31" n="N021"/>Heüdt werden mihr auf ein gäns iagen
             </ab>
-<pb facs="#facs_322" n="322" xml:id="img_0322"/>
-
-<ab facs="#facs_322_r1" >
+<pb facs="#facs_322" n="192 v" xml:id="Kasten_blau_45_8_0323.jpg"/>
+<ab facs="#facs_322_r1">
                <lb facs="#facs_322_line_1622212267451_60" n="N001"/>in einem vnerhört großen <rs type="place">deicht</rs> <unclear>drin</unclear> ganze
                <lb facs="#facs_322_r1l3" n="N002"/>inselen, die angebaut sein mit etlich strich.
                <lb facs="#facs_322_line_1622212276981_68" n="N003"/>Es soll gahr lustig sein, wan so früe heim
                <lb facs="#facs_322_line_1622212283181_72" n="N004"/>kommen, will es in <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Ludwig</expan><abbr>L</abbr></choice> brief durch ein PS
-               <lb facs="#facs_322_line_1622212302065_82" n="N005"/>b<supplied >e</supplied>richten. Mues iest schliesen, deswegen weil
+               <lb facs="#facs_322_line_1622212302065_82" n="N005"/>b<supplied>e</supplied>richten. Mues iest schliesen, deswegen weil
                <lb facs="#facs_322_line_1622212314427_92" n="N006"/>balt hinaus werden, vndt sterbe
                <lb facs="#facs_322_r1l22" n="N007"/>ewer Durchlaucht
-               <lb facs="#facs_322_line_1622212332237_99" n="N008"/>ganz ergebenste trew gehorsa<supplied >m</supplied>st
+               <lb facs="#facs_322_line_1622212332237_99" n="N008"/>ganz ergebenste trew gehorsa<supplied>m</supplied>st
                <lb facs="#facs_322_r1l24" n="N009"/>dochter EMT
                <lb facs="#facs_322_line_1622212332237_100" n="N010"/><rs type="place">Pardowiz</rs> den <date month="6" day="14" year="1680">14 junij 1680</date>
             </ab>

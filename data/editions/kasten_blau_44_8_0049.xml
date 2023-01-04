@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0049.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0049.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1700-11-30"></origDate></origin>
+                        <origin><origDate when-iso="1700-11-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1700-11-30"></date>
+               <date when-iso="1700-11-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1706" lry="2471" ulx="0" uly="0" xml:id="facs_49">
          <graphic height="2471px" url="Kasten_blau_44_8_0049.jpg" width="1706px"/>
-         <graphic height="2471px" url="" width="1706px"/>
          <zone points="103,122 103,2274 1583,2274 1583,122" rendition="TextRegion" xml:id="facs_49_r1">
             <zone points="313,854 376,854 439,855 503,856 566,857 629,859 693,861 756,863 819,865 883,867 946,868 1009,870 1073,871 1136,871 1199,871 1263,871 1326,869 1389,867 1453,864 1516,860 1580,855 1580,780 1516,785 1453,789 1389,792 1326,794 1263,796 1199,796 1136,796 1073,796 1009,795 946,793 883,792 819,790 756,788 693,786 629,784 566,782 503,781 439,780 376,779 313,779" rendition="Line" xml:id="facs_49_r1l3"/>
             <zone points="170,1001 240,999 310,999 380,1000 450,1000 520,1002 590,1004 660,1005 730,1008 800,1009 871,1012 941,1014 1011,1016 1081,1017 1151,1018 1221,1018 1291,1018 1361,1017 1431,1016 1501,1013 1572,1009 1572,934 1501,938 1431,941 1361,942 1291,943 1221,943 1151,943 1081,942 1011,941 941,939 871,937 800,934 730,933 660,930 590,929 520,927 450,925 380,925 310,924 240,924 170,926" rendition="Line" xml:id="facs_49_r1l4"/>
@@ -117,7 +112,6 @@
       
 <surface lrx="1666" lry="2318" ulx="0" uly="0" xml:id="facs_50">
          <graphic height="2318px" url="Kasten_blau_44_8_0050.jpg" width="1666px"/>
-         <graphic height="2318px" url="" width="1666px"/>
          <zone points="1150,804 638,779 643,1523 1155,1548" rendition="TextRegion" xml:id="facs_50_region_1656599700326_1621">
             <zone points="1039,864 1034,941 1042,1010 1044,1100 1036,1180 1034,1247 1051,1316 1045,1376 1035,1445 1041,1478 992,1487 985,1446 995,1369 1001,1319 984,1253 986,1177 994,1098 992,1013 984,942 989,861" rendition="Line" xml:id="facs_50_line_1656599722216_1625"/>
             <zone points="932,846 934,918 940,1015 945,1092 946,1154 952,1226 952,1279 947,1346 947,1377 946,1449 951,1495 901,1501 896,1451 897,1377 897,1344 902,1277 902,1228 896,1156 895,1094 890,1018 884,920 882,847" rendition="Line" xml:id="facs_50_line_1656599730956_1630"/>
@@ -128,30 +122,28 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_49" n="49" xml:id="img_0049"/>
-
-<ab facs="#facs_49_r1" >
+         <pb facs="#facs_49" n="25 r" xml:id="Kasten_blau_44_8_0049.jpg" ed="5 r"/>
+<ab facs="#facs_49_r1">
                <lb facs="#facs_49_r1l3" n="N001"/>Durchleüchtiger Curfürst, mein herz allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_49_r1l4" n="N002"/>Nach dem der Ktt mich gebetten, bey seiner abreis	
                <lb facs="#facs_49_r1l5" n="N003"/>ihn bei dero Liebden zu reccomendiren, vnd er sich iederzeit	
-               <lb facs="#facs_49_r1l6" n="N004"/>in bedinu<supplied >n</supplied>g vnser armen <choice><expan>schwester</expan><abbr>schw</abbr></choice> Lischen wie auch sonsten
-               <lb facs="#facs_49_r1l7" n="N005"/>gahr tr<supplied >e</supplied>w vnd eifliech erzeigt hatt, also hab ich
+               <lb facs="#facs_49_r1l6" n="N004"/>in bedinu<supplied>n</supplied>g vnser armen <choice><expan>schwester</expan><abbr>schw</abbr></choice> Lischen wie auch sonsten
+               <lb facs="#facs_49_r1l7" n="N005"/>gahr tr<supplied>e</supplied>w vnd eifliech erzeigt hatt, also hab ich
                <lb facs="#facs_49_r1l8" n="N006"/>ihm es nit abschlagen wollen, vmb so mehr, als ich
-               <lb facs="#facs_49_line_1609942677331_86" n="N007"/>alzeit mit freüden amplectir ein<supplied >i</supplied>ge gelegenheit, dero Liebden
+               <lb facs="#facs_49_line_1609942677331_86" n="N007"/>alzeit mit freüden amplectir ein<supplied>i</supplied>ge gelegenheit, dero Liebden
                <lb facs="#facs_49_r1l11" n="N008"/>zu schreiben vnd zu contestiren, das ich lebenslang
-               <lb facs="#facs_49_r1l12" n="N009"/>verbleiben w<supplied >e</supplied>rde
+               <lb facs="#facs_49_r1l12" n="N009"/>verbleiben w<supplied>e</supplied>rde
                <lb facs="#facs_49_line_1609942853698_110" n="N010"/>dero Liebden
-               <lb facs="#facs_49_r1l13" n="N011"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_49_r1l13" n="N011"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_49_r1l15" n="N012"/>Eleonora
                <lb facs="#facs_49_r1l14" n="N013"/>Wien den 30ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1700
             </ab>
-<ab facs="#facs_49_region_1609942611396_66" >
+<ab facs="#facs_49_region_1609942611396_66">
             </ab>
-<pb facs="#facs_50" n="50" xml:id="img_0050"/>
-
-<ab facs="#facs_50_region_1656599700326_1621" >
+<pb facs="#facs_50" n="26 r" xml:id="Kasten_blau_44_8_0050.jpg"/>
+<ab facs="#facs_50_region_1656599700326_1621">
                <lb facs="#facs_50_line_1656599722216_1625" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
-               <lb facs="#facs_50_line_1656599730956_1630" n="N002"/>Pfalz, meinem h<supplied >er</supplied>zallerl<supplied >i</supplied>bsten
+               <lb facs="#facs_50_line_1656599730956_1630" n="N002"/>Pfalz, meinem h<supplied>er</supplied>zallerl<supplied>i</supplied>bsten
                <lb facs="#facs_50_line_1656599737140_1635" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruder
             </ab>
 

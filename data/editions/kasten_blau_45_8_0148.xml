@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0148.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0148.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-06-02"></origDate></origin>
+                        <origin><origDate when-iso="1678-06-02"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,17 +77,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-06-02"></date>
+               <date when-iso="1678-06-02"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -121,7 +117,6 @@
       
 <surface lrx="1692" lry="2505" ulx="0" uly="0" xml:id="facs_149">
          <graphic height="2505px" url="Kasten_blau_45_8_0149.jpg" width="1692px"/>
-         <graphic height="2505px" url="" width="1692px"/>
          <zone points="207,627 168,2167 1597,2167 1636,627" rendition="TextRegion" xml:id="facs_149_r1">
             <zone points="274,647 418,637 1471,627 1471,682 1429,686 1347,691 1306,693 1224,695 302,704 274,702" rendition="Line" xml:id="facs_149_line_1618565610833_833"/>
             <zone points="271,733 321,727 346,725 534,722 1485,719 1485,774 1434,777 1384,779 1234,782 271,788" rendition="Line" xml:id="facs_149_line_1618565614616_837"/>
@@ -147,9 +142,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_148" n="148" xml:id="img_0148"/>
-
-<ab facs="#facs_148_r3" >
+         <pb facs="#facs_148" n="15 r" xml:id="Kasten_blau_45_8_0148.jpg"/>
+<ab facs="#facs_148_r3">
                <lb facs="#facs_148_r3l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_148_line_1618565384903_720" n="N002"/>Ich verhoffe, ewer Durchlaucht werden nuhnmehr auf
                <lb facs="#facs_148_r3l4" n="N003"/>alles dasienige, was sie verlangen zue wißen,
@@ -167,12 +161,11 @@
                <lb facs="#facs_148_line_1618565520164_792" n="N015"/>Was meinen <choice><expan>bruder</expan><abbr><rs type="person">b</rs></abbr></choice> anlanget, werden ewer Durchlaucht
                <lb facs="#facs_148_line_1618565523818_796" n="N016"/>aus meinem vohrigen schreiben alles ersehn haben.
                <lb facs="#facs_148_line_1618565527910_800" n="N017"/>Wie vndt wan ist noch nit resoluirt, vndt
-               <lb facs="#facs_148_line_1618565533570_804" n="N018"/>halt ich auch nit <supplied >dafür</supplied>, das es werde werden, bis
+               <lb facs="#facs_148_line_1618565533570_804" n="N018"/>halt ich auch nit <supplied>dafür</supplied>, das es werde werden, bis
                <lb facs="#facs_148_r3l51" n="N019"/>die andren sachen richtig vndt das offentlige
             </ab>
-<pb facs="#facs_149" n="149" xml:id="img_0149"/>
-
-<ab facs="#facs_149_r1" >
+<pb facs="#facs_149" n="15 v" xml:id="Kasten_blau_45_8_0149.jpg"/>
+<ab facs="#facs_149_r1">
                <lb facs="#facs_149_line_1618565610833_833" n="N001"/>begern geschen. Im vbrigen wegen dero anhero
                <lb facs="#facs_149_line_1618565614616_837" n="N002"/>kunft, hoffe ich, werden ewer Durchlaucht auch sich schon
                <lb facs="#facs_149_line_1618565619002_841" n="N003"/>darnach richten. Ich zehle wohl alle dag, bis die

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0058.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0058.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-07-11"></origDate></origin>
+                        <origin><origDate when-iso="1677-07-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-07-11"></date>
+               <date when-iso="1677-07-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_58">
          <graphic height="2439px" url="Kasten_blau_45_8_0058.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="247,413 247,2340 1587,2340 1587,413" rendition="TextRegion" xml:id="facs_58_r2">
             <zone points="279,488 510,469 577,512 779,456 991,524 1100,460 1243,500 1579,462 1578,356 1307,347 1124,403 993,345 660,388 278,363" rendition="Line" xml:id="facs_58_r2l1"/>
             <zone points="288,607 514,546 699,609 812,546 1021,587 1123,549 1193,593 1277,531 1466,546 1464,481 1322,462 1003,521 805,470 678,525 509,470 285,488" rendition="Line" xml:id="facs_58_r2l2"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_59">
          <graphic height="2439px" url="Kasten_blau_45_8_0059.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="184,384 184,2300 1587,2300 1587,384" rendition="TextRegion" xml:id="facs_59_r1">
             <zone points="294,457 820,434 1153,477 1251,446 1365,500 1492,434 1482,352 1369,404 1277,345 664,384 294,322" rendition="Line" xml:id="facs_59_r1l1"/>
             <zone points="231,539 796,528 880,583 936,535 1133,519 1227,589 1501,524 1501,453 1402,497 1198,447 809,443 708,482 649,436 505,468 232,419" rendition="Line" xml:id="facs_59_r1l2"/>
@@ -151,7 +145,6 @@
       
 <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_60">
          <graphic height="2439px" url="Kasten_blau_45_8_0060.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="130,111 130,2347 1597,2347 1597,111" rendition="TextRegion" xml:id="facs_60_r2">
             <zone points="141,209 1444,142 1599,185 1593,29 1140,132 808,79 739,116 212,79 138,118" rendition="Line" xml:id="facs_60_r2l1"/>
             <zone points="154,323 303,260 515,296 765,242 981,291 1053,232 1160,268 1299,220 1405,261 1591,235 1606,190 1323,147 1143,198 150,224" rendition="Line" xml:id="facs_60_r2l2"/>
@@ -190,9 +183,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_58" n="58" xml:id="img_0058"/>
-
-<ab facs="#facs_58_r2" >
+         <pb facs="#facs_58" n="69 r" xml:id="Kasten_blau_45_8_0058.jpg"/>
+<ab facs="#facs_58_r2">
                <lb facs="#facs_58_r2l1" n="N001"/>Durchleüchtigster Fürst, herz aller liebster h<choice><expan/><abbr>err</abbr></choice> vatter
                <lb facs="#facs_58_r2l2" n="N002"/>Ich habe so oft meine schuldichkeit mit
                <lb facs="#facs_58_r2l3" n="N003"/>nach kommen, das mich schäme, bitte aber doch
@@ -215,9 +207,8 @@
                <lb facs="#facs_58_r2l20" n="N020"/>auch, das der <rs type="person">Schellerer</rs> ein fues aufkegelt,
                <lb facs="#facs_58_line_1591863670752_299" n="N021"/>schuldich dran, das sie nit haben können hinaus
             </ab>
-<pb facs="#facs_59" n="59" xml:id="img_0059"/>
-
-<ab facs="#facs_59_r1" >
+<pb facs="#facs_59" n="69 v" xml:id="Kasten_blau_45_8_0059.jpg"/>
+<ab facs="#facs_59_r1">
                <lb facs="#facs_59_r1l1" n="N001"/>kommen. Was nach <rs type="place">Rom</rs> hatt sollen gehn,
                <lb facs="#facs_59_r1l2" n="N002"/>hatt <rs type="person">er</rs> gleich, wie ich schon <seg type="blackening">mit</seg> einmahl
                <lb facs="#facs_59_r1l3" n="N003"/>bericht, dem <rs type="person">Schellerer</rs> gesacht, er solle es
@@ -231,7 +222,7 @@
                <lb facs="#facs_59_r1l11" n="N011"/>er sehr eifrich sey. Vndt wan deme
                <lb facs="#facs_59_r1l12" n="N012"/>schon nit also inerlich gemeint ist, so mues
                <lb facs="#facs_59_r1l13" n="N013"/>man ihme doch nit vhrsach geben, zu
-               <lb facs="#facs_59_r1l15" n="N014"/>su<supplied >s</supplied>piciren, das man ihm in anderem
+               <lb facs="#facs_59_r1l15" n="N014"/>su<supplied>s</supplied>piciren, das man ihm in anderem
                <lb facs="#facs_59_r1l16" n="N015"/>verdacht hatt, <seg type="blackening">das</seg> dan man ihn bey dieser
                <lb facs="#facs_59_r1l17" n="N016"/>conjunctur nötich brauchet, dieweilen doch
                <lb facs="#facs_59_r1l18" n="N017"/>alle dergleichen expeditiones durch ihne
@@ -240,9 +231,8 @@
                <lb facs="#facs_59_r1l21" n="N020"/>schreiben vndt reden etwas behuetsammer
                <lb facs="#facs_59_r1l22" n="N021"/>sein, dan man hier alles wider weis, wie
             </ab>
-<pb facs="#facs_60" n="60" xml:id="img_0060"/>
-
-<ab facs="#facs_60_r2" >
+<pb facs="#facs_60" n="70 r" xml:id="Kasten_blau_45_8_0060.jpg"/>
+<ab facs="#facs_60_r2">
                <lb facs="#facs_60_r2l1" n="N001"/>ihr Durchlaucht vom <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Danner</rs> schon werden vernomen
                <lb facs="#facs_60_r2l2" n="N002"/>haben, auch, was mit dem <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emmerich</rs> vndt <rs type="person">Schellerer</rs>
                <lb facs="#facs_60_r2l3" n="N003"/>passirt, welches gahr wohl abgangen. Hab mich balt

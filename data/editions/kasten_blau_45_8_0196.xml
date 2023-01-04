@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0196.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0196.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-04-13"></origDate></origin>
+                        <origin><origDate when-iso="1679-04-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-04-13"></date>
+               <date when-iso="1679-04-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_196">
          <graphic height="2461px" url="Kasten_blau_45_8_0196.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="220,499 220,2386 1601,2386 1601,499" rendition="TextRegion" xml:id="facs_196_r3">
             <zone points="220,597 287,592 354,588 421,585 488,582 556,580 623,579 690,578 757,577 824,577 892,577 959,577 1026,578 1093,578 1160,578 1228,578 1295,577 1362,577 1429,575 1496,573 1564,571 1564,499 1496,501 1429,503 1362,505 1295,505 1228,506 1160,506 1093,506 1026,506 959,505 892,505 824,505 757,505 690,506 623,507 556,508 488,510 421,513 354,516 287,520 220,525" rendition="Line" xml:id="facs_196_r3l1"/>
             <zone points="252,688 318,682 385,678 451,674 518,671 585,669 651,668 718,667 785,666 851,665 918,665 985,665 1051,664 1118,663 1185,662 1251,660 1318,658 1385,655 1451,650 1518,646 1585,639 1585,576 1518,583 1451,587 1385,592 1318,595 1251,597 1185,599 1118,600 1051,601 985,602 918,602 851,602 785,603 718,604 651,605 585,606 518,608 451,611 385,615 318,619 252,625" rendition="Line" xml:id="facs_196_r3l2"/>
@@ -166,13 +161,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_196" n="196" xml:id="img_0196"/>
-
-<ab facs="#facs_196_r3" >
+         <pb facs="#facs_196" n="115 r" xml:id="Kasten_blau_45_8_0196.jpg"/>
+<ab facs="#facs_196_r3">
                <lb facs="#facs_196_r3l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_196_r3l2" n="N002"/>Ewer Durchlaucht zeigen mihr gahr zue große gnädichkeit
                <lb facs="#facs_196_r3l3" n="N003"/>in dero schreiben vom <date month="4" day="7" year="1679">7 dieses</date>, das ich sollichs niemalen
-               <lb facs="#facs_196_r3l4" n="N004"/>verschulden werde können vndt doch dardurch <supplied >mich</supplied> in
+               <lb facs="#facs_196_r3l4" n="N004"/>verschulden werde können vndt doch dardurch <supplied>mich</supplied> in
                <lb facs="#facs_196_r3l5" n="N005"/>höchste angsten vndt sorg einer vngenad sezen, daß
                <lb facs="#facs_196_r3l6" n="N006"/>ich wegen der <rs type="person">Marta</rs> dero befehl nit nachkommen
                <lb facs="#facs_196_r3l7" n="N007"/>kan, deren vhrsachen ich ihr Durchlaucht meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person" continued="true">fraw</rs>
@@ -188,10 +182,9 @@
                <lb facs="#facs_196_line_1619787572707_1292" n="N017"/>hier abreisen wirt, so kan sie zue anfang
                <lb facs="#facs_196_line_1619787576511_1296" n="N018"/>may zue <rs type="place">Neüburg</rs> sein. Der Doctor wirt alsdan
             </ab>
-<pb facs="#facs_197" n="197" xml:id="img_0197"/>
-
-<ab facs="#facs_197_r1" >
-               <lb facs="#facs_197_r1l1" n="N001"/>auf der post folgen. Was die co<supplied >a</supplied>diutori anlanget,
+<pb facs="#facs_197" n="115 v" xml:id="Kasten_blau_45_8_0197.jpg"/>
+<ab facs="#facs_197_r1">
+               <lb facs="#facs_197_r1l1" n="N001"/>auf der post folgen. Was die co<supplied>a</supplied>diutori anlanget,
                <lb facs="#facs_197_r1l2" n="N002"/>ist mihr selber angst, das der <rs type="person">Cuhrfürst</rs>
                <lb facs="#facs_197_r1l3" n="N003"/>im herzen noch guett fürstenbergisch vndt
                <lb facs="#facs_197_r1l4" n="N004"/>französisch ist. Im überigen werden ihr <rs type="person">Mayestät</rs> gern
@@ -211,9 +204,8 @@
                <lb facs="#facs_197_line_1619787650223_1347" n="N018"/>sie in dießem auch soliches nit endern.
                <lb facs="#facs_197_line_1619787653307_1351" n="N019"/>Es ist mihr nuhr leidt, das der <rs type="person">Hoher</rs> nit
             </ab>
-<pb facs="#facs_198" n="198" xml:id="img_0198"/>
-
-<ab facs="#facs_198_r1" >
+<pb facs="#facs_198" n="116 r" xml:id="Kasten_blau_45_8_0198.jpg"/>
+<ab facs="#facs_198_r1">
                <lb facs="#facs_198_r1l1" n="N001"/>nit hier, <rs type="person">er</rs> ist zue <rs type="place">Baden</rs> wegen seines podagra.
                <lb facs="#facs_198_r1l2" n="N002"/>Ich mein aber, er werde in ein pahr dagen
                <lb facs="#facs_198_r1l3" n="N003"/>widerumb kommen. Ewer Durchlaucht sein <choice><expan>gehorsamst</expan><abbr>g</abbr></choice> versichert,

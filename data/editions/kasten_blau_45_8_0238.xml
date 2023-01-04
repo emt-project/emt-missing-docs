@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0238.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0238.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-08-13"></origDate></origin>
+                        <origin><origDate when-iso="1679-08-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-08-13"></date>
+               <date when-iso="1679-08-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_238">
          <graphic height="2430px" url="Kasten_blau_45_8_0238.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="219,596 219,2317 1624,2335 1624,614" rendition="TextRegion" xml:id="facs_238_r1">
             <zone points="407,680 465,678 523,676 582,674 640,673 698,672 757,670 815,669 873,668 932,668 990,667 1048,667 1107,666 1165,666 1223,666 1282,666 1340,666 1398,667 1457,667 1515,667 1574,668 1574,616 1515,615 1457,615 1398,615 1340,614 1282,614 1223,614 1165,614 1107,614 1048,615 990,615 932,616 873,616 815,617 757,618 698,620 640,621 582,622 523,624 465,626 407,628" rendition="Line" xml:id="facs_238_r1l1"/>
             <zone points="416,712 1478,695 1518,695 1599,697 1599,749 954,764 625,768 520,768 416,764" rendition="Line" xml:id="facs_238_line_1619795175901_4441"/>
@@ -126,9 +121,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_238" n="238" xml:id="img_0238"/>
-
-<ab facs="#facs_238_r1" >
+         <pb facs="#facs_238" n="135 r" xml:id="Kasten_blau_45_8_0238.jpg"/>
+<ab facs="#facs_238_r1">
                <lb facs="#facs_238_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_238_line_1619795175901_4441" n="N002"/>Dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="8" day="13" year="1679">13 dies</date> habe wohl empfangen.
                <lb facs="#facs_238_line_1619795179827_4445" n="N003"/>Bitte vnterdehnig vmb vergebung, das heütt
@@ -149,7 +143,7 @@
                <lb facs="#facs_238_line_1619795264323_4502" n="N018"/>ganzergebenste trewgehor-
                <lb facs="#facs_238_line_1619795273038_4506" n="N019"/>samste dochter
                <lb facs="#facs_238_line_1619795298560_4516" n="N020"/>EMT
-               <lb facs="#facs_238_r1l44" n="N021"/><rs type="place">Wien</rs> den <date month="8" day="15" year="1679">13 aug<supplied >u</supplied>st 1679</date>
+               <lb facs="#facs_238_r1l44" n="N021"/><rs type="place">Wien</rs> den <date month="8" day="15" year="1679">13 aug<supplied>u</supplied>st 1679</date>
             </ab>
 
       </body>

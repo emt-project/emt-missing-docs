@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0385.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0385.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1702-06-03"></origDate></origin>
+                        <origin><origDate when-iso="1702-06-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1702-06-03"></date>
+               <date when-iso="1702-06-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1672" lry="2475" ulx="0" uly="0" xml:id="facs_385">
          <graphic height="2475px" url="Kasten_blau_44_8_0385.jpg" width="1672px"/>
-         <graphic height="2475px" url="" width="1672px"/>
          <zone points="109,51 109,2400 1581,2400 1581,51" rendition="TextRegion" xml:id="facs_385_r3">
             <zone points="354,853 414,854 475,854 536,854 597,854 658,854 719,853 780,853 841,852 902,852 963,851 1023,851 1084,851 1145,851 1206,851 1267,852 1328,853 1389,854 1450,856 1511,858 1572,861 1572,804 1511,801 1450,799 1389,797 1328,796 1267,795 1206,794 1145,794 1084,794 1023,794 963,794 902,795 841,795 780,796 719,796 658,797 597,797 536,797 475,797 414,797 354,796" rendition="Line" xml:id="facs_385_r3l5"/>
             <zone points="221,955 284,954 348,954 412,954 476,954 540,955 604,957 667,959 731,961 795,964 859,966 923,969 987,971 1051,973 1114,976 1178,978 1242,979 1306,981 1370,981 1434,981 1498,981 1498,944 1434,944 1370,944 1306,944 1242,942 1178,941 1114,939 1051,936 987,934 923,932 859,929 795,927 731,924 667,922 604,920 540,918 476,917 412,917 348,917 284,917 221,918" rendition="Line" xml:id="facs_385_r3l6"/>
@@ -123,7 +118,6 @@
       
 <surface lrx="1650" lry="2356" ulx="0" uly="0" xml:id="facs_386">
          <graphic height="2356px" url="Kasten_blau_44_8_0386.jpg" width="1650px"/>
-         <graphic height="2356px" url="" width="1650px"/>
          <zone points="687,859 1143,859 1143,1606 687,1606" rendition="TextRegion" xml:id="facs_386_region_1656574519900_946">
             <zone points="953,920 959,986 957,1045 962,1107 964,1182 968,1243 981,1308 986,1385 985,1442 985,1485 985,1564 935,1564 935,1485 935,1442 936,1386 931,1315 918,1250 914,1184 912,1109 907,1046 909,987 903,924" rendition="Line" xml:id="facs_386_line_1656574559442_956"/>
             <zone points="871,949 875,1020 878,1081 879,1146 890,1202 894,1276 901,1325 901,1373 888,1434 885,1496 884,1546 834,1545 835,1495 838,1427 851,1367 851,1328 844,1282 840,1209 829,1152 828,1082 825,1022 821,952" rendition="Line" xml:id="facs_386_line_1656574566286_961"/>
@@ -134,33 +128,31 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_385" n="385" xml:id="img_0385"/>
-
-<ab facs="#facs_385_r3" >
-               <lb facs="#facs_385_r3l5" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brud<supplied >er</supplied>
-               <lb facs="#facs_385_r3l6" n="N002"/>Ich hab dero liebsts sch<supplied >rei</supplied>ben vom 21ten passato mit
+         <pb facs="#facs_385" n="219 r" xml:id="Kasten_blau_44_8_0385.jpg" ed="42 r"/>
+<ab facs="#facs_385_r3">
+               <lb facs="#facs_385_r3l5" n="N001"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> brud<supplied>er</supplied>
+               <lb facs="#facs_385_r3l6" n="N002"/>Ich hab dero liebsts sch<supplied>rei</supplied>ben vom 21ten passato mit
                <lb facs="#facs_385_r3l8" n="N003"/>dem einschluß der beden copien des Fedl relation
                <lb facs="#facs_385_r3l9" n="N004"/>vndt des <choice><expan>päpstlichen</expan><abbr>pap</abbr></choice> breue an die Königin, vnser <choice><expan>fraw</expan><abbr>f</abbr></choice> schwester.
                <lb facs="#facs_385_r3l10" n="N005"/>Ich hab ihr Mayestät als vohrgebracht, sie haben es alls
                <lb facs="#facs_385_r3l11" n="N006"/>gahr woll aufgenommen vndt werden diesachen
                <lb facs="#facs_385_r3l12" n="N007"/>reiflich vberlegen vnd als, was möglich ist ohne prei-
                <lb facs="#facs_385_r3l13" n="N008"/>iudiz dero autoritet sein kan, duen. Ich wüntsche
-               <lb facs="#facs_385_r3l14" n="N009"/>auch dero Liebden glükhsehlig <unclear>fe<supplied >i</supplied>rd<supplied >a</supplied>g</unclear>, vnd der <choice><expan>heilige</expan><abbr>h</abbr></choice>
+               <lb facs="#facs_385_r3l14" n="N009"/>auch dero Liebden glükhsehlig <unclear>fe<supplied>i</supplied>rd<supplied>a</supplied>g</unclear>, vnd der <choice><expan>heilige</expan><abbr>h</abbr></choice>
                <lb facs="#facs_385_r3l15" n="N010"/>geist wolle allen eingeben, in disen gefarligen con-
-               <lb facs="#facs_385_r3l16" n="N011"/>iu<supplied >n</supplied>cturen alles zue duen, was zue seiner ehr vnd
-               <lb facs="#facs_385_r3l17" n="N012"/>zumb gem<supplied >e</supplied>inen besten gedinen mach. Ich aber werde
-               <lb facs="#facs_385_r3l18" n="N013"/>bestend verble<supplied >i</supplied>ben
+               <lb facs="#facs_385_r3l16" n="N011"/>iu<supplied>n</supplied>cturen alles zue duen, was zue seiner ehr vnd
+               <lb facs="#facs_385_r3l17" n="N012"/>zumb gem<supplied>e</supplied>inen besten gedinen mach. Ich aber werde
+               <lb facs="#facs_385_r3l18" n="N013"/>bestend verble<supplied>i</supplied>ben
                <lb facs="#facs_385_line_1612001597573_101" n="N014"/>dero Liebden
-               <lb facs="#facs_385_r3l19" n="N015"/>g<supplied >e</supplied>tr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_385_r3l19" n="N015"/>g<supplied>e</supplied>tr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_385_r3l21" n="N016"/>Eleonora
-               <lb facs="#facs_385_r3l20" n="N017"/>L<supplied >a</supplied>xenb<supplied >ur</supplied>g den 3ten junij 1702
+               <lb facs="#facs_385_r3l20" n="N017"/>L<supplied>a</supplied>xenb<supplied>ur</supplied>g den 3ten junij 1702
                <lb facs="#facs_385_r3l22" n="N018"/>Man hatt mihr ein paquet bracht, ich solls auf machen, weil der
-               <lb facs="#facs_385_r3l23" n="N019"/>Wiser schon wekh war. Seint auch b<supplied >ri</supplied>f vom Fedl g<supplied >e</supplied>west, habs ihm wider
-               <lb facs="#facs_385_r3l24" n="N020"/>zu geschikt, das ander, so der Violet propon<supplied >i</supplied>rt, dem<choice><expan>Grav</expan><abbr> G</abbr></choice>r Caniz geben.
+               <lb facs="#facs_385_r3l23" n="N019"/>Wiser schon wekh war. Seint auch b<supplied>ri</supplied>f vom Fedl g<supplied>e</supplied>west, habs ihm wider
+               <lb facs="#facs_385_r3l24" n="N020"/>zu geschikt, das ander, so der Violet propon<supplied>i</supplied>rt, dem<choice><expan>Grav</expan><abbr> G</abbr></choice>r Caniz geben.
             </ab>
-<pb facs="#facs_386" n="386" xml:id="img_0386"/>
-
-<ab facs="#facs_386_region_1656574519900_946" >
+<pb facs="#facs_386" n="220 r" xml:id="Kasten_blau_44_8_0386.jpg"/>
+<ab facs="#facs_386_region_1656574519900_946">
                <lb facs="#facs_386_line_1656574559442_956" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
                <lb facs="#facs_386_line_1656574566286_961" n="N002"/>Pfalz, meinen herzallerlibsten
                <lb facs="#facs_386_line_1656574570573_966" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruder

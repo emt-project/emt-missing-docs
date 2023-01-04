@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0077.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0077.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-01-29"></origDate></origin>
+                        <origin><origDate when-iso="1701-01-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-01-29"></date>
+               <date when-iso="1701-01-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2440" ulx="0" uly="0" xml:id="facs_77">
          <graphic height="2440px" url="Kasten_blau_44_8_0077.jpg" width="1682px"/>
-         <graphic height="2440px" url="" width="1682px"/>
          <zone points="53,849 53,2416 1564,2416 1564,849" rendition="TextRegion" xml:id="facs_77_r3">
             <zone points="128,959 366,983 477,935 548,976 610,921 759,974 881,920 1377,949 1573,929 1570,836 1312,815 1016,886 878,831 699,883 398,850 229,924 125,879" rendition="Line" xml:id="facs_77_r3l1"/>
             <zone points="131,1096 1559,1049 1561,945 1233,1003 1138,944 847,948 667,1016 596,967 465,1014 289,970 229,1029 129,1030" rendition="Line" xml:id="facs_77_r3l2"/>
@@ -116,7 +111,6 @@
       
 <surface lrx="1682" lry="2440" ulx="0" uly="0" xml:id="facs_78">
          <graphic height="2440px" url="Kasten_blau_44_8_0078.jpg" width="1682px"/>
-         <graphic height="2440px" url="" width="1682px"/>
          <zone points="128,35 128,2291 1600,2291 1600,35" rendition="TextRegion" xml:id="facs_78_r1">
             <zone points="152,240 378,195 578,277 736,180 1595,228 1593,82 1471,63 1362,112 945,52 768,125 516,48 332,123 151,119" rendition="Line" xml:id="facs_78_r1l3"/>
             <zone points="151,373 681,300 932,344 1279,296 1529,345 1563,197 1299,269 1077,199 752,192 603,272 378,195 150,251" rendition="Line" xml:id="facs_78_r1l4"/>
@@ -142,7 +136,6 @@
       
 <surface lrx="1682" lry="2440" ulx="0" uly="0" xml:id="facs_79">
          <graphic height="2440px" url="Kasten_blau_44_8_0079.jpg" width="1682px"/>
-         <graphic height="2440px" url="" width="1682px"/>
          <zone points="117,55 117,2427 1574,2427 1574,55" rendition="TextRegion" xml:id="facs_79_r3">
             <zone points="151,237 452,210 533,256 718,205 1005,253 1173,211 1303,272 1544,220 1544,131 1043,94 860,148 624,88 151,133" rendition="Line" xml:id="facs_79_r3l3"/>
             <zone points="146,332 234,359 480,306 623,369 929,382 1084,324 1546,373 1546,247 1321,294 1059,241 965,292 714,207 535,256 458,213 146,235" rendition="Line" xml:id="facs_79_r3l4"/>
@@ -367,9 +360,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_77" n="77" xml:id="img_0077"/>
-
-<ab facs="#facs_77_r3" >
+         <pb facs="#facs_77" n="41 r" xml:id="Kasten_blau_44_8_0077.jpg" ed="17 r"/>
+<ab facs="#facs_77_r3">
                <lb facs="#facs_77_r3l1" n="N001"/>Durchleüchtige Curfürstin, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_77_r3l2" n="N002"/>Ich hab dero liebsts schreiben vom 20ten vndt 22ten dis woll
                <lb facs="#facs_77_r3l3" n="N003"/>empfangen. Wegen meins sons comando im Reich will
@@ -384,18 +376,17 @@
                <lb facs="#facs_77_r3l13" n="N012"/>woll gehalten. Andertens, die Alexandrina hatt nie auf
                <lb facs="#facs_77_r3l15" n="N013"/>Collen sollen vndt halt hir noch allzeit an, vndt haben
             </ab>
-<pb facs="#facs_78" n="78" xml:id="img_0078"/>
-
-<ab facs="#facs_78_r1" >
+<pb facs="#facs_78" n="41 v" xml:id="Kasten_blau_44_8_0078.jpg" ed="17 v"/>
+<ab facs="#facs_78_r1">
                <lb facs="#facs_78_r1l3" n="N001"/>ihr Durchlaucht, vnser <choice><expan>geliebste</expan><abbr>g</abbr></choice> <choice><expan>fraw</expan><abbr>fr</abbr></choice> mutter, wie auch der Bischoff
                <lb facs="#facs_78_r1l4" n="N002"/>sie selbst so woll hier als nach Rohm deshalben
                <lb facs="#facs_78_r1l5" n="N003"/>reccomendirt vndt begerens nit hinauf, die <unclear>A</unclear> <choice><expan>Magdalena</expan><abbr>Mad</abbr></choice>
                <lb facs="#facs_78_r1l6" n="N004"/>aber woll. Mit der hab ich nechst ein starke carauane
                <lb facs="#facs_78_r1l7" n="N005"/>gehabt, hatt sich ganz desperat vnd narisch angestelt,
                <lb facs="#facs_78_r1l8" n="N006"/>izt scheindt, das sie sich etwas ergibt. Ich hab wollen
-               <lb facs="#facs_78_r1l9" n="N007"/>haben, sie soll ihr Durchlaucht mama sch<supplied >rei</supplied>ben vndt selbst begern,
+               <lb facs="#facs_78_r1l9" n="N007"/>haben, sie soll ihr Durchlaucht mama sch<supplied>rei</supplied>ben vndt selbst begern,
                <lb facs="#facs_78_r1l10" n="N008"/>nach Kollen zu gehen, das will sie noch nit duen, sagt,
-               <lb facs="#facs_78_r1l11" n="N009"/>sie kan nit ligen, mit der zeit wi<supplied >r</supplied>t sichs schon geben.
+               <lb facs="#facs_78_r1l11" n="N009"/>sie kan nit ligen, mit der zeit wi<supplied>r</supplied>t sichs schon geben.
                <lb facs="#facs_78_r1l12" n="N010"/>Dero Liebden machen nuhr, das sies zu Collen anemmen,
                <lb facs="#facs_78_r1l13" n="N011"/>vndt das ihr Durchlaucht <choice><expan>fraw</expan><abbr>f</abbr></choice> mutter nach Düßeldorf gehen,
                <lb facs="#facs_78_r1l14" n="N012"/>so wirt alles gutt werden. Die Alexandrina, hoff
@@ -408,42 +399,40 @@
                <lb facs="#facs_78_r1l21" n="N019"/>höchstens die antwort, so dero Liebden duen wollen. Wegen des <choice><expan>französischen</expan><abbr>frzös</abbr></choice>
                <lb facs="#facs_78_r1l22" n="N020"/>enuoiee werden ihr Mayestät durch den Couniz dero Liebden mit mehren
             </ab>
-<pb facs="#facs_79" n="79" xml:id="img_0079"/>
-
-<ab facs="#facs_79_r3" >
+<pb facs="#facs_79" n="42 r" xml:id="Kasten_blau_44_8_0079.jpg" ed="18 r"/>
+<ab facs="#facs_79_r3">
                <lb facs="#facs_79_r3l3" n="N001"/>dero intention eröffnen. Vom Fratislav haben ihr Mayestät brif,
                <lb facs="#facs_79_r3l4" n="N002"/>das der König Wilhelm sich gahr woll erzeigt, sagt
-               <lb facs="#facs_79_r3l5" n="N003"/>aber, <supplied >er</supplied> muß sehen das parlement zu disponiren.
+               <lb facs="#facs_79_r3l5" n="N003"/>aber, <supplied>er</supplied> muß sehen das parlement zu disponiren.
                <lb facs="#facs_79_r3l6" n="N004"/>Der Margraf ist hier, zeigt sich gahr eifrich, man
                <lb facs="#facs_79_r3l8" n="N005"/>mueß halt alleweil andreiben, vnser leüdt seint der
-               <lb facs="#facs_79_r3l9" n="N006"/>langsamkeit gewont. Er ist schier 10 dag hier gew<supplied >e</supplied>st, das
+               <lb facs="#facs_79_r3l9" n="N006"/>langsamkeit gewont. Er ist schier 10 dag hier gew<supplied>e</supplied>st, das
                <lb facs="#facs_79_r3l10" n="N007"/>fast kein minister mit ihm geret hatt, izt habens ihr Mayestät
-               <lb facs="#facs_79_r3l11" n="N008"/>befohlen, das zuesammen kommen. Ich hoff, gott wi<supplied >r</supplied>t
-               <lb facs="#facs_79_r3l12" n="N009"/>vns b<supplied >e</supplied>y stehen, auf dero Liebden securitet vnd bedekung werden
-               <lb facs="#facs_79_r3l13" n="N010"/>ihr Mayestät freilig alle sorg vnd vorsehung haben. Ich <supplied >tue</supplied> mich
-               <lb facs="#facs_79_r3l14" n="N011"/><unclear>itm</unclear> hierbey bef<supplied >e</supplied>hlen vnd werde st<supplied >e</supplied>rben
-               <lb facs="#facs_79_r3l15" n="N012"/>getr<supplied >e</supplied>wst schw<supplied >e</supplied>ster
+               <lb facs="#facs_79_r3l11" n="N008"/>befohlen, das zuesammen kommen. Ich hoff, gott wi<supplied>r</supplied>t
+               <lb facs="#facs_79_r3l12" n="N009"/>vns b<supplied>e</supplied>y stehen, auf dero Liebden securitet vnd bedekung werden
+               <lb facs="#facs_79_r3l13" n="N010"/>ihr Mayestät freilig alle sorg vnd vorsehung haben. Ich <supplied>tue</supplied> mich
+               <lb facs="#facs_79_r3l14" n="N011"/><unclear>itm</unclear> hierbey bef<supplied>e</supplied>hlen vnd werde st<supplied>e</supplied>rben
+               <lb facs="#facs_79_r3l15" n="N012"/>getr<supplied>e</supplied>wst schw<supplied>e</supplied>ster
                <lb facs="#facs_79_line_1610041036661_310" n="N013"/>dero Liebden
                <lb facs="#facs_79_r3l17" n="N014"/>Eleonora
                <lb facs="#facs_79_r3l16" n="N015"/>Wien den 29ten <choice><expan>jener</expan><abbr>jer</abbr></choice> 1701
-               <lb facs="#facs_79_r3l18" n="N016"/>Ihr Durchlaucht h<supplied >a</supplied>ben mihr mit heint<supplied >i</supplied>ger post wider <supplied >geschrieben, ich</supplied> soll die <unclear>m</unclear> <unclear>An</unclear>
-               <lb facs="#facs_79_r3l19" n="N017"/>hinauf auf Höchstett schik<supplied >en</supplied>. Ich antwort izt, in dem
+               <lb facs="#facs_79_r3l18" n="N016"/>Ihr Durchlaucht h<supplied>a</supplied>ben mihr mit heint<supplied>i</supplied>ger post wider <supplied>geschrieben, ich</supplied> soll die <unclear>m</unclear> <unclear>An</unclear>
+               <lb facs="#facs_79_r3l19" n="N017"/>hinauf auf Höchstett schik<supplied>en</supplied>. Ich antwort izt, in dem
                <lb facs="#facs_79_r3l20" n="N018"/>wetter könne sie nit reisen, vnd so vill ich
-               <lb facs="#facs_79_r3l21" n="N019"/>von ihr schr<supplied >i</supplied>flich noch von Neübu<supplied >r</supplied>g aus vernommen,
+               <lb facs="#facs_79_r3l21" n="N019"/>von ihr schr<supplied>i</supplied>flich noch von Neübu<supplied>r</supplied>g aus vernommen,
                <lb facs="#facs_79_r3l22" n="N020"/>als auch anfangs hier, beger sie nit so balt
                <lb facs="#facs_79_line_1610040805219_291" n="N021"/>hinauf, müse auch hir erwarten was mit <unclear>sch</unclear> Alex
-               <lb facs="#facs_79_r3l25" n="N022"/>wi<supplied >r</supplied>t. Werden dero Liebden machen, das ihre Durchlaucht auf Düßeldorf komen, dan
-               <lb facs="#facs_79_r3l26" n="N023"/>wirt alles gutt werden, aber gleich anfa<supplied >n</supplied>g frülings.
+               <lb facs="#facs_79_r3l25" n="N022"/>wi<supplied>r</supplied>t. Werden dero Liebden machen, das ihre Durchlaucht auf Düßeldorf komen, dan
+               <lb facs="#facs_79_r3l26" n="N023"/>wirt alles gutt werden, aber gleich anfa<supplied>n</supplied>g frülings.
             </ab>
-<pb facs="#facs_80" n="80" xml:id="img_0080"/>
-
-<ab facs="#facs_80_r1" >
+<pb facs="#facs_80" n="43 r" xml:id="Kasten_blau_44_8_0080.jpg"/>
+<ab facs="#facs_80_r1">
                <lb facs="#facs_80_r1l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_80_r2" >
+<ab facs="#facs_80_r2">
                <lb facs="#facs_80_r2l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_80_r3" >
+<ab facs="#facs_80_r3">
                <lb facs="#facs_80_r3l1" n="N001"/>rdurchleüchtigst grosmachtigsten
                <lb facs="#facs_80_r3l2" n="N002"/>om z ei
                <lb facs="#facs_80_r3l3" n="N003"/>alergnd io tre
@@ -475,37 +464,36 @@
                <lb facs="#facs_80_r3l29" n="N029"/> es mitt ihr beste 
                <lb facs="#facs_80_r3l30" n="N030"/>E
             </ab>
-<pb facs="#facs_81" n="81" xml:id="img_0081"/>
-
-<ab facs="#facs_81_r1" >
+<pb facs="#facs_81" n="43 v" xml:id="Kasten_blau_44_8_0081.jpg"/>
+<ab facs="#facs_81_r1">
                <lb facs="#facs_81_r1l1" n="N001"/>m
                <lb facs="#facs_81_r1l2" n="N002"/>zu
             </ab>
-<ab facs="#facs_81_r2" >
+<ab facs="#facs_81_r2">
                <lb facs="#facs_81_r2l1" n="N001"/>euer
             </ab>
-<ab facs="#facs_81_r3" >
+<ab facs="#facs_81_r3">
                <lb facs="#facs_81_r3l1" n="N001"/>geneh
             </ab>
-<ab facs="#facs_81_r4" >
+<ab facs="#facs_81_r4">
                <lb facs="#facs_81_r4l1" n="N001"/>uer
             </ab>
-<ab facs="#facs_81_r5" >
+<ab facs="#facs_81_r5">
                <lb facs="#facs_81_r5l1" n="N001"/>u
                <lb facs="#facs_81_r5l2" n="N002"/>uge
                <lb facs="#facs_81_r5l3" n="N003"/>ue
                <lb facs="#facs_81_r5l4" n="N004"/>e
             </ab>
-<ab facs="#facs_81_r6" >
+<ab facs="#facs_81_r6">
                <lb facs="#facs_81_r6l1" n="N001"/>m
             </ab>
-<ab facs="#facs_81_r7" >
+<ab facs="#facs_81_r7">
                <lb facs="#facs_81_r7l1" n="N001"/>eue
             </ab>
-<ab facs="#facs_81_r8" >
+<ab facs="#facs_81_r8">
                <lb facs="#facs_81_r8l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_81_r9" >
+<ab facs="#facs_81_r9">
                <lb facs="#facs_81_r9l1" n="N001"/>gesihem daß sich her sachen eh calenahr einer genaden
                <lb facs="#facs_81_r9l2" n="N002"/>als der geringsten außellung versehen halten
                <lb facs="#facs_81_r9l3" n="N003"/>so werden in ein renz auch der reis derenige
@@ -539,20 +527,19 @@
                <lb facs="#facs_81_r9l31" n="N031"/>r
                <lb facs="#facs_81_r9l32" n="N032"/>u
             </ab>
-<pb facs="#facs_82" n="82" xml:id="img_0082"/>
-
-<ab facs="#facs_82_r1" >
+<pb facs="#facs_82" n="44 r" xml:id="Kasten_blau_44_8_0082.jpg"/>
+<ab facs="#facs_82_r1">
                <lb facs="#facs_82_r1l1" n="N001"/>uer
             </ab>
-<ab facs="#facs_82_r2" >
+<ab facs="#facs_82_r2">
                <lb facs="#facs_82_r2l1" n="N001"/>e
             </ab>
-<ab facs="#facs_82_r3" >
+<ab facs="#facs_82_r3">
                <lb facs="#facs_82_r3l1" n="N001"/>ue
                <lb facs="#facs_82_r3l2" n="N002"/>er
                <lb facs="#facs_82_r3l3" n="N003"/>euer
             </ab>
-<ab facs="#facs_82_r4" >
+<ab facs="#facs_82_r4">
                <lb facs="#facs_82_r4l1" n="N001"/>ue
                <lb facs="#facs_82_r4l2" n="N002"/>ue
                <lb facs="#facs_82_r4l3" n="N003"/>E
@@ -566,7 +553,7 @@
                <lb facs="#facs_82_r4l11" n="N011"/> euer Li
                <lb facs="#facs_82_r4l12" n="N012"/>len
             </ab>
-<ab facs="#facs_82_r5" >
+<ab facs="#facs_82_r5">
                <lb facs="#facs_82_r5l1" n="N001"/>einein guaß in dero graben hatt nit anfest föhirag
                <lb facs="#facs_82_r5l2" n="N002"/>sagen dinmahin solcher corials probiren darzeigen ben de
                <lb facs="#facs_82_r5l3" n="N003"/>ndthe cadiutori warha in bezor vndt
@@ -602,19 +589,18 @@
                <lb facs="#facs_82_r5l33" n="N033"/>euer Liebden
                <lb facs="#facs_82_r5l34" n="N034"/>werden es dochte
             </ab>
-<pb facs="#facs_83" n="83" xml:id="img_0083"/>
-
-<ab facs="#facs_83_r1" >
+<pb facs="#facs_83" n="44 v" xml:id="Kasten_blau_44_8_0083.jpg"/>
+<ab facs="#facs_83_r1">
                <lb facs="#facs_83_r1l1" n="N001"/>s
             </ab>
-<ab facs="#facs_83_r2" >
+<ab facs="#facs_83_r2">
                <lb facs="#facs_83_r2l1" n="N001"/>o
             </ab>
-<ab facs="#facs_83_r3" >
+<ab facs="#facs_83_r3">
                <lb facs="#facs_83_r3l1" n="N001"/>onin den 23 dien dan
                <lb facs="#facs_83_r3l2" n="N002"/>ieß
             </ab>
-<ab facs="#facs_83_r4" >
+<ab facs="#facs_83_r4">
                <lb facs="#facs_83_r4l1" n="N001"/>nach vohrender allergndin der audiens solch alles
                <lb facs="#facs_83_r4l2" n="N002"/>madin o redution in ißßerer abahren aah
                <lb facs="#facs_83_r4l3" n="N003"/>bitten aus das dareint berg habende cas

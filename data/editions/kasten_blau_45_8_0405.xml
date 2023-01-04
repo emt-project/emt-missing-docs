@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0405.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0405.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-04-17"></origDate></origin>
+                        <origin><origDate when-iso="1681-04-17"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1681-04-17"></date>
+               <date when-iso="1681-04-17"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1670" lry="2470" ulx="0" uly="0" xml:id="facs_404">
          <graphic height="2470px" url="Kasten_blau_45_8_0405.jpg" width="1670px"/>
-         <graphic height="2470px" url="" width="1670px"/>
          <zone points="162,511 162,2400 1575,2400 1575,511" rendition="TextRegion" xml:id="facs_404_r1">
             <zone points="365,580 423,578 481,577 540,576 598,575 657,575 715,574 774,574 832,574 891,574 949,575 1007,575 1066,575 1124,575 1183,576 1241,576 1300,576 1358,576 1417,576 1475,575 1534,575 1534,512 1475,512 1417,513 1358,513 1300,513 1241,513 1183,513 1124,512 1066,512 1007,512 949,512 891,511 832,511 774,511 715,511 657,512 598,512 540,513 481,514 423,515 365,517" rendition="Line" xml:id="facs_404_r1l1"/>
             <zone points="248,673 312,668 376,665 440,662 504,660 568,658 632,658 697,658 761,658 825,658 889,659 953,660 1017,661 1081,662 1146,663 1210,663 1274,663 1338,663 1402,662 1466,660 1531,658 1531,597 1466,599 1402,601 1338,602 1274,602 1210,602 1146,602 1081,601 1017,600 953,599 889,598 825,597 761,597 697,597 632,597 568,597 504,599 440,601 376,604 312,607 248,612" rendition="Line" xml:id="facs_404_r1l2"/>
@@ -121,7 +116,6 @@
       
 <surface lrx="1682" lry="2513" ulx="0" uly="0" xml:id="facs_405">
          <graphic height="2513px" url="Kasten_blau_45_8_0406.jpg" width="1682px"/>
-         <graphic height="2513px" url="" width="1682px"/>
          <zone points="136,471 136,2085 1571,2085 1571,471" rendition="TextRegion" xml:id="facs_405_r1">
             <zone points="235,567 301,563 367,560 433,557 499,555 565,553 631,551 697,549 763,548 829,547 896,546 962,545 1028,545 1094,544 1160,543 1226,542 1292,542 1358,541 1424,540 1490,539 1557,537 1557,471 1490,473 1424,474 1358,475 1292,476 1226,476 1160,477 1094,478 1028,479 962,479 896,480 829,481 763,482 697,483 631,485 565,487 499,489 433,491 367,494 301,497 235,501" rendition="Line" xml:id="facs_405_r1l1"/>
             <zone points="255,653 316,652 378,651 440,650 502,649 564,648 625,647 687,647 749,645 811,644 873,643 934,642 996,641 1058,639 1120,637 1182,636 1243,634 1305,632 1367,630 1429,628 1491,625 1491,568 1429,571 1367,573 1305,575 1243,577 1182,579 1120,580 1058,582 996,584 934,585 873,586 811,587 749,588 687,590 625,590 564,591 502,592 440,593 378,594 316,595 255,596" rendition="Line" xml:id="facs_405_r1l2"/>
@@ -145,13 +139,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_404" n="404" xml:id="img_0404"/>
-
-<ab facs="#facs_404_r1" >
+         <pb facs="#facs_404" n="245 r" xml:id="Kasten_blau_45_8_0405.jpg"/>
+<ab facs="#facs_404_r1">
                <lb facs="#facs_404_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_404_r1l2" n="N002"/>Es erfrewet mich wohl von herzen, aus ewer
                <lb facs="#facs_404_r1l3" n="N003"/>Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> schreiben vom <date month="4" day="11" year="1681">11 dis</date> dero guetten wohlstandt
-               <lb facs="#facs_404_r1l4" n="N004"/>vernommen <supplied >zu haben</supplied>. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnterd</abbr></choice> dankh vohr
+               <lb facs="#facs_404_r1l4" n="N004"/>vernommen <supplied>zu haben</supplied>. Sage ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnterd</abbr></choice> dankh vohr
                <lb facs="#facs_404_r1l5" n="N005"/>die <choice><expan>gnädige</expan><abbr>g</abbr></choice> sorchfalt vndt villes gebett, so sie
                <lb facs="#facs_404_r1l6" n="N006"/>vohr mein <rs type="person">Josepl</rs> gedan vndt duen laßen.
                <lb facs="#facs_404_r1l7" n="N007"/>Gottlob, es kommen die kräften, wie sie
@@ -163,13 +156,12 @@
                <lb facs="#facs_404_r1l14" n="N013"/>gedragen, damit er ihn nach vndt nach
                <lb facs="#facs_404_r1l15" n="N014"/>gewont, hoff, wan das wetter so continuirt,
                <lb facs="#facs_404_line_1622972228237_363" n="N015"/>werden sie baldt können kommen. Dem
-               <lb facs="#facs_404_r1l18" n="N016"/>frommen <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Marco</rs> bin was vnerhört ob<supplied >l</supplied>igirt,
-               <lb facs="#facs_404_r1l19" n="N017"/>währ mihr wohl ein fr<supplied >e</supplied>üdt ihn zue sehn.
+               <lb facs="#facs_404_r1l18" n="N016"/>frommen <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Marco</rs> bin was vnerhört ob<supplied>l</supplied>igirt,
+               <lb facs="#facs_404_r1l19" n="N017"/>währ mihr wohl ein fr<supplied>e</supplied>üdt ihn zue sehn.
                <lb facs="#facs_404_r1l20" n="N018"/>Das bey dem <rs type="place">wundertatige bilt</rs> noch die gnaden
             </ab>
-<pb facs="#facs_405" n="405" xml:id="img_0405"/>
-
-<ab facs="#facs_405_r1" >
+<pb facs="#facs_405" n="245 v" xml:id="Kasten_blau_45_8_0406.jpg"/>
+<ab facs="#facs_405_r1">
                <lb facs="#facs_405_r1l1" n="N001"/>continuirt vndt vermehrt, ist mihr ein abson-
                <lb facs="#facs_405_r1l2" n="N002"/>derliger trost, sag ewer Durchlaucht <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh, das
                <lb facs="#facs_405_line_1622972258924_377" n="N003"/>sie meines <rs type="person">Josephrl</rs> dort eingedenkh gewesen.
@@ -182,8 +174,8 @@
                <lb facs="#facs_405_r1l13" n="N010"/>von ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> mutter</rs> vernemmen. Due mich
                <lb facs="#facs_405_r1l14" n="N011"/>hirmit in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen vndt sterbe
                <lb facs="#facs_405_line_1622972362279_400" n="N012"/>ewer Durchlaucht
-               <lb facs="#facs_405_line_1622972288452_390" n="N013"/>ganzergebenste trewgehorsa<supplied >m</supplied>ste
-               <lb facs="#facs_405_r1l19" n="N014"/>do<supplied >c</supplied>hter
+               <lb facs="#facs_405_line_1622972288452_390" n="N013"/>ganzergebenste trewgehorsa<supplied>m</supplied>ste
+               <lb facs="#facs_405_r1l19" n="N014"/>do<supplied>c</supplied>hter
                <lb facs="#facs_405_r1l20" n="N015"/>EMT
                <lb facs="#facs_405_line_1622972279378_385" n="N016"/><rs type="place">Wien</rs> den <date month="4" day="17" year="1681">17 apprill 1681</date>
             </ab>

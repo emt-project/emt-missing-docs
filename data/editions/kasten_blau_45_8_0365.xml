@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0365.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0365.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-09-14"></origDate></origin>
+                        <origin><origDate when-iso="1680-09-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Welz</placeName>
-               <date  when-iso="1680-09-14"></date>
+               <date when-iso="1680-09-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1650" lry="2375" ulx="0" uly="0" xml:id="facs_364">
          <graphic height="2375px" url="Kasten_blau_45_8_0365.jpg" width="1650px"/>
-         <graphic height="2375px" url="" width="1650px"/>
          <zone points="113,488 113,2268 1562,2268 1562,488" rendition="TextRegion" xml:id="facs_364_r1">
             <zone points="400,579 458,577 517,574 576,571 635,569 694,567 753,565 812,563 871,562 930,561 988,561 1047,560 1106,560 1165,560 1224,560 1283,561 1342,562 1401,563 1460,565 1519,566 1519,494 1460,493 1401,491 1342,490 1283,489 1224,488 1165,488 1106,488 1047,488 988,489 930,489 871,490 812,491 753,493 694,495 635,497 576,499 517,502 458,505 400,507" rendition="Line" xml:id="facs_364_r1l1"/>
             <zone points="321,676 380,675 439,675 498,674 558,673 617,671 676,670 735,669 795,667 854,666 913,665 972,664 1032,662 1091,661 1150,660 1209,659 1269,659 1328,658 1387,658 1446,658 1506,658 1506,600 1446,600 1387,600 1328,600 1269,601 1209,601 1150,602 1091,603 1032,604 972,606 913,607 854,608 795,609 735,611 676,612 617,613 558,615 498,616 439,617 380,617 321,618" rendition="Line" xml:id="facs_364_r1l2"/>
@@ -119,7 +114,6 @@
       
 <surface lrx="1600" lry="2403" ulx="0" uly="0" xml:id="facs_365">
          <graphic height="2403px" url="Kasten_blau_45_8_0366.jpg" width="1600px"/>
-         <graphic height="2403px" url="" width="1600px"/>
          <zone points="181,472 181,1077 1518,1077 1518,472" rendition="TextRegion" xml:id="facs_365_r2">
             <zone points="187,480 259,478 331,477 909,472 1410,475 1410,539 1191,542 1135,545 187,540" rendition="Line" xml:id="facs_365_line_1622275277914_45"/>
             <zone points="186,630 211,627 237,624 263,622 289,622 315,621 341,621 367,621 393,621 418,622 444,622 470,622 496,621 522,621 548,619 574,617 600,614 600,554 574,557 548,559 522,561 496,561 470,562 444,562 418,562 393,561 367,561 341,561 315,561 289,562 263,562 237,564 211,567 186,570" rendition="Line" xml:id="facs_365_r2l3"/>
@@ -134,9 +128,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_364" n="364" xml:id="img_0364"/>
-
-<ab facs="#facs_364_r1" >
+         <pb facs="#facs_364" n="216 r" xml:id="Kasten_blau_45_8_0365.jpg"/>
+<ab facs="#facs_364_r1">
                <lb facs="#facs_364_r1l1" n="N001"/>Durchleuchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_364_r1l2" n="N002"/>Ich mues bey dieser post doppelt vmb <choice><expan>gnädige</expan><abbr>g</abbr></choice>
                <lb facs="#facs_364_r1l3" n="N003"/>vergebung bitten, weil ich die vohrige post
@@ -150,18 +143,17 @@
                <lb facs="#facs_364_r1l12" n="N011"/>allen bericht gehorsamist erstatten werde, wie
                <lb facs="#facs_364_line_1622275237117_21" n="N012"/>auch auf der 3 <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben in allem
                <lb facs="#facs_364_r1l15" n="N013"/><choice><expan>vnterdehnigst</expan><abbr>vnt </abbr></choice>beantworten. Heündt auf den abendt
-               <lb facs="#facs_364_r1l16" n="N014"/>werden <supplied >wir</supplied> widerumb auf <rs type="place">Lins</rs> kommen,
+               <lb facs="#facs_364_r1l16" n="N014"/>werden <supplied>wir</supplied> widerumb auf <rs type="place">Lins</rs> kommen,
                <lb facs="#facs_364_r1l17" n="N015"/>haben aber noch ein guetten weg zue
                <lb facs="#facs_364_line_1622275241355_25" n="N016"/>vahren, dahrumb mues wider mein willen
             </ab>
-<pb facs="#facs_365" n="365" xml:id="img_0365"/>
-
-<ab facs="#facs_365_r2" >
+<pb facs="#facs_365" n="216 v" xml:id="Kasten_blau_45_8_0366.jpg"/>
+<ab facs="#facs_365_r2">
                <lb facs="#facs_365_line_1622275277914_45" n="N001"/>mein willen enden vndt mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice>
                <lb facs="#facs_365_r2l3" n="N002"/>befehlen, sterbe
                <lb facs="#facs_365_line_1622275340073_63" n="N003"/>ewer Durchlaucht
                <lb facs="#facs_365_r2l4" n="N004"/>ganzergebenste trewgehorsam-
-               <lb facs="#facs_365_r2l7" n="N005"/>ste do<supplied >c</supplied>hter
+               <lb facs="#facs_365_r2l7" n="N005"/>ste do<supplied>c</supplied>hter
                <lb facs="#facs_365_line_1622275318865_58" n="N006"/>EMT
                <lb facs="#facs_365_line_1622275310986_53" n="N007"/><rs type="place">Wels</rs> den <date month="9" day="14" year="1680">14 7ber 1680</date>
             </ab>

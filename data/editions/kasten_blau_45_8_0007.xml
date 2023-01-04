@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0007.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0007.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-02-18"></origDate></origin>
+                        <origin><origDate when-iso="1677-02-18"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-02-18"></date>
+               <date when-iso="1677-02-18"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_7">
          <graphic height="2406px" url="Kasten_blau_45_8_0007.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="88,510 88,2336 1565,2336 1565,510" rendition="TextRegion" xml:id="facs_7_r1">
             <zone points="412,600 476,563 711,611 825,559 914,591 1005,605 1076,614 1331,583 1499,611 1564,589 1566,543 1222,495 1066,516 996,507 771,513 692,475 415,517" rendition="Line" xml:id="facs_7_r1l1"/>
             <zone points="373,688 437,645 513,696 560,656 699,674 748,644 800,681 950,654 1025,710 1135,675 1373,709 1463,675 1465,611 1343,583 1079,614 1020,563 925,592 844,559 698,621 559,567 377,603" rendition="Line" xml:id="facs_7_r1l3"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_8">
          <graphic height="2406px" url="Kasten_blau_45_8_0008.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="168,502 168,1861 1578,1861 1578,502" rendition="TextRegion" xml:id="facs_8_r1">
             <zone points="216,579 471,603 1164,541 1360,569 1396,554 1394,463 1091,487 968,477 857,486 213,466" rendition="Line" xml:id="facs_8_r1l1"/>
             <zone points="241,687 479,647 563,678 633,637 700,677 892,621 1094,659 1194,611 1560,580 1537,538 1226,572 1024,543 237,596" rendition="Line" xml:id="facs_8_r1l2"/>
@@ -149,9 +143,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_7" n="7" xml:id="img_0007"/>
-
-<ab facs="#facs_7_r1" >
+         <pb facs="#facs_7" n="31 r" xml:id="Kasten_blau_45_8_0007.jpg"/>
+<ab facs="#facs_7_r1">
                <lb facs="#facs_7_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_7_r1l3" n="N002"/>Ich verhoffe, das dieses übele schreiben ihr Durchlaucht in
                <lb facs="#facs_7_r1l4" n="N003"/>guettem wohlstant finden wirt, wie wohl nit zue 
@@ -173,9 +166,8 @@
                <lb facs="#facs_7_r1l23" n="N019"/>auf die <rs type="place">Niederlanden</rs> noch <rs type="place">Cecilien</rs> gedenken werden.
                <lb facs="#facs_7_r1l24" n="N020"/>Ihr <rs type="person">Mayestät</rs>, mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kayser, haben wohl auch keine zeit, auf
             </ab>
-<pb facs="#facs_8" n="8" xml:id="img_0008"/>
-
-<ab facs="#facs_8_r1" >
+<pb facs="#facs_8" n="31 v" xml:id="Kasten_blau_45_8_0008.jpg"/>
+<ab facs="#facs_8_r1">
                <lb facs="#facs_8_r1l1" n="N001"/>vill anders zue gedenken, dan <rs type="person">sie</rs> mit so villen
                <lb facs="#facs_8_r1l2" n="N002"/>geschäften überheüfet, das wohl niks iezender von meinem
                <lb facs="#facs_8_r1l3" n="N003"/><rs type="person">brueder</rs> sagen derf. Ich hoffe als alle post, es solle

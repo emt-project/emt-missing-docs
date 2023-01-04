@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0427.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0427.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-06-11"></origDate></origin>
+                        <origin><origDate when-iso="1681-06-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-06-11"></date>
+               <date when-iso="1681-06-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_426">
          <graphic height="2553px" url="Kasten_blau_45_8_0427.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="159,325 130,2487 1573,2487 1602,325" rendition="TextRegion" xml:id="facs_426_r2">
             <zone points="311,620 373,622 436,623 499,624 562,624 625,624 688,623 751,622 814,620 877,619 940,617 1002,615 1065,612 1128,611 1191,608 1254,606 1317,604 1380,601 1443,599 1506,597 1569,596 1569,541 1506,542 1443,544 1380,546 1317,549 1254,551 1191,553 1128,556 1065,557 1002,560 940,562 877,564 814,565 751,567 688,568 625,569 562,569 499,569 436,568 373,567 311,565" rendition="Line" xml:id="facs_426_r2l1"/>
             <zone points="356,673 295,662 275,722 330,717 407,721 460,718 513,716 566,714 620,711 673,710 726,708 780,707 833,706 886,704 940,703 993,702 1046,701 1099,700 1153,699 1206,697 1259,696 1313,694 1366,693 1419,690 1473,688 1473,633 1419,635 1366,638 1313,639 1259,641 1206,642 1153,644 1099,645 1046,646 993,647 940,648 886,649 833,651 780,652 726,653 673,655 620,656 566,659 513,661 460,663 407,666" rendition="Line" xml:id="facs_426_r2l2"/>
@@ -129,9 +124,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_426" n="426" xml:id="img_0426"/>
-
-<ab facs="#facs_426_r2" >
+         <pb facs="#facs_426" n="253 r" xml:id="Kasten_blau_45_8_0427.jpg"/>
+<ab facs="#facs_426_r2">
                <lb facs="#facs_426_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_426_r2l2" n="N002"/>Ewer Durchlaucht sage <choice><expan>vnterdehnigsten</expan><abbr>vnt</abbr></choice> dankh vor dero <choice><expan>gnade</expan><abbr>g</abbr></choice>
                <lb facs="#facs_426_r2l3" n="N003"/>PS in ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person">frawen muetter</rs>, schreiben,
@@ -152,7 +146,7 @@
                <lb facs="#facs_426_line_1622979746509_511" n="N018"/>ist. Due mich also in dero <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen,
                <lb facs="#facs_426_line_1622979763693_515" n="N019"/>sterbe
                <lb facs="#facs_426_line_1622979769516_520" n="N020"/>ewer Durchlaucht
-               <lb facs="#facs_426_line_1622979797743_528" n="N021"/>ganz ergebenste trewg<supplied >e</supplied>h<supplied >o</supplied>rs-
+               <lb facs="#facs_426_line_1622979797743_528" n="N021"/>ganz ergebenste trewg<supplied>e</supplied>h<supplied>o</supplied>rs-
                <lb facs="#facs_426_line_1622979805816_532" n="N022"/>amste dochter
                <lb facs="#facs_426_r2l43" n="N023"/>EMT
                <lb facs="#facs_426_r2l41" n="N024"/><rs type="place">Edenburg</rs> den <date month="6" day="11" year="1681">11 junij 1681</date>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0172.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0172.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-07-27"></origDate></origin>
+                        <origin><origDate when-iso="1701-07-27"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-07-27"></date>
+               <date when-iso="1701-07-27"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -238,12 +234,11 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_172" n="172" xml:id="img_0172"/>
-
-<ab facs="#facs_172_r1" >
+         <pb facs="#facs_172" n="98 r" xml:id="Kasten_blau_44_8_0172.jpg" ed="90 r"/>
+<ab facs="#facs_172_r1">
                <lb facs="#facs_172_r1l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_172_r2" >
+<ab facs="#facs_172_r2">
                <lb facs="#facs_172_r2l1" n="N001"/>s dochter 
                <lb facs="#facs_172_r2l2" n="N002"/>e
                <lb facs="#facs_172_r2l3" n="N003"/>EMT
@@ -302,15 +297,14 @@
                <lb facs="#facs_172_r2l56" n="N056"/>rchlauch
                <lb facs="#facs_172_r2l57" n="N057"/>e
             </ab>
-<pb facs="#facs_173" n="173" xml:id="img_0173"/>
-
-<ab facs="#facs_173_r1" >
+<pb facs="#facs_173" n="98 v" xml:id="Kasten_blau_44_8_0173.jpg" ed="90 v"/>
+<ab facs="#facs_173_r1">
                <lb facs="#facs_173_r1l1" n="N001"/>l
             </ab>
-<ab facs="#facs_173_r2" >
+<ab facs="#facs_173_r2">
                <lb facs="#facs_173_r2l1" n="N001"/>e
             </ab>
-<ab facs="#facs_173_r3" >
+<ab facs="#facs_173_r3">
                <lb facs="#facs_173_r3l1" n="N001"/>me balt gelig verligenere dar
                <lb facs="#facs_173_r3l2" n="N002"/>en der le   seines gelder
                <lb facs="#facs_173_r3l3" n="N003"/>u
@@ -348,16 +342,15 @@
                <lb facs="#facs_173_r3l35" n="N035"/>uer Liebe
                <lb facs="#facs_173_r3l36" n="N036"/>urich
             </ab>
-<ab facs="#facs_173_r4" >
+<ab facs="#facs_173_r4">
                <lb facs="#facs_173_r4l1" n="N001"/>c
             </ab>
-<pb facs="#facs_174" n="174" xml:id="img_0174"/>
-
-<ab facs="#facs_174_r1" >
+<pb facs="#facs_174" n="99 r" xml:id="Kasten_blau_44_8_0174.jpg" ed="92 r"/>
+<ab facs="#facs_174_r1">
                <lb facs="#facs_174_r1l1" n="N001"/>ue
                <lb facs="#facs_174_r1l2" n="N002"/>uer
             </ab>
-<ab facs="#facs_174_r2" >
+<ab facs="#facs_174_r2">
                <lb facs="#facs_174_r2l1" n="N001"/>e
                <lb facs="#facs_174_r2l2" n="N002"/>es lernder llen vnd mein
                <lb facs="#facs_174_r2l3" n="N003"/>sue

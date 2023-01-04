@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0148.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0148.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-06-29"></origDate></origin>
+                        <origin><origDate when-iso="1701-06-29"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1701-06-29"></date>
+               <date when-iso="1701-06-29"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1690" lry="2483" ulx="0" uly="0" xml:id="facs_148">
          <graphic height="2483px" url="Kasten_blau_44_8_0148.jpg" width="1690px"/>
-         <graphic height="2483px" url="" width="1690px"/>
          <zone points="99,744 92,2321 1612,2321 1619,744" rendition="TextRegion" xml:id="facs_148_r1">
             <zone points="253,990 443,954 509,995 578,952 754,980 815,940 899,1002 1366,937 1494,1005 1539,987 1541,801 1271,843 1013,821 893,880 608,795 255,831" rendition="Line" xml:id="facs_148_r1l1"/>
             <zone points="231,1069 540,1048 598,1103 650,1065 683,1092 792,1068 869,1109 1024,1051 1167,1117 1358,1075 1530,1059 1560,954 1040,972 862,1029 730,956 588,949 506,996 233,956" rendition="Line" xml:id="facs_148_r1l2"/>
@@ -116,7 +111,6 @@
       
 <surface lrx="1690" lry="2483" ulx="0" uly="0" xml:id="facs_149">
          <graphic height="2483px" url="Kasten_blau_44_8_0149.jpg" width="1690px"/>
-         <graphic height="2483px" url="" width="1690px"/>
          <zone points="71,160 71,2425 1595,2425 1595,160" rendition="TextRegion" xml:id="facs_149_r1">
             <zone points="170,250 359,197 897,279 969,226 1084,276 1149,230 1518,259 1603,241 1597,155 1395,163 1290,133 1174,143 932,148 804,165 701,137 525,141 210,148" rendition="Line" xml:id="facs_149_r1l1"/>
             <zone points="145,354 258,382 307,338 437,370 649,331 975,381 1216,332 1424,386 1493,358 1495,291 1209,241 920,292 530,203 400,255 313,222 234,276 147,256" rendition="Line" xml:id="facs_149_r1l2"/>
@@ -145,46 +139,44 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_148" n="148" xml:id="img_0148"/>
-
-<ab facs="#facs_148_r1" >
-               <lb facs="#facs_148_r1l1" n="N001"/>Dö<supplied >rc</supplied>hleüchtiger Curfürst, mein herz alerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_148_r1l2" n="N002"/>Bitt vmb gotts wiln vmb v<supplied >e</supplied>rg<supplied >e</supplied>bu<supplied >n</supplied>g, das
-               <lb facs="#facs_148_r1l3" n="N003"/>dero libste <choice><expan>schreiben</expan><abbr>sch</abbr></choice> vom 14ten pas<supplied >a</supplied>to nit ausfüh<supplied >r</supplied>lich
+         <pb facs="#facs_148" n="85 r" xml:id="Kasten_blau_44_8_0148.jpg" ed="53 r"/>
+<ab facs="#facs_148_r1">
+               <lb facs="#facs_148_r1l1" n="N001"/>Dö<supplied>rc</supplied>hleüchtiger Curfürst, mein herz alerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_148_r1l2" n="N002"/>Bitt vmb gotts wiln vmb v<supplied>e</supplied>rg<supplied>e</supplied>bu<supplied>n</supplied>g, das
+               <lb facs="#facs_148_r1l3" n="N003"/>dero libste <choice><expan>schreiben</expan><abbr>sch</abbr></choice> vom 14ten pas<supplied>a</supplied>to nit ausfüh<supplied>r</supplied>lich
                <lb facs="#facs_148_r1l4" n="N004"/>beantwort, hab so vil zu duen, das die
-               <lb facs="#facs_148_line_1610203369053_295" n="N005"/>nun vort bring. Mitwoch g<supplied >e</supplied>ht sie wekh,
-               <lb facs="#facs_148_r1l7" n="N006"/>ein fraw vnd 2 <choice><expan>Pater</expan><abbr>P</abbr></choice> cormel<supplied >i</supplied>tir mit ihr bis auf
+               <lb facs="#facs_148_line_1610203369053_295" n="N005"/>nun vort bring. Mitwoch g<supplied>e</supplied>ht sie wekh,
+               <lb facs="#facs_148_r1l7" n="N006"/>ein fraw vnd 2 <choice><expan>Pater</expan><abbr>P</abbr></choice> cormel<supplied>i</supplied>tir mit ihr bis auf
                <lb facs="#facs_148_r1l8" n="N007"/>Achen, sie ist aler content vnd hatt sich hir
-               <lb facs="#facs_148_r1l9" n="N008"/>gewis woll gehalten. Hirb<supplied >e</supplied>y kombt ein recomen-
-               <lb facs="#facs_148_r1l10" n="N009"/>dation von den nunen auf Achen. Gott v<supplied >e</supplied>rgelts
+               <lb facs="#facs_148_r1l9" n="N008"/>gewis woll gehalten. Hirb<supplied>e</supplied>y kombt ein recomen-
+               <lb facs="#facs_148_r1l10" n="N009"/>dation von den nunen auf Achen. Gott v<supplied>e</supplied>rgelts
                <lb facs="#facs_148_r1l11" n="N010"/>dero Liebden 1000 mahl, das sie so riterlich den bösen
-               <lb facs="#facs_148_r1l12" n="N011"/>tentationes der fr<supplied >an</supplied>zoßen wider stehen, mein Keiser
-               <lb facs="#facs_148_r1l13" n="N012"/>wi<supplied >r</supplied>ts gewis in <choice><expan>gnaden</expan><abbr>g</abbr></choice> erkennen, ich bleib ihnen
-               <lb facs="#facs_148_line_1610203607791_308" n="N013"/>ew<supplied >i</supplied>ch verbunden mit alen den me<supplied >i</supplied>nigen. Ich werd
+               <lb facs="#facs_148_r1l12" n="N011"/>tentationes der fr<supplied>an</supplied>zoßen wider stehen, mein Keiser
+               <lb facs="#facs_148_r1l13" n="N012"/>wi<supplied>r</supplied>ts gewis in <choice><expan>gnaden</expan><abbr>g</abbr></choice> erkennen, ich bleib ihnen
+               <lb facs="#facs_148_line_1610203607791_308" n="N013"/>ew<supplied>i</supplied>ch verbunden mit alen den me<supplied>i</supplied>nigen. Ich werd
             </ab>
-<pb facs="#facs_149" n="149" xml:id="img_0149"/>
-
-<ab facs="#facs_149_r1" >
-               <lb facs="#facs_149_r1l1" n="N001"/>woll alle sach d<supplied >e</supplied>nken, so gutt ich kann. A<supplied >u</supplied>s En<supplied >g</supplied>la<supplied >n</supplied>d
+<pb facs="#facs_149" n="85 v" xml:id="Kasten_blau_44_8_0149.jpg" ed="53 v"/>
+<ab facs="#facs_149_r1">
+               <lb facs="#facs_149_r1l1" n="N001"/>woll alle sach d<supplied>e</supplied>nken, so gutt ich kann. A<supplied>u</supplied>s En<supplied>g</supplied>la<supplied>n</supplied>d
                <lb facs="#facs_149_r1l2" n="N002"/>haben mihr heündt beste brif bekomen, das
                <lb facs="#facs_149_r1l3" n="N003"/>parlament will <unclear>conuiren</unclear> in allen. Wegen des
-               <lb facs="#facs_149_r1l4" n="N004"/><choice><expan>Margraven</expan><abbr>Marg</abbr></choice> haben dero Liebden recht, das es so ein <unclear>gten</unclear> geha<supplied >b</supplied>tt,
+               <lb facs="#facs_149_r1l4" n="N004"/><choice><expan>Margraven</expan><abbr>Marg</abbr></choice> haben dero Liebden recht, das es so ein <unclear>gten</unclear> geha<supplied>b</supplied>tt,
                <lb facs="#facs_149_r1l5" n="N005"/>ich hoff aber, mihr haben ihn iezt recht gewonen
-               <lb facs="#facs_149_r1l6" n="N006"/>vndt das er alles duen wi<supplied >r</supplied>t. Er verlangt
+               <lb facs="#facs_149_r1l6" n="N006"/>vndt das er alles duen wi<supplied>r</supplied>t. Er verlangt
                <lb facs="#facs_149_r1l7" n="N007"/>selbst mein sohn oben, wan man nuhr die arme
-               <lb facs="#facs_149_r1l8" n="N008"/>zu samen bringt. Mit negsten schr<supplied >ei</supplied>b ein
+               <lb facs="#facs_149_r1l8" n="N008"/>zu samen bringt. Mit negsten schr<supplied>ei</supplied>b ein
                <lb facs="#facs_149_r1l10" n="N009"/>merers, hab einmal nit mehr zeit. Bitt,
                <lb facs="#facs_149_r1l11" n="N010"/>dero Liebden vergeben mihr mein eilige, schändlige schrift,
-               <lb facs="#facs_149_r1l12" n="N011"/>lebe vnd st<supplied >e</supplied>rbe
+               <lb facs="#facs_149_r1l12" n="N011"/>lebe vnd st<supplied>e</supplied>rbe
                <lb facs="#facs_149_r1l13" n="N012"/>dero Liebden
-               <lb facs="#facs_149_line_1610204126656_337" n="N013"/>getr<supplied >e</supplied>wste schw<supplied >e</supplied>ster
+               <lb facs="#facs_149_line_1610204126656_337" n="N013"/>getr<supplied>e</supplied>wste schw<supplied>e</supplied>ster
                <lb facs="#facs_149_line_1610204237416_344" n="N014"/>Eleonora
-               <lb facs="#facs_149_r1l17" n="N015"/>Laxenb<supplied >ur</supplied>g den 29ten junij 1701
-               <lb facs="#facs_149_line_1610204126656_338" n="N016"/>Bit, mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied >e</supplied>ge<supplied >ri</supplied>n
+               <lb facs="#facs_149_r1l17" n="N015"/>Laxenb<supplied>ur</supplied>g den 29ten junij 1701
+               <lb facs="#facs_149_line_1610204126656_338" n="N016"/>Bit, mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schw<supplied>e</supplied>ge<supplied>ri</supplied>n
                <lb facs="#facs_149_line_1610204237416_345" n="N017"/>ein schen entschuldigung 
-               <lb facs="#facs_149_r1l16" n="N018"/>vnd vill schöns <supplied >auszurichten</supplied> vnd versichere meine affection.
+               <lb facs="#facs_149_r1l16" n="N018"/>vnd vill schöns <supplied>auszurichten</supplied> vnd versichere meine affection.
                <lb facs="#facs_149_r1l18" n="N019"/>Ich kom auch wider mit einer betteley, sie machen drunten
-               <lb facs="#facs_149_r1l19" n="N020"/>so gute nähnadel, vberschike dero Liebden hirb<supplied >e</supplied>y ein muster, bitt
+               <lb facs="#facs_149_r1l19" n="N020"/>so gute nähnadel, vberschike dero Liebden hirb<supplied>e</supplied>y ein muster, bitt
                <lb facs="#facs_149_r1l20" n="N021"/>einige <unclear>whrin</unclear> dergleichen zu schiken. Izt kommen nuhr gleich
             </ab>
 

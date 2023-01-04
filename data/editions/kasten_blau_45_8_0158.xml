@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0158.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0158.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1696" lry="2497" ulx="0" uly="0" xml:id="facs_158">
          <graphic height="2497px" url="Kasten_blau_45_8_0158.jpg" width="1696px"/>
-         <graphic height="2497px" url="" width="1696px"/>
          <zone points="351,556 351,2370 1615,2370 1615,556" rendition="TextRegion" xml:id="facs_158_r2">
             <zone points="400,656 452,652 505,649 558,646 610,643 663,639 716,635 768,632 821,629 874,626 927,623 979,620 1032,617 1085,614 1137,611 1190,608 1243,605 1295,603 1348,600 1401,598 1454,596 1454,556 1401,558 1348,560 1295,563 1243,565 1190,568 1137,571 1085,574 1032,577 979,580 927,583 874,586 821,589 768,592 716,595 663,599 610,603 558,606 505,609 452,612 400,616" rendition="Line" xml:id="facs_158_r2l1"/>
             <zone points="358,741 413,741 469,741 525,740 581,738 637,736 692,734 748,732 804,729 860,726 916,723 971,721 1027,717 1083,713 1139,710 1195,706 1250,702 1306,699 1362,695 1418,692 1474,689 1474,649 1418,652 1362,655 1306,659 1250,662 1195,666 1139,670 1083,673 1027,677 971,681 916,683 860,686 804,689 748,692 692,694 637,696 581,698 525,700 469,701 413,701 358,701" rendition="Line" xml:id="facs_158_r2l2"/>
@@ -126,13 +121,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_158" n="158" xml:id="img_0158"/>
-
-<ab facs="#facs_158_r2" >
+         <pb facs="#facs_158" n="26 r" xml:id="Kasten_blau_45_8_0158.jpg"/>
+<ab facs="#facs_158_r2">
                <lb facs="#facs_158_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_158_r2l2" n="N002"/>Ich sage ewer Durchlaucht gehorsamsten dank, das sie mich
                <lb facs="#facs_158_r2l3" n="N003"/>durch dero camerern, den <rs type="person">von Schpiring</rs>, wie auch durch
-               <lb facs="#facs_158_r2l4" n="N004"/>deroselben wertestem schreiben <supplied >von</supplied> den glükligen anfang der
+               <lb facs="#facs_158_r2l4" n="N004"/>deroselben wertestem schreiben <supplied>von</supplied> den glükligen anfang der
                <lb facs="#facs_158_r2l5" n="N005"/>reis berichten wollen, der almechtige wolle weiters seine
                <lb facs="#facs_158_r2l6" n="N006"/>gnadt verleyen. Ich gesteh, das bey dem abschidt
                <lb facs="#facs_158_r2l8" n="N007"/>mihr vnmöglich geweßen, einiges wort vohrzuebringen,

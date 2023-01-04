@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0035.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0035.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-05-13"></origDate></origin>
+                        <origin><origDate when-iso="1677-05-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1677-05-13"></date>
+               <date when-iso="1677-05-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1658" lry="2391" ulx="0" uly="0" xml:id="facs_35">
          <graphic height="2391px" url="Kasten_blau_45_8_0035.jpg" width="1658px"/>
-         <graphic height="2391px" url="" width="1658px"/>
          <zone points="82,2177 82,2333 198,2333 198,2177" rendition="TextRegion" xml:id="facs_35_r1"/>
          <zone points="198,485 198,2334 1601,2334 1601,485" rendition="TextRegion" xml:id="facs_35_r2">
             <zone points="466,580 635,606 733,557 943,587 994,547 1079,568 1178,531 1416,562 1572,533 1567,435 1422,476 1358,445 610,481 475,492 473,532" rendition="Line" xml:id="facs_35_r2l1"/>
@@ -125,7 +120,6 @@
       
 <surface lrx="1640" lry="2446" ulx="0" uly="0" xml:id="facs_36">
          <graphic height="2446px" url="Kasten_blau_45_8_0036.jpg" width="1640px"/>
-         <graphic height="2446px" url="" width="1640px"/>
          <zone points="180,440 180,1000 1570,1029 1570,469" rendition="TextRegion" xml:id="facs_36_r1">
             <zone points="259,552 401,538 475,551 486,540 522,556 653,554 653,468 595,460 526,476 401,459 367,437 312,470 259,466" rendition="Line" xml:id="facs_36_r1l1"/>
             <zone points="422,580 493,599 523,612 572,576 620,580 626,684 564,685 509,686 460,682 422,680" rendition="Line" xml:id="facs_36_line_1591888216213_887"/>
@@ -139,11 +133,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_35" n="35" xml:id="img_0035"/>
-
-<ab facs="#facs_35_r1" >
+         <pb facs="#facs_35" n="54 r" xml:id="Kasten_blau_45_8_0035.jpg"/>
+<ab facs="#facs_35_r1">
             </ab>
-<ab facs="#facs_35_r2" >
+<ab facs="#facs_35_r2">
                <lb facs="#facs_35_r2l1" n="N001"/>Durchleüchtigtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_35_r2l2" n="N002"/>Ich bitte nachmahlen, ihr Durchlaucht wollen doch kein compliment
                <lb facs="#facs_35_r2l3" n="N003"/>mitt dero geharsamst kint machen vndt danken vohr dasienige,
@@ -166,9 +159,8 @@
                <lb facs="#facs_35_r2l30" n="N020"/>beharlige vätterlige hulden gehorsamst empfelen
                <lb facs="#facs_35_r2l31" n="N021"/>als die ienige, so allezeit bestendigst
             </ab>
-<pb facs="#facs_36" n="36" xml:id="img_0036"/>
-
-<ab facs="#facs_36_r1" >
+<pb facs="#facs_36" n="54 v" xml:id="Kasten_blau_45_8_0036.jpg"/>
+<ab facs="#facs_36_r1">
                <lb facs="#facs_36_r1l1" n="N001"/>verbleiben wirt
                <lb facs="#facs_36_line_1591888216213_887" n="N002"/>ihr Durchlaucht
                <lb facs="#facs_36_line_1591888364499_901" n="N003"/>ganz ergebenste treügehorsamste

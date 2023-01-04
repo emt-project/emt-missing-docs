@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0103.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0103.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-03-03"></origDate></origin>
+                        <origin><origDate when-iso="1701-03-03"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-03-03"></date>
+               <date when-iso="1701-03-03"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -384,9 +380,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_103" n="103" xml:id="img_0103"/>
-
-<ab facs="#facs_103_r1" >
+         <pb facs="#facs_103" n="56 r" xml:id="Kasten_blau_44_8_0103.jpg" ed="33 r"/>
+<ab facs="#facs_103_r1">
                <lb facs="#facs_103_r1l1" n="N001"/>te
                <lb facs="#facs_103_r1l2" n="N002"/>EMT
                <lb facs="#facs_103_r1l3" n="N003"/>u
@@ -417,9 +412,8 @@
                <lb facs="#facs_103_r1l28" n="N028"/>mein vnenneit angelegen zum laße
                <lb facs="#facs_103_r1l29" n="N029"/>euer 
             </ab>
-<pb facs="#facs_104" n="104" xml:id="img_0104"/>
-
-<ab facs="#facs_104_r1" >
+<pb facs="#facs_104" n="56 v" xml:id="Kasten_blau_44_8_0104.jpg" ed="33 v"/>
+<ab facs="#facs_104_r1">
                <lb facs="#facs_104_r1l1" n="N001"/>die alle hte sehe consteinientir gemthi
                <lb facs="#facs_104_r1l2" n="N002"/>i compieren vndt zu meines allergesen de
                <lb facs="#facs_104_r1l3" n="N003"/>laser ers das beynbehalten
@@ -446,36 +440,35 @@
                <lb facs="#facs_104_r1l24" n="N024"/>u draw is höchst wohleigen das ohne
                <lb facs="#facs_104_r1l25" n="N025"/>zu
             </ab>
-<ab facs="#facs_104_r2" >
+<ab facs="#facs_104_r2">
                <lb facs="#facs_104_r2l1" n="N001"/>ue
             </ab>
-<pb facs="#facs_105" n="105" xml:id="img_0105"/>
-
-<ab facs="#facs_105_r1" >
+<pb facs="#facs_105" n="57 r" xml:id="Kasten_blau_44_8_0105.jpg" ed="34 r"/>
+<ab facs="#facs_105_r1">
                <lb facs="#facs_105_r1l1" n="N001"/>euer
             </ab>
-<ab facs="#facs_105_r2" >
+<ab facs="#facs_105_r2">
                <lb facs="#facs_105_r2l1" n="N001"/>E
                <lb facs="#facs_105_r2l2" n="N002"/>se
                <lb facs="#facs_105_r2l3" n="N003"/>er
             </ab>
-<ab facs="#facs_105_r3" >
+<ab facs="#facs_105_r3">
                <lb facs="#facs_105_r3l1" n="N001"/>se
                <lb facs="#facs_105_r3l2" n="N002"/>e
                <lb facs="#facs_105_r3l3" n="N003"/>e
                <lb facs="#facs_105_r3l4" n="N004"/>uer
                <lb facs="#facs_105_r3l5" n="N005"/>se
             </ab>
-<ab facs="#facs_105_r4" >
+<ab facs="#facs_105_r4">
                <lb facs="#facs_105_r4l1" n="N001"/>uer
                <lb facs="#facs_105_r4l2" n="N002"/>e
                <lb facs="#facs_105_r4l3" n="N003"/>er
                <lb facs="#facs_105_r4l4" n="N004"/>re
             </ab>
-<ab facs="#facs_105_r5" >
+<ab facs="#facs_105_r5">
                <lb facs="#facs_105_r5l1" n="N001"/>docht
             </ab>
-<ab facs="#facs_105_r6" >
+<ab facs="#facs_105_r6">
                <lb facs="#facs_105_r6l1" n="N001"/>a
                <lb facs="#facs_105_r6l2" n="N002"/>a
                <lb facs="#facs_105_r6l3" n="N003"/>weiteren ausandt der dens emed hender
@@ -504,9 +497,8 @@
                <lb facs="#facs_105_r6l26" n="N026"/>he solchen paribur hier verlagen die mues
                <lb facs="#facs_105_r6l27" n="N027"/>e
             </ab>
-<pb facs="#facs_106" n="106" xml:id="img_0106"/>
-
-<ab facs="#facs_106_r1" >
+<pb facs="#facs_106" n="57 v" xml:id="Kasten_blau_44_8_0106.jpg" ed="34 v"/>
+<ab facs="#facs_106_r1">
                <lb facs="#facs_106_r1l1" n="N001"/>he daßen aus erer lennen hinnern
                <lb facs="#facs_106_r1l2" n="N002"/>auligen allerhöchsten antorite zu ese
                <lb facs="#facs_106_r1l3" n="N003"/>mi dott wolle es gehnige verschüesen villeichst
@@ -533,22 +525,21 @@
                <lb facs="#facs_106_r1l24" n="N024"/>uer
                <lb facs="#facs_106_r1l25" n="N025"/>siucession aufgerichteler allion zue
             </ab>
-<pb facs="#facs_107" n="107" xml:id="img_0107"/>
-
-<ab facs="#facs_107_r1" >
+<pb facs="#facs_107" n="58 r" xml:id="Kasten_blau_44_8_0107.jpg" ed="35 r"/>
+<ab facs="#facs_107_r1">
                <lb facs="#facs_107_r1l1" n="N001"/>a
                <lb facs="#facs_107_r1l2" n="N002"/>E
                <lb facs="#facs_107_r1l3" n="N003"/>uer
                <lb facs="#facs_107_r1l4" n="N004"/>E
             </ab>
-<ab facs="#facs_107_r2" >
+<ab facs="#facs_107_r2">
                <lb facs="#facs_107_r2l1" n="N001"/>e
                <lb facs="#facs_107_r2l2" n="N002"/>EM
                <lb facs="#facs_107_r2l3" n="N003"/>e
                <lb facs="#facs_107_r2l4" n="N004"/>e
                <lb facs="#facs_107_r2l5" n="N005"/>er
             </ab>
-<ab facs="#facs_107_r3" >
+<ab facs="#facs_107_r3">
                <lb facs="#facs_107_r3l1" n="N001"/>euer
                <lb facs="#facs_107_r3l2" n="N002"/>längliche mitlen das beyen er der
                <lb facs="#facs_107_r3l3" n="N003"/>  hegehast werden der darbe
@@ -576,16 +567,15 @@
                <lb facs="#facs_107_r3l25" n="N025"/>bilinen handern bleibe allererung dari
                <lb facs="#facs_107_r3l26" n="N026"/>er
             </ab>
-<pb facs="#facs_108" n="108" xml:id="img_0108"/>
-
-<ab facs="#facs_108_r1" >
+<pb facs="#facs_108" n="58 v" xml:id="Kasten_blau_44_8_0108.jpg" ed="35 v"/>
+<ab facs="#facs_108_r1">
                <lb facs="#facs_108_r1l1" n="N001"/>uer
                <lb facs="#facs_108_r1l2" n="N002"/>h
             </ab>
-<ab facs="#facs_108_r2" >
+<ab facs="#facs_108_r2">
                <lb facs="#facs_108_r2l1" n="N001"/>du
             </ab>
-<ab facs="#facs_108_r3" >
+<ab facs="#facs_108_r3">
                <lb facs="#facs_108_r3l1" n="N001"/>her also er an dan vnder beben
                <lb facs="#facs_108_r3l2" n="N002"/>berdi  hochst möchtiger dumet ihr ange
                <lb facs="#facs_108_r3l3" n="N003"/>meines allergeisen laster und hermmen
@@ -612,12 +602,11 @@
                <lb facs="#facs_108_r3l24" n="N024"/>her ges heubern daß nach demahlen der
                <lb facs="#facs_108_r3l25" n="N025"/>euer Lie
             </ab>
-<pb facs="#facs_109" n="109" xml:id="img_0109"/>
-
-<ab facs="#facs_109_r1" >
+<pb facs="#facs_109" n="59 r" xml:id="Kasten_blau_44_8_0109.jpg" ed="36 r"/>
+<ab facs="#facs_109_r1">
                <lb facs="#facs_109_r1l1" n="N001"/>uer
             </ab>
-<ab facs="#facs_109_r2" >
+<ab facs="#facs_109_r2">
                <lb facs="#facs_109_r2l1" n="N001"/>e
                <lb facs="#facs_109_r2l2" n="N002"/>ga meines enten dere
                <lb facs="#facs_109_r2l3" n="N003"/>pfals gewesten es endersehen die
@@ -647,9 +636,8 @@
                <lb facs="#facs_109_r2l27" n="N027"/>sder so vn
                <lb facs="#facs_109_r2l28" n="N028"/>ue
             </ab>
-<pb facs="#facs_110" n="110" xml:id="img_0110"/>
-
-<ab facs="#facs_110_r1" >
+<pb facs="#facs_110" n="59 v" xml:id="Kasten_blau_44_8_0110.jpg" ed="36 v"/>
+<ab facs="#facs_110_r1">
                <lb facs="#facs_110_r1l1" n="N001"/>e elatiren vnd befelten wie e
                <lb facs="#facs_110_r1l2" n="N002"/>wegen der beger ansen der des mei
                <lb facs="#facs_110_r1l3" n="N003"/>lauburg mich der vier reißen der ummern

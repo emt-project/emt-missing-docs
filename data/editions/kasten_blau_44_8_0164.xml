@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0164.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0164.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-09-04"></origDate></origin>
+                        <origin><origDate when-iso="1701-09-04"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,17 +78,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__13">Düsseldorf</placeName>
-               <date  when-iso="1701-09-04"></date>
+               <date when-iso="1701-09-04"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -382,16 +378,15 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_164" n="164" xml:id="img_0164"/>
-
-<ab facs="#facs_164_r1" >
+         <pb facs="#facs_164" n="94 r" xml:id="Kasten_blau_44_8_0164.jpg" ed="97 r"/>
+<ab facs="#facs_164_r1">
                <lb facs="#facs_164_r1l1" n="N001"/>euer
                <lb facs="#facs_164_r1l2" n="N002"/>e
             </ab>
-<ab facs="#facs_164_r2" >
+<ab facs="#facs_164_r2">
                <lb facs="#facs_164_r2l1" n="N001"/>hue
             </ab>
-<ab facs="#facs_164_r3" >
+<ab facs="#facs_164_r3">
                <lb facs="#facs_164_r3l1" n="N001"/>egen bewe 167
                <lb facs="#facs_164_r3l2" n="N002"/>e
                <lb facs="#facs_164_r3l3" n="N003"/>EMT
@@ -418,15 +413,14 @@
                <lb facs="#facs_164_r3l24" n="N024"/>  geschiheit vmb verneder gelben
                <lb facs="#facs_164_r3l25" n="N025"/>euer Lie
             </ab>
-<pb facs="#facs_165" n="165" xml:id="img_0165"/>
-
-<ab facs="#facs_165_r1" >
+<pb facs="#facs_165" n="94 v" xml:id="Kasten_blau_44_8_0165.jpg" ed="97 v"/>
+<ab facs="#facs_165_r1">
                <lb facs="#facs_165_r1l1" n="N001"/>dung
             </ab>
-<ab facs="#facs_165_r2" >
+<ab facs="#facs_165_r2">
                <lb facs="#facs_165_r2l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_165_r3" >
+<ab facs="#facs_165_r3">
                <lb facs="#facs_165_r3l1" n="N001"/>wahr möglich die von mein vnd hueber lange
                <lb facs="#facs_165_r3l2" n="N002"/>quartier a vor den zue vbers huche
                <lb facs="#facs_165_r3l3" n="N003"/>ganzer erhalten haben ohne ich daroselben
@@ -453,21 +447,20 @@
                <lb facs="#facs_165_r3l24" n="N024"/>bleiben  ser lazen erzallen h
                <lb facs="#facs_165_r3l25" n="N025"/>Durchl
             </ab>
-<pb facs="#facs_166" n="166" xml:id="img_0166"/>
-
-<ab facs="#facs_166_r1" >
+<pb facs="#facs_166" n="95 r" xml:id="Kasten_blau_44_8_0166.jpg" ed="98 r"/>
+<ab facs="#facs_166_r1">
                <lb facs="#facs_166_r1l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_166_r2" >
+<ab facs="#facs_166_r2">
                <lb facs="#facs_166_r2l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_166_r3" >
+<ab facs="#facs_166_r3">
                <lb facs="#facs_166_r3l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_166_r4" >
+<ab facs="#facs_166_r4">
                <lb facs="#facs_166_r4l1" n="N001"/>uer
             </ab>
-<ab facs="#facs_166_r5" >
+<ab facs="#facs_166_r5">
                <lb facs="#facs_166_r5l1" n="N001"/>ue
                <lb facs="#facs_166_r5l2" n="N002"/>leihem cigi wegen denselben elemen
                <lb facs="#facs_166_r5l3" n="N003"/>undern gleich wahlen verlegeben de
@@ -494,9 +487,8 @@
                <lb facs="#facs_166_r5l24" n="N024"/>beis gegeniger nits ung deren
                <lb facs="#facs_166_r5l25" n="N025"/>e
             </ab>
-<pb facs="#facs_167" n="167" xml:id="img_0167"/>
-
-<ab facs="#facs_167_r1" >
+<pb facs="#facs_167" n="95 v" xml:id="Kasten_blau_44_8_0167.jpg" ed="98 v"/>
+<ab facs="#facs_167_r1">
                <lb facs="#facs_167_r1l1" n="N001"/>lase mie aus der endem s
                <lb facs="#facs_167_r1l2" n="N002"/>an aber durch dieso vermein erhalten
                <lb facs="#facs_167_r1l3" n="N003"/>gher versicherungen angen verschadung
@@ -523,9 +515,8 @@
                <lb facs="#facs_167_r1l24" n="N024"/>einweren dieser dero gegebeuer
                <lb facs="#facs_167_r1l25" n="N025"/>e
             </ab>
-<pb facs="#facs_168" n="168" xml:id="img_0168"/>
-
-<ab facs="#facs_168_r1" >
+<pb facs="#facs_168" n="96 r" xml:id="Kasten_blau_44_8_0168.jpg" ed="99 r"/>
+<ab facs="#facs_168_r1">
                <lb facs="#facs_168_r1l1" n="N001"/>ue
                <lb facs="#facs_168_r1l2" n="N002"/>e
                <lb facs="#facs_168_r1l3" n="N003"/>e
@@ -547,7 +538,7 @@
                <lb facs="#facs_168_r1l19" n="N019"/>er
                <lb facs="#facs_168_r1l20" n="N020"/>Eue
             </ab>
-<ab facs="#facs_168_r2" >
+<ab facs="#facs_168_r2">
                <lb facs="#facs_168_r2l1" n="N001"/>e
                <lb facs="#facs_168_r2l2" n="N002"/>umen auch die beschärige verlege
                <lb facs="#facs_168_r2l3" n="N003"/> geben in hun nich also er dien
@@ -573,20 +564,19 @@
                <lb facs="#facs_168_r2l23" n="N023"/>mer mahle ihro kazen in dero ohnen dem
                <lb facs="#facs_168_r2l24" n="N024"/>e
             </ab>
-<pb facs="#facs_169" n="169" xml:id="img_0169"/>
-
-<ab facs="#facs_169_r1" >
+<pb facs="#facs_169" n="96 v" xml:id="Kasten_blau_44_8_0169.jpg" ed="99 v"/>
+<ab facs="#facs_169_r1">
                <lb facs="#facs_169_r1l1" n="N001"/>a
             </ab>
-<ab facs="#facs_169_r2" >
+<ab facs="#facs_169_r2">
                <lb facs="#facs_169_r2l1" n="N001"/>la
             </ab>
-<ab facs="#facs_169_r3" >
+<ab facs="#facs_169_r3">
                <lb facs="#facs_169_r3l1" n="N001"/>euer
                <lb facs="#facs_169_r3l2" n="N002"/>e
                <lb facs="#facs_169_r3l3" n="N003"/>ue
             </ab>
-<ab facs="#facs_169_r4" >
+<ab facs="#facs_169_r4">
                <lb facs="#facs_169_r4l1" n="N001"/>se
                <lb facs="#facs_169_r4l2" n="N002"/>haben trier liebender gemech
                <lb facs="#facs_169_r4l3" n="N003"/>vnderserimmert vnd derselbe hir
@@ -613,15 +603,14 @@
                <lb facs="#facs_169_r4l24" n="N024"/>weilen mein es laser dergleich der
                <lb facs="#facs_169_r4l25" n="N025"/> 
             </ab>
-<pb facs="#facs_170" n="170" xml:id="img_0170"/>
-
-<ab facs="#facs_170_r1" >
+<pb facs="#facs_170" n="97 r" xml:id="Kasten_blau_44_8_0170.jpg" ed="100 r"/>
+<ab facs="#facs_170_r1">
                <lb facs="#facs_170_r1l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_170_r2" >
+<ab facs="#facs_170_r2">
                <lb facs="#facs_170_r2l1" n="N001"/>ue
             </ab>
-<ab facs="#facs_170_r3" >
+<ab facs="#facs_170_r3">
                <lb facs="#facs_170_r3l1" n="N001"/>a
                <lb facs="#facs_170_r3l2" n="N002"/> nd nicht mues ander stellen
                <lb facs="#facs_170_r3l3" n="N003"/> g leinen conementrin allderersez der
@@ -651,9 +640,8 @@
                <lb facs="#facs_170_r3l27" n="N027"/>e
                <lb facs="#facs_170_r3l28" n="N028"/>e  
             </ab>
-<pb facs="#facs_171" n="171" xml:id="img_0171"/>
-
-<ab facs="#facs_171_r1" >
+<pb facs="#facs_171" n="97 v" xml:id="Kasten_blau_44_8_0171.jpg" ed="100 v"/>
+<ab facs="#facs_171_r1">
                <lb facs="#facs_171_r1l1" n="N001"/>bereiligen welt lo zue bringen
                <lb facs="#facs_171_r1l2" n="N002"/>mit waß gereiser cession le der
                <lb facs="#facs_171_r1l3" n="N003"/>nderlig zu den euer
@@ -668,7 +656,7 @@
                <lb facs="#facs_171_r1l12" n="N012"/>g
                <lb facs="#facs_171_r1l13" n="N013"/>e
             </ab>
-<ab facs="#facs_171_r2" >
+<ab facs="#facs_171_r2">
                <lb facs="#facs_171_r2l1" n="N001"/>e
             </ab>
 

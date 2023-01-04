@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0023.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0023.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_23">
          <graphic height="2406px" url="Kasten_blau_45_8_0023.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="94,237 94,2330 1595,2330 1595,237" rendition="TextRegion" xml:id="facs_23_r1">
             <zone points="1322,307 1345,310 1402,290 1449,294 1439,182 1424,183 1405,200 1388,195 1372,201 1351,188 1335,198 1312,200" rendition="Line" xml:id="facs_23_r1l1"/>
             <zone points="335,505 630,516 730,468 848,506 919,455 1004,498 1114,456 1191,495 1257,456 1517,468 1539,395 869,350 767,398 627,360 334,424" rendition="Line" xml:id="facs_23_r1l2"/>
@@ -125,7 +120,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_24">
          <graphic height="2406px" url="Kasten_blau_45_8_0024.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="202,386 202,1689 1584,1689 1584,386" rendition="TextRegion" xml:id="facs_24_r1">
             <zone points="274,465 441,497 500,451 630,485 1073,434 1156,473 1257,424 1477,448 1503,344 1190,389 1049,350 974,387 519,342 272,397" rendition="Line" xml:id="facs_24_r1l1"/>
             <zone points="260,543 1570,502 1550,429 1365,469 1265,422 1135,470 1073,433 670,482 499,451 443,495 258,468" rendition="Line" xml:id="facs_24_r1l2"/>
@@ -149,9 +143,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_23" n="23" xml:id="img_0023"/>
-
-<ab facs="#facs_23_r1" >
+         <pb facs="#facs_23" n="50 r" xml:id="Kasten_blau_45_8_0023.jpg"/>
+<ab facs="#facs_23_r1">
                <lb facs="#facs_23_r1l1" n="N001"/><unclear>dem</unclear>
                <lb facs="#facs_23_r1l2" n="N002"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_23_r1l3" n="N003"/>Ich erfrew mich von herzen, das ihr Durchlaucht noch in
@@ -174,21 +167,20 @@
                <lb facs="#facs_23_r1l33" n="N020"/>der <rs type="person">Neßelrath</rs> krankh vndt der <rs type="person">Scheller</rs>
                <lb facs="#facs_23_r1l34" n="N021"/>so <unclear>gefallen</unclear>, das allso die sach noch nit
             </ab>
-<pb facs="#facs_24" n="24" xml:id="img_0024"/>
-
-<ab facs="#facs_24_r1" >
+<pb facs="#facs_24" n="50 v" xml:id="Kasten_blau_45_8_0024.jpg"/>
+<ab facs="#facs_24_r1">
                <lb facs="#facs_24_r1l1" n="N001"/>nit ausgemacht ist. Ich werde gewis mein fleis
                <lb facs="#facs_24_r1l2" n="N002"/>in niks ermanglen laßen, was zu dero diensten 
                <lb facs="#facs_24_r1l3" n="N003"/>gereichin kan. Befehle mich in dero genaht vndt 
                <lb facs="#facs_24_line_1591454522272_736" n="N004"/>werde allezeit verbleiben
                <lb facs="#facs_24_line_1591884415138_564" n="N005"/>ihr Durchlaucht
-               <lb facs="#facs_24_r1l6" n="N006"/>ganz ergebenste treügehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_24_r1l6" n="N006"/>ganz ergebenste treügehorsa<supplied>m</supplied>ste
                <lb facs="#facs_24_r1l8" n="N007"/>dochter bis in doht
                <lb facs="#facs_24_r1l9" n="N008"/>EMT
-               <lb facs="#facs_24_r1l7" n="N009"/><rs type="place">Laxenburg</rs> den <date month="4" day="20" year="1677">20 <supplied >april</supplied> 1677</date> 
+               <lb facs="#facs_24_r1l7" n="N009"/><rs type="place">Laxenburg</rs> den <date month="4" day="20" year="1677">20 <supplied>april</supplied> 1677</date> 
                <lb facs="#facs_24_r1l11" n="N010"/>Ich hab so ein mitleiden mit der guett <rs type="person">Egelhoff</rs>, das
                <lb facs="#facs_24_r1l12" n="N011"/>niks aus ihrem heiraht worden. Ich höre, der <rs type="person">Bernsau</rs>
-               <lb facs="#facs_24_r1l13" n="N012"/>ist von hoff, die schult, höre <supplied >ich</supplied>, sey aber nit so vill sein
+               <lb facs="#facs_24_r1l13" n="N012"/>ist von hoff, die schult, höre <supplied>ich</supplied>, sey aber nit so vill sein
                <lb facs="#facs_24_line_1591454775862_758" n="N013"/>als seiner <rs type="person">muetter</rs>, so dauert er mich gleichwohl <seg type="blackening">hoffe</seg>,
                <lb facs="#facs_24_line_1591454835585_763" n="N014"/>vndt dieweil ihr Durchlaucht so <choice><expan>gnädig</expan><abbr>g</abbr></choice> allezeit sein, so hoffe, sie
                <lb facs="#facs_24_line_1591454863627_767" n="N015"/>werden mihr nitt in <choice><expan>vngnaden</expan><abbr>vng</abbr></choice> nemen, das bitte, das sein exilium

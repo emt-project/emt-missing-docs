@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0249.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0249.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-10-14"></origDate></origin>
+                        <origin><origDate when-iso="1679-10-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Brandeis / Brandýs nad Labem</placeName>
-               <date  when-iso="1679-10-14"></date>
+               <date when-iso="1679-10-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_249">
          <graphic height="2430px" url="Kasten_blau_45_8_0249.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="246,365 246,2334 1573,2334 1573,365" rendition="TextRegion" xml:id="facs_249_r2">
             <zone points="366,502 426,496 486,489 546,483 606,477 666,472 726,467 786,461 846,457 906,451 966,446 1026,442 1086,438 1146,433 1206,428 1266,423 1326,418 1386,413 1446,407 1506,402 1567,395 1567,365 1506,372 1446,377 1386,383 1326,388 1266,393 1206,398 1146,403 1086,408 1026,412 966,416 906,421 846,427 786,431 726,437 666,442 606,447 546,453 486,459 426,466 366,472" rendition="Line" xml:id="facs_249_r2l1"/>
             <zone points="327,535 363,526 822,465 858,462 895,459 1559,417 1559,447 1522,452 1448,460 327,565" rendition="Line" xml:id="facs_249_line_1619796470614_5083"/>
@@ -140,9 +135,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_249" n="249" xml:id="img_0249"/>
-
-<ab facs="#facs_249_r2" >
+         <pb facs="#facs_249" n="146 r" xml:id="Kasten_blau_45_8_0249.jpg"/>
+<ab facs="#facs_249_r2">
                <lb facs="#facs_249_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_249_line_1619796470614_5083" n="N002"/>Ewer Durchlaucht schreiben vom <date month="10" day="6" year="1679">6 dieses</date> hab ich mit
                <lb facs="#facs_249_line_1619796480298_5088" n="N003"/>schuldigstem respect empfangen. Bitte <choice><expan>vntterdehnigst</expan><abbr>vntterdhn</abbr></choice>
@@ -166,17 +160,17 @@
                <lb facs="#facs_249_line_1619796599081_5160" n="N021"/><rs type="person" continued="true">von Lottringen</rs> ist gahr guett, dan die leütt seint
                <lb facs="#facs_249_line_1619796605680_5164" n="N022"/>bisweilen in dergleichen sachen vnuorsichtig. Ich
                <lb facs="#facs_249_line_1619796611364_5168" n="N023"/>hab wohl gewust, das ewer Durchlaucht intention so ist, aber
-               <lb facs="#facs_249_line_1619796618312_5172" n="N024"/>mihr wahr nuhr angst vohr des menschen vnuohrsichti<supplied >c</supplied>h-
+               <lb facs="#facs_249_line_1619796618312_5172" n="N024"/>mihr wahr nuhr angst vohr des menschen vnuohrsichti<supplied>c</supplied>h-
                <lb facs="#facs_249_line_1619796634152_5182" n="N025"/>keit. Due mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen,
                <lb facs="#facs_249_r2l89" n="N026"/>sterbe
                <lb facs="#facs_249_r2l91" n="N027"/>ewer Durchlaucht
-               <lb facs="#facs_249_line_1619796662046_5196" n="N028"/>ganzergebenst trewgehorsa<supplied >m</supplied>st
+               <lb facs="#facs_249_line_1619796662046_5196" n="N028"/>ganzergebenst trewgehorsa<supplied>m</supplied>st
                <lb facs="#facs_249_line_1619796717215_5213" n="N029"/>dochter
                <lb facs="#facs_249_line_1619796740703_5228" n="N030"/>EMT
                <lb facs="#facs_249_line_1619796702700_5204" n="N031"/><rs type="place">Brandis</rs> den <date month="10" day="14" year="1679">14 8br 1679</date>
                <lb facs="#facs_249_line_1619796717215_5214" n="N032"/><rs type="person">Vetter Pfilipp</rs> ist ankommen,
                <lb facs="#facs_249_line_1619796728124_5218" n="N033"/>will wohl mein best duen, das
-               <lb facs="#facs_249_line_1619796769326_5242" n="N034"/>ihm geholfen wirt. Ihr Mayestät haben sich auch <choice><expan>gnädig</expan><abbr>g</abbr></choice> erzei<supplied >g</supplied>t.
+               <lb facs="#facs_249_line_1619796769326_5242" n="N034"/>ihm geholfen wirt. Ihr Mayestät haben sich auch <choice><expan>gnädig</expan><abbr>g</abbr></choice> erzei<supplied>g</supplied>t.
             </ab>
 
       </body>

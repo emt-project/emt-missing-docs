@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0077.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0077.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-09-01"></origDate></origin>
+                        <origin><origDate when-iso="1677-09-01"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ebersdorf</placeName>
-               <date  when-iso="1677-09-01"></date>
+               <date when-iso="1677-09-01"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1660" lry="2425" ulx="0" uly="0" xml:id="facs_77">
          <graphic height="2425px" url="Kasten_blau_45_8_0077.jpg" width="1660px"/>
-         <graphic height="2425px" url="" width="1660px"/>
          <zone points="143,477 143,2355 1582,2340 1582,462" rendition="TextRegion" xml:id="facs_77_r1">
             <zone points="342,557 479,554 535,552 591,549 647,547 703,545 759,543 814,542 870,541 926,540 982,539 1038,538 1094,537 1150,536 1205,535 1261,534 1317,533 1373,531 1429,530 1485,528 1541,526 1541,472 1485,474 1429,476 1373,477 1317,479 1261,480 1205,481 1150,482 1094,483 1038,484 982,485 926,486 870,487 814,488 759,489 703,491 647,493 591,495 535,498 479,500 342,503" rendition="Line" xml:id="facs_77_r1l1"/>
             <zone points="361,646 418,641 475,637 532,633 589,630 646,628 703,626 760,625 817,624 874,623 932,622 989,621 1046,620 1103,618 1160,616 1217,613 1274,610 1331,606 1388,601 1445,595 1503,588 1503,557 1445,564 1388,570 1331,575 1274,579 1217,582 1160,585 1103,587 1046,589 989,590 932,591 874,592 817,593 760,594 703,595 646,597 589,599 532,602 475,606 418,610 361,615" rendition="Line" xml:id="facs_77_r1l2"/>
@@ -126,9 +121,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_77" n="77" xml:id="img_0077"/>
-
-<ab facs="#facs_77_r1" >
+         <pb facs="#facs_77" n="[?]8 r" xml:id="Kasten_blau_45_8_0077.jpg"/>
+<ab facs="#facs_77_r1">
                <lb facs="#facs_77_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_77_r1l2" n="N002"/>Ich bitte gehorsamb vmb vergebung, das dismahl
                <lb facs="#facs_77_r1l4" n="N003"/>so wehnig mit meinem üblen zeilen aufwarten kan.
@@ -148,7 +142,7 @@
                <lb facs="#facs_77_r1l32" n="N017"/>ganz errgebenste trew gehor-
                <lb facs="#facs_77_r1l35" n="N018"/>samste dochter
                <lb facs="#facs_77_r1l38" n="N019"/>EMT
-               <lb facs="#facs_77_line_1615895112053_67" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="1" year="1677"><supplied >1</supplied> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1677</date>
+               <lb facs="#facs_77_line_1615895112053_67" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="1" year="1677"><supplied>1</supplied> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1677</date>
             </ab>
 
       </body>

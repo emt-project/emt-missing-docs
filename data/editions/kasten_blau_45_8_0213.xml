@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0213.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0213.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-05-25"></origDate></origin>
+                        <origin><origDate when-iso="1679-05-25"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1679-05-25"></date>
+               <date when-iso="1679-05-25"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1708" lry="2485" ulx="0" uly="0" xml:id="facs_213">
          <graphic height="2485px" url="Kasten_blau_45_8_0213.jpg" width="1708px"/>
-         <graphic height="2485px" url="" width="1708px"/>
          <zone points="117,537 117,2423 1628,2423 1628,537" rendition="TextRegion" xml:id="facs_213_r1">
             <zone points="307,604 372,602 438,601 504,600 570,599 636,599 702,599 768,600 834,600 900,601 966,601 1031,601 1097,601 1163,601 1229,601 1295,600 1361,598 1427,596 1493,593 1559,590 1625,585 1625,537 1559,542 1493,545 1427,548 1361,550 1295,552 1229,553 1163,553 1097,553 1031,553 966,553 900,553 834,552 768,552 702,551 636,551 570,551 504,552 438,553 372,554 307,556" rendition="Line" xml:id="facs_213_r1l1"/>
             <zone points="331,631 1613,609 1613,657 1578,666 1566,667 1515,671 1415,675 1119,686 1040,688 961,689 803,689 725,688 606,686 528,684 409,680 331,677" rendition="Line" xml:id="facs_213_line_1619790269503_2424"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1684" lry="2487" ulx="0" uly="0" xml:id="facs_214">
          <graphic height="2487px" url="Kasten_blau_45_8_0214.jpg" width="1684px"/>
-         <graphic height="2487px" url="" width="1684px"/>
          <zone points="224,683 224,1721 1585,1721 1585,683" rendition="TextRegion" xml:id="facs_214_r1">
             <zone points="308,528 378,526 1528,503 1528,549 1490,551 1378,556 660,584 633,585 343,582 308,580" rendition="Line" xml:id="facs_214_line_1619790444539_2528"/>
             <zone points="286,617 312,615 339,613 393,610 555,604 1554,586 1554,616 1527,627 1500,635 1474,641 1447,645 1420,647 1208,655 1039,658 286,669" rendition="Line" xml:id="facs_214_line_1619790449688_2532"/>
@@ -145,13 +139,12 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_213" n="213" xml:id="img_0213"/>
-
-<ab facs="#facs_213_r1" >
+         <pb facs="#facs_213" n="124 r" xml:id="Kasten_blau_45_8_0213.jpg"/>
+<ab facs="#facs_213_r1">
                <lb facs="#facs_213_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_213_line_1619790269503_2424" n="N002"/>Ewer Durchlaucht bitte vnterdehnig vmb vergebung,
                <lb facs="#facs_213_line_1619790273258_2428" n="N003"/>das ich so eilich dismahl meine schuldichkeit
-               <lb facs="#facs_213_line_1619790281877_2435" n="N004"/>mueß ablegen. Es haben etlich leüt a<supplied >u</supplied>dienz
+               <lb facs="#facs_213_line_1619790281877_2435" n="N004"/>mueß ablegen. Es haben etlich leüt a<supplied>u</supplied>dienz
                <lb facs="#facs_213_r1l11" n="N005"/>gehabt vndt hab in <rs type="place">Schpanien</rs> müeßen schreiben,
                <lb facs="#facs_213_line_1619790288964_2439" n="N006"/>vndt iezt gehen mihr aus, förchte, werde den
                <lb facs="#facs_213_r1l16" n="N007"/>brief erst wan mihr wider nach haus komen
@@ -168,10 +161,9 @@
                <lb facs="#facs_213_line_1619790389085_2504" n="N018"/>auch wilfährig erzeigt, vndt will ich daran sein,
                <lb facs="#facs_213_line_1619790393036_2508" n="N019"/>das die expedition balt ergehn möge.
             </ab>
-<pb facs="#facs_214" n="214" xml:id="img_0214"/>
-
-<ab facs="#facs_214_r1" >
-               <lb facs="#facs_214_line_1619790444539_2528" n="N001"/>Was mit dem <rs type="person">Wilhelm von Fürstenberg</rs> g<supplied >e</supplied>ret
+<pb facs="#facs_214" n="124 v" xml:id="Kasten_blau_45_8_0214.jpg"/>
+<ab facs="#facs_214_r1">
+               <lb facs="#facs_214_line_1619790444539_2528" n="N001"/>Was mit dem <rs type="person">Wilhelm von Fürstenberg</rs> g<supplied>e</supplied>ret
                <lb facs="#facs_214_line_1619790449688_2532" n="N002"/>ist worden, wirt der <rs type="person">Schellerer</rs> ewer Durchlaucht mit
                <lb facs="#facs_214_line_1619790467198_2543" n="N003"/>mererem berichten. Er schpan den bogen gahr
                <lb facs="#facs_214_line_1619790472750_2547" n="N004"/>hoch, hoff aber, er werde sich handlen loßen.

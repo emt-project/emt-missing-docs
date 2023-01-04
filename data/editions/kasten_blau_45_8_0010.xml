@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0010.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0010.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_10">
          <graphic height="2406px" url="Kasten_blau_45_8_0010.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="244,424 244,2317 1565,2317 1565,424" rendition="TextRegion" xml:id="facs_10_r2">
             <zone points="312,518 777,486 888,537 1030,482 1100,515 1169,476 1493,478 1496,385 652,384 574,432 310,441" rendition="Line" xml:id="facs_10_r2l1"/>
             <zone points="285,636 552,572 691,615 814,552 1229,592 1306,543 1459,539 1457,477 862,534 775,486 618,517 447,488 281,529" rendition="Line" xml:id="facs_10_r2l2"/>
@@ -125,7 +120,6 @@
       
 <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_11">
          <graphic height="2406px" url="Kasten_blau_45_8_0011.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="277,364 277,1061 1583,1061 1583,364" rendition="TextRegion" xml:id="facs_11_r1">
             <zone points="270,444 682,419 878,461 1141,406 1473,442 1504,322 931,349 861,389 267,317" rendition="Line" xml:id="facs_11_r1l1"/>
             <zone points="312,518 807,485 866,515 928,481 1256,531 1304,485 1482,484 1480,412 1423,406 1242,464 1143,409 1017,467 916,426 877,461 631,434 413,480 311,447" rendition="Line" xml:id="facs_11_r1l2"/>
@@ -141,9 +135,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_10" n="10" xml:id="img_0010"/>
-
-<ab facs="#facs_10_r2" >
+         <pb facs="#facs_10" n="36 r" xml:id="Kasten_blau_45_8_0010.jpg"/>
+<ab facs="#facs_10_r2">
                <lb facs="#facs_10_r2l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_10_r2l2" n="N002"/>Ich habe wohl vhrsach vmb vergebung zu bitten,
                <lb facs="#facs_10_r2l3" n="N003"/>das so lang auf der allerliebste schreiben nit
@@ -159,18 +152,17 @@
                <lb facs="#facs_10_r2l14" n="N013"/><seg type="blackening">neben</seg> Was mihr ihr Durchlaucht in dero lezterem schreiben
                <lb facs="#facs_10_r2l15" n="N014"/>anbefohlen wegen meiner <rs type="person">brüeder</rs>, das werde ihr <rs type="person">Mayestät</rs>
                <lb facs="#facs_10_r2l16" n="N015"/>meinem <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kayser mit nechster gelegenheit gehorsamst
-               <lb facs="#facs_10_r2l17" n="N016"/>vohrdragen, dan im faschin<supplied >g</supplied> hatt es nit sein könen.
+               <lb facs="#facs_10_r2l17" n="N016"/>vohrdragen, dan im faschin<supplied>g</supplied> hatt es nit sein könen.
                <lb facs="#facs_10_r2l19" n="N017"/>Vndt <seg type="blackening">seint</seg> <add>haben ihr Mayestät</add> heünt vndt gestern so vill mit
                <lb facs="#facs_10_line_1591430678393_41" n="N018"/>den schpanischen sachen zu duen gehabt, das dieses
                <lb facs="#facs_10_r2l22" n="N019"/>nit hab dörfen vohrbrengen, will aber mit
                <lb facs="#facs_10_r2l23" n="N020"/>nechstem ihr Durchlaucht die antwort schreiben. was ihr Mayestät
                <lb facs="#facs_10_line_1591430760207_49" n="N021"/>resoluiren werden. Indeßen verhoffe ich, ihr Durchlaucht
             </ab>
-<pb facs="#facs_11" n="11" xml:id="img_0011"/>
-
-<ab facs="#facs_11_r1" >
+<pb facs="#facs_11" n="36 v" xml:id="Kasten_blau_45_8_0011.jpg"/>
+<ab facs="#facs_11_r1">
                <lb facs="#facs_11_r1l1" n="N001"/>Durchlaucht werden dero reis gelükhlich vortgesezt haben,
-               <lb facs="#facs_11_r1l2" n="N002"/>vndt <supplied >das</supplied> ich balt vernemmen werde, das sie glukhlich
+               <lb facs="#facs_11_r1l2" n="N002"/>vndt <supplied>das</supplied> ich balt vernemmen werde, das sie glukhlich
                <lb facs="#facs_11_r1l3" n="N003"/>werden angelangt sein. Die ich vnverenderlich verharren
                <lb facs="#facs_11_r1l4" n="N004"/>werde zu sein
                <lb facs="#facs_11_r1l5" n="N005"/>ewer <seg type="blackening">may.</seg> Durchlaucht

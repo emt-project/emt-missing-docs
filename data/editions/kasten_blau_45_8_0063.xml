@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0063.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0063.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-07-25"></origDate></origin>
+                        <origin><origDate when-iso="1677-07-25"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-07-25"></date>
+               <date when-iso="1677-07-25"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_63">
          <graphic height="2439px" url="Kasten_blau_45_8_0063.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="81,557 81,2355 1589,2355 1589,557" rendition="TextRegion" xml:id="facs_63_r1">
             <zone points="273,606 822,601 913,635 1175,641 1222,602 1413,637 1555,612 1556,520 274,527" rendition="Line" xml:id="facs_63_r1l1"/>
             <zone points="246,712 473,677 894,726 1056,685 1145,741 1275,739 1530,697 1531,622 817,670 574,658 508,602 247,606" rendition="Line" xml:id="facs_63_r1l3"/>
@@ -124,7 +119,6 @@
       
 <surface lrx="1664" lry="2439" ulx="0" uly="0" xml:id="facs_64">
          <graphic height="2439px" url="Kasten_blau_45_8_0064.jpg" width="1664px"/>
-         <graphic height="2439px" url="" width="1664px"/>
          <zone points="216,530 209,1726 1577,1726 1584,530" rendition="TextRegion" xml:id="facs_64_r1">
             <zone points="239,617 555,636 700,578 1113,604 1183,561 1378,595 1568,559 1567,510 1364,545 816,479 651,530 236,509" rendition="Line" xml:id="facs_64_r1l2"/>
             <zone points="215,599 307,579 320,578 1258,568 1546,577 1548,641 1512,649 1110,679 242,723 223,719" rendition="Line" xml:id="facs_64_line_1591868252497_626"/>
@@ -147,9 +141,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_63" n="63" xml:id="img_0063"/>
-
-<ab facs="#facs_63_r1" >
+         <pb facs="#facs_63" n="70 r" xml:id="Kasten_blau_45_8_0063.jpg"/>
+<ab facs="#facs_63_r1">
                <lb facs="#facs_63_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_63_r1l3" n="N002"/>Ich habe in meinem lezteren schreiben so hoch meine
                <lb facs="#facs_63_r1l4" n="N003"/>beßerung in der nachläsichkeit verschprochen, das
@@ -172,9 +165,8 @@
                <lb facs="#facs_63_r1l30" n="N020"/>werden ohne zweifel die reitiagen widerumb dienst
                <lb facs="#facs_63_r1l31" n="N021"/>haben. Gott gebe, das in <rs type="place">Niderlant</rs> guette exiration
             </ab>
-<pb facs="#facs_64" n="64" xml:id="img_0064"/>
-
-<ab facs="#facs_64_r1" >
+<pb facs="#facs_64" n="70 v" xml:id="Kasten_blau_45_8_0064.jpg"/>
+<ab facs="#facs_64_r1">
                <lb facs="#facs_64_r1l2" n="N001"/>geschen, hoffe wohl, sie werden es ein mahl mit weist anfangen.
                <lb facs="#facs_64_line_1591868252497_626" n="N002"/>Ich vermeine auch wohl nit, das der <rs type="person">Papst</rs> die erlaubnus
                <lb facs="#facs_64_r1l5" n="N003"/>auf diese weis könne abschlagen, wüntsche woll

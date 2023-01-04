@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0182.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0182.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-03-14"></origDate></origin>
+                        <origin><origDate when-iso="1679-03-14"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,17 +77,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-03-14"></date>
+               <date when-iso="1679-03-14"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -135,9 +131,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_182" n="182" xml:id="img_0182"/>
-
-<ab facs="#facs_182_r1" >
+         <pb facs="#facs_182" n="110 r" xml:id="Kasten_blau_45_8_0182.jpg"/>
+<ab facs="#facs_182_r1">
                <lb facs="#facs_182_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_182_r1l2" n="N002"/>Ich hoffe, ewer Durchlaucht werden durch diese staffette
                <lb facs="#facs_182_r1l3" n="N003"/><seg type="blackening">ah</seg> alle satisfaction in deme, was sie verlanget,
@@ -155,9 +150,8 @@
                <lb facs="#facs_182_line_1619785987537_498" n="N015"/>Der <rs type="person">Schellerer</rs> wirt ewer Durchlaucht weitleüfiger
                <lb facs="#facs_182_r1l19" n="N016"/>in diesem berichten. Due mich also hiermit
             </ab>
-<pb facs="#facs_183" n="183" xml:id="img_0183"/>
-
-<ab facs="#facs_183_r1" >
+<pb facs="#facs_183" n="110 v" xml:id="Kasten_blau_45_8_0183.jpg"/>
+<ab facs="#facs_183_r1">
                <lb facs="#facs_183_line_1619786023669_521" n="N001"/>in dero <choice><expan>gnaden</expan><abbr>g</abbr></choice> befehlen vndt sterbe
                <lb facs="#facs_183_line_1619786067885_547" n="N002"/>ewer Durchlaucht
                <lb facs="#facs_183_r1l3" n="N003"/>ganz ergebenste trewgehorsamste

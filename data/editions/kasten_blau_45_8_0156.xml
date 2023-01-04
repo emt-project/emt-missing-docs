@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0156.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0156.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-07-15"></origDate></origin>
+                        <origin><origDate when-iso="1678-07-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-07-15"></date>
+               <date when-iso="1678-07-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1638" lry="2460" ulx="0" uly="0" xml:id="facs_156">
          <graphic height="2460px" url="Kasten_blau_45_8_0156.jpg" width="1638px"/>
-         <graphic height="2460px" url="" width="1638px"/>
          <zone points="147,571 147,2373 1577,2373 1577,571" rendition="TextRegion" xml:id="facs_156_r1">
             <zone points="282,712 346,705 411,700 476,694 541,688 605,684 670,679 735,675 800,671 864,667 929,664 994,660 1059,657 1123,654 1188,651 1253,648 1318,644 1382,641 1447,637 1512,633 1577,629 1577,571 1512,575 1447,579 1382,583 1318,586 1253,590 1188,593 1123,596 1059,599 994,602 929,606 864,609 800,613 735,617 670,621 605,626 541,630 476,636 411,642 346,647 282,654" rendition="Line" xml:id="facs_156_r1l1"/>
             <zone points="253,746 278,741 303,738 329,735 354,733 380,731 533,721 1533,656 1533,714 1439,724 1252,742 1158,751 1065,759 971,766 877,772 253,804" rendition="Line" xml:id="facs_156_line_1618570190437_1215"/>
@@ -123,9 +118,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_156" n="156" xml:id="img_0156"/>
-
-<ab facs="#facs_156_r1" >
+         <pb facs="#facs_156" n="20 r" xml:id="Kasten_blau_45_8_0156.jpg"/>
+<ab facs="#facs_156_r1">
                <lb facs="#facs_156_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_156_line_1618570190437_1215" n="N002"/>Die freüdt so ich habe, ewer Durchlaucht hoffentlich morgen
                <lb facs="#facs_156_r1l4" n="N003"/>selbst zue bedienen, dreibet mich an, durch diese

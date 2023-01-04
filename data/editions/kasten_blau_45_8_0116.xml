@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0116.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0116.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-12-16"></origDate></origin>
+                        <origin><origDate when-iso="1677-12-16"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-12-16"></date>
+               <date when-iso="1677-12-16"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_116">
          <graphic height="2502px" url="Kasten_blau_45_8_0116.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="273,559 273,2449 1597,2449 1597,559" rendition="TextRegion" xml:id="facs_116_r2">
             <zone points="419,673 621,631 732,667 878,610 1228,640 1333,598 1590,607 1588,539 1311,516 1231,556 894,532 739,579 586,544 472,603 417,588" rendition="Line" xml:id="facs_116_r2l1"/>
             <zone points="416,747 536,695 611,736 793,695 1280,736 1390,678 1511,674 1510,602 1296,613 1203,663 1144,618 867,610 731,668 607,634 415,681" rendition="Line" xml:id="facs_116_r2l2"/>
@@ -140,9 +135,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_116" n="116" xml:id="img_0116"/>
-
-<ab facs="#facs_116_r2" >
+         <pb facs="#facs_116" n="101 r" xml:id="Kasten_blau_45_8_0116.jpg"/>
+<ab facs="#facs_116_r2">
                <lb facs="#facs_116_r2l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_116_r2l2" n="N002"/>Sage gehorsamstem dank vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_116_r2l4" n="N003"/>vom <date month="12" day="1" year="1677">1 dises</date>. Erfreüet mich von herzen, das sich
@@ -150,7 +144,7 @@
                <lb facs="#facs_116_line_1612888058007_1101" n="N005"/>schpas bey der schweinhez haben. Iezt fangt
                <lb facs="#facs_116_line_1612888095501_1107" n="N006"/>es sich hier auch an zu beßeren, heütt haben
                <lb facs="#facs_116_r2l10" n="N007"/>ihr <rs type="person">Mayestät</rs> 50 saw gefangen, vnter welchen 6 schwein
-               <lb facs="#facs_116_r2l13" n="N008"/>gewesen, es scheindt, <supplied >die jagd</supplied> will sich guett enden.
+               <lb facs="#facs_116_r2l13" n="N008"/>gewesen, es scheindt, <supplied>die jagd</supplied> will sich guett enden.
                <lb facs="#facs_116_r2l14" n="N009"/>Wegen der coadiutori werden ihr Mayestät ohne zweifel
                <lb facs="#facs_116_r2l15" n="N010"/>darzue gern cooperiren woh sie können, werden auch
                <lb facs="#facs_116_r2l16" n="N011"/>heütt ewer Durchlaucht selbsten schreiben. Wegen <rs type="place">Achen</rs> wirt
@@ -165,9 +159,8 @@
                <lb facs="#facs_116_r2l29" n="N020"/>dieser materi reden, so hoffe werde er etwas guetts
                <lb facs="#facs_116_line_1612888300257_1143" n="N021"/>brengen. Die <rs type="person">Kaiserin</rs> wirt auch balt einmahl
             </ab>
-<pb facs="#facs_117" n="117" xml:id="img_0117"/>
-
-<ab facs="#facs_117_r1" >
+<pb facs="#facs_117" n="101 v" xml:id="Kasten_blau_45_8_0117.jpg"/>
+<ab facs="#facs_117_r1">
                <lb facs="#facs_117_r1l1" n="N001"/>widerumb ein anwurf duen, hoffe zu gott, es werde
                <lb facs="#facs_117_r1l3" n="N002"/>sich balt schiken, aber bitte auf alles dieses mihr mit
                <lb facs="#facs_117_line_1612888373960_1171" n="N003"/>zu antworten. Ich due mich hiermit ganz vnterdehnig

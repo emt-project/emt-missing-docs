@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0228.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0228.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-10-30"></origDate></origin>
+                        <origin><origDate when-iso="1701-10-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-10-30"></date>
+               <date when-iso="1701-10-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_228">
          <graphic height="2465px" url="Kasten_blau_44_8_0228.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="133,75 133,2432 1565,2432 1565,75" rendition="TextRegion" xml:id="facs_228_r1">
             <zone points="157,103 222,97 280,98 345,98 404,98 456,98 509,101 506,151 455,148 404,148 345,148 280,148 224,147 161,153" rendition="Line" xml:id="facs_228_line_1656489371734_124"/>
             <zone points="276,918 429,922 492,924 555,928 618,932 681,937 744,941 807,947 870,952 933,958 997,964 1060,969 1123,974 1186,979 1249,984 1312,987 1375,990 1438,993 1501,994 1565,994 1565,916 1501,916 1438,915 1375,912 1312,909 1249,906 1186,901 1123,896 1060,891 997,886 933,880 870,874 807,869 744,863 681,859 618,854 555,850 492,846 429,844 276,840" rendition="Line" xml:id="facs_228_r1l2"/>
@@ -120,9 +115,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_228" n="228" xml:id="img_0228"/>
-
-<ab facs="#facs_228_r1" >
+         <pb facs="#facs_228" n="130 r" xml:id="Kasten_blau_44_8_0228.jpg" ed="140 r"/>
+<ab facs="#facs_228_r1">
                <lb facs="#facs_228_line_1656489371734_124" n="N001"/><unclear>30 9bris 1701</unclear>
                <lb facs="#facs_228_r1l2" n="N002"/>Durchleüchtiger Curfürst, mein herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_228_r1l3" n="N003"/>Gott sey gelobt, mein <choice><expan>fraw</expan><abbr>f</abbr></choice> dochter ist den 22ten dis
@@ -132,9 +126,9 @@
                <lb facs="#facs_228_line_1611245572710_533" n="N007"/>helfen gott dancken vnd bitten, das könftigs iahr
                <lb facs="#facs_228_line_1611245603313_539" n="N008"/>möge des <choice><expan>Pater</expan><abbr>P</abbr></choice> Balde schpruch wahr werden, das die
                <lb facs="#facs_228_line_1611245608581_543" n="N009"/>bueben den mädlen nach laufen. Ich wuntsche dero Liebden
-               <lb facs="#facs_228_r1l13" n="N010"/>auch dise vergnügung vnd werde leben vnd st<supplied >e</supplied>rben
+               <lb facs="#facs_228_r1l13" n="N010"/>auch dise vergnügung vnd werde leben vnd st<supplied>e</supplied>rben
                <lb facs="#facs_228_line_1611245618000_548" n="N011"/>dero Liebden
-               <lb facs="#facs_228_r1l15" n="N012"/>getrewste schw<supplied >e</supplied>ster
+               <lb facs="#facs_228_r1l15" n="N012"/>getrewste schw<supplied>e</supplied>ster
                <lb facs="#facs_228_r1l16" n="N013"/>Eleonora
                <lb facs="#facs_228_r1l14" n="N014"/>Wien den 30ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1701
             </ab>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0110.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0110.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-11-19"></origDate></origin>
+                        <origin><origDate when-iso="1677-11-19"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-11-19"></date>
+               <date when-iso="1677-11-19"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2483" ulx="0" uly="0" xml:id="facs_110">
          <graphic height="2483px" url="Kasten_blau_45_8_0110.jpg" width="1692px"/>
-         <graphic height="2483px" url="" width="1692px"/>
          <zone points="234,578 234,2420 1616,2420 1616,578" rendition="TextRegion" xml:id="facs_110_r1">
             <zone points="360,680 1521,626 1518,540 1060,582 970,542 913,572 719,543 429,614 357,590" rendition="Line" xml:id="facs_110_r1l1"/>
             <zone points="327,658 1429,617 1526,623 1530,701 1332,726 1136,737 546,761 407,761 327,753" rendition="Line" xml:id="facs_110_line_1612885260923_635"/>
@@ -155,9 +150,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_110" n="110" xml:id="img_0110"/>
-
-<ab facs="#facs_110_r1" >
+         <pb facs="#facs_110" n="97 r" xml:id="Kasten_blau_45_8_0110.jpg"/>
+<ab facs="#facs_110_r1">
                <lb facs="#facs_110_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_110_line_1612885260923_635" n="N002"/>Bitte wohl gehorsamist vmb vergebung, das zwey
                <lb facs="#facs_110_line_1612885265011_639" n="N003"/>post mein schuldichkeit nit hab abgelegt. Am sontag
@@ -182,11 +176,10 @@
                <lb facs="#facs_110_line_1612885363335_699" n="N022"/>wißen werden, vndt mihr wohl von herzen leidt ist. Vnser
                <lb facs="#facs_110_line_1612885367408_703" n="N023"/>lieber alter <rs type="person">Gonzaga</rs> komt nit wider, hatt sein
             </ab>
-<pb facs="#facs_111" n="111" xml:id="img_0111"/>
-
-<ab facs="#facs_111_r1" >
+<pb facs="#facs_111" n="97 v" xml:id="Kasten_blau_45_8_0111.jpg"/>
+<ab facs="#facs_111_r1">
             </ab>
-<ab facs="#facs_111_r2" >
+<ab facs="#facs_111_r2">
                <lb facs="#facs_111_r2l1" n="N001"/>abschit von ihr Mayestät der <rs type="person">Kaiserin</rs> begehrt. Ist mihr wohl
                <lb facs="#facs_111_r2l2" n="N002"/>leidt, gott geb, das widerumb wohl ersezt werde, wahran
                <lb facs="#facs_111_r2l3" n="N003"/>ich gahr sehr zweifle. Von diesem wehre vill zu

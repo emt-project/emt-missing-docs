@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0126.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0126.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-01-30"></origDate></origin>
+                        <origin><origDate when-iso="1678-01-30"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date  when-iso="1678-01-30"></date>
+               <date when-iso="1678-01-30"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_126">
          <graphic height="2502px" url="Kasten_blau_45_8_0126.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="78,1581 78,1731 88,1731 88,1581" rendition="TextRegion" xml:id="facs_126_r1"/>
          <zone points="76,621 76,2431 1607,2431 1607,621" rendition="TextRegion" xml:id="facs_126_r2">
             <zone points="392,767 564,731 835,764 994,698 1137,736 1213,699 1263,739 1394,676 1576,689 1606,611 781,587 724,627 581,621 447,696 387,674" rendition="Line" xml:id="facs_126_r2l1"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1692" lry="2502" ulx="0" uly="0" xml:id="facs_127">
          <graphic height="2502px" url="Kasten_blau_45_8_0127.jpg" width="1692px"/>
-         <graphic height="2502px" url="" width="1692px"/>
          <zone points="134,499 130,2369 1589,2369 1593,499" rendition="TextRegion" xml:id="facs_127_r1">
             <zone points="214,511 373,443 398,440 410,439 1248,458 1523,489 1511,586 783,595 500,598 214,554" rendition="Line" xml:id="facs_127_line_1612965005388_532"/>
             <zone points="218,594 392,562 945,546 1547,573 1575,674 848,701 388,694 347,692 220,661" rendition="Line" xml:id="facs_127_line_1612965019259_539"/>
@@ -151,11 +145,10 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_126" n="126" xml:id="img_0126"/>
-
-<ab facs="#facs_126_r1" >
+         <pb facs="#facs_126" n="3 v" xml:id="Kasten_blau_45_8_0126.jpg"/>
+<ab facs="#facs_126_r1">
             </ab>
-<ab facs="#facs_126_r2" >
+<ab facs="#facs_126_r2">
                <lb facs="#facs_126_r2l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_126_r2l2" n="N002"/>Bitte vnterdehnig vmb vergebung, das bey vohriger
                <lb facs="#facs_126_r2l3" n="N003"/>post mein schuldichkeit nit habe abgelecht, ich hoffe,
@@ -172,18 +165,17 @@
                <lb facs="#facs_126_r2l18" n="N014"/>können, noch nit ankommen, wirt aber, wie
                <lb facs="#facs_126_r2l19" n="N015"/>mihr hoffen, bis könftigen ergtag kommen,
                <lb facs="#facs_126_r2l20" n="N016"/>das also noch die hochzeit auf den mitwoch
-               <lb facs="#facs_126_r2l21" n="N017"/>wurde <supplied >stattfinden</supplied>. Etlige aber wollen sagen, es sey noch zimlich
+               <lb facs="#facs_126_r2l21" n="N017"/>wurde <supplied>stattfinden</supplied>. Etlige aber wollen sagen, es sey noch zimlich
                <lb facs="#facs_126_r2l22" n="N018"/>schlim mit seinem fues, das also noch nit gewis,
             </ab>
-<pb facs="#facs_127" n="127" xml:id="img_0127"/>
-
-<ab facs="#facs_127_r1" >
+<pb facs="#facs_127" n="3 r" xml:id="Kasten_blau_45_8_0127.jpg"/>
+<ab facs="#facs_127_r1">
                <lb facs="#facs_127_line_1612965005388_532" n="N001"/>wan die höchzeit noch sein wirt. Seint in ängsten
                <lb facs="#facs_127_line_1612965019259_539" n="N002"/>gewesen, dan lang nichts von <rs type="person">ihm</rs> gehört als gestern,
                <lb facs="#facs_127_line_1612965023680_543" n="N003"/>ist ein curier kommen, der hatt dieses gebracht
                <lb facs="#facs_127_line_1612965037290_547" n="N004"/>das er den 27 zu <rs type="place">Regenschpurg</rs> sein wurd, so
                <lb facs="#facs_127_r1l11" n="N005"/>hoffe, das auf dem waßer bis erchtag hier
-               <lb facs="#facs_127_line_1612965042368_552" n="N006"/>könt sein. Ich hoffe wohl, das na<supplied >c</supplied>h dieser
+               <lb facs="#facs_127_line_1612965042368_552" n="N006"/>könt sein. Ich hoffe wohl, das na<supplied>c</supplied>h dieser
                <lb facs="#facs_127_line_1612965046289_556" n="N007"/>hochzeit mein <rs type="person">brueder</rs> auch balt werde getröst
                <lb facs="#facs_127_r1l16" n="N008"/>werden, dan ihr <rs type="person">Mayestät</rs> sich gahr gnädich bezeigen
                <lb facs="#facs_127_r1l17" n="N009"/>vndt mihr selbsten die hoffnung gemacht, das

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0263.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0263.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-10-02"></origDate></origin>
+                        <origin><origDate when-iso="1679-10-02"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1679-10-02"></date>
+               <date when-iso="1679-10-02"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_263">
          <graphic height="2430px" url="Kasten_blau_45_8_0263.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="336,517 336,2362 1610,2362 1610,517" rendition="TextRegion" xml:id="facs_263_r2">
             <zone points="377,657 434,652 491,648 548,643 605,639 663,635 720,632 777,628 834,626 891,622 949,619 1006,616 1063,613 1120,610 1177,607 1235,603 1292,600 1349,596 1406,592 1463,588 1521,583 1521,517 1463,522 1406,526 1349,530 1292,534 1235,537 1177,541 1120,544 1063,547 1006,550 949,553 891,556 834,560 777,562 720,566 663,569 605,573 548,577 491,582 434,586 377,591" rendition="Line" xml:id="facs_263_r2l1"/>
             <zone points="353,751 413,745 474,739 535,734 595,729 656,724 717,720 777,717 838,714 899,710 960,708 1020,704 1081,701 1142,698 1202,694 1263,691 1324,687 1384,683 1445,678 1506,673 1567,667 1567,604 1506,610 1445,615 1384,620 1324,624 1263,628 1202,631 1142,635 1081,638 1020,641 960,645 899,647 838,651 777,654 717,657 656,661 595,666 535,671 474,676 413,682 353,688" rendition="Line" xml:id="facs_263_r2l2"/>
@@ -124,9 +119,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_263" n="263" xml:id="img_0263"/>
-
-<ab facs="#facs_263_r2" >
+         <pb facs="#facs_263" n="155 r" xml:id="Kasten_blau_45_8_0263.jpg"/>
+<ab facs="#facs_263_r2">
                <lb facs="#facs_263_r2l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_263_r2l2" n="N002"/>Es ist mihr von herzen leidt, aus ewer Durchlaucht <choice><expan/><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_263_r2l3" n="N003"/>zue vernemmen, das der catarr noch nit vollich nachlaßen
@@ -141,8 +135,8 @@
                <lb facs="#facs_263_r2l12" n="N012"/>schreib, ich mues heütt baden, so hab nit vill
                <lb facs="#facs_263_line_1620803082765_435" n="N013"/>zeit übrich. Befehl mich vnterdehnig vndt sterb
                <lb facs="#facs_263_r2l15" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_263_r2l16" n="N015"/>ga<supplied >n</supplied>z ergebe<supplied >n</supplied>ste trew gehorsa<supplied >m</supplied>ste
-               <lb facs="#facs_263_r2l20" n="N016"/>do<supplied >c</supplied>hter
+               <lb facs="#facs_263_r2l16" n="N015"/>ga<supplied>n</supplied>z ergebe<supplied>n</supplied>ste trew gehorsa<supplied>m</supplied>ste
+               <lb facs="#facs_263_r2l20" n="N016"/>do<supplied>c</supplied>hter
                <lb facs="#facs_263_r2l21" n="N017"/>EMT
                <lb facs="#facs_263_line_1620803087455_439" n="N018"/><rs type="place">Prag</rs> den <date month="12" day="2" year="1679">2 10ber 1678</date>
             </ab>

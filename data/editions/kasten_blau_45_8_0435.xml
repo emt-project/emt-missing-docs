@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0435.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0435.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-07-24"></origDate></origin>
+                        <origin><origDate when-iso="1681-07-24"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wiener Neustadt</placeName>
-               <date  when-iso="1681-07-24"></date>
+               <date when-iso="1681-07-24"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_434">
          <graphic height="2553px" url="Kasten_blau_45_8_0435.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="68,481 68,2477 1605,2477 1605,481" rendition="TextRegion" xml:id="facs_434_r3">
             <zone points="335,529 396,529 458,529 520,529 582,529 644,529 706,530 768,530 830,531 892,532 954,532 1015,533 1077,533 1139,533 1201,533 1263,533 1325,533 1387,532 1449,530 1511,528 1573,526 1573,481 1511,483 1449,485 1387,487 1325,488 1263,488 1201,488 1139,488 1077,488 1015,488 954,487 892,487 830,486 768,485 706,485 644,484 582,484 520,484 458,484 396,484 335,484" rendition="Line" xml:id="facs_434_r3l1"/>
             <zone points="271,607 444,614 502,618 559,622 617,624 674,625 732,625 789,625 847,625 904,623 962,622 1019,620 1077,618 1134,615 1192,612 1249,610 1307,608 1364,606 1422,604 1479,603 1537,603 1537,558 1479,558 1422,559 1364,561 1307,563 1249,565 1192,567 1134,570 1077,573 1019,575 962,577 904,578 847,580 789,580 732,580 674,580 617,579 559,577 502,573 444,569 271,562" rendition="Line" xml:id="facs_434_r3l2"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_435">
          <graphic height="2553px" url="Kasten_blau_45_8_0436.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="151,439 164,2337 1621,2337 1608,439" rendition="TextRegion" xml:id="facs_435_r2">
             <zone points="193,456 220,450 248,444 276,440 304,439 1558,439 1558,494 1454,501 1351,505 1299,507 1196,509 1144,510 1041,511 524,516 193,511" rendition="Line" xml:id="facs_435_line_1622980947822_1019"/>
             <zone points="208,536 1533,519 1533,574 1192,591 1099,595 1037,597 975,598 913,598 416,598 346,596 277,594 208,591" rendition="Line" xml:id="facs_435_line_1622980951908_1023"/>
@@ -151,9 +145,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_434" n="434" xml:id="img_0434"/>
-
-<ab facs="#facs_434_r3" >
+         <pb facs="#facs_434" n="260 r" xml:id="Kasten_blau_45_8_0435.jpg"/>
+<ab facs="#facs_434_r3">
                <lb facs="#facs_434_r3l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_434_r3l2" n="N002"/>Es erfrewet mich von herzen zue vernemmen,
                <lb facs="#facs_434_line_1622980736847_912" n="N003"/>das ewer Durchlaucht sich in so guttem wohlstandt
@@ -163,20 +156,19 @@
                <lb facs="#facs_434_line_1622980804924_955" n="N007"/>darbey erhalten. Es ist nit genuech, das sie
                <lb facs="#facs_434_line_1622980814391_962" n="N008"/>es iezt können, sondern sie müeßen es
                <lb facs="#facs_434_line_1622980817436_966" n="N009"/>also iezt nit zue vill dem gutten duen,
-               <lb facs="#facs_434_line_1622980836037_979" n="N010"/>damit sie es noch lange zeit continu<supplied >iren</supplied>
+               <lb facs="#facs_434_line_1622980836037_979" n="N010"/>damit sie es noch lange zeit continu<supplied>iren</supplied>
                <lb facs="#facs_434_r3l39" n="N011"/>können. Der almechtige wolle sie erhalten.
                <lb facs="#facs_434_line_1622980840307_983" n="N012"/>Bitte <choice><expan>vnterdehnigst</expan><abbr>vnter</abbr></choice>, insonderheit meinetwegen <unclear>solten</unclear>
                <lb facs="#facs_434_r3l42" n="N013"/>sich ewer Durchlaucht kein vngelegenheit an duen,
                <lb facs="#facs_434_r3l46" n="N014"/>dan es mich gahr zue sehr bedrüben wurd,
                <lb facs="#facs_434_r3l47" n="N015"/>wan ewer Durchlaucht etwas solt schaden, wan gleich nit
                <lb facs="#facs_434_r3l48" n="N016"/>jezt, kan es an der conseruation schaden.
-               <lb facs="#facs_434_r3l49" n="N017"/>Es ist mihr wohl leidt, das ewer <supplied >Durchlaucht</supplied> meine brif
+               <lb facs="#facs_434_r3l49" n="N017"/>Es ist mihr wohl leidt, das ewer <supplied>Durchlaucht</supplied> meine brif
                <lb facs="#facs_434_line_1622980906041_1001" n="N018"/>nit empfangen, dan ich kein post ausgelaßen
                <lb facs="#facs_434_line_1622980911487_1005" n="N019"/>als selbige, wie sich ihr <rs type="person">Mayestät</rs> mein Kaiser
             </ab>
-<pb facs="#facs_435" n="435" xml:id="img_0435"/>
-
-<ab facs="#facs_435_r2" >
+<pb facs="#facs_435" n="260 v" xml:id="Kasten_blau_45_8_0436.jpg"/>
+<ab facs="#facs_435_r2">
                <lb facs="#facs_435_line_1622980947822_1019" n="N001"/>nit wohl auf wahren <unclear>welhen</unclear>, welliche nachlaßickeit
                <lb facs="#facs_435_line_1622980951908_1023" n="N002"/>ich nachmahlen <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb verzeiung bitte,
                <lb facs="#facs_435_r2l5" n="N003"/>will mich befleisen, hinführo fleisiger zu
@@ -194,8 +186,8 @@
                <lb facs="#facs_435_line_1622981058182_1088" n="N015"/>Darumb befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vndt
                <lb facs="#facs_435_r2l50" n="N016"/>sterb
                <lb facs="#facs_435_line_1622981104393_1109" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_435_line_1622981089264_1103" n="N018"/>ganzerg<supplied >e</supplied>b<supplied >e</supplied>nst tre<supplied >w</supplied>
-               <lb facs="#facs_435_r2l55" n="N019"/>g<supplied >e</supplied>horsa<supplied >m</supplied>ste dochter
+               <lb facs="#facs_435_line_1622981089264_1103" n="N018"/>ganzerg<supplied>e</supplied>b<supplied>e</supplied>nst tre<supplied>w</supplied>
+               <lb facs="#facs_435_r2l55" n="N019"/>g<supplied>e</supplied>horsa<supplied>m</supplied>ste dochter
                <lb facs="#facs_435_r2l56" n="N020"/>EMT
                <lb facs="#facs_435_line_1622981089264_1104" n="N021"/><rs type="place">Neüstatt</rs> den <date month="7" day="24" year="1681">24 julij 1681</date>
             </ab>

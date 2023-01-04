@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0112.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0112.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-11-25"></origDate></origin>
+                        <origin><origDate when-iso="1677-11-25"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1677-11-25"></date>
+               <date when-iso="1677-11-25"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2483" ulx="0" uly="0" xml:id="facs_112">
          <graphic height="2483px" url="Kasten_blau_45_8_0112.jpg" width="1692px"/>
-         <graphic height="2483px" url="" width="1692px"/>
          <zone points="175,577 175,2372 1591,2372 1591,577" rendition="TextRegion" xml:id="facs_112_r1">
             <zone points="340,687 651,643 725,695 914,639 1037,676 1129,629 1493,633 1589,619 1586,535 1419,577 1280,526 1216,559 816,556 338,624" rendition="Line" xml:id="facs_112_r1l1"/>
             <zone points="297,783 437,726 733,773 893,714 1096,748 1140,705 1566,712 1567,612 1332,664 947,651 795,698 626,652 407,663 294,706" rendition="Line" xml:id="facs_112_r1l2"/>
@@ -130,10 +125,9 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_112" n="112" xml:id="img_0112"/>
-
-<ab facs="#facs_112_r1" >
-               <lb facs="#facs_112_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster her<supplied >r</supplied> <choice><expan>vater</expan><abbr>v</abbr></choice>
+         <pb facs="#facs_112" n="98 r" xml:id="Kasten_blau_45_8_0112.jpg"/>
+<ab facs="#facs_112_r1">
+               <lb facs="#facs_112_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster her<supplied>r</supplied> <choice><expan>vater</expan><abbr>v</abbr></choice>
                <lb facs="#facs_112_r1l2" n="N002"/>Sag vnterdehnigen dankh vohr dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben,
                <lb facs="#facs_112_r1l3" n="N003"/>bitte vnterdehnig vmb vergebung, das diese post
                <lb facs="#facs_112_r1l4" n="N004"/>nit vill schreib. Die zeit ist zu kurz gefallen, in
@@ -150,11 +144,11 @@
                <lb facs="#facs_112_r1l17" n="N015"/>einen hundt wollen schawen, ich bitt vmb vergebung
                <lb facs="#facs_112_line_1612886569654_849" n="N016"/>das vngelegenheit gemacht, ihr Mayestät brauchen in nit
                <lb facs="#facs_112_r1l21" n="N017"/>bis auf die könftige brunft. Befehle mich vnterdehnig,
-               <lb facs="#facs_112_r1l22" n="N018"/>mit nechstem werde beßer zeit haben, dan ich ein cattar <supplied >habe</supplied>
+               <lb facs="#facs_112_r1l22" n="N018"/>mit nechstem werde beßer zeit haben, dan ich ein cattar <supplied>habe</supplied>
                <lb facs="#facs_112_r1l23" n="N019"/>vndt also förcht, das nit mit auf das iagen werde über
                <lb facs="#facs_112_r1l24" n="N020"/>morgen können. Befehl mich vnterdehnig vndt sterbe
                <lb facs="#facs_112_r1l25" n="N021"/>ihr Durchlaucht
-               <lb facs="#facs_112_r1l26" n="N022"/>ganz ergebenste trewgehorsams<supplied >te</supplied>
+               <lb facs="#facs_112_r1l26" n="N022"/>ganz ergebenste trewgehorsams<supplied>te</supplied>
                <lb facs="#facs_112_r1l28" n="N023"/>dochter
                <lb facs="#facs_112_r1l30" n="N024"/>EMT
                <lb facs="#facs_112_r1l29" n="N025"/><rs type="place">Wien</rs> den <date month="11" day="25" year="1677">25 9ber 1677</date>

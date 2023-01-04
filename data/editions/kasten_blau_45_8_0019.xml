@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0019.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0019.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_19">
          <graphic height="2406px" url="Kasten_blau_45_8_0019.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="122,464 122,2341 1593,2341 1593,464" rendition="TextRegion" xml:id="facs_19_r1">
             <zone points="396,534 521,502 817,549 862,511 899,539 1014,506 1227,545 1544,510 1545,437 1185,462 1086,406 915,401 831,453 777,425 396,471" rendition="Line" xml:id="facs_19_r1l1"/>
             <zone points="397,601 1007,587 1080,634 1155,586 1303,625 1466,582 1571,617 1570,534 1508,511 1044,566 863,510 816,550 509,505 396,545" rendition="Line" xml:id="facs_19_r1l2"/>
@@ -128,9 +123,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_19" n="19" xml:id="img_0019"/>
-
-<ab facs="#facs_19_r1" >
+         <pb facs="#facs_19" n="41 r" xml:id="Kasten_blau_45_8_0019.jpg"/>
+<ab facs="#facs_19_r1">
                <lb facs="#facs_19_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_19_r1l2" n="N002"/>Dero gutten wollstant habe ich mit hogsten freüden 
                <lb facs="#facs_19_r1l3" n="N003"/>aus dero wertestem schreiben vom <date month="3" day="27" year="1677">27 merz</date> vernomen.
@@ -146,7 +140,7 @@
                <lb facs="#facs_19_r1l14" n="N013"/>werde auch nit vill zeit haben. Also wüntsche
                <lb facs="#facs_19_r1l15" n="N014"/>ich hierbey ihr Durchlaucht ein glüksehliges, mitt allen
                <lb facs="#facs_19_r1l16" n="N015"/>selbst verlangten glüksehlichkeiten angefültes fest mit
-               <lb facs="#facs_19_r1l17" n="N016"/>deren vnzah<supplied >l</supplied>bahr vill volgenden zu erleben zu trost der
+               <lb facs="#facs_19_r1l17" n="N016"/>deren vnzah<supplied>l</supplied>bahr vill volgenden zu erleben zu trost der
                <lb facs="#facs_19_r1l19" n="N017"/>ienigen, welche sich bis ins grab nennen wirt
                <lb facs="#facs_19_line_1591883149469_438" n="N018"/>ewer Durchlaucht
                <lb facs="#facs_19_r1l20" n="N019"/>ganz ergebenste trewgehorsamste

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0208.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0208.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-05-11"></origDate></origin>
+                        <origin><origDate when-iso="1679-05-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1679-05-11"></date>
+               <date when-iso="1679-05-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_208">
          <graphic height="2461px" url="Kasten_blau_45_8_0208.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="199,507 199,2386 1608,2386 1608,507" rendition="TextRegion" xml:id="facs_208_r1">
             <zone points="272,593 337,586 403,581 468,576 534,571 600,567 665,564 731,561 796,558 862,556 928,555 993,553 1059,551 1124,550 1190,549 1255,548 1321,547 1387,546 1452,545 1518,544 1584,543 1584,507 1518,508 1452,509 1387,510 1321,511 1255,512 1190,513 1124,514 1059,515 993,517 928,519 862,520 796,522 731,525 665,528 600,531 534,535 468,540 403,545 337,550 272,557" rendition="Line" xml:id="facs_208_r1l1"/>
             <zone points="292,635 405,621 480,613 594,603 631,600 745,591 820,586 933,579 1047,572 1192,564 1271,561 1507,553 1507,589 1454,593 292,677" rendition="Line" xml:id="facs_208_line_1619789505832_2051"/>
@@ -141,9 +136,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_208" n="208" xml:id="img_0208"/>
-
-<ab facs="#facs_208_r1" >
+         <pb facs="#facs_208" n="122 r" xml:id="Kasten_blau_45_8_0208.jpg"/>
+<ab facs="#facs_208_r1">
                <lb facs="#facs_208_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
                <lb facs="#facs_208_line_1619789505832_2051" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich annoch in
                <lb facs="#facs_208_r1l4" n="N003"/>guettem wohlstant befinden vndt beßeres wetter
@@ -158,10 +152,10 @@
                <lb facs="#facs_208_line_1619789558351_2087" n="N012"/>warte iezt mit verlangen, bis ich die guette
                <lb facs="#facs_208_line_1619789561402_2091" n="N013"/>zeitung ihr Durchlaucht, meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person">frawen muetter</rs>,
                <lb facs="#facs_208_line_1619789564954_2095" n="N014"/>glükligen niderkunft möge vernemmen. Due
-               <lb facs="#facs_208_line_1619789577276_2099" n="N015"/>mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vnterdeh<supplied >n</supplied>ig
+               <lb facs="#facs_208_line_1619789577276_2099" n="N015"/>mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> vnterdeh<supplied>n</supplied>ig
                <lb facs="#facs_208_line_1619789585346_2106" n="N016"/>befehlen, werde sterben
                <lb facs="#facs_208_line_1619789589664_2110" n="N017"/>ewer Durchlaucht
-               <lb facs="#facs_208_r1l43" n="N018"/>ganz ergebenste trewgehorsa<supplied >m</supplied>ste
+               <lb facs="#facs_208_r1l43" n="N018"/>ganz ergebenste trewgehorsa<supplied>m</supplied>ste
                <lb facs="#facs_208_r1l44" n="N019"/>dochter
                <lb facs="#facs_208_r1l47" n="N020"/>EMT
                <lb facs="#facs_208_line_1619789597832_2117" n="N021"/><rs type="place">Laxenburg</rs> den <date month="5" day="11" year="1679">11 maij 1679</date>
@@ -170,9 +164,8 @@
                <lb facs="#facs_208_line_1619789623120_2133" n="N024"/><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter, ein cattar haben, hoffe zue gott, balt
                <lb facs="#facs_208_line_1619789629068_2137" n="N025"/>mit einer frölige zeitung von ihnen consolirt
             </ab>
-<pb facs="#facs_209" n="209" xml:id="img_0209"/>
-
-<ab facs="#facs_209_r1" >
+<pb facs="#facs_209" n="122 v" xml:id="Kasten_blau_45_8_0209.jpg"/>
+<ab facs="#facs_209_r1">
                <lb facs="#facs_209_line_1619789660625_2148" n="N001"/>zue werden. Wegen der coadiutori vndt <rs type="place">Münster</rs>
                <lb facs="#facs_209_line_1619789664361_2152" n="N002"/>werde den <rs type="person">Schellerer </rs>zue mihr kommen lasen.
                <lb facs="#facs_209_r1l5" n="N003"/>Ihr <rs type="person">Mayestät</rs> werde auch das wegen des <rs type="person">Cardinals</rs>

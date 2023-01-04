@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0250.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0250.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-10-21"></origDate></origin>
+                        <origin><origDate when-iso="1679-10-21"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Brandeis / Brandýs nad Labem</placeName>
-               <date  when-iso="1679-10-21"></date>
+               <date when-iso="1679-10-21"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_250">
          <graphic height="2430px" url="Kasten_blau_45_8_0250.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="321,624 321,2338 1585,2338 1585,624" rendition="TextRegion" xml:id="facs_250_r2">
             <zone points="428,686 484,682 540,680 596,678 652,677 708,676 764,675 820,675 876,675 932,676 988,677 1044,677 1100,678 1156,679 1212,679 1268,680 1324,680 1380,680 1436,680 1492,679 1548,678 1548,627 1492,628 1436,629 1380,629 1324,629 1268,629 1212,628 1156,628 1100,627 1044,626 988,626 932,625 876,624 820,624 764,624 708,625 652,626 596,627 540,629 484,631 428,635" rendition="Line" xml:id="facs_250_r2l1"/>
             <zone points="350,756 412,753 474,752 536,751 598,750 660,750 722,751 784,752 846,753 908,753 970,754 1032,755 1094,756 1156,756 1218,756 1280,755 1342,754 1404,752 1466,749 1529,745 1529,697 1466,701 1404,704 1342,706 1280,707 1218,708 1156,708 1094,708 1032,707 970,706 908,705 846,705 784,704 722,703 660,702 598,702 536,703 474,704 412,705 350,708" rendition="Line" xml:id="facs_250_r2l2"/>
@@ -126,7 +121,6 @@
       
 <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_251">
          <graphic height="2430px" url="Kasten_blau_45_8_0251.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="238,677 238,1599 1631,1599 1631,677" rendition="TextRegion" xml:id="facs_251_r1">
             <zone points="351,620 531,608 608,605 1593,603 1593,643 1510,653 1428,658 1346,660 1305,660 351,654" rendition="Line" xml:id="facs_251_line_1619796846082_5286"/>
             <zone points="365,685 708,673 1626,676 1626,716 1488,720 1304,724 1212,725 1075,725 983,724 365,715" rendition="Line" xml:id="facs_251_line_1619796849437_5290"/>
@@ -147,9 +141,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_250" n="250" xml:id="img_0250"/>
-
-<ab facs="#facs_250_r2" >
+         <pb facs="#facs_250" n="147 r" xml:id="Kasten_blau_45_8_0250.jpg"/>
+<ab facs="#facs_250_r2">
                <lb facs="#facs_250_r2l1" n="N001"/>Durchleüchtigster Fürst, herzaller liebster herr vatter
                <lb facs="#facs_250_r2l2" n="N002"/>Ich verhoffe, ewer Durchlaucht werden sich in guettem wohlstandt
                <lb facs="#facs_250_r2l3" n="N003"/>befinden. Diese post hab noch keine brief empfangen,
@@ -173,15 +166,14 @@
                <lb facs="#facs_250_r2l27" n="N021"/>dahin bezeigen, werden aber erst iezt, wan mihr
                <lb facs="#facs_250_r2l28" n="N022"/>auf Prag kommen, die resolution geben. Ich will aber
             </ab>
-<pb facs="#facs_251" n="251" xml:id="img_0251"/>
-
-<ab facs="#facs_251_r1" >
+<pb facs="#facs_251" n="147 v" xml:id="Kasten_blau_45_8_0251.jpg"/>
+<ab facs="#facs_251_r1">
                <lb facs="#facs_251_line_1619796846082_5286" n="N001"/>sehn, das ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> verlangen wegen der <rs type="person">Rappach</rs> erfült
                <lb facs="#facs_251_line_1619796849437_5290" n="N002"/>werde, weilen ich mit der <rs type="person">Ripperg</rs> nit hab könen solliche erfüllen.
-               <lb facs="#facs_251_line_1619796852514_5294" n="N003"/>Was ich neülig geschrieben wegen des <rs type="person"><choice><expan>Grafen</expan><abbr>G</abbr></choice> von Ötingen</rs> <supplied >reise</supplied> auf <rs type="place">Meins</rs>
+               <lb facs="#facs_251_line_1619796852514_5294" n="N003"/>Was ich neülig geschrieben wegen des <rs type="person"><choice><expan>Grafen</expan><abbr>G</abbr></choice> von Ötingen</rs> <supplied>reise</supplied> auf <rs type="place">Meins</rs>
                <lb facs="#facs_251_r1l8" n="N004"/>haben ihr <rs type="person">Mayestät</rs> resoluirt von nein aus vrsachen, das sie nieh
                <lb facs="#facs_251_line_1619796856407_5298" n="N005"/>kein gehaimen raht dahin geschikt. Ich zweifle aber gahr
-               <lb facs="#facs_251_line_1619796859827_5302" n="N006"/>nit, das sie einen darzue ausklauben werden, der es hoffentl<supplied >ich</supplied>
+               <lb facs="#facs_251_line_1619796859827_5302" n="N006"/>nit, das sie einen darzue ausklauben werden, der es hoffentl<supplied>ich</supplied>
                <lb facs="#facs_251_line_1619796867232_5307" n="N007"/>wohl machen wirt. Hiermit due ich mich in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice>
                <lb facs="#facs_251_r1l16" n="N008"/>befehlen vndt werde sterben
                <lb facs="#facs_251_line_1619796886926_5312" n="N009"/>ewer Durchlaucht

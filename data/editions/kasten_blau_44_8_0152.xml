@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0152.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0152.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-06-22"></origDate></origin>
+                        <origin><origDate when-iso="1701-06-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,18 +78,18 @@
          <correspDesc>
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
-               <placeName ref="#"></placeName>
-               <date  when-iso="1701-06-22"></date>
+               <placeName ref="#"/>
+               <date when-iso="1701-06-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -130,9 +126,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_152" n="152" xml:id="img_0152"/>
-
-<ab facs="#facs_152_r1" >
+         <pb facs="#facs_152" n="87 r" xml:id="Kasten_blau_44_8_0152.jpg" ed="89 r"/>
+<ab facs="#facs_152_r1">
                <lb facs="#facs_152_r1l1" n="N001"/>EMT
                <lb facs="#facs_152_r1l2" n="N002"/>ver von ro man den englaun
                <lb facs="#facs_152_r1l3" n="N003"/>E
@@ -156,7 +151,7 @@
                <lb facs="#facs_152_r1l21" n="N021"/>sen in vn
                <lb facs="#facs_152_r1l22" n="N022"/>e
             </ab>
-<ab facs="#facs_152_r2" >
+<ab facs="#facs_152_r2">
                <lb facs="#facs_152_r2l1" n="N001"/>e
             </ab>
 

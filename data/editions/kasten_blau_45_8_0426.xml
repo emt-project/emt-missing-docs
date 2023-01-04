@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0426.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0426.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-06-04"></origDate></origin>
+                        <origin><origDate when-iso="1681-06-04"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-06-04"></date>
+               <date when-iso="1681-06-04"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2553" ulx="0" uly="0" xml:id="facs_425">
          <graphic height="2553px" url="Kasten_blau_45_8_0426.jpg" width="1682px"/>
-         <graphic height="2553px" url="" width="1682px"/>
          <zone points="151,592 151,2469 1599,2469 1599,592" rendition="TextRegion" xml:id="facs_425_r1">
             <zone points="372,704 428,699 485,693 542,688 599,683 656,678 713,674 769,669 826,664 883,661 940,656 997,653 1054,649 1111,645 1167,643 1224,639 1281,636 1338,632 1395,629 1452,625 1509,622 1509,592 1452,595 1395,599 1338,602 1281,606 1224,609 1167,613 1111,615 1054,619 997,623 940,626 883,631 826,634 769,639 713,644 656,648 599,653 542,658 485,663 428,669 372,674" rendition="Line" xml:id="facs_425_r1l1"/>
             <zone points="336,803 396,797 456,792 516,785 577,779 637,772 697,765 758,758 818,751 878,744 939,737 999,730 1059,724 1119,718 1180,713 1240,709 1300,704 1361,701 1421,698 1481,697 1542,696 1542,666 1481,667 1421,668 1361,671 1300,674 1240,679 1180,683 1119,688 1059,694 999,700 939,707 878,714 818,721 758,728 697,735 637,742 577,749 516,755 456,762 396,767 336,773" rendition="Line" xml:id="facs_425_r1l3"/>
@@ -123,16 +118,15 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_425" n="425" xml:id="img_0425"/>
-
-<ab facs="#facs_425_r1" >
+         <pb facs="#facs_425" n="252 r" xml:id="Kasten_blau_45_8_0426.jpg"/>
+<ab facs="#facs_425_r1">
                <lb facs="#facs_425_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_425_r1l3" n="N002"/>Mitt gröstem leidt hab ich aus ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> 2 <choice><expan>gnädige</expan><abbr>g</abbr></choice>
                <lb facs="#facs_425_r1l4" n="N003"/>schreiben vndt aus ewer Durchlaucht <choice><expan>gnädigen</expan><abbr>g</abbr></choice> PS vernommen,
                <lb facs="#facs_425_r1l5" n="N004"/>das sie sich an einem terzian fieber übel-
                <lb facs="#facs_425_r1l6" n="N005"/>auf befinden. Hoffe zue gott, es werde nuhmero
                <lb facs="#facs_425_line_1622979363200_377" n="N006"/>ganz widerumb ausgebliben sein. Woh nit, welchs
-               <lb facs="#facs_425_line_1622979367160_381" n="N007"/>mihr wohl der höchste sch<supplied >m</supplied>erzen, schike ich den <rs type="person" continued="true">Doctor</rs>
+               <lb facs="#facs_425_line_1622979367160_381" n="N007"/>mihr wohl der höchste sch<supplied>m</supplied>erzen, schike ich den <rs type="person" continued="true">Doctor</rs>
                <lb facs="#facs_425_line_1622979372203_385" n="N008"/><rs type="person" continued="true">Hueber</rs> auf der post hinauf, dan ich mich schon
                <lb facs="#facs_425_line_1622979399909_399" n="N009"/>so guett befindt, das mihr heündt trauet aus
                <lb facs="#facs_425_line_1622979421967_404" n="N010"/>zue gehn. Von meinem zuestandt werden ewer
@@ -140,7 +134,7 @@
                <lb facs="#facs_425_line_1622979432711_414" n="N012"/>mich hiermit <choice><expan>vnterdehnigst</expan><abbr>vntd</abbr></choice> in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die
                <lb facs="#facs_425_r1l36" n="N013"/>ich sterben werde
                <lb facs="#facs_425_line_1622979492661_431" n="N014"/>ewer Durchlaucht
-               <lb facs="#facs_425_line_1622979478984_424" n="N015"/>ganzergebenste trewg<supplied >e</supplied>horsa<supplied >m</supplied>ste
+               <lb facs="#facs_425_line_1622979478984_424" n="N015"/>ganzergebenste trewg<supplied>e</supplied>horsa<supplied>m</supplied>ste
                <lb facs="#facs_425_r1l41" n="N016"/>dochter
                <lb facs="#facs_425_line_1622979499430_436" n="N017"/>EMT
                <lb facs="#facs_425_line_1622979473767_420" n="N018"/><rs type="place">Edenburg</rs> den <date month="6" day="4" year="1681">4 junij 1681</date>

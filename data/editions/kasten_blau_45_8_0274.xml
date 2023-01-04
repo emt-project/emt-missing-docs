@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0274.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0274.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1680-01-13"></origDate></origin>
+                        <origin><origDate when-iso="1680-01-13"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Prag</placeName>
-               <date  when-iso="1680-01-13"></date>
+               <date when-iso="1680-01-13"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_274">
          <graphic height="2430px" url="Kasten_blau_45_8_0274.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="126,493 117,2383 1615,2383 1624,493" rendition="TextRegion" xml:id="facs_274_r1">
             <zone points="239,568 289,567 304,838 305,1496 305,1543 304,1817 289,2272 239,2276 234,2213 233,2124" rendition="Line" xml:id="facs_274_line_1620811412359_1059"/>
             <zone points="391,658 448,655 505,652 562,650 620,649 677,649 734,649 792,649 849,650 906,651 964,653 1021,655 1078,657 1135,659 1193,661 1250,663 1307,666 1365,668 1422,670 1479,672 1537,674 1537,613 1479,611 1422,609 1365,607 1307,605 1250,602 1193,600 1135,598 1078,596 1021,594 964,592 906,590 849,589 792,588 734,588 677,588 620,588 562,589 505,591 448,594 391,597" rendition="Line" xml:id="facs_274_r1l1"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_275">
          <graphic height="2430px" url="Kasten_blau_45_8_0275.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="258,551 258,2321 1609,2321 1609,551" rendition="TextRegion" xml:id="facs_275_r1">
             <zone points="296,611 355,609 414,607 473,606 532,605 591,605 650,606 709,607 768,608 827,610 886,612 945,614 1004,616 1063,618 1122,621 1181,623 1240,624 1299,626 1358,628 1417,629 1476,629 1476,575 1417,575 1358,574 1299,572 1240,570 1181,569 1122,567 1063,564 1004,562 945,560 886,558 827,556 768,554 709,553 650,552 591,551 532,551 473,552 414,553 355,555 296,557" rendition="Line" xml:id="facs_275_r1l1"/>
             <zone points="281,642 389,634 1524,649 1580,650 1580,704 281,703" rendition="Line" xml:id="facs_275_line_1620811445202_1066"/>
@@ -147,7 +141,6 @@
       
 <surface lrx="1692" lry="2430" ulx="0" uly="0" xml:id="facs_276">
          <graphic height="2430px" url="Kasten_blau_45_8_0276.jpg" width="1692px"/>
-         <graphic height="2430px" url="" width="1692px"/>
          <zone points="182,478 182,1858 1602,1858 1602,478" rendition="TextRegion" xml:id="facs_276_r3">
             <zone points="329,525 514,527 566,531 618,533 670,536 723,539 775,541 827,544 879,547 931,549 984,551 1036,553 1088,554 1140,556 1192,557 1245,558 1297,559 1349,559 1401,559 1453,559 1506,558 1506,512 1453,513 1401,513 1349,513 1297,513 1245,512 1192,511 1140,510 1088,508 1036,507 984,505 931,503 879,501 827,498 775,495 723,493 670,490 618,487 566,485 514,481 329,479" rendition="Line" xml:id="facs_276_r3l1"/>
             <zone points="299,564 326,559 353,555 380,553 407,552 1456,585 1456,631 1359,635 1167,639 1071,639 926,636 830,633 782,631 299,610" rendition="Line" xml:id="facs_276_line_1620811575037_1156"/>
@@ -173,9 +166,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_274" n="274" xml:id="img_0274"/>
-
-<ab facs="#facs_274_r1" >
+         <pb facs="#facs_274" n="162 r" xml:id="Kasten_blau_45_8_0274.jpg"/>
+<ab facs="#facs_274_r1">
                <lb facs="#facs_274_line_1620811412359_1059" n="N001"/>Schike hierbey ewer Durchlaucht <choice><expan>vnterthenigst</expan><abbr><add>vnt</add></abbr></choice> <rs type="person">beyden</rs> die comedi, so neülich gehalten worden.
                <lb facs="#facs_274_r1l1" n="N002"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_274_r1l2" n="N003"/>Es erfreüet mich von herzen, aus ewer Durchlaucht
@@ -196,9 +188,8 @@
                <lb facs="#facs_274_r1l32" n="N018"/>brechen ließen, wie wohl ihr <rs type="person">Mayestät</rs> sich <choice><expan>allergnädigst</expan><abbr>allerg</abbr></choice>
                <lb facs="#facs_274_line_1620811340798_1038" n="N019"/>erklert, er könne kommen, wan er wolle,
             </ab>
-<pb facs="#facs_275" n="275" xml:id="img_0275"/>
-
-<ab facs="#facs_275_r1" >
+<pb facs="#facs_275" n="162 v" xml:id="Kasten_blau_45_8_0275.jpg"/>
+<ab facs="#facs_275_r1">
                <lb facs="#facs_275_r1l1" n="N001"/>es werde <rs type="person">ihnen</rs> angenehm sein, aber in andren
                <lb facs="#facs_275_line_1620811445202_1066" n="N002"/>sachen will ich mich derweil beßer erkundigen
                <lb facs="#facs_275_line_1620811448043_1070" n="N003"/>vndt mitt dem <rs type="person">Wangen</rs> reden. Mit nechster
@@ -213,15 +204,14 @@
                <lb facs="#facs_275_line_1620811489671_1103" n="N012"/>hatt. In den münischen sachen werden ewer Durchlaucht 
                <lb facs="#facs_275_line_1620811493680_1107" n="N013"/>alles vom <rs type="person">Hoher</rs> vernemmen weitläufig, vndt
                <lb facs="#facs_275_line_1620811498219_1111" n="N014"/>auch in publicis haben mihr ihr Mayestät etliche
-               <lb facs="#facs_275_line_1620811501379_1115" n="N015"/>sachen gesacht, die sie durch den Hoh<supplied >er</supplied> ewer Durchlaucht
-               <lb facs="#facs_275_r1l34" n="N016"/>comun<supplied >i</supplied>ciren laßen. Die sein all guett, aber weill
+               <lb facs="#facs_275_line_1620811501379_1115" n="N015"/>sachen gesacht, die sie durch den Hoh<supplied>er</supplied> ewer Durchlaucht
+               <lb facs="#facs_275_r1l34" n="N016"/>comun<supplied>i</supplied>ciren laßen. Die sein all guett, aber weill
                <lb facs="#facs_275_r1l35" n="N017"/>der Hoffkanzler ewer Durchlaucht weittleüfig bericht,
                <lb facs="#facs_275_line_1620811510245_1121" n="N018"/>will ich ewer Durchlaucht nit mitt deren doppelten
                <lb facs="#facs_275_line_1620811513318_1125" n="N019"/>lesung vngelegenheit machen. Der almechtig
             </ab>
-<pb facs="#facs_276" n="276" xml:id="img_0276"/>
-
-<ab facs="#facs_276_r3" >
+<pb facs="#facs_276" n="163 r" xml:id="Kasten_blau_45_8_0276.jpg"/>
+<ab facs="#facs_276_r3">
                <lb facs="#facs_276_r3l1" n="N001"/>geb sein gnadt vndt ihr <rs type="person">Mayestät</rs> ein, was zue
                <lb facs="#facs_276_line_1620811575037_1156" n="N002"/>seiner ehr vndt des gemeinen besten ist. Due
                <lb facs="#facs_276_r3l4" n="N003"/>mich hiermit in ewer Durchlaucht beharlige gnadt

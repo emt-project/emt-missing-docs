@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0029.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0029.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1676" lry="2543" ulx="0" uly="0" xml:id="facs_29">
          <graphic height="2543px" url="Kasten_blau_45_8_0029.jpg" width="1676px"/>
-         <graphic height="2543px" url="" width="1676px"/>
          <zone points="184,540 184,2410 1595,2410 1595,540" rendition="TextRegion" xml:id="facs_29_r1">
             <zone points="246,619 480,591 556,639 657,589 937,628 1006,588 1130,621 1567,586 1567,536 1433,547 1349,505 1209,545 1026,506 553,531 397,489 246,529" rendition="Line" xml:id="facs_29_r1l1"/>
             <zone points="234,732 450,683 550,733 630,690 726,718 857,663 1132,707 1261,657 1511,685 1547,584 1201,597 1109,644 882,593 763,627 656,591 567,641 476,594 230,592" rendition="Line" xml:id="facs_29_r1l2"/>
@@ -128,7 +123,6 @@
       
 <surface lrx="1680" lry="2519" ulx="0" uly="0" xml:id="facs_30">
          <graphic height="2519px" url="Kasten_blau_45_8_0030.jpg" width="1680px"/>
-         <graphic height="2519px" url="" width="1680px"/>
          <zone points="278,515 278,1764 1634,1764 1634,515" rendition="TextRegion" xml:id="facs_30_r1">
             <zone points="297,593 607,565 908,602 965,563 1167,596 1381,548 1601,560 1600,496 1364,529 1000,484 691,523 568,484 294,502" rendition="Line" xml:id="facs_30_r1l1"/>
             <zone points="274,685 481,622 638,660 693,615 882,608 942,650 1077,609 1129,655 1634,612 1632,527 1171,590 1006,557 272,582" rendition="Line" xml:id="facs_30_r1l2"/>
@@ -150,9 +144,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_29" n="29" xml:id="img_0029"/>
-
-<ab facs="#facs_29_r1" >
+         <pb facs="#facs_29" n="49 r" xml:id="Kasten_blau_45_8_0029.jpg"/>
+<ab facs="#facs_29_r1">
                <lb facs="#facs_29_r1l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_29_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vndt <choice><expan>gnädige</expan><abbr>g</abbr></choice> anwüntschung zu ihr
                <lb facs="#facs_29_r1l3" n="N003"/><rs type="person">Mayestät</rs>, meines <choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaisers, nahmen dach hab mit grosen
@@ -178,9 +171,8 @@
                <lb facs="#facs_29_r1l28" n="N023"/>vorbey sein, er auch so guette dienst darbey würd
                <lb facs="#facs_29_r1l29" n="N024"/>geleistet haben vndt nachgehns widerumb in den weltligen
             </ab>
-<pb facs="#facs_30" n="30" xml:id="img_0030"/>
-
-<ab facs="#facs_30_r1" >
+<pb facs="#facs_30" n="49 v" xml:id="Kasten_blau_45_8_0030.jpg"/>
+<ab facs="#facs_30_r1">
                <lb facs="#facs_30_r1l1" n="N001"/>stant widrumb anemmen würde, so soll <rs type="person">er</rs> in haben. Ich
                <lb facs="#facs_30_r1l2" n="N002"/>hab noch mit ihr <rs type="person">Mayestät</rs> nit daruon gerett, aber mich bedunkt,
                <lb facs="#facs_30_r1l3" n="N003"/>auf diese weis soll es am ehnsten angehn. Sonsten

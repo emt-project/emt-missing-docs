@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0034.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0034.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1677-05-09"></origDate></origin>
+                        <origin><origDate when-iso="1677-05-09"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__31">Laxenburg</placeName>
-               <date  when-iso="1677-05-09"></date>
+               <date when-iso="1677-05-09"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1640" lry="2446" ulx="0" uly="0" xml:id="facs_34">
          <graphic height="2446px" url="Kasten_blau_45_8_0034.jpg" width="1640px"/>
-         <graphic height="2446px" url="" width="1640px"/>
          <zone points="242,470 242,2239 1581,2239 1581,470" rendition="TextRegion" xml:id="facs_34_r1">
             <zone points="257,553 576,582 787,527 879,573 1232,517 1330,553 1497,507 1495,452 1319,416 1177,470 934,468 817,426 678,489 470,467 285,460" rendition="Line" xml:id="facs_34_r1l1"/>
             <zone points="285,678 369,641 424,668 488,618 722,645 1014,591 1456,596 1456,552 1048,523 873,575 808,540 699,597 279,545" rendition="Line" xml:id="facs_34_r1l2"/>
@@ -129,9 +124,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_34" n="34" xml:id="img_0034"/>
-
-<ab facs="#facs_34_r1" >
+         <pb facs="#facs_34" n="53 r" xml:id="Kasten_blau_45_8_0034.jpg"/>
+<ab facs="#facs_34_r1">
                <lb facs="#facs_34_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_34_r1l2" n="N002"/>Ich sag gehorsamen dankh vohr die <choice><expan>gnädigen</expan><abbr>g</abbr></choice> bezeigungen in
                <lb facs="#facs_34_r1l4" n="N003"/>dero schreiben vom <date month="4" day="24" year="1677">24</date> des vohrigen monats vndt bitte,
@@ -141,7 +135,7 @@
                <lb facs="#facs_34_r1l13" n="N007"/>werden iezt wehnig schpas haben, weilen sie nit werden beysen
                <lb facs="#facs_34_r1l14" n="N008"/>könen wegen der <rs type="place">franzosen</rs>. Es geht freilich leider gahr
                <lb facs="#facs_34_r1l16" n="N009"/>schlecht in <rs type="place">Niderlant</rs> zu. Ihr <rs type="person">Mayestät</rs> haben gahr ein groses
-               <lb facs="#facs_34_r1l17" n="N010"/>wollgefallen gehabt an den guetten vohrschlägen vndt warnu<supplied >n</supplied>gen,
+               <lb facs="#facs_34_r1l17" n="N010"/>wollgefallen gehabt an den guetten vohrschlägen vndt warnu<supplied>n</supplied>gen,
                <lb facs="#facs_34_r1l18" n="N011"/>so ihr Durchlaucht haben duen wollen. Sie werden mit dem <rs type="person">Kanzler</rs>
                <lb facs="#facs_34_line_1591518090107_343" n="N012"/>daraus reden, welches filleicht heüt wirt geschen eh mihr
                <lb facs="#facs_34_r1l21" n="N013"/>hinaus gehn. Sie sagen, die vohrschläg wahren wohl gutt,

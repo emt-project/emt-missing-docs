@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0184.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0184.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1679-03-22"></origDate></origin>
+                        <origin><origDate when-iso="1679-03-22"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,17 +77,17 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1679-03-22"></date>
+               <date when-iso="1679-03-22"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,7 +118,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_185">
          <graphic height="2461px" url="Kasten_blau_45_8_0185.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="119,148 119,2329 1601,2329 1601,148" rendition="TextRegion" xml:id="facs_185_r1">
             <zone points="170,259 240,252 311,245 382,239 453,234 524,230 595,226 665,223 736,220 807,218 878,216 949,215 1020,214 1091,213 1161,212 1232,211 1303,210 1374,209 1445,208 1516,206 1587,205 1587,148 1516,149 1445,151 1374,152 1303,153 1232,154 1161,155 1091,156 1020,157 949,158 878,159 807,161 736,163 665,166 595,169 524,173 453,177 382,182 311,188 240,195 170,202" rendition="Line" xml:id="facs_185_r1l1"/>
             <zone points="167,337 235,333 304,328 373,325 441,322 510,320 579,318 647,316 716,315 785,314 854,313 922,312 991,312 1060,310 1128,309 1197,308 1266,306 1334,304 1403,301 1472,299 1541,294 1541,237 1472,242 1403,244 1334,247 1266,249 1197,251 1128,252 1060,253 991,255 922,255 854,256 785,257 716,258 647,259 579,261 510,263 441,265 373,268 304,271 235,276 167,280" rendition="Line" xml:id="facs_185_r1l2"/>
@@ -151,7 +146,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_186">
          <graphic height="2461px" url="Kasten_blau_45_8_0186.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="80,99 80,2365 1599,2365 1599,99" rendition="TextRegion" xml:id="facs_186_r4">
             <zone points="109,196 181,191 254,186 327,183 400,180 473,178 545,176 618,174 691,173 764,172 837,172 909,171 982,171 1055,170 1128,170 1201,169 1273,168 1346,166 1419,164 1492,162 1565,159 1565,99 1492,102 1419,104 1346,106 1273,108 1201,109 1128,110 1055,110 982,111 909,111 837,112 764,112 691,113 618,114 545,116 473,118 400,120 327,123 254,126 181,131 109,136" rendition="Line" xml:id="facs_186_r4l1"/>
             <zone points="80,285 153,282 226,279 300,276 373,274 446,272 520,270 593,269 666,268 740,266 813,265 886,263 960,262 1033,259 1106,257 1180,253 1253,251 1326,246 1400,241 1473,234 1547,227 1547,167 1473,174 1400,181 1326,186 1253,191 1180,193 1106,197 1033,199 960,202 886,203 813,205 740,206 666,208 593,209 520,210 446,212 373,214 300,216 226,219 153,222 80,225" rendition="Line" xml:id="facs_186_r4l2"/>
@@ -180,7 +174,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_187">
          <graphic height="2461px" url="Kasten_blau_45_8_0187.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="120,108 120,2310 1624,2310 1624,108" rendition="TextRegion" xml:id="facs_187_r1">
             <zone points="181,108 1615,120 1615,178 301,185 209,177 181,171" rendition="Line" xml:id="facs_187_line_1619786579714_778"/>
             <zone points="178,200 248,200 1538,201 1538,255 1111,262 929,264 685,264 178,263" rendition="Line" xml:id="facs_187_line_1619786582333_782"/>
@@ -210,7 +203,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_188">
          <graphic height="2461px" url="Kasten_blau_45_8_0188.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="110,145 110,2368 1617,2368 1617,145" rendition="TextRegion" xml:id="facs_188_r4">
             <zone points="156,242 205,240 254,238 304,236 353,235 403,233 452,231 502,230 551,228 601,226 650,225 699,223 749,222 798,220 848,219 897,216 947,215 996,213 1046,210 1095,208 1145,206 1145,145 1095,147 1046,149 996,152 947,154 897,155 848,158 798,159 749,161 699,162 650,164 601,165 551,167 502,169 452,170 403,172 353,174 304,175 254,177 205,179 156,181" rendition="Line" xml:id="facs_188_r4l1"/>
             <zone points="153,328 221,327 289,325 357,323 425,321 493,317 561,314 629,311 697,308 765,304 833,301 901,298 969,296 1037,293 1105,291 1173,290 1241,290 1309,290 1377,291 1445,293 1514,296 1514,235 1445,232 1377,230 1309,229 1241,229 1173,229 1105,230 1037,232 969,235 901,237 833,240 765,243 697,247 629,250 561,253 493,256 425,260 357,262 289,264 221,266 153,267" rendition="Line" xml:id="facs_188_r4l2"/>
@@ -238,7 +230,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_189">
          <graphic height="2461px" url="Kasten_blau_45_8_0189.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="142,134 142,2295 1598,2295 1598,134" rendition="TextRegion" xml:id="facs_189_r1">
             <zone points="142,246 214,242 286,238 358,234 431,230 503,227 575,224 647,221 720,218 792,216 864,213 936,211 1009,209 1081,207 1153,205 1225,204 1298,202 1370,200 1442,198 1514,197 1587,195 1587,134 1514,136 1442,137 1370,139 1298,141 1225,143 1153,144 1081,146 1009,148 936,150 864,152 792,155 720,157 647,160 575,163 503,166 431,169 358,173 286,177 214,181 142,185" rendition="Line" xml:id="facs_189_r1l1"/>
             <zone points="296,437 320,443 397,439 470,439 547,436 548,367 487,370 413,374 320,382 296,376" rendition="Line" xml:id="facs_189_r1l2"/>
@@ -266,9 +257,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_184" n="184" xml:id="img_0184"/>
-
-<ab facs="#facs_184_r1" >
+         <pb facs="#facs_184" n="111 r" xml:id="Kasten_blau_45_8_0184.jpg"/>
+<ab facs="#facs_184_r1">
                <lb facs="#facs_184_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_184_r1l2" n="N002"/>Bitte vnterdehnig vmb vergebung, das ich mit
                <lb facs="#facs_184_r1l3" n="N003"/>vohriger post meine schuldichkeit nit habe abgelegt.
@@ -290,9 +280,8 @@
                <lb facs="#facs_184_r1l28" n="N019"/>ausgestanden, seint sie noch nie widerumb
                <lb facs="#facs_184_line_1619786132276_582" n="N020"/>so gahr stark gewesen, als vohrhin. Dieses derf
             </ab>
-<pb facs="#facs_185" n="185" xml:id="img_0185"/>
-
-<ab facs="#facs_185_r1" >
+<pb facs="#facs_185" n="111 v" xml:id="Kasten_blau_45_8_0185.jpg"/>
+<ab facs="#facs_185_r1">
                <lb facs="#facs_185_r1l1" n="N001"/>ihr Durchlaucht <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> nit schreiben aus forcht, sie möchten
                <lb facs="#facs_185_r1l2" n="N002"/>sich schwere gedanken darüber machen, aber mihr
                <lb facs="#facs_185_r1l3" n="N003"/>liget steht die angst auf dem herzen vndt
@@ -317,9 +306,8 @@
                <lb facs="#facs_185_r1l54" n="N022"/>werden ewer Durchlaucht die expedition mit der staffetta,
                <lb facs="#facs_185_r1l55" n="N023"/>welche schon verwichen erchtag 8 dag ergangen, empfangen
             </ab>
-<pb facs="#facs_186" n="186" xml:id="img_0186"/>
-
-<ab facs="#facs_186_r4" >
+<pb facs="#facs_186" n="112 r" xml:id="Kasten_blau_45_8_0186.jpg"/>
+<ab facs="#facs_186_r4">
                <lb facs="#facs_186_r4l1" n="N001"/>haben. Es haben ihr <rs type="person">Mayestät</rs> auch schon die post vorhero die
                <lb facs="#facs_186_r4l2" n="N002"/>expedition auf allen fall vohr den <rs type="person">Grau von Ötingen</rs>
                <lb facs="#facs_186_line_1619786387155_692" n="N003"/>ergehn laßen. Die hantschreiben, so ewer Durchlaucht verlangen
@@ -344,9 +332,8 @@
                <lb facs="#facs_186_r4l40" n="N022"/><rs type="person">Graus von Öting</rs> expedition geschen wegen des tituls,
                <lb facs="#facs_186_line_1619786478709_757" n="N023"/>ist in der <rs type="org">geheimen canzelei</rs> geschen durch verges, das
             </ab>
-<pb facs="#facs_187" n="187" xml:id="img_0187"/>
-
-<ab facs="#facs_187_r1" >
+<pb facs="#facs_187" n="112 v" xml:id="Kasten_blau_45_8_0187.jpg"/>
+<ab facs="#facs_187_r1">
                <lb facs="#facs_187_line_1619786579714_778" n="N001"/>sie es an die <rs type="org">reichs cancelei</rs> nit <unclear>intimirt</unclear> haben, welche
                <lb facs="#facs_187_line_1619786582333_782" n="N002"/>von deren an alle<seg type="blackening">r</seg> canzeleien geschen mues. Ist aber
                <lb facs="#facs_187_line_1619786589867_787" n="N003"/>schon alles widerumb redressirt worden. Des <rs type="person">Königsekh</rs>
@@ -372,9 +359,8 @@
                <lb facs="#facs_187_line_1619786671450_844" n="N023"/>Mayestät seint gahr wohl darmit zuefriden vndt
                <lb facs="#facs_187_line_1619786675542_848" n="N024"/>werden auch gern darzue cooperiren. Erwarten
             </ab>
-<pb facs="#facs_188" n="188" xml:id="img_0188"/>
-
-<ab facs="#facs_188_r4" >
+<pb facs="#facs_188" n="113 r" xml:id="Kasten_blau_45_8_0188.jpg"/>
+<ab facs="#facs_188_r4">
                <lb facs="#facs_188_r4l1" n="N001"/>also, wie die sach verners gehen wirt.
                <lb facs="#facs_188_r4l2" n="N002"/>Was die <rs type="place">schpanische Niderlanden</rs> anbelanget, so werden
                <lb facs="#facs_188_r4l3" n="N003"/>ihr <rs type="person">Mayestät</rs> kein bedenken haben, wan ewer Durchlaucht aus sich
@@ -398,9 +384,8 @@
                <lb facs="#facs_188_line_1619786775060_902" n="N021"/>mich hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen,
                <lb facs="#facs_188_line_1619786785593_907" n="N022"/>habe so schon mitt meinem langen brief heünt
             </ab>
-<pb facs="#facs_189" n="189" xml:id="img_0189"/>
-
-<ab facs="#facs_189_r1" >
+<pb facs="#facs_189" n="113 v" xml:id="Kasten_blau_45_8_0189.jpg"/>
+<ab facs="#facs_189_r1">
                <lb facs="#facs_189_r1l1" n="N001"/>gahr zue lang vngelegenheit gemacht. Ich werde sterben
                <lb facs="#facs_189_r1l2" n="N002"/>ewer Durchlaucht
                <lb facs="#facs_189_line_1619786840331_920" n="N003"/>ganz ergebenste trewgehorsamste dochter
@@ -414,7 +399,7 @@
                <lb facs="#facs_189_line_1619786925979_944" n="N011"/>die könftige post nit schreibet. Es ist in der
                <lb facs="#facs_189_line_1619786930639_948" n="N012"/><choice><expan>heiligen</expan><abbr>h</abbr></choice> carwoch so vill in die kirch zue gehen, das
                <lb facs="#facs_189_line_1619786938766_952" n="N013"/>fast vnmöglich, so vill zeit zue haben. So eben
-               <lb facs="#facs_189_line_1619786945471_957" n="N014"/>ist der <rs type="person">Schellerer</rs> zue mihr kommen vndt <supplied >hat</supplied> noch-
+               <lb facs="#facs_189_line_1619786945471_957" n="N014"/>ist der <rs type="person">Schellerer</rs> zue mihr kommen vndt <supplied>hat</supplied> noch-
                <lb facs="#facs_189_line_1619786953055_961" n="N015"/>einmahl instans gedahn wegen des <rs type="person">Entler</rs>. Ich will
                <lb facs="#facs_189_r1l37" n="N016"/>in allem mein best duen, aber wan man gahr
                <lb facs="#facs_189_line_1619786958626_966" n="N017"/>zue vill vohr aus verschpricht, so duen die

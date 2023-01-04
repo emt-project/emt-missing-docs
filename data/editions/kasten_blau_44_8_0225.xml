@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0225.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0225.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-11-26"></origDate></origin>
+                        <origin><origDate when-iso="1701-11-26"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-11-26"></date>
+               <date when-iso="1701-11-26"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1682" lry="2465" ulx="0" uly="0" xml:id="facs_225">
          <graphic height="2465px" url="Kasten_blau_44_8_0225.jpg" width="1682px"/>
-         <graphic height="2465px" url="" width="1682px"/>
          <zone points="117,67 117,2381 1579,2381 1579,67" rendition="TextRegion" xml:id="facs_225_r1">
             <zone points="161,86 234,86 305,86 368,88 416,88 479,88 479,138 416,138 367,138 304,136 234,136 161,136" rendition="Line" xml:id="facs_225_line_1656487398005_15"/>
             <zone points="214,759 383,762 435,762 487,762 539,763 591,765 643,767 695,769 747,772 799,775 851,777 903,780 955,783 1007,785 1059,788 1111,789 1163,791 1215,792 1267,792 1319,791 1497,784 1497,712 1319,719 1267,720 1215,720 1163,719 1111,717 1059,716 1007,713 955,711 903,708 851,705 799,703 747,700 695,697 643,695 591,693 539,691 487,690 435,690 383,690 214,687" rendition="Line" xml:id="facs_225_r1l2"/>
@@ -124,26 +119,25 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_225" n="225" xml:id="img_0225"/>
-
-<ab facs="#facs_225_r1" >
+         <pb facs="#facs_225" n="128 r" xml:id="Kasten_blau_44_8_0225.jpg" ed="132 r"/>
+<ab facs="#facs_225_r1">
                <lb facs="#facs_225_line_1656487398005_15" n="N001"/><unclear>26 9bris 1701</unclear>
-               <lb facs="#facs_225_r1l2" n="N002"/>Du<supplied >r</supplied>chleuchtiger Curf<supplied >ür</supplied>st, mein h<supplied >erz</supplied>allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
-               <lb facs="#facs_225_r1l3" n="N003"/>Ist mihr vnmüglich, dero libst sch<supplied >rei</supplied>ben zu beantw<supplied >or</supplied>ten.
-               <lb facs="#facs_225_r1l4" n="N004"/>Mein K<supplied >e</supplied>iser ist vohr g<supplied >e</supplied>ste<supplied >r</supplied>n krankh gew<supplied >e</supplied>st, <supplied >hat</supplied> große schme<supplied >rz</supplied>en
-               <lb facs="#facs_225_r1l5" n="N005"/>gehabt, haben glaubt, <supplied >es</supplied> sey ein stein, dan <supplied >hat er</supplied> sich sehr
+               <lb facs="#facs_225_r1l2" n="N002"/>Du<supplied>r</supplied>chleuchtiger Curf<supplied>ür</supplied>st, mein h<supplied>erz</supplied>allerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+               <lb facs="#facs_225_r1l3" n="N003"/>Ist mihr vnmüglich, dero libst sch<supplied>rei</supplied>ben zu beantw<supplied>or</supplied>ten.
+               <lb facs="#facs_225_r1l4" n="N004"/>Mein K<supplied>e</supplied>iser ist vohr g<supplied>e</supplied>ste<supplied>r</supplied>n krankh gew<supplied>e</supplied>st, <supplied>hat</supplied> große schme<supplied>rz</supplied>en
+               <lb facs="#facs_225_r1l5" n="N005"/>gehabt, haben glaubt, <supplied>es</supplied> sey ein stein, dan <supplied>hat er</supplied> sich sehr
                <lb facs="#facs_225_r1l6" n="N006"/>gebrochen, aber gottlob ist alles wider gutt,
                <lb facs="#facs_225_r1l7" n="N007"/>morgen werdens wider ausgehn. Ich bin woll in
                <lb facs="#facs_225_line_1611239326015_268" n="N008"/>großen ängsten gewest, gottlob, das so ist abgangen.
                <lb facs="#facs_225_r1l10" n="N009"/>Ich höre, dero Liebden wollen den Wißer wider herschiken, wirt
                <lb facs="#facs_225_r1l11" n="N010"/>gutt sein, dan man müntlich in einer stundt
-               <lb facs="#facs_225_line_1611239772099_305" n="N011"/>mehr reden k<supplied >a</supplied>n, als vill brif. Hirbey komen die
-               <lb facs="#facs_225_r1l14" n="N012"/>dachzettel, auch <unclear>ein</unclear> sch<supplied >rei</supplied>ben von der alten Magrazen
-               <lb facs="#facs_225_line_1611239381682_282" n="N013"/>vnd <choice><expan>Pater</expan><abbr>P</abbr></choice> Prou<supplied >in</supplied>zial, dero Liebden werden ihre <unclear>beger</unclear> sehen,
+               <lb facs="#facs_225_line_1611239772099_305" n="N011"/>mehr reden k<supplied>a</supplied>n, als vill brif. Hirbey komen die
+               <lb facs="#facs_225_r1l14" n="N012"/>dachzettel, auch <unclear>ein</unclear> sch<supplied>rei</supplied>ben von der alten Magrazen
+               <lb facs="#facs_225_line_1611239381682_282" n="N013"/>vnd <choice><expan>Pater</expan><abbr>P</abbr></choice> Prou<supplied>in</supplied>zial, dero Liebden werden ihre <unclear>beger</unclear> sehen,
                <lb facs="#facs_225_line_1611239390345_286" n="N014"/>die alte <choice><expan>fraw</expan><abbr>f</abbr></choice> stirbt balt. Due dero Liebden <unclear>reumutig</unclear>
-               <lb facs="#facs_225_r1l21" n="N015"/>biten, <unclear>mein</unclear> <choice><expan>fraw</expan><abbr>f</abbr></choice> <seg type="comment">schw<supplied >e</supplied>ster</seg> vill schens <supplied >auszurichten</supplied>, lebe und st<supplied >e</supplied>rbe
+               <lb facs="#facs_225_r1l21" n="N015"/>biten, <unclear>mein</unclear> <choice><expan>fraw</expan><abbr>f</abbr></choice> <seg type="comment">schw<supplied>e</supplied>ster</seg> vill schens <supplied>auszurichten</supplied>, lebe und st<supplied>e</supplied>rbe
                <lb facs="#facs_225_line_1611240078015_326" n="N016"/>dero Liebden
-               <lb facs="#facs_225_r1l22" n="N017"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied >e</supplied>ster
+               <lb facs="#facs_225_r1l22" n="N017"/><choice><expan>getrewste</expan><abbr>gtrste</abbr></choice> schw<supplied>e</supplied>ster
                <lb facs="#facs_225_r1l24" n="N018"/>Eleonora
                <lb facs="#facs_225_line_1611240080449_331" n="N019"/>Wien den 26ten <choice><expan>novembris</expan><abbr>9br</abbr></choice> 1701
             </ab>

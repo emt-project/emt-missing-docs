@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0168.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0168.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1678-12-15"></origDate></origin>
+                        <origin><origDate when-iso="1678-12-15"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1678-12-15"></date>
+               <date when-iso="1678-12-15"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_168">
          <graphic height="2461px" url="Kasten_blau_45_8_0168.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="280,542 280,2320 1594,2320 1594,542" rendition="TextRegion" xml:id="facs_168_r2">
             <zone points="408,613 466,613 524,613 582,613 640,612 698,611 756,610 814,609 872,608 930,607 988,605 1046,603 1104,602 1162,600 1220,598 1278,596 1336,595 1394,593 1452,591 1510,589 1568,587 1568,542 1510,544 1452,546 1394,548 1336,550 1278,551 1220,553 1162,555 1104,557 1046,558 988,560 930,562 872,563 814,564 756,565 698,566 640,567 582,568 524,568 466,568 408,568" rendition="Line" xml:id="facs_168_r2l1"/>
             <zone points="344,725 403,717 462,711 521,705 580,701 639,698 698,695 758,692 817,690 876,689 935,688 994,687 1053,686 1112,685 1172,684 1231,683 1290,681 1349,679 1408,677 1467,674 1527,670 1527,625 1467,629 1408,632 1349,634 1290,636 1231,638 1172,639 1112,640 1053,641 994,642 935,643 876,644 817,645 758,647 698,650 639,653 580,656 521,660 462,666 403,672 344,680" rendition="Line" xml:id="facs_168_r2l2"/>
@@ -122,7 +117,6 @@
       
 <surface lrx="1684" lry="2461" ulx="0" uly="0" xml:id="facs_169">
          <graphic height="2461px" url="Kasten_blau_45_8_0169.jpg" width="1684px"/>
-         <graphic height="2461px" url="" width="1684px"/>
          <zone points="155,476 155,2104 1595,2087 1595,459" rendition="TextRegion" xml:id="facs_169_r2">
             <zone points="285,528 343,532 402,535 460,537 519,538 577,538 636,538 694,536 753,535 811,533 870,531 928,529 987,526 1045,524 1104,522 1162,520 1221,518 1279,517 1338,516 1396,516 1455,517 1455,460 1396,459 1338,459 1279,460 1221,461 1162,463 1104,465 1045,467 987,469 928,472 870,474 811,476 753,478 694,479 636,481 577,481 519,481 460,480 402,478 343,475 285,471" rendition="Line" xml:id="facs_169_r2l1"/>
             <zone points="277,557 379,555 1315,544 1362,544 1409,545 1409,602 892,628 798,632 751,633 704,633 657,632 610,630 277,614" rendition="Line" xml:id="facs_169_line_1618572669730_2321"/>
@@ -149,9 +143,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_168" n="168" xml:id="img_0168"/>
-
-<ab facs="#facs_168_r2" >
+         <pb facs="#facs_168" n="29 r" xml:id="Kasten_blau_45_8_0168.jpg"/>
+<ab facs="#facs_168_r2">
                <lb facs="#facs_168_r2l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_168_r2l2" n="N002"/>Es erfreüet mich von herzen, aus dero <choice><expan>gnädigstem</expan><abbr>g</abbr></choice> schreiben
                <lb facs="#facs_168_r2l3" n="N003"/>vom <date month="12" day="6" year="1678">6 dieß</date> zue vernemmen, das sich ewer Durchlaucht
@@ -172,9 +165,8 @@
                <lb facs="#facs_168_r2l66" n="N018"/>können, zweifle nit, es werde alles gahr
                <lb facs="#facs_168_r2l68" n="N019"/>schön werden. Ich sage auch vnterdehnigen dankh
             </ab>
-<pb facs="#facs_169" n="169" xml:id="img_0169"/>
-
-<ab facs="#facs_169_r2" >
+<pb facs="#facs_169" n="29v" xml:id="Kasten_blau_45_8_0169.jpg"/>
+<ab facs="#facs_169_r2">
                <lb facs="#facs_169_r2l1" n="N001"/>vor den wein, ewer Durchlaucht überhaüfen mich allzeit
                <lb facs="#facs_169_line_1618572669730_2321" n="N002"/>mehrer mit dero <choice><expan>gnade</expan><abbr>g</abbr></choice>, das ich nit worte
                <lb facs="#facs_169_line_1618572679555_2328" n="N003"/>genuech finden kan, genuechsammen dankh

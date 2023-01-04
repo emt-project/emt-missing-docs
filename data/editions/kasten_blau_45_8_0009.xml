@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0009.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0009.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate></origDate></origin>
+                        <origin><origDate/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -82,23 +78,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">o.O.</placeName>
-               <date ></date>
+               <date/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2406" ulx="0" uly="0" xml:id="facs_9">
          <graphic height="2406px" url="Kasten_blau_45_8_0009.jpg" width="1644px"/>
-         <graphic height="2406px" url="" width="1644px"/>
          <zone points="113,217 205,2336 1565,2336 1473,217" rendition="TextRegion" xml:id="facs_9_r3">
             <zone points="328,575 431,548 728,593 1267,529 1378,567 1531,542 1530,466 1342,452 1063,498 829,460 774,495 323,450" rendition="Line" xml:id="facs_9_r3l1"/>
             <zone points="333,639 427,610 674,677 912,622 1074,647 1355,607 1409,638 1476,620 1475,535 1380,567 1280,528 1135,542 980,602 913,555 695,597 332,554" rendition="Line" xml:id="facs_9_r3l2"/>
@@ -135,9 +130,8 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_9" n="9" xml:id="img_0009"/>
-
-<ab facs="#facs_9_r3" >
+         <pb facs="#facs_9" n="35 r" xml:id="Kasten_blau_45_8_0009.jpg"/>
+<ab facs="#facs_9_r3">
                <lb facs="#facs_9_r3l1" n="N001"/>Durchleüchtigster Fürst, herz allerliebster herr vatter
                <lb facs="#facs_9_r3l2" n="N002"/>Dero allerliebstes schreiben vom <date month="2" day="5" year="1677">5</date> dieses hatt mihr
                <lb facs="#facs_9_r3l3" n="N003"/>zwahr freüde veruhrsachet, in deme ich daraus ihr Durchlaucht
@@ -164,11 +158,11 @@
                <lb facs="#facs_9_r3l27" n="N024"/>dochter
                <lb facs="#facs_9_r3l29" n="N025"/><choice><expan>Eleonora</expan><abbr>E</abbr></choice> <choice><expan>Magdalena</expan><abbr>M</abbr></choice> Theresia
             </ab>
-<ab facs="#facs_9_region_1591703084085_123" >
+<ab facs="#facs_9_region_1591703084085_123">
                <lb facs="#facs_9_line_1591703175497_164" n="N001"/>Ihr Mayestät der verwitibte Kayserin schmekt auch der rodenfelder käs gahr
                <lb facs="#facs_9_line_1591703420382_177" n="N002"/>wohl, aber mit taratuflen in öhl. Bin fro, das nit mit mues eßen.
             </ab>
-<ab facs="#facs_9_region_1591703096446_126" >
+<ab facs="#facs_9_region_1591703096446_126">
             </ab>
 
       </body>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_44_8_0203.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_44_8_0203.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1701-10-19"></origDate></origin>
+                        <origin><origDate when-iso="1701-10-19"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#emt_place_id__63">Wien</placeName>
-               <date  when-iso="1701-10-19"></date>
+               <date when-iso="1701-10-19"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__18">Johann Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1680" lry="2467" ulx="0" uly="0" xml:id="facs_203">
          <graphic height="2467px" url="Kasten_blau_44_8_0203.jpg" width="1680px"/>
-         <graphic height="2467px" url="" width="1680px"/>
          <zone points="69,87 69,2403 1563,2403 1563,87" rendition="TextRegion" xml:id="facs_203_r1">
             <zone points="252,936 475,920 551,976 638,929 874,972 978,946 1040,993 1452,936 1456,818 1173,851 802,781 701,827 515,796 405,812 247,800" rendition="Line" xml:id="facs_203_r1l2"/>
             <zone points="119,1087 294,1042 413,1088 557,1040 1242,1118 1476,1058 1478,976 1165,962 1070,1007 952,945 849,991 669,933 518,973 417,917 252,997 121,974" rendition="Line" xml:id="facs_203_r1l3"/>
@@ -121,7 +116,6 @@
       
 <surface lrx="1680" lry="2467" ulx="0" uly="0" xml:id="facs_204">
          <graphic height="2467px" url="Kasten_blau_44_8_0204.jpg" width="1680px"/>
-         <graphic height="2467px" url="" width="1680px"/>
          <zone points="423,44 423,218 1053,218 1053,44" rendition="TextRegion" xml:id="facs_204_r1">
             <zone points="423,218 454,216 486,214 517,213 549,212 580,211 612,210 643,209 675,209 706,208 738,208 769,207 801,206 832,206 864,205 895,204 927,202 958,200 990,198 1021,197 1053,194 1053,44 1021,47 990,48 958,50 927,52 895,54 864,55 832,56 801,56 769,57 738,58 706,58 675,59 643,59 612,60 580,61 549,62 517,63 486,64 454,66 423,68" rendition="Line" xml:id="facs_204_r1l1"/></zone>
       </surface>
@@ -290,7 +284,6 @@
       
 <surface lrx="1666" lry="2495" ulx="0" uly="0" xml:id="facs_209">
          <graphic height="2495px" url="Kasten_blau_44_8_0209.jpg" width="1666px"/>
-         <graphic height="2495px" url="" width="1666px"/>
          <zone points="669,2186 669,2346 790,2346 790,2186" rendition="TextRegion" xml:id="facs_209_r1"/>
          <zone points="704,933 1257,933 1257,1717 704,1717" rendition="TextRegion" xml:id="facs_209_region_1656239908188_12">
             <zone points="1043,1022 1050,1091 1053,1158 1053,1233 1056,1325 1051,1432 1059,1501 1059,1572 1009,1572 1009,1504 1001,1433 1006,1325 1003,1234 1003,1159 1000,1094 993,1028" rendition="Line" xml:id="facs_209_line_1656239933388_16"/>
@@ -302,36 +295,33 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_203" n="203" xml:id="img_0203"/>
-
-<ab facs="#facs_203_r1" >
-               <lb facs="#facs_203_r1l2" n="N001"/>Durchleüchtiger Curfü<supplied >r</supplied>st, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
+         <pb facs="#facs_203" n="114 r" xml:id="Kasten_blau_44_8_0203.jpg" ed="109 r"/>
+<ab facs="#facs_203_r1">
+               <lb facs="#facs_203_r1l2" n="N001"/>Durchleüchtiger Curfü<supplied>r</supplied>st, herzallerlibster <choice><expan>herr</expan><abbr>h</abbr></choice> bruder
                <lb facs="#facs_203_r1l3" n="N002"/>In aller eil bitt vmb vergebung, das nit
-               <lb facs="#facs_203_r1l4" n="N003"/>antw<supplied >o</supplied>rt auf dero <choice><expan>schreiben</expan><abbr>sch</abbr></choice>, mein sohn Carl ist zimlich
+               <lb facs="#facs_203_r1l4" n="N003"/>antw<supplied>o</supplied>rt auf dero <choice><expan>schreiben</expan><abbr>sch</abbr></choice>, mein sohn Carl ist zimlich
                <lb facs="#facs_203_r1l5" n="N004"/>starkh krankh gewest an ein halsweh mitt
                <lb facs="#facs_203_r1l6" n="N005"/>starker hiz, hatt 3 dag gewehrt, heüt aber ist er
                <lb facs="#facs_203_r1l7" n="N006"/>frey. Mein <choice><expan>fraw</expan><abbr>f</abbr></choice> dochter hatt heüt ader gelaßen,
                <lb facs="#facs_203_r1l8" n="N007"/>izt, hoff ich, werds balt angehen. Ich hab
-               <lb facs="#facs_203_r1l9" n="N008"/>darumb vnmoglig zeit zu <choice><expan>schreiben</expan><abbr>sch</abbr></choice>, b<supplied >e</supplied>fehls mich
-               <lb facs="#facs_203_r1l10" n="N009"/>dero Liebden vnd mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin, lebe vnd ste<supplied >r</supplied>be
+               <lb facs="#facs_203_r1l9" n="N008"/>darumb vnmoglig zeit zu <choice><expan>schreiben</expan><abbr>sch</abbr></choice>, b<supplied>e</supplied>fehls mich
+               <lb facs="#facs_203_r1l10" n="N009"/>dero Liebden vnd mein <choice><expan>fraw</expan><abbr>f</abbr></choice> schwegrin, lebe vnd ste<supplied>r</supplied>be
                <lb facs="#facs_203_line_1610289373161_265" n="N010"/>dero Liebden
-               <lb facs="#facs_203_r1l13" n="N011"/>g<supplied >e</supplied>trewste schw<supplied >e</supplied>ster
+               <lb facs="#facs_203_r1l13" n="N011"/>g<supplied>e</supplied>trewste schw<supplied>e</supplied>ster
                <lb facs="#facs_203_line_1610289097603_249" n="N012"/>Eleonora
                <lb facs="#facs_203_r1l11" n="N013"/>Wien den 19ten <choice><expan>octobris</expan><abbr>8br</abbr></choice> 1701
                <lb facs="#facs_203_line_1610289097603_250" n="N014"/>Dero Liebden werden wißen die napolitanisch
                <lb facs="#facs_203_r1l15" n="N015"/>sachen, so haben ihr Mayestät gutt gefunden, die armen vnd trewen
                <lb facs="#facs_203_r1l16" n="N016"/>leüt zu saluiren, den Duche Moles hier anzuhalten vnd
-               <lb facs="#facs_203_r1l17" n="N017"/>zu drohen, das sie mit ihm auch scharf verfah<supplied >r</supplied>en werden, wan man den was
+               <lb facs="#facs_203_r1l17" n="N017"/>zu drohen, das sie mit ihm auch scharf verfah<supplied>r</supplied>en werden, wan man den was
                <lb facs="#facs_203_r1l18" n="N018"/>dun wurde.
             </ab>
-<pb facs="#facs_204" n="204" xml:id="img_0204"/>
-
-<ab facs="#facs_204_r1" >
+<pb facs="#facs_204" n="115 v" xml:id="Kasten_blau_44_8_0204.jpg"/>
+<ab facs="#facs_204_r1">
                <lb facs="#facs_204_r1l1" n="N001"/><unclear>sambt einer beylag</unclear>
             </ab>
-<pb facs="#facs_205" n="205" xml:id="img_0205"/>
-
-<ab facs="#facs_205_r1" >
+<pb facs="#facs_205" n="116 r" xml:id="Kasten_blau_44_8_0205.jpg"/>
+<ab facs="#facs_205_r1">
                <lb facs="#facs_205_r1l1" n="N001"/>
                <lb facs="#facs_205_r1l2" n="N002"/>
                <lb facs="#facs_205_r1l3" n="N003"/>
@@ -358,12 +348,11 @@
                <lb facs="#facs_205_r1l24" n="N024"/>
                <lb facs="#facs_205_r1l25" n="N025"/>
             </ab>
-<pb facs="#facs_206" n="206" xml:id="img_0206"/>
-
-<ab facs="#facs_206_r1" >
+<pb facs="#facs_206" n="116 v" xml:id="Kasten_blau_44_8_0206.jpg"/>
+<ab facs="#facs_206_r1">
                <lb facs="#facs_206_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_206_r2" >
+<ab facs="#facs_206_r2">
                <lb facs="#facs_206_r2l1" n="N001"/>
                <lb facs="#facs_206_r2l2" n="N002"/>
                <lb facs="#facs_206_r2l3" n="N003"/>
@@ -375,16 +364,16 @@
                <lb facs="#facs_206_r2l9" n="N009"/>
                <lb facs="#facs_206_r2l10" n="N010"/>
             </ab>
-<ab facs="#facs_206_r3" >
+<ab facs="#facs_206_r3">
                <lb facs="#facs_206_r3l1" n="N001"/>
             </ab>
-<ab facs="#facs_206_r4" >
+<ab facs="#facs_206_r4">
                <lb facs="#facs_206_r4l1" n="N001"/>
             </ab>
-<ab facs="#facs_206_r5" >
+<ab facs="#facs_206_r5">
                <lb facs="#facs_206_r5l1" n="N001"/>
             </ab>
-<ab facs="#facs_206_r6" >
+<ab facs="#facs_206_r6">
                <lb facs="#facs_206_r6l1" n="N001"/>
                <lb facs="#facs_206_r6l2" n="N002"/>
                <lb facs="#facs_206_r6l3" n="N003"/>
@@ -415,17 +404,16 @@
                <lb facs="#facs_206_r6l28" n="N028"/>
                <lb facs="#facs_206_r6l29" n="N029"/>
             </ab>
-<ab facs="#facs_206_r7" >
+<ab facs="#facs_206_r7">
                <lb facs="#facs_206_r7l1" n="N001"/>
                <lb facs="#facs_206_r7l2" n="N002"/>
                <lb facs="#facs_206_r7l3" n="N003"/>
             </ab>
-<pb facs="#facs_207" n="207" xml:id="img_0207"/>
-
-<ab facs="#facs_207_r1" >
+<pb facs="#facs_207" n="117 r" xml:id="Kasten_blau_44_8_0207.jpg"/>
+<ab facs="#facs_207_r1">
                <lb facs="#facs_207_r1l1" n="N001"/>
             </ab>
-<ab facs="#facs_207_r2" >
+<ab facs="#facs_207_r2">
                <lb facs="#facs_207_r2l1" n="N001"/>
                <lb facs="#facs_207_r2l2" n="N002"/>
                <lb facs="#facs_207_r2l3" n="N003"/>
@@ -436,7 +424,7 @@
                <lb facs="#facs_207_r2l8" n="N008"/>
                <lb facs="#facs_207_r2l9" n="N009"/>
             </ab>
-<ab facs="#facs_207_r3" >
+<ab facs="#facs_207_r3">
                <lb facs="#facs_207_r3l1" n="N001"/>
                <lb facs="#facs_207_r3l2" n="N002"/>
                <lb facs="#facs_207_r3l3" n="N003"/>
@@ -448,7 +436,7 @@
                <lb facs="#facs_207_r3l9" n="N009"/>
                <lb facs="#facs_207_r3l10" n="N010"/>
             </ab>
-<ab facs="#facs_207_r4" >
+<ab facs="#facs_207_r4">
                <lb facs="#facs_207_r4l1" n="N001"/>
                <lb facs="#facs_207_r4l2" n="N002"/>
                <lb facs="#facs_207_r4l3" n="N003"/>
@@ -478,9 +466,8 @@
                <lb facs="#facs_207_r4l27" n="N027"/>
                <lb facs="#facs_207_r4l28" n="N028"/>
             </ab>
-<pb facs="#facs_208" n="208" xml:id="img_0208"/>
-
-<ab facs="#facs_208_r1" >
+<pb facs="#facs_208" n="117 v" xml:id="Kasten_blau_44_8_0208.jpg"/>
+<ab facs="#facs_208_r1">
                <lb facs="#facs_208_r1l1" n="N001"/>
                <lb facs="#facs_208_r1l2" n="N002"/>
                <lb facs="#facs_208_r1l3" n="N003"/>
@@ -494,16 +481,15 @@
                <lb facs="#facs_208_r1l11" n="N011"/>
                <lb facs="#facs_208_r1l12" n="N012"/>
             </ab>
-<ab facs="#facs_208_r2" >
+<ab facs="#facs_208_r2">
                <lb facs="#facs_208_r2l1" n="N001"/>
             </ab>
-<pb facs="#facs_209" n="209" xml:id="img_0209"/>
-
-<ab facs="#facs_209_r1" >
+<pb facs="#facs_209" n="118 r" xml:id="Kasten_blau_44_8_0209.jpg"/>
+<ab facs="#facs_209_r1">
             </ab>
-<ab facs="#facs_209_region_1656239908188_12" >
+<ab facs="#facs_209_region_1656239908188_12">
                <lb facs="#facs_209_line_1656239933388_16" n="N001"/>Ihr <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> <choice><expan>herrn</expan><abbr>h</abbr></choice> Curfürsten zu
-               <lb facs="#facs_209_line_1656239943241_21" n="N002"/>Pfalz, meinem h<supplied >er</supplied>zallerlibsten
+               <lb facs="#facs_209_line_1656239943241_21" n="N002"/>Pfalz, meinem h<supplied>er</supplied>zallerlibsten
                <lb facs="#facs_209_line_1656239950309_26" n="N003"/><choice><expan>herrn</expan><abbr>h</abbr></choice> bruedren
             </ab>
 

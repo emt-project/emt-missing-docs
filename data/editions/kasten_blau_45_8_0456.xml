@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xml:id="kasten_blau_45_8_0456.xml"
-   xml:base="https://id.acdh.oeaw.ac.at/emt">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="kasten_blau_45_8_0456.xml" xml:base="https://id.acdh.oeaw.ac.at/emt">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -50,10 +46,10 @@
                         <settlement>München</settlement>
                         <repository>Bayerisches Hauptstaatsarchiv</repository>
                         
-                        <idno></idno>
+                        <idno/>
                      </msIdentifier>
                      <history>
-                        <origin><origDate when-iso="1681-09-11"></origDate></origin>
+                        <origin><origDate when-iso="1681-09-11"/></origin>
                      </history>
                   </msDesc>
                </witness>
@@ -81,23 +77,22 @@
             <correspAction type="sent">
                <persName ref="#emt_person_id__9">Eleonora Magdalena von Pfalz-Neuburg</persName>
                <placeName ref="#">Ödenburg / Sopron</placeName>
-               <date  when-iso="1681-09-11"></date>
+               <date when-iso="1681-09-11"/>
             </correspAction>
             <correspAction type="received">
                 <persName ref="#emt_person_id__50">Philipp Wilhelm von Pfalz-Neuburg</persName>
-                <placeName ref="#"></placeName>
-                <date></date>
+                <placeName ref="#"/>
+                <date/>
             </correspAction>
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-03">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
       <surface lrx="1644" lry="2485" ulx="0" uly="0" xml:id="facs_455">
          <graphic height="2485px" url="Kasten_blau_45_8_0456.jpg" width="1644px"/>
-         <graphic height="2485px" url="" width="1644px"/>
          <zone points="120,412 120,2351 1577,2351 1577,412" rendition="TextRegion" xml:id="facs_455_r1">
             <zone points="388,479 446,475 504,472 562,469 620,467 678,465 736,464 795,464 853,464 911,464 969,464 1027,465 1085,465 1143,466 1202,466 1260,467 1318,467 1376,467 1434,467 1492,466 1551,465 1551,413 1492,414 1434,415 1376,415 1318,415 1260,415 1202,414 1143,414 1085,413 1027,413 969,412 911,412 853,412 795,412 736,412 678,413 620,415 562,417 504,420 446,423 388,427" rendition="Line" xml:id="facs_455_r1l1"/>
             <zone points="302,573 365,568 428,563 491,559 554,555 617,551 680,548 743,546 806,544 869,542 932,540 995,539 1058,538 1121,538 1184,538 1247,538 1310,538 1373,539 1436,540 1499,541 1562,542 1562,490 1499,489 1436,488 1373,487 1310,486 1247,486 1184,486 1121,486 1058,486 995,487 932,488 869,490 806,492 743,494 680,496 617,499 554,503 491,507 428,511 365,516 302,521" rendition="Line" xml:id="facs_455_r1l2"/>
@@ -125,16 +120,15 @@
    </facsimile>
    <text type="letter">
       <body>
-         <pb facs="#facs_455" n="455" xml:id="img_0455"/>
-
-<ab facs="#facs_455_r1" >
+         <pb facs="#facs_455" n="272 r" xml:id="Kasten_blau_45_8_0456.jpg"/>
+<ab facs="#facs_455_r1">
                <lb facs="#facs_455_r1l1" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
                <lb facs="#facs_455_r1l2" n="N002"/>Ewer Durchlaucht bitte <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb vergebung, das diese post
                <lb facs="#facs_455_r1l3" n="N003"/>nit <seg type="blackening">auf</seg> dero <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben due beantworten. Die
                <lb facs="#facs_455_r1l4" n="N004"/>bürst vndt die heütige visita der <rs type="person">Keiserin</rs>
                <lb facs="#facs_455_r1l5" n="N005"/>hatt mich daran verhindert. Ich mueß auch
                <lb facs="#facs_455_r1l6" n="N006"/>vohraus vohr die könftige post mein
-               <lb facs="#facs_455_r1l7" n="N007"/>e<supplied >n</supplied>tschuldigung machen, dan denselben dag
+               <lb facs="#facs_455_r1l7" n="N007"/>e<supplied>n</supplied>tschuldigung machen, dan denselben dag
                <lb facs="#facs_455_r1l8" n="N008"/>werden mihr widerumb auf <rs type="place">Eden burg</rs>
                <lb facs="#facs_455_r1l9" n="N009"/>reisen. Ich werde mich doch so vill möglich
                <lb facs="#facs_455_r1l10" n="N010"/>bemüehen, nuhr woh nit recht, doch aufs wehnigst
@@ -144,8 +138,8 @@
                <lb facs="#facs_455_r1l14" n="N014"/>Zue Edenburg solt alles ersezt werden.
                <lb facs="#facs_455_r1l15" n="N015"/>Befehl mich <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice> vndt sterbe
                <lb facs="#facs_455_r1l16" n="N016"/>ewer Durchlaucht
-               <lb facs="#facs_455_r1l18" n="N017"/>ganzergebe<supplied >n</supplied>st tre<supplied >w</supplied>gehorsa<supplied >m</supplied>ste
-               <lb facs="#facs_455_r1l20" n="N018"/>do<supplied >c</supplied>hter
+               <lb facs="#facs_455_r1l18" n="N017"/>ganzergebe<supplied>n</supplied>st tre<supplied>w</supplied>gehorsa<supplied>m</supplied>ste
+               <lb facs="#facs_455_r1l20" n="N018"/>do<supplied>c</supplied>hter
                <lb facs="#facs_455_r1l19" n="N019"/>EMT
                <lb facs="#facs_455_r1l17" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="11" year="1681"><unclear>11</unclear> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1681</date>
             </ab>
