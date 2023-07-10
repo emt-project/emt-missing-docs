@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,7 +122,7 @@
          <pb facs="#facs_252" n="148 r" xml:id="Kasten_blau_45_8_0252.jpg"/>
 <ab facs="#facs_252_r1">
                <lb facs="#facs_252_r1l2" n="N001"/>Durchleüchtigister Fürst, herz aller liebster herr vatter
-               <lb facs="#facs_252_r1l3" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="10" day="29" year="1679"><unclear>29 dieses</unclear></date> hab mit schuldigstem <supplied>respect</supplied>
+               <lb facs="#facs_252_r1l3" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom 29 dieses hab mit schuldigstem <supplied>respect</supplied>
                <lb facs="#facs_252_r1l4" n="N003"/>empfangen. Bitt vnterdehnig vmb verzeiung, das
                <lb facs="#facs_252_r1l5" n="N004"/>diese post nit auf alles kan antworten, die
                <lb facs="#facs_252_r1l6" n="N005"/><rs type="person">Kaiserin</rs> wirt kommen, so mues zu ihr gehn.

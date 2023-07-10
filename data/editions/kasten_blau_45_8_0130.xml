@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +145,7 @@
                <lb facs="#facs_130_r3l8" n="N006"/>wider etwas beßer mit seinem fues, wiewohl er sich
                <lb facs="#facs_130_r3l9" n="N007"/>noch des stekens bedienen mueß. Mihr werden dießen
                <lb facs="#facs_130_r3l10" n="N008"/>fasching hier verbleiben, ich forchte, werde die beyde
-               <lb facs="#facs_130_r3l12" n="N009"/>könftige posten wegen der <unclear>h</unclear> zeit meine schuldichkeit
+               <lb facs="#facs_130_r3l12" n="N009"/>könftige posten wegen der <choice><expan>heilige</expan><abbr>h</abbr></choice> zeit meine schuldichkeit
                <lb facs="#facs_130_r3l13" n="N010"/>nit können ablegen. Was ewer Durchlaucht <choice><expan>gnädig</expan><abbr>g</abbr></choice> befohlen wegen
                <lb facs="#facs_130_r3l14" n="N011"/>vetter <rs type="person">Pfilipp</rs> werde ich suechen mit gelegenheit vohrzue
                <lb facs="#facs_130_r3l15" n="N012"/>bringen, wirt filleicht beßer sein, das warte, bis mihr

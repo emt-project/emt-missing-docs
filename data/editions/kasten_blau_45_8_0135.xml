@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -231,7 +231,7 @@
                <lb facs="#facs_135_r2l10" n="N010"/>von <rs type="place">Neüstatt</rs> aus geschrieben, vernommen haben,
                <lb facs="#facs_135_r2l11" n="N011"/>das nit allein ihr Mayestät, meinem <choice><expan>gnädigen</expan><abbr>g</abbr></choice> Kaiser,
                <lb facs="#facs_135_line_1619104627305_26" n="N012"/>nit zuewider, das ewer Durchlaucht diese reis vohrtsezen,
-               <lb facs="#facs_135_r2l14" n="N013"/>sondern sie mihr auch hoffnung gemacht, <unclear>nachgens</unclear>
+               <lb facs="#facs_135_r2l14" n="N013"/>sondern sie mihr auch hoffnung gemacht, nachgens
                <lb facs="#facs_135_line_1618562965658_17" n="N014"/>balt das glükh vndt trost zue haben, selbige hier
                <lb facs="#facs_135_line_1618562971849_21" n="N015"/>persönlich zue bedienen, welches mihr wohl die gröste
                <lb facs="#facs_135_r2l24" n="N016"/>freüdt von der welt ist vndt ich mit höchstem
@@ -251,7 +251,7 @@
                <lb facs="#facs_136_line_1618563040316_50" n="N007"/>mein gehorsamste meinung wehre, welches mich auch 
                <lb facs="#facs_136_line_1618563044090_54" n="N008"/>bedunkt, ihr Mayestät nit zuewider zue sein, ohne <choice><expan>gehorsamste</expan><abbr>g</abbr></choice> mas-
                <lb facs="#facs_136_line_1618563047906_58" n="N009"/>gebung, wan weil ewer Durchlaucht noch kein völlige gwisheit
-               <lb facs="#facs_136_line_1618563053091_62" n="N010"/>wiewohl starke vndt auf ihr Mayestät <choice><expan>gnaden</expan><abbr><unclear>g</unclear></abbr></choice> mich steifenst fast
+               <lb facs="#facs_136_line_1618563053091_62" n="N010"/>wiewohl starke vndt auf ihr Mayestät <choice><expan>gnade</expan><abbr>g</abbr></choice> mich steifenst fast
                <lb facs="#facs_136_line_1618563061414_66" n="N011"/>sichere hoffnung haben können, <add>wie wohl ich von ihr Mayestät kein gewisheit</add>, also vermeine, das ins
                <lb facs="#facs_136_r1l25" n="N012"/>felt zue gehn vohr dismahl auf keine weis vohr
                <lb facs="#facs_136_line_1618563073047_74" n="N013"/><rs type="person">ihn</rs> diene. Wollen ihn ewer Durchlaucht aber in dero druntigen
@@ -292,7 +292,7 @@
                <lb facs="#facs_137_line_1618563229058_173" n="N022"/>gewis auf künftigen pfinstag erfolgen, dan es heüt
                <lb facs="#facs_137_line_1618563233394_177" n="N023"/>schon zimlich schpaht vndt ich noch audienzen habe.
                <lb facs="#facs_137_line_1618563268883_183" n="N024"/>Schike hirbey noch das schreiben an <supplied>den</supplied> <rs type="person">Cuhrfürsten</rs>, wan es nit recht 
-               <lb facs="#facs_137_line_1618563274091_187" n="N025"/>bitt nuhr zu <unclear>schaffen</unclear>, will es anderst nach dero befehl machen.
+               <lb facs="#facs_137_line_1618563274091_187" n="N025"/>bitt nuhr zu schaffen, will es anderst nach dero befehl machen.
             </ab>
 <pb facs="#facs_138" n="9 r" xml:id="Kasten_blau_45_8_0138.jpg"/>
 <ab facs="#facs_138_r1">

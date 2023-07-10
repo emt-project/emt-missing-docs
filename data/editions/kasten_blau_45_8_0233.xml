@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +153,7 @@
 <pb facs="#facs_234" n="133 v" xml:id="Kasten_blau_45_8_0234.jpg"/>
 <ab facs="#facs_234_r2">
                <lb facs="#facs_234_r2l1" n="N001"/>friden mit <rs type="place">Brandenburg</rs> gemacht ist, so wirt
-               <lb facs="#facs_234_line_1619794514134_4184" n="N002"/>meines <choice><expan>bruders</expan><abbr><rs type="person">b</rs></abbr></choice> reis desto <unclear>ehinder</unclear> sein. Due mich
+               <lb facs="#facs_234_line_1619794514134_4184" n="N002"/>meines <choice><expan>bruders</expan><abbr><rs type="person">b</rs></abbr></choice> reis desto ehinder sein. Due mich
                <lb facs="#facs_234_line_1619794521016_4188" n="N003"/>hiermit in ewer Durchlaucht <choice><expan>gnade</expan><abbr>g</abbr></choice> befehlen, die ich sterben
                <lb facs="#facs_234_r2l11" n="N004"/>werde
                <lb facs="#facs_234_line_1619794557673_4206" n="N005"/>ewer Durchlaucht

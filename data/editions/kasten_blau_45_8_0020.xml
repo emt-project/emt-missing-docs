@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -193,7 +193,7 @@
                <lb facs="#facs_20_r1l22" n="N018"/>den <rs type="person">Grau Königsekh</rs> anlanget, so kan iezt die
                <lb facs="#facs_20_r1l23" n="N019"/>expedition durch kein andren mehr gehn, dieweilen
                <lb facs="#facs_20_r1l24" n="N020"/>schon meistens expedirt vndt auch ich gestehn
-               <lb facs="#facs_20_line_1591443882216_518" n="N021"/>mues, das so vill <unclear>der</unclear> mihr alle schpüren können,
+               <lb facs="#facs_20_line_1591443882216_518" n="N021"/>mues, das so vill der mihr alle schpüren können,
             </ab>
 <pb facs="#facs_21" n="42v" xml:id="Kasten_blau_45_8_0021.jpg"/>
 <ab facs="#facs_21_r1">

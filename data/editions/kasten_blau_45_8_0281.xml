@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -157,7 +157,7 @@
                <lb facs="#facs_281_r4l8" n="N008"/>ihn auch gewiß laßen anbefohlen sein, dan er es wohl
                <lb facs="#facs_281_r4l9" n="N009"/>verdienet hatt, werde ihn auch bey ihr Mayestät, meinem
                <lb facs="#facs_281_r4l10" n="N010"/><choice><expan>gnädigsten</expan><abbr>g</abbr></choice> Kaiser, fleisig recomendiren. Das ewer Durchlaucht dero
-               <lb facs="#facs_281_r4l11" n="N011"/>hocherleüchtes <unclear>gedanken</unclear> ihr Mayestät überschrieben, ist ihnen angenehm,
+               <lb facs="#facs_281_r4l11" n="N011"/>hocherleüchtes gedanken ihr Mayestät überschrieben, ist ihnen angenehm,
                <lb facs="#facs_281_r4l12" n="N012"/>gott gebe ihnen resolutiones ein, die nuzlich seint. Wegen
                <lb facs="#facs_281_r4l13" n="N013"/>meines <rs type="person"><choice><expan>bruders</expan><abbr>b</abbr></choice> <choice><expan>Liebden</expan><abbr/></choice></rs><choice><expan>Liebden</expan><abbr>Ld</abbr></choice> herokunft habe ich ewer Durchlaucht bey vohriger
                <lb facs="#facs_281_r4l14" n="N014"/>post alles bericht, habe auch iezt vom <rs type="person">Schellerer</rs> vernomen,

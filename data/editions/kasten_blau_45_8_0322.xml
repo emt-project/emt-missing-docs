@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -162,7 +162,7 @@
             </ab>
 <pb facs="#facs_322" n="192 v" xml:id="Kasten_blau_45_8_0323.jpg"/>
 <ab facs="#facs_322_r1">
-               <lb facs="#facs_322_line_1622212267451_60" n="N001"/>in einem vnerhört großen <rs type="place">deicht</rs> <unclear>drin</unclear> ganze
+               <lb facs="#facs_322_line_1622212267451_60" n="N001"/>in einem vnerhört großen <rs type="place">deicht</rs> darin ganze
                <lb facs="#facs_322_r1l3" n="N002"/>inselen, die angebaut sein mit etlich strich.
                <lb facs="#facs_322_line_1622212276981_68" n="N003"/>Es soll gahr lustig sein, wan so früe heim
                <lb facs="#facs_322_line_1622212283181_72" n="N004"/>kommen, will es in <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Ludwig</expan><abbr>L</abbr></choice> brief durch ein PS

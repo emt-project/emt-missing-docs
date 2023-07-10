@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +145,7 @@
       <body>
          <pb facs="#facs_23" n="50 r" xml:id="Kasten_blau_45_8_0023.jpg"/>
 <ab facs="#facs_23_r1">
-               <lb facs="#facs_23_r1l1" n="N001"/><unclear>dem</unclear>
+               <lb facs="#facs_23_r1l1" n="N001"/>dam
                <lb facs="#facs_23_r1l2" n="N002"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
                <lb facs="#facs_23_r1l3" n="N003"/>Ich erfrew mich von herzen, das ihr Durchlaucht noch in
                <lb facs="#facs_23_r1l4" n="N004"/>guettem wohlstant seint. Ich dreibe am <rs type="person">Hamilton</rs>,

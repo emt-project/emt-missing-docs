@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -185,7 +185,7 @@
                <lb facs="#facs_462_line_1623066494782_375" n="N003"/>hatt iezt wider ein wehnig ein kattarr, sonst steht
                <lb facs="#facs_462_line_1623066499141_379" n="N004"/>als guett. Das der <choice><expan>brüder</expan><abbr><rs type="person">b</rs></abbr></choice> reis noch vohrsich geht, freüdt mich,
                <lb facs="#facs_462_line_1623066503208_383" n="N005"/>hoff, es soll guetten effect veruhrsachen. Ist mihr 
-               <lb facs="#facs_462_line_1623066507081_387" n="N006"/>nuhr leidt, das wegen der <unclear>pest</unclear> nit hier durch können.
+               <lb facs="#facs_462_line_1623066507081_387" n="N006"/>nuhr leidt, das wegen der pest nit hier durch können.
                <lb facs="#facs_462_r1l19" n="N007"/>Sag ewer Durchlaucht auch <choice><expan>vnterdehnigsten</expan><abbr>vt</abbr></choice> dankh vohr die kes vndt bir,
                <lb facs="#facs_462_r1l20" n="N008"/>die wein hab noch zue <rs type="place">Wien</rs>, drink noch an alten.
                <lb facs="#facs_462_line_1623066515874_391" n="N009"/>Wan <supplied>wir</supplied> hin kommen, will ewer Durchlaucht befehl nach kommen.

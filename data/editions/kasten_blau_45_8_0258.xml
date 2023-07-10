@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -164,7 +164,7 @@
          <pb facs="#facs_258" n="152 r" xml:id="Kasten_blau_45_8_0258.jpg"/>
 <ab facs="#facs_258_r1">
                <lb facs="#facs_258_r1l1" n="N001"/>Durchleüchtigster Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_258_r1l2" n="N002"/><unclear>Ich bin</unclear> in großen sorgen, in dem ich aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice>
+               <lb facs="#facs_258_r1l2" n="N002"/><unclear>Ich</unclear> bin in großen sorgen, in dem ich aus dero <choice><expan>gnädigem</expan><abbr>g</abbr></choice>
                <lb facs="#facs_258_r1l3" n="N003"/>schreiben vom <date month="11" day="10" year="1679">10 dies</date> vernime, das ewer Durchlaucht so einen
                <lb facs="#facs_258_r1l4" n="N004"/>starken catarr haben. Ihr Durchlaucht, mein <choice><expan>geliebste</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs>, haben
                <lb facs="#facs_258_r1l5" n="N005"/>wohl recht gedahn, das sie von schreiben abgeret.

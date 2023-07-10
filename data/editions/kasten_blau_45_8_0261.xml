@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -173,7 +173,7 @@
                <lb facs="#facs_262_r1l1" n="N001"/>werde diese wochen die kuhr brauchen. Mein <rs type="person">kleiner</rs>
                <lb facs="#facs_262_r1l2" n="N002"/>ist aller wohl auf, ich mein, das er nit hatt drinken
                <lb facs="#facs_262_r1l3" n="N003"/>wollen, sey die zen gewesen, hatt wider eins bekommen,
-               <lb facs="#facs_262_r1l4" n="N004"/>ist iezt aller wohl auf. Ich hab auch nit <unclear>???</unclear>
+               <lb facs="#facs_262_r1l4" n="N004"/>ist iezt aller wohl auf. Ich hab auch nit <seg type="blackening">???</seg>
                <lb facs="#facs_262_line_1620802993234_397" n="N005"/>vnterlaßen wollen, meine schuldichkeit ewer Durchlaucht zue
                <lb facs="#facs_262_r1l7" n="N006"/>dem heütigen dag zue gratuliren, das sie deren
                <lb facs="#facs_262_r1l8" n="N007"/>geburzdag noch so vill als bis dahto in allem

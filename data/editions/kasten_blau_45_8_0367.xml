@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -241,7 +241,7 @@
                <lb facs="#facs_367_r1l3" n="N003"/>ob es ein sach, die sich möchte practiciren
                <lb facs="#facs_367_r1l4" n="N004"/>laßen, dan es <seg type="blackening">ihme</seg> gahr nit vortelhafftig, auch vohr
                <lb facs="#facs_367_r1l5" n="N005"/>der welt so wohl als in der ecconomia, ihne
-               <lb facs="#facs_367_line_1622275492742_147" n="N006"/>auf ein kurze zeit hinein zue schiken vndt darn<unclear>her</unclear>
+               <lb facs="#facs_367_line_1622275492742_147" n="N006"/>auf ein kurze zeit hinein zue schiken vndt darn<supplied>ac</supplied>h
                <lb facs="#facs_367_r1l9" n="N007"/>das kreüz widerumb wekh zue legen. Ich bitte
                <lb facs="#facs_367_line_1622275499513_151" n="N008"/><choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, ewer Durchlaucht wollen mihr nit in vngenaden
                <lb facs="#facs_367_r1l13" n="N009"/>nemmen, das ich so frey schreibe, geschiht gewis

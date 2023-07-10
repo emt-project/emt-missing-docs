@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -224,7 +224,7 @@
                <lb facs="#facs_203_line_1619788350839_1716" n="N017"/>ewer Durchlaucht profezeiung wegen <rs type="place">Schpanien</rs> erfület werde,
                <lb facs="#facs_203_line_1619788364945_1724" n="N018"/>dan ich mich sehr des widerschpils besorge.
                <lb facs="#facs_203_line_1619788375082_1729" n="N019"/>Was den <rs type="person">Grana</rs> anbelangt, können ewer Durchlaucht
-               <lb facs="#facs_203_line_1619788381168_1733" n="N020"/><unclear>g</unclear> versichert sein, das ich dero befehl eiferigst
+               <lb facs="#facs_203_line_1619788381168_1733" n="N020"/><choice><expan>gnädigst</expan><abbr>g</abbr></choice> versichert sein, das ich dero befehl eiferigst
             </ab>
 <pb facs="#facs_204" n="120 r" xml:id="Kasten_blau_45_8_0204.jpg"/>
 <ab facs="#facs_204_r1">
@@ -236,7 +236,7 @@
                <lb facs="#facs_204_line_1619788450622_1766" n="N006"/>möglich nachkommen. Ich gesteh wohl, das ich nit
                <lb facs="#facs_204_line_1619788462840_1773" n="N007"/>weis, wie mihr geschen ist, das ich mich in den
                <lb facs="#facs_204_r1l21" n="N008"/>brieuen verirret habe, aber es schatt nit, dan ich 
-               <lb facs="#facs_204_line_1619788467652_1777" n="N009"/>wohl weis, wie <seg type="blackening"><unclear>??</unclear></seg> <add>güettich</add> die liebste <rs type="person">Erzherzogin</rs> gegen
+               <lb facs="#facs_204_line_1619788467652_1777" n="N009"/>wohl weis, wie <seg type="blackening">??</seg> <add>güettich</add> die liebste <rs type="person">Erzherzogin</rs> gegen
                <lb facs="#facs_204_line_1619788536710_1791" n="N010"/>mihr, das ich disfals niks zue befahren. Ich schreib
                <lb facs="#facs_204_line_1619788549500_1800" n="N011"/>ihr die ganze sach, welches ewer Durchlaucht von ihr werden
                <lb facs="#facs_204_r1l34" n="N012"/>vernemmen können, <seg type="blackening">vndt ist</seg> vndt ich kurze halber hier

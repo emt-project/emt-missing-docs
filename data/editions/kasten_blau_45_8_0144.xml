@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -142,7 +142,7 @@
                <lb facs="#facs_144_r2l5" n="N004"/>mit schreiben. Die beis ist schuldich daran gewesen
                <lb facs="#facs_144_r2l7" n="N005"/>wie auch, das ich heütt desto kurzer mueß abrechen.
                <lb facs="#facs_144_r2l9" n="N006"/>Ist mihr leidt, das <rs type="person"><choice><expan>bruder</expan><abbr>b</abbr></choice> Carl</rs> das fieber widerumb
-               <lb facs="#facs_144_r2l10" n="N007"/>hatt. Ich hoffe, <unclear>der</unclear> neüburgische luft solle ihm
+               <lb facs="#facs_144_r2l10" n="N007"/>hatt. Ich hoffe, der neüburgische luft solle ihm
                <lb facs="#facs_144_r2l11" n="N008"/>so wohl zueschlagen, das balt wider vergehn werde.
                <lb facs="#facs_144_line_1618564746964_486" n="N009"/>Ewer Durchlaucht werden auch iezt schon vom <rs type="person">Schellerer</rs>
                <lb facs="#facs_144_line_1618564762287_493" n="N010"/>vernommen haben, das ihr <rs type="person">Mayestät </rs>den heyraht

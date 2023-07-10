@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -200,7 +200,7 @@
                <lb facs="#facs_109_line_1612884723072_568" n="N014"/>vndt filleicht balder als man meinet. Der <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Emerich</rs>
                <lb facs="#facs_109_line_1612884736138_575" n="N015"/>ist die dag bey mihr gewesen, offerirt sich gewaltig, wie
                <lb facs="#facs_109_line_1612884754356_580" n="N016"/>eifrig er sich der sach anemmen wolte, <add>er</add> wie auch der
-               <lb facs="#facs_109_line_1612884763669_585" n="N017"/>Hoher, dieweilen sie vermeinen, das es ihr Mayestät conuen<unclear>iens</unclear>
+               <lb facs="#facs_109_line_1612884763669_585" n="N017"/>Hoher, dieweilen sie vermeinen, das es ihr Mayestät conuenie<supplied>n</supplied>s
                <lb facs="#facs_109_line_1612884768701_589" n="N018"/>selbsten sey. Er gibt mihr guette hoffnung, sacht, nuhr
                <lb facs="#facs_109_r1l37" n="N019"/>ein kleine gedult soll man noch haben, gott gebe, das
                <lb facs="#facs_109_line_1612884777311_593" n="N020"/>es balt geschen möge, welches von herzen wüntschet dieienige,

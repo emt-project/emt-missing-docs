@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -141,7 +141,7 @@
                <lb facs="#facs_10_r2l2" n="N002"/>Ich habe wohl vhrsach vmb vergebung zu bitten,
                <lb facs="#facs_10_r2l3" n="N003"/>das so lang auf der allerliebste schreiben nit
                <lb facs="#facs_10_r2l4" n="N004"/>geantwortet. Ich verhoffe, <rs type="person"><choice><expan>pater</expan><abbr>p</abbr></choice> Danner</rs> werde mich entschul-
-               <lb facs="#facs_10_r2l5" n="N005"/>diget haben. Der <choice><expan>heilige</expan><abbr><unclear>h</unclear></abbr></choice> fasching ist schuldig daran gewesen,
+               <lb facs="#facs_10_r2l5" n="N005"/>diget haben. Der <choice><expan>heilige</expan><abbr>h</abbr></choice> fasching ist schuldig daran gewesen,
                <lb facs="#facs_10_r2l6" n="N006"/>welcher wohl gahr lustig gewesen vndt alle dag 
                <lb facs="#facs_10_r2l7" n="N007"/>etwas gehalten worden. Den ersten suntag, wie ich nit
                <lb facs="#facs_10_r2l8" n="N008"/>geschriben, ist die hochzeit gewesen, den vohrigen dag

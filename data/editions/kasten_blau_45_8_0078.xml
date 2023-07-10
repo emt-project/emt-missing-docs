@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -215,15 +215,15 @@
 <ab facs="#facs_80_r1">
             </ab>
 <ab facs="#facs_80_r4">
-               <lb facs="#facs_80_r4l1" n="N001"/><supplied>um Verzeihung</supplied>, das nit mehr schreibe, weilen die zeit gahr kurz
+               <lb facs="#facs_80_r4l1" n="N001"/><supplied>um verzeihung</supplied>, das nit mehr schreibe, weilen die zeit gahr kurz
                <lb facs="#facs_80_r4l2" n="N002"/>vndt iezt zumb schpilen gehn. Befehle mich indeßen
                <lb facs="#facs_80_r4l3" n="N003"/>nochmahlen in ihr Durchlaucht beharlige <choice><expan>gnade</expan><abbr>g</abbr></choice> vndt werde
                <lb facs="#facs_80_r4l4" n="N004"/>sterben
-               <lb facs="#facs_80_r4l6" n="N005"/>ihr <unclear>Mayestät</unclear>
+               <lb facs="#facs_80_r4l6" n="N005"/>ihr <choice><expan>Mayestät</expan><abbr><unclear>May</unclear></abbr></choice>
                <lb facs="#facs_80_r4l11" n="N006"/>ganzergebenste trew gehorsamste
                <lb facs="#facs_80_line_1615896493355_216" n="N007"/>dochter
                <lb facs="#facs_80_line_1615896432856_205" n="N008"/>EMT
-               <lb facs="#facs_80_line_1615896420206_201" n="N009"/><rs type="place">Wien</rs> den <date month="9" day="9" year="1677">9 7ber 1677</date>
+               <lb facs="#facs_80_line_1615896420206_201" n="N009"/><rs type="place">Wien</rs> den <date month="9" day="9" year="1677">9 <choice><expan>septembris</expan><abbr>7ber</abbr></choice> 1677</date>
                <lb facs="#facs_80_line_1615896493355_217" n="N010"/>Wegen meines vetteren
                <lb facs="#facs_80_line_1615896446285_209" n="N011"/>werde es bey ihr <rs type="person">Mayestät</rs>
                <lb facs="#facs_80_r4l18" n="N012"/>vnterdehnigst vndt eifrigst recomendiren.

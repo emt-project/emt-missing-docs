@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -334,7 +334,7 @@
             </ab>
 <pb facs="#facs_187" n="112 v" xml:id="Kasten_blau_45_8_0187.jpg"/>
 <ab facs="#facs_187_r1">
-               <lb facs="#facs_187_line_1619786579714_778" n="N001"/>sie es an die <rs type="org">reichs cancelei</rs> nit <unclear>intimirt</unclear> haben, welche
+               <lb facs="#facs_187_line_1619786579714_778" n="N001"/>sie es an die <rs type="org">reichs cancelei</rs> nit intimirt haben, welche
                <lb facs="#facs_187_line_1619786582333_782" n="N002"/>von deren an alle<seg type="blackening">r</seg> canzeleien geschen mues. Ist aber
                <lb facs="#facs_187_line_1619786589867_787" n="N003"/>schon alles widerumb redressirt worden. Des <rs type="person">Königsekh</rs>
                <lb facs="#facs_187_r1l8" n="N004"/>vottumb könen mihr nit schriftlich haben, dan er

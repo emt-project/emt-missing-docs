@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -174,7 +174,7 @@
                <lb facs="#facs_452_r1l4" n="N004"/>consolation des <choice><expan>Pater</expan><abbr>P<rs type="person"/></abbr></choice><rs type="person"> Marcus</rs> anweßenheit empfangen
                <lb facs="#facs_452_r1l6" n="N005"/>haben. Bin wohl herzlich bedrüebt, das vohr
                <lb facs="#facs_452_r1l7" n="N006"/>dismahl dießes trosts mueß beraubet bleiben.
-               <lb facs="#facs_452_r1l8" n="N007"/>Ich gedenkh mihr halt, <unclear>herr</unclear> ich bins nitt würdich,
+               <lb facs="#facs_452_r1l8" n="N007"/>Ich gedenkh mihr halt, <unclear>herr</unclear>, ich bins nitt würdich,
                <lb facs="#facs_452_r1l9" n="N008"/>vndt hoffe mich zue beßeren, damit es auf ein
                <lb facs="#facs_452_r1l10" n="N009"/>anders mahl möge geschehn. Wegen <rs type="person" continued="true">vetter</rs>
                <lb facs="#facs_452_line_1623065801087_7" n="N010"/><rs type="person" continued="true">Pfilipp</rs> ist wohl vill, ach, wan er nuhr dem

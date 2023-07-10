@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -162,7 +162,7 @@
          <pb facs="#facs_372" n="222 r" xml:id="Kasten_blau_45_8_0373.jpg"/>
 <ab facs="#facs_372_r1">
                <lb facs="#facs_372_r1l1" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_372_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="9" day="27" year="1680">27 passato</date> hab mit <unclear>???</unclear>
+               <lb facs="#facs_372_r1l2" n="N002"/>Ewer Durchlaucht <choice><expan>gnädiges</expan><abbr>g</abbr></choice> schreiben vom <date month="9" day="27" year="1680">27 passato</date> hab mit <seg type="blackening">???</seg>
                <lb facs="#facs_372_r1l3" n="N003"/>högsten <choice><expan>freuden</expan><abbr>f </abbr></choice>empfangen, gottlob das sich ewer Durchlaucht in
                <lb facs="#facs_372_r1l5" n="N004"/>so guettem wohlstandt befinden vndt so ein
                <lb facs="#facs_372_r1l6" n="N005"/>guetten schpaß auf der bürst haben. Das wetter

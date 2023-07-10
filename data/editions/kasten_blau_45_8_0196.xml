@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -178,7 +178,7 @@
                <lb facs="#facs_196_r3l18" n="N013"/>das sie ihr disfals keine sorgen mache,
                <lb facs="#facs_196_r3l19" n="N014"/>wie sie dan gewis nuhr ohne einzuge vhrsach
                <lb facs="#facs_196_line_1619787565260_1284" n="N015"/>wehren. Es ist schon alle anstalt gemacht,
-               <lb facs="#facs_196_line_1619787569322_1288" n="N016"/>das die Marta kömftige wochen <unclear>wochen</unclear> von
+               <lb facs="#facs_196_line_1619787569322_1288" n="N016"/>das die Marta kömftige wochen wochen von
                <lb facs="#facs_196_line_1619787572707_1292" n="N017"/>hier abreisen wirt, so kan sie zue anfang
                <lb facs="#facs_196_line_1619787576511_1296" n="N018"/>may zue <rs type="place">Neüburg</rs> sein. Der Doctor wirt alsdan
             </ab>

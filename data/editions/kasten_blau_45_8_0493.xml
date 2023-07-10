@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -153,7 +153,7 @@
                <lb facs="#facs_492_line_1623081675633_2700" n="N015"/>das in negotis nit so vill geschehn können.
                <lb facs="#facs_492_line_1623081688077_2710" n="N016"/>Den brief wegen <rs type="person">vetter Pfilipp</rs> vndt des <rs type="person">Castell</rs> hab
                <lb facs="#facs_492_line_1623081696220_2717" n="N017"/>ich ihr Mayestät <choice><expan>vnterdehnigst</expan><abbr>vt</abbr></choice> überliuert, sie werden ewer
-               <lb facs="#facs_492_line_1623081709096_2724" n="N018"/><unclear>May</unclear> selber mit heüntiger post beantworten.
+               <lb facs="#facs_492_line_1623081709096_2724" n="N018"/><unclear>Mayestät</unclear> selber mit heüntiger post beantworten.
                <lb facs="#facs_492_line_1623081718182_2731" n="N019"/>Sie werden gahr gern suechen auf alleweis zue
                <lb facs="#facs_492_line_1623081722408_2735" n="N020"/>verhindern, das vetter Pfilipp <rs type="place">dorten</rs> nit
             </ab>

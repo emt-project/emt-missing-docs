@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -152,7 +152,7 @@
                <lb facs="#facs_283_r1l8" n="N005"/>suechen zue helfen. Die <rs type="person">Königin in Schpanien</rs> <seg type="blackening">s</seg> zeigt sich
                <lb facs="#facs_283_r1l9" n="N006"/>gahr <choice><expan>gnädig</expan><abbr>g</abbr></choice>, das übrige müeßen mihr erwarten. Ewer Durchlaucht
                <lb facs="#facs_283_r1l10" n="N007"/>werden ohne zweifel aus meinem vohrigen ersehn
-               <lb facs="#facs_283_r1l11" n="N008"/>haben, was ihr Mayestät <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befohlen wegen meines <rs type="person">brueder</rs> <unclear>ld</unclear>
+               <lb facs="#facs_283_r1l11" n="N008"/>haben, was ihr Mayestät <choice><expan>gnädigst</expan><abbr>g</abbr></choice> befohlen wegen meines <rs type="person">brueder</rs> <unclear>Ld</unclear>
                <lb facs="#facs_283_r1l12" n="N009"/>anhero kunft auf den 20 auf das schpahtist, aber
                <lb facs="#facs_283_line_1620812725320_1720" n="N010"/>ich vermein, es werde guett sein, wan er den 15, 16 oder 17 hier
                <lb facs="#facs_283_line_1620812728943_1724" n="N011"/>her keme, dan er mit ihr Mayestät danzen soll, so wirt

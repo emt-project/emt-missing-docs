@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -221,7 +221,7 @@
                <lb facs="#facs_212_r1l25" n="N010"/>ganz ergebenste trewge-
                <lb facs="#facs_212_r1l28" n="N011"/>horsamste dochter
                <lb facs="#facs_212_line_1619790191642_2407" n="N012"/>EMT
-               <lb facs="#facs_212_line_1619790175838_2403" n="N013"/><rs type="place"><unclear>Laxenburg</unclear></rs> den <date month="5" day="18" year="1679">18 maij 679</date>
+               <lb facs="#facs_212_line_1619790175838_2403" n="N013"/><rs type="place"><unclear>Laxenburg</unclear></rs> den <date month="5" day="18" year="1679">18 maij 1679</date>
             </ab>
 
       </body>

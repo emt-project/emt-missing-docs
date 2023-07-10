@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -166,8 +166,8 @@
 <ab facs="#facs_167_r1">
                <lb facs="#facs_167_line_1618572153061_2108" n="N001"/>auf, aber können wehnig aus, weil es zimlich
                <lb facs="#facs_167_line_1618572160659_2115" n="N002"/>vill regent. Morgen werden <supplied>wir</supplied> auf <rs type="place">Eberstorf</rs> zue
-               <lb facs="#facs_167_line_1618572166707_2120" n="N003"/>mitag, sie haben dorten ein schwein <supplied><unclear>hez, ist </unclear></supplied>wohl nuhr heir
-               <lb facs="#facs_167_r1l11" n="N004"/>das erste mahl <supplied><unclear>das</unclear></supplied> von Eberstorf aus seint bürsten
+               <lb facs="#facs_167_line_1618572166707_2120" n="N003"/>mitag, sie haben dorten ein schwein <supplied>hez, ist </supplied>wohl nuhr heir
+               <lb facs="#facs_167_r1l11" n="N004"/>das erste mahl, <supplied>das</supplied> von Eberstorf aus seint bürsten
                <lb facs="#facs_167_line_1618572193562_2126" n="N005"/>gefahren. Ich glaube, ewer Durchlaucht werden disiahr ein
                <lb facs="#facs_167_line_1618572198452_2130" n="N006"/>schlechte oder gahr keine schweinhez haben, weilen
                <lb facs="#facs_167_line_1618572217974_2137" n="N007"/>es schon so schpaht. Es erfreüet mich von herzen,

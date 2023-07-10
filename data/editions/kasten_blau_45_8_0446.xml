@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -172,7 +172,7 @@
                <lb facs="#facs_445_r1l11" n="N008"/>mit sich zue bringen. Weilen aber dises
                <lb facs="#facs_445_r1l12" n="N009"/>nit ist, so hoffe werde die vngelegenheit
                <lb facs="#facs_445_line_1622982552822_1755" n="N010"/>auch balt widerumb vergehn. Es hatt mich
-               <lb facs="#facs_445_r1l15" n="N011"/>auch in große sorgen gesezt die <unclear>scharfe</unclear>
+               <lb facs="#facs_445_r1l15" n="N011"/>auch in große sorgen gesezt die scharfe
                <lb facs="#facs_445_r1l16" n="N012"/>krankeit meines <choice><expan>herrn</expan><abbr>h</abbr></choice> <rs type="person">bruedren Ludwigs</rs> <choice><expan>Liebden</expan><abbr>Ld</abbr></choice> zue
                <lb facs="#facs_445_r1l17" n="N013"/>vernemmen. Kan der mueter der barmherzich-
                <lb facs="#facs_445_r1l18" n="N014"/>keit nit genuechsamb danken, das sie ihn

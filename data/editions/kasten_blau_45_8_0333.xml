@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -221,7 +221,7 @@
                <lb facs="#facs_332_r2l24" n="N018"/>ffendt hab ich durch mein <rs type="person">beichtvatter</rs>, welcher
                <lb facs="#facs_332_r2l25" n="N019"/>gahr ein feiner man ist, bey dem <rs type="person" continued="true">Fürst von Schwarzen-</rs>
                <lb facs="#facs_332_line_1622213225426_393" n="N020"/><rs type="person" continued="true">burg</rs> mich erkundigen laßen. Ehr habe die sachen
-               <lb facs="#facs_332_line_1622213239995_401" n="N021"/><unclear>hier</unclear> <add>zu <rs type="place">Pardowiz</rs></add> nit bey handt, aber so balt mihr auf <rs type="place">Lins</rs>
+               <lb facs="#facs_332_line_1622213239995_401" n="N021"/><unclear>da</unclear> <add>zu <rs type="place">Pardowiz</rs></add> nit bey handt, aber so balt mihr auf <rs type="place">Lins</rs>
             </ab>
 <pb facs="#facs_333" n="198 v" xml:id="Kasten_blau_45_8_0334.jpg"/>
 <ab facs="#facs_333_r1">

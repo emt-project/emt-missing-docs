@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -144,7 +144,7 @@
                <lb facs="#facs_182_line_1619785977405_490" n="N009"/>er Hoher dieses allso guett befenden das ienige,
                <lb facs="#facs_182_r1l11" n="N010"/>was amb nötigisten in geheim zue halten, seint
                <lb facs="#facs_182_r1l12" n="N011"/>alle der meinung, das sollen ewer Durchlaucht nuhr
-               <lb facs="#facs_182_r1l13" n="N012"/>selber duen, dan sie iah <unclear>h. v.</unclear> vndt über
+               <lb facs="#facs_182_r1l13" n="N012"/>selber duen, dan sie iah <unclear>h v</unclear> vndt über
                <lb facs="#facs_182_line_1619785984204_494" n="N013"/>dero kinder zue befehlen, das also nit nötig,
                <lb facs="#facs_182_r1l16" n="N014"/>das hier einiger mensch daruon wiße.
                <lb facs="#facs_182_line_1619785987537_498" n="N015"/>Der <rs type="person">Schellerer</rs> wirt ewer Durchlaucht weitleüfiger

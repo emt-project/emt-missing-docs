@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -240,14 +240,14 @@
                <lb facs="#facs_134_r4l19" n="N009"/>welche nit darzue incliniren, zue dispo-
                <lb facs="#facs_134_r4l20" n="N010"/>nieren. Man mues den pfaf in dieser sach
                <lb facs="#facs_134_line_1618070284961_1623" n="N011"/>menagiren, sonst richt man nichts, aber
-               <lb facs="#facs_134_r4l23" n="N012"/>ich förchte, in <unclear><choice><expan>geheimer</expan><abbr>g</abbr></choice> </unclear>confidenz, der <choice><expan>patres</expan><abbr>p</abbr></choice> <rs type="org">jesuiter</rs>
+               <lb facs="#facs_134_r4l23" n="N012"/>ich förchte, in <choice><expan>großer</expan><abbr>g</abbr></choice> confidenz, der <choice><expan>patres</expan><abbr>p</abbr></choice> <rs type="org">jesuiter</rs>
                <lb facs="#facs_134_r4l28" n="N013"/>jalousie möchte hierin schädlich sein, dan
                <lb facs="#facs_134_line_1618070310012_1639" n="N014"/>sie förchten, er möchte mihr die post brengen.
                <lb facs="#facs_134_r4l35" n="N015"/>Warüber er sich sehr beklagt vndt sacht,
                <lb facs="#facs_134_line_1618070316082_1643" n="N016"/>er pretendiere es auf keine weis, wüste
                <lb facs="#facs_134_r4l39" n="N017"/>auch wohl, das es ihme nit, sondern ihr Mayestät
                <lb facs="#facs_134_r4l40" n="N018"/>selber zuegehörte, wan man ein solliches
-               <lb facs="#facs_134_r4l41" n="N019"/>aber beforchte oder <unclear>nit</unclear>.
+               <lb facs="#facs_134_r4l41" n="N019"/>aber beforchte oder nit.
             </ab>
 
       </body>

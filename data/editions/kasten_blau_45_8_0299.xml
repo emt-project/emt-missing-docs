@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -160,7 +160,7 @@
 <pb facs="#facs_300" n="178 v" xml:id="Kasten_blau_45_8_0300.jpg"/>
 <ab facs="#facs_300_r1">
                <lb facs="#facs_300_r1l1" n="N001"/>seint iezt eben von vnserer walfart heim
-               <lb facs="#facs_300_r1l2" n="N002"/>kommen. Ist wohl ein schöne andacht, <unclear>habe</unclear>
+               <lb facs="#facs_300_r1l2" n="N002"/>kommen. Ist wohl ein schöne andacht, hätte
                <lb facs="#facs_300_r1l3" n="N003"/>vnser frau fleisig vohr ewer Durchlaucht <rs type="person">beyden</rs> gebett. Iezt
                <lb facs="#facs_300_r1l4" n="N004"/>ist es schon schpaht, also due ich mich ewer Durchlaucht
                <lb facs="#facs_300_r1l5" n="N005"/>gehorsamst befehlen vndt sterb

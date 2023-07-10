@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -163,7 +163,7 @@
                <lb facs="#facs_90_r1l2" n="N002"/>Ich verhoffe, sie werden mihr die küenheit vergeben,
                <lb facs="#facs_90_r1l3" n="N003"/>so ich in meinem vohrigen schreiben mich vnterfangen,
                <lb facs="#facs_90_line_1617951584304_1407" n="N004"/>ihr Durchlaucht vnterdehnigst zu bitten, das sie zue meinem
-               <lb facs="#facs_90_line_1617951588788_1411" n="N005"/>vndt aller dero <choice><expan>geliebsten</expan><abbr><unclear>g</unclear></abbr></choice> kindern trost sich doch beßer conseruiren
+               <lb facs="#facs_90_line_1617951588788_1411" n="N005"/>vndt aller dero <choice><expan>gehorsamsten</expan><abbr>g</abbr></choice> kindern trost sich doch beßer conseruiren
                <lb facs="#facs_90_r1l10" n="N006"/>wollen vndt nicht alles so zu herzen nemmen vndt sich
                <lb facs="#facs_90_r1l11" n="N007"/>auch mit dem continuirligen schreiben insonderheit in
                <lb facs="#facs_90_r1l14" n="N008"/>der nacht nicht so vill bemüehen. Dieses ist aus trew

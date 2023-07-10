@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -141,7 +141,7 @@
                <lb facs="#facs_455_r1l18" n="N017"/>ganzergebe<supplied>n</supplied>st tre<supplied>w</supplied>gehorsa<supplied>m</supplied>ste
                <lb facs="#facs_455_r1l20" n="N018"/>do<supplied>c</supplied>hter
                <lb facs="#facs_455_r1l19" n="N019"/>EMT
-               <lb facs="#facs_455_r1l17" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="11" year="1681"><unclear>11</unclear> <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1681</date>
+               <lb facs="#facs_455_r1l17" n="N020"/><rs type="place">Eberstorf</rs> den <date month="9" day="11" year="1681">11 <choice><expan>septembris</expan><abbr>7br</abbr></choice> 1681</date>
             </ab>
 
       </body>

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -132,11 +132,11 @@
          <pb facs="#facs_427" n="255 r" xml:id="Kasten_blau_45_8_0428.jpg"/>
 <ab facs="#facs_427_r1">
                <lb facs="#facs_427_r1l2" n="N001"/>Durchleüchtiger Fürst, herzallerliebster herr vatter
-               <lb facs="#facs_427_line_1622979838501_546" n="N002"/>Mitt großen freüden habe aus dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> zeilen, so sie in <unclear>ihr Durchlaucht</unclear>,
+               <lb facs="#facs_427_line_1622979838501_546" n="N002"/>Mitt großen freüden habe aus dero <choice><expan>gnädigen</expan><abbr>g</abbr></choice> zeilen, so sie in ihr Durchlaucht,
                <lb facs="#facs_427_r1l5" n="N003"/>meiner <choice><expan>geliebsten</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> muetter</rs>, brief geschriben, ersehn, das sie sich
                <lb facs="#facs_427_r1l7" n="N004"/>widerumb wohlauf sich befinden. Hoffe, die mattichkeit
                <lb facs="#facs_427_r1l8" n="N005"/>vndt der schmerzen vom stein werden iezt auch follich
-               <lb facs="#facs_427_r1l9" n="N006"/>nachgelaßen haben. <unclear>Wan</unclear> ich nit diese guette zeitung
+               <lb facs="#facs_427_r1l9" n="N006"/>nachgelaßen haben. Wan ich nit diese guette zeitung
                <lb facs="#facs_427_r1l10" n="N007"/>vernommen, das ewer Durchlaucht das fieber verlaßen, so währe
                <lb facs="#facs_427_r1l11" n="N008"/>der <rs type="person">doctor Hueber</rs> schon lengst zue <rs type="place">Neüburg</rs>, gott
                <lb facs="#facs_427_r1l13" n="N009"/>lob, das ewer Durchlaucht seiner nimmer von nöten haben.

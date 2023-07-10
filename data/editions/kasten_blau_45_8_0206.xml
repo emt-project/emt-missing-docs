@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -154,7 +154,7 @@
                <lb facs="#facs_206_r1l14" n="N010"/>allerseits vndt alle sich so wohl befinden.
                <lb facs="#facs_206_r1l15" n="N011"/>Hoffe, die fögel werden sich wohl halten. Es
                <lb facs="#facs_206_line_1619789304051_1951" n="N012"/>ist den hiesigen milan föglen auch übel gangen,
-               <lb facs="#facs_206_r1l19" n="N013"/>seint gahr vill gestorben, aber das weiße <unclear>terz</unclear>,
+               <lb facs="#facs_206_r1l19" n="N013"/>seint gahr vill gestorben, aber das weiße terz,
                <lb facs="#facs_206_line_1619789309858_1955" n="N014"/>so <seg type="blackening">vohr</seg> in der maus gewesen, ist noch vill
                <lb facs="#facs_206_line_1619789318029_1959" n="N015"/>schöner vndt beßer worden, ist gewis rahr.
                <lb facs="#facs_206_line_1619789322457_1963" n="N016"/>Gott gebe, das der <rs type="person">Öting</rs> etwas guetts ausrichte.

@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -169,7 +169,7 @@
             </ab>
 <pb facs="#facs_435" n="260 v" xml:id="Kasten_blau_45_8_0436.jpg"/>
 <ab facs="#facs_435_r2">
-               <lb facs="#facs_435_line_1622980947822_1019" n="N001"/>nit wohl auf wahren <unclear>welhen</unclear>, welliche nachlaßickeit
+               <lb facs="#facs_435_line_1622980947822_1019" n="N001"/>nit wohl auf wahren, welhen welliche nachlaßickeit
                <lb facs="#facs_435_line_1622980951908_1023" n="N002"/>ich nachmahlen <choice><expan>vnterdehnigst</expan><abbr>vnt</abbr></choice> vmb verzeiung bitte,
                <lb facs="#facs_435_r2l5" n="N003"/>will mich befleisen, hinführo fleisiger zu
                <lb facs="#facs_435_line_1622980957439_1028" n="N004"/>sein. Wegen <rs type="place">Schweden</rs> so wohl als <rs type="place">Schpanien</rs> will gern

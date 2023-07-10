@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -122,7 +122,7 @@
          <pb facs="#facs_222" n="129 r" xml:id="Kasten_blau_45_8_0222.jpg"/>
 <ab facs="#facs_222_r1">
                <lb facs="#facs_222_r1l2" n="N001"/>Durchleüchtiger Fürst, herz allerliebster herr vatter
-               <lb facs="#facs_222_r1l3" n="N002"/>Ich <seg type="blackening"><unclear>???</unclear></seg> verlaße mich auf dero große
+               <lb facs="#facs_222_r1l3" n="N002"/>Ich <seg type="blackening">???</seg> verlaße mich auf dero große
                <lb facs="#facs_222_r1l4" n="N003"/>güette, das sie mihr nit in vngnaden
                <lb facs="#facs_222_line_1619792048285_3166" n="N004"/>werden aufnemmen, das ich bey diesem
                <lb facs="#facs_222_line_1619792051153_3170" n="N005"/>meinem stant nit recht meiner schuldichkeit

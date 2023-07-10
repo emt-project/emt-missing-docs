@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -173,7 +173,7 @@
                <lb facs="#facs_68_r1l16" n="N012"/>wirt balt selber her kommen. Was <rs type="person">Konigsekh</rs> anlanget
                <lb facs="#facs_68_line_1604482632946_526" n="N013"/>kan ich mihr nit einbilden, das, weyl er siet das ihr <rs type="person">Mayestät</rs>,
                <lb facs="#facs_68_r1l19" n="N014"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> Kaiser, solliches so eifrig verlangen, ehr sich werde
-               <lb facs="#facs_68_line_1604482643123_531" n="N015"/>gelusten laßen, etwas widriges darin zu duen. <unclear>Daruo<supplied>r</supplied></unclear> wie
+               <lb facs="#facs_68_line_1604482643123_531" n="N015"/>gelusten laßen, etwas widriges darin zu duen. <unclear>Daruor</unclear> wie
                <lb facs="#facs_68_r1l22" n="N016"/>auch den andren ich ihr Mayestät noch verners vnterdehnig bitten
                <lb facs="#facs_68_line_1604482608963_497" n="N017"/>werde, das sie nochmehrer zu schreiben vndt ihrer beßer
                <lb facs="#facs_68_r1l25" n="N018"/>versiche<supplied>r</supplied>n wollen. Mit der <rs type="person"><choice><expan>Gräfin</expan><abbr>Gr</abbr></choice> von Rittberg</rs> werde auch ihr Mayestät

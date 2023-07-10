@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -131,7 +131,7 @@
                <lb facs="#facs_331_line_1622213050759_332" n="N006"/>Seint auf ein iagen gewesen.
                <lb facs="#facs_331_line_1622213053681_336" n="N007"/>Mit nechstem will alles herein bringen.
                <lb facs="#facs_331_r1l17" n="N008"/>Schike auch hierbey, was w<supplied>e</supplied>gen des <rs type="person">Qwendels</rs>
-               <lb facs="#facs_331_line_1622213062001_340" n="N009"/><add>heüt</add> auf <rs type="place">Rohm</rs> geschrieben. Hab <unclear>???</unclear> nit könen
+               <lb facs="#facs_331_line_1622213062001_340" n="N009"/><add>heüt</add> auf <rs type="place">Rohm</rs> geschrieben. Hab <choice><expan>bruder</expan><abbr>b</abbr></choice> <choice><expan>Wolfgang</expan><abbr>W</abbr></choice> nit könen
                <lb facs="#facs_331_r1l20" n="N010"/>antworten. Ich bitt <choice><expan>vnterdehnigst</expan><abbr>vnterd</abbr></choice>, mich bey ihr
                <lb facs="#facs_331_line_1622213069448_344" n="N011"/>Durchlaucht mein <choice><expan>geliebst</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>frau</expan><abbr>fr</abbr></choice> <choice><expan>mutter</expan><abbr>m</abbr></choice></rs> zue entschuldigen,
                <lb facs="#facs_331_r1l26" n="N012"/>sterbe

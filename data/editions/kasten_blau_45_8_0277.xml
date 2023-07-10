@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -335,7 +335,7 @@
                <lb facs="#facs_280_line_1620812267372_1579" n="N032"/>wehnigst wohl nit gahr still schweigen, dan das wurde der andern
                <lb facs="#facs_280_line_1620812272632_1583" n="N033"/>anhero kunft auf ein anders mahl verhindern, sagent, so oft einer
                <lb facs="#facs_280_line_1620812278977_1587" n="N034"/>her keme, wolt er etwas haben. Die hattschier haubtmanstell daugt auf kein
-               <lb facs="#facs_280_r1l84" n="N035"/>weis vohr ihn. Will in dieser matiri <unclear>noch</unclear> ein mereres berichten. Auf dies bitt
+               <lb facs="#facs_280_r1l84" n="N035"/>weis vohr ihn. Will in dieser matiri no<supplied>c</supplied>h ein mereres berichten. Auf dies bitt
                <lb facs="#facs_280_r1l85" n="N036"/>kein antwort <seg type="blackening">???</seg>
                <lb facs="#facs_280_line_1620812462425_1625" n="N037"/>oder durch <rs type="person"><choice><expan>Pater</expan><abbr>P</abbr></choice> Isidorus</rs>. Bitt <choice><expan>vnterdehnigst</expan><abbr>vnter</abbr></choice> vmb vergebung
                <lb facs="#facs_280_line_1620812471336_1629" n="N038"/>meiner küenheit halber, geschiet aus kintliger lieb vnt trew

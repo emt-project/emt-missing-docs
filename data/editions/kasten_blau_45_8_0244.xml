@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -192,7 +192,7 @@
                <lb facs="#facs_244_r1l18" n="N013"/>ewer Durchlaucht mit nechstem können berichten, wan vndt
                <lb facs="#facs_244_line_1619796126363_4876" n="N014"/>wen man schiken wirt. Das ihr Mayestät die cuhr vndt
                <lb facs="#facs_244_line_1619796129904_4880" n="N015"/>fürsten solle hier her laden, werdt ich auch mit gelegenh<supplied>ei</supplied>t
-               <lb facs="#facs_244_line_1619796142106_4887" n="N016"/>vohr brengen, hatt sich die gelegenheit no<unclear>c</unclear>h nit geben.
+               <lb facs="#facs_244_line_1619796142106_4887" n="N016"/>vohr brengen, hatt sich die gelegenheit no<supplied>c</supplied>h nit geben.
                <lb facs="#facs_244_line_1619796149828_4894" n="N017"/>Weil ihr Mayestät <add>auch</add> selber die nachricht haben, das der <rs type="person" key=", Louis Verjus, comte de Crécy">Verjus</rs>
                <lb facs="#facs_244_line_1619796153170_4898" n="N018"/>zue <rs type="place">Regenschpurg</rs> vndt votum vndt sessionem im
                <lb facs="#facs_244_line_1619796156028_4902" n="N019"/><rs type="place">Reich</rs> vohr seinen <rs type="person" key=", Ludwig XIV.">herren</rs> pretendiret, so bedunkt <supplied>mich</supplied>,

@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -139,9 +139,9 @@
                <lb facs="#facs_242_r2l3" n="N003"/>das ich so lang nit meine schuldichkeit
                <lb facs="#facs_242_r2l4" n="N004"/>habe abgelecht. Auf der reis hatt es die
                <lb facs="#facs_242_r2l5" n="N005"/>zeit nit erlitten. Dero <choice><expan>gnädige</expan><abbr>g</abbr></choice> schreiben vom <date month="9" day="3" year="1679">3</date> vndt
-               <lb facs="#facs_242_r2l6" n="N006"/><date month="9" day="10" year="1679">10ten</date> dies habe ich das <unclear>leste</unclear> gestern vndt das vom 3
+               <lb facs="#facs_242_r2l6" n="N006"/><date month="9" day="10" year="1679">10ten</date> dies habe ich das leste gestern vndt das vom 3
                <lb facs="#facs_242_r2l7" n="N007"/>heünt mit schuldigem respect empfangen. Vndt
-               <lb facs="#facs_242_r2l8" n="N008"/>weil der <choice><expan>Deutschmeister</expan><abbr><rs type="person">d m</rs></abbr></choice> schon auf <rs type="place">Merientheim</rs> vereist
+               <lb facs="#facs_242_r2l8" n="N008"/>weil der <choice><expan>Deutschmeister</expan><abbr><rs type="person">Dm</rs></abbr></choice> schon auf <rs type="place">Merientheim</rs> vereist
                <lb facs="#facs_242_r2l9" n="N009"/>vnd der von <rs type="person">Wangen</rs> bey ihm, damit er
                <lb facs="#facs_242_r2l10" n="N010"/>ihne verners andreibe, so schike es heünt gleich
                <lb facs="#facs_242_r2l11" n="N011"/>vort dem von Wangen, das er es dem <choice><expan>Deutschmeister</expan><abbr>d m</abbr></choice> in

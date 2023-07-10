@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -166,11 +166,11 @@
 <pb facs="#facs_171" n="24 v" xml:id="Kasten_blau_45_8_0171.jpg"/>
 <ab facs="#facs_171_r1">
                <lb facs="#facs_171_r1l1" n="N001"/><rs type="person">Erzherzogin</rs> gahr wohl gefalen, wie auch das
-               <lb facs="#facs_171_line_1618573095461_2483" n="N002"/>fuksbrellen. Ich <unclear>erwarte</unclear> mit verlangen, bis
+               <lb facs="#facs_171_line_1618573095461_2483" n="N002"/>fuksbrellen. Ich erwarte mit verlangen, bis
                <lb facs="#facs_171_r1l5" n="N003"/>ich ein gewise guette zeitung von ihr
                <lb facs="#facs_171_line_1618573104129_2490" n="N004"/>höre, waran fast nit zweifle. Das der
                <lb facs="#facs_171_line_1618573108230_2494" n="N005"/><rs type="person">Cuhrfürst</rs> gestorben, ist wohl schadt, wolte
-               <lb facs="#facs_171_r1l10" n="N006"/>es gern vnserem <rs type="person">Bischofl</rs> gönnen, <unclear>auh</unclear> ihr <rs type="person">Mayestät</rs>,
+               <lb facs="#facs_171_r1l10" n="N006"/>es gern vnserem <rs type="person">Bischofl</rs> gönnen, au<supplied>c</supplied>h ihr <rs type="person">Mayestät</rs>,
                <lb facs="#facs_171_line_1618573113266_2498" n="N007"/>wan es nuhr angieng. Es ist mihr wohl leidt zue
                <lb facs="#facs_171_line_1618573119202_2502" n="N008"/>vernemmen, das so übel darunten zugeht,
                <lb facs="#facs_171_line_1618573122443_2506" n="N009"/>gott gebe den friden. Ich förchte aber, wan

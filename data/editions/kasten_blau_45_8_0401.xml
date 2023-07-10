@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -307,7 +307,7 @@
                <lb facs="#facs_403_r1l32" n="N018"/>EMT
                <lb facs="#facs_403_r1l27" n="N019"/>zue <rs type="place">Stein</rs> im schiff den <date month="4" day="10" year="1681">10 apprill 1681</date>
                <lb facs="#facs_403_r1l31" n="N020"/>Bis datto ist vnser reis gottlob
-               <lb facs="#facs_403_line_1622972141752_319" n="N021"/>gahr wohl abgangen. Es freüt mich, das die <unclear>Hoffmeister</unclear> wohl ankom.
+               <lb facs="#facs_403_line_1622972141752_319" n="N021"/>gahr wohl abgangen. Es freüt mich, das die Hoffmeister<supplied>in</supplied> wohl ankom.
                <lb facs="#facs_403_line_1622972149449_323" n="N022"/>Bitte ewer Durchlaucht <choice><expan>vnterdehnig</expan><abbr>vnt</abbr></choice>, ihr Durchlaucht meiner <choice><expan>geliebst</expan><abbr>g</abbr></choice> <rs type="person"><choice><expan>fraw</expan><abbr>f</abbr></choice> mutter</rs> von diesem
                <lb facs="#facs_403_line_1622972168643_336" n="N023"/>brief parte zue geben, dan ich nimmer zeit hab,
                <lb facs="#facs_403_line_1622972178039_343" n="N024"/>ihro alles dieser zue wider holen, in sonderheit wegen

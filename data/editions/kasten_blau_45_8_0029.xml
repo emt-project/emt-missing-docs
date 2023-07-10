@@ -88,7 +88,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -162,7 +162,7 @@
                <lb facs="#facs_29_r1l16" n="N014"/>Was den <rs type="person">Grau Felix </rs>anlanget, so habe ich noch
                <lb facs="#facs_29_r1l17" n="N015"/>niks gegen ihr Mayestät daruon gesagt vndt erwarte
                <lb facs="#facs_29_line_1591515364447_87" n="N016"/>bis die intercessionalien von ewer Durchlaucht werden ankommen.
-               <lb facs="#facs_29_line_1591515407668_92" n="N017"/>Es haben aber sonst <unclear>ewer</unclear> Mayestät resoluirt, sie wolten
+               <lb facs="#facs_29_line_1591515407668_92" n="N017"/>Es haben aber sonst <choice><expan>ewer</expan><abbr><unclear>ew</unclear></abbr></choice> Mayestät resoluirt, sie wolten
                <lb facs="#facs_29_line_1591515443008_96" n="N018"/>keinem geistligen den schlüßel geben. Nuhn höre
                <lb facs="#facs_29_r1l24" n="N019"/>ich aber, er <choice><expan>Graf</expan><abbr>Gr</abbr></choice> Felix gedenke, selbigen widerumb
                <lb facs="#facs_29_r1l25" n="N020"/>zue quitiren, weil sein <rs type="person">brueder</rs> in <rs type="place">Francreich</rs> geheirat.

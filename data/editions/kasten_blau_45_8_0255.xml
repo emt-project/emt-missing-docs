@@ -87,7 +87,7 @@
          </correspDesc>
       </profileDesc>
       <revisionDesc status="draft">
-         <change who="pandorfer" when="2023-01-04">template populated with script "create_templates.py"</change>
+         <change who="pandorfer" when="2023-07-10">template populated with script "create_templates.py"</change>
       </revisionDesc>
    </teiHeader>
    <facsimile>
@@ -145,7 +145,7 @@
                <lb facs="#facs_255_r1l3" n="N003"/>Was das gouerno der <rs type="place">Niderlanden</rs> betrift, haben ihr <rs type="person">Mayestät</rs>,
                <lb facs="#facs_255_r1l4" n="N004"/>mein <choice><expan>gnädigster</expan><abbr>g</abbr></choice> herr, vndt ich heütt in <rs type="place">Schpanien</rs> geschrieben, wan es
                <lb facs="#facs_255_r1l6" n="N005"/>mit dem <rs type="person">Herzogen <add>von Lotring</add></rs><add/> nit sein könte wegen des tituls auch,
-               <lb facs="#facs_255_r1l7" n="N006"/>vndt können ewer Durchlaucht <choice><expan/><abbr><unclear>g</unclear></abbr></choice> versichert sein, das ihr Mayestät darbey
+               <lb facs="#facs_255_r1l7" n="N006"/>vndt können ewer Durchlaucht <choice><expan>gnädigst</expan><abbr>g</abbr></choice> versichert sein, das ihr Mayestät darbey
                <lb facs="#facs_255_r1l8" n="N007"/>duen werden, was ihnen möglich wirt sein, dan sie es selbsten
                <lb facs="#facs_255_r1l9" n="N008"/>vohr gahr billig erkennen. In Schpanien seint die leütt aber
                <lb facs="#facs_255_r1l10" n="N009"/>halt wie sie sein, vndt wirt die <rs type="person">Königin</rs> nit alles, förchte
